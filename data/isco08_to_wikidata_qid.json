@@ -1,0 +1,4134 @@
+{
+  "metadata": {
+    "date": "2026-04-22",
+    "source": "Wikidata SPARQL P3008",
+    "total_wikidata_items": 688,
+    "unique_isco_codes": 685,
+    "matched_with_mold": 5,
+    "potential_label_edits": 145
+  },
+  "isco_to_qid": {
+    "000805": [
+      {
+        "qid": "Q55613876",
+        "label": "Holy Trinity Anglican Church, Kelso"
+      }
+    ],
+    "014084": [
+      {
+        "qid": "Q55613876",
+        "label": "Holy Trinity Anglican Church, Kelso"
+      }
+    ],
+    "100054": [
+      {
+        "qid": "Q605609",
+        "label": "Bathurst Lighthouse"
+      }
+    ],
+    "100252": [
+      {
+        "qid": "Q97121856",
+        "label": "Peak Hill Cemetery"
+      }
+    ],
+    "100348": [
+      {
+        "qid": "Q1543590",
+        "label": "Grassy Hill Light"
+      }
+    ],
+    "100383": [
+      {
+        "qid": "Q5034658",
+        "label": "Cape Cleveland Light"
+      }
+    ],
+    "100458": [
+      {
+        "qid": "Q117311497",
+        "label": "Alectown Cemetery"
+      }
+    ],
+    "1005": [
+      {
+        "qid": "Q55608502",
+        "label": "Courunga"
+      }
+    ],
+    "100641": [
+      {
+        "qid": "Q7836802",
+        "label": "Treasury Gardens"
+      }
+    ],
+    "100705": [
+      {
+        "qid": "Q28109926",
+        "label": "Low Level Sewage Pumping Station No 2"
+      }
+    ],
+    "100809": [
+      {
+        "qid": "Q28109925",
+        "label": "Ultimo Sewage Pumping Station"
+      }
+    ],
+    "100933": [
+      {
+        "qid": "Q5193905",
+        "label": "Cumberland Hospital"
+      }
+    ],
+    "101015": [
+      {
+        "qid": "Q97121492",
+        "label": "Isabella Cemetery"
+      }
+    ],
+    "101165": [
+      {
+        "qid": "Q28110170",
+        "label": "Sewer Vent Shaft, Falcon St"
+      }
+    ],
+    "101190": [
+      {
+        "qid": "Q28109821",
+        "label": "Burns Bay Sewerage Aqueduct"
+      }
+    ],
+    "101292": [
+      {
+        "qid": "Q6924438",
+        "label": "Mount Victoria railway station"
+      }
+    ],
+    "101295": [
+      {
+        "qid": "Q28109817",
+        "label": "Bradfield Carrier"
+      }
+    ],
+    "101375": [
+      {
+        "qid": "Q97121486",
+        "label": "Ilford Cemetery"
+      }
+    ],
+    "101513": [
+      {
+        "qid": "Q7439912",
+        "label": "Sea Hill Light"
+      }
+    ],
+    "101515": [
+      {
+        "qid": "Q5457812",
+        "label": "Flat Top Island Light"
+      }
+    ],
+    "101518": [
+      {
+        "qid": "Q5583593",
+        "label": "Goods Island Light"
+      }
+    ],
+    "101612": [
+      {
+        "qid": "Q46775862",
+        "label": "Lake Parramatta Dam"
+      }
+    ],
+    "101949": [
+      {
+        "qid": "Q28109885",
+        "label": "North Sydney Sewerage Sewer Aqueduct"
+      }
+    ],
+    "101958": [
+      {
+        "qid": "Q28109952",
+        "label": "Middle Harbour Submarine Sewerage Syphon"
+      }
+    ],
+    "101982": [
+      {
+        "qid": "Q1381576",
+        "label": "Woronora Dam"
+      }
+    ],
+    "102023": [
+      {
+        "qid": "Q21960070",
+        "label": "Tinaroo Falls Dam"
+      }
+    ],
+    "102246": [
+      {
+        "qid": "Q2680709",
+        "label": "Government House"
+      }
+    ],
+    "103882": [
+      {
+        "qid": "Q55605813",
+        "label": "Botany Water Reserves"
+      }
+    ],
+    "103887": [
+      {
+        "qid": "Q28109931",
+        "label": "Sewage Pumping Station 38"
+      }
+    ],
+    "103896": [
+      {
+        "qid": "Q28109815",
+        "label": "Southern and Western Suburbs Ocean Outfall Sewer"
+      }
+    ],
+    "105040": [
+      {
+        "qid": "Q251999",
+        "label": "Uluṟu-Kata Tjuṯa National Park"
+      }
+    ],
+    "105163": [
+      {
+        "qid": "Q38145974",
+        "label": "Paterson Barracks Commissariat Store"
+      }
+    ],
+    "105166": [
+      {
+        "qid": "Q38166739",
+        "label": "Officers Mess - RAAF Williams Laverton Base"
+      }
+    ],
+    "105167": [
+      {
+        "qid": "Q38160276",
+        "label": "Victoria Barracks A Block"
+      }
+    ],
+    "105168": [
+      {
+        "qid": "Q38156438",
+        "label": "Victoria Barracks G Block"
+      }
+    ],
+    "105169": [
+      {
+        "qid": "Q38161268",
+        "label": "Victoria Barracks, The Keep"
+      }
+    ],
+    "105170": [
+      {
+        "qid": "Q38166362",
+        "label": "Victoria Barracks F Block"
+      }
+    ],
+    "105171": [
+      {
+        "qid": "Q38168962",
+        "label": "Victoria Barracks C Block"
+      }
+    ],
+    "105172": [
+      {
+        "qid": "Q38149391",
+        "label": "Victoria Barracks J Block"
+      }
+    ],
+    "105173": [
+      {
+        "qid": "Q38163961",
+        "label": "Victoria Barracks Guardhouse (former)"
+      }
+    ],
+    "105175": [
+      {
+        "qid": "Q38154898",
+        "label": "Artillery Orderly Room / Drill Hall"
+      }
+    ],
+    "105179": [
+      {
+        "qid": "Q38149666",
+        "label": "HMS Sirius Shipwreck"
+      }
+    ],
+    "105180": [
+      {
+        "qid": "Q38161472",
+        "label": "North Keeling Island"
+      }
+    ],
+    "105182": [
+      {
+        "qid": "Q38168920",
+        "label": "Apple Shed Asset C58"
+      }
+    ],
+    "105183": [
+      {
+        "qid": "Q38156314",
+        "label": "Parade Ground and Associated Buildings Group"
+      }
+    ],
+    "105184": [
+      {
+        "qid": "Q38152647",
+        "label": "Anzac Memorial Chapel of St Paul"
+      }
+    ],
+    "105185": [
+      {
+        "qid": "Q38154365",
+        "label": "Poon Saan Group"
+      }
+    ],
+    "105186": [
+      {
+        "qid": "Q38166261",
+        "label": "South Point Settlement Remains"
+      }
+    ],
+    "105187": [
+      {
+        "qid": "Q38155665",
+        "label": "Christmas Island Natural Areas"
+      }
+    ],
+    "105188": [
+      {
+        "qid": "Q38164521",
+        "label": "Changi Chapel"
+      }
+    ],
+    "105190": [
+      {
+        "qid": "Q38152778",
+        "label": "University House and Garden"
+      }
+    ],
+    "105191": [
+      {
+        "qid": "Q38141274",
+        "label": "Apostolic Nunciature"
+      }
+    ],
+    "105192": [
+      {
+        "qid": "Q38149965",
+        "label": "Larrakeyah Barracks Headquarters Building"
+      }
+    ],
+    "105193": [
+      {
+        "qid": "Q38152733",
+        "label": "Larrakeyah Barracks Sergeants Mess"
+      }
+    ],
+    "105194": [
+      {
+        "qid": "Q38159940",
+        "label": "RAAF Base Tropical Housing Type 2"
+      }
+    ],
+    "105195": [
+      {
+        "qid": "Q38161506",
+        "label": "RAAF Base Tropical Housing Type 3"
+      }
+    ],
+    "105196": [
+      {
+        "qid": "Q38170024",
+        "label": "Redwood Plantation"
+      }
+    ],
+    "105210": [
+      {
+        "qid": "Q38169903",
+        "label": "Launceston General Post Office"
+      }
+    ],
+    "105214": [
+      {
+        "qid": "Q38169148",
+        "label": "Lancer Barracks"
+      }
+    ],
+    "105215": [
+      {
+        "qid": "Q38155154",
+        "label": "Army Magazine Buildings Irwin Barracks"
+      }
+    ],
+    "105216": [
+      {
+        "qid": "Q38153438",
+        "label": "Elsternwick Metropolitan Fire Brigade Station"
+      }
+    ],
+    "105218": [
+      {
+        "qid": "Q726181",
+        "label": "Ashmore Reef Marine Park"
+      }
+    ],
+    "105219": [
+      {
+        "qid": "Q38154235",
+        "label": "West Island Mosque"
+      }
+    ],
+    "105220": [
+      {
+        "qid": "Q38161080",
+        "label": "Home Island Industrial Precinct"
+      }
+    ],
+    "105221": [
+      {
+        "qid": "Q38163238",
+        "label": "Slipway and Tank"
+      }
+    ],
+    "105222": [
+      {
+        "qid": "Q38165940",
+        "label": "Six Inch Guns"
+      }
+    ],
+    "105223": [
+      {
+        "qid": "Q38154950",
+        "label": "West Island Housing Precinct"
+      }
+    ],
+    "105224": [
+      {
+        "qid": "Q38086784",
+        "label": "Aboriginal Embassy Site"
+      }
+    ],
+    "105225": [
+      {
+        "qid": "Q19876104",
+        "label": "Naval Offices, Brisbane"
+      }
+    ],
+    "105226": [
+      {
+        "qid": "Q14935588",
+        "label": "Victoria Barracks, Brisbane"
+      }
+    ],
+    "105227": [
+      {
+        "qid": "Q38150392",
+        "label": "School Of Musketry (former)"
+      }
+    ],
+    "105228": [
+      {
+        "qid": "Q38147091",
+        "label": "Small Arms Magazine (former)"
+      }
+    ],
+    "105229": [
+      {
+        "qid": "Q38166580",
+        "label": "Enoggera Magazine Complex"
+      }
+    ],
+    "105232": [
+      {
+        "qid": "Q38149190",
+        "label": "Victoria Barracks Precinct"
+      }
+    ],
+    "105234": [
+      {
+        "qid": "Q38167124",
+        "label": "Queenstown Post Office"
+      }
+    ],
+    "105235": [
+      {
+        "qid": "Q38166014",
+        "label": "Greenbank Military Training Area (part)"
+      }
+    ],
+    "105236": [
+      {
+        "qid": "Q38165055",
+        "label": "Oceania House"
+      }
+    ],
+    "105237": [
+      {
+        "qid": "Q38165906",
+        "label": "Oombalai Area"
+      }
+    ],
+    "105238": [
+      {
+        "qid": "Q38160795",
+        "label": "Boulder Hill West Area"
+      }
+    ],
+    "105240": [
+      {
+        "qid": "Q38163807",
+        "label": "North Base Trig Station"
+      }
+    ],
+    "105242": [
+      {
+        "qid": "Q38146422",
+        "label": "York Park North Tree Plantation"
+      }
+    ],
+    "105244": [
+      {
+        "qid": "Q8033976",
+        "label": "Woolwich Dock"
+      }
+    ],
+    "105246": [
+      {
+        "qid": "Q38152602",
+        "label": "Industrial and Administrative Group"
+      }
+    ],
+    "105247": [
+      {
+        "qid": "Q38159654",
+        "label": "Battery for Five Guns"
+      }
+    ],
+    "105248": [
+      {
+        "qid": "Q38169610",
+        "label": "Officers Mess, HQ Training Command"
+      }
+    ],
+    "105249": [
+      {
+        "qid": "Q38163654",
+        "label": "Customs Marine Centre"
+      }
+    ],
+    "105251": [
+      {
+        "qid": "Q38151451",
+        "label": "Larrakeyah Barracks Precinct"
+      }
+    ],
+    "105252": [
+      {
+        "qid": "Q38159693",
+        "label": "RAAF Base Precinct"
+      }
+    ],
+    "105254": [
+      {
+        "qid": "Q38141632",
+        "label": "Chowder Bay Barracks Group"
+      }
+    ],
+    "105255": [
+      {
+        "qid": "Q38168194",
+        "label": "Mermaid Reef - Rowley Shoals"
+      }
+    ],
+    "105256": [
+      {
+        "qid": "Q38162448",
+        "label": "Prison Barracks Precinct"
+      }
+    ],
+    "105257": [
+      {
+        "qid": "Q38168711",
+        "label": "Barracks Block"
+      }
+    ],
+    "105258": [
+      {
+        "qid": "Q38153004",
+        "label": "Military Guard Room"
+      }
+    ],
+    "105259": [
+      {
+        "qid": "Q38167513",
+        "label": "Mess Hall (former)"
+      }
+    ],
+    "105260": [
+      {
+        "qid": "Q38165777",
+        "label": "Sutherland Dock"
+      }
+    ],
+    "105261": [
+      {
+        "qid": "Q38169491",
+        "label": "Fitzroy Dock"
+      }
+    ],
+    "105262": [
+      {
+        "qid": "Q38164640",
+        "label": "Cockatoo Island Industrial Conservation Area"
+      }
+    ],
+    "105263": [
+      {
+        "qid": "Q38166295",
+        "label": "Biloela Group"
+      }
+    ],
+    "105264": [
+      {
+        "qid": "Q38169048",
+        "label": "Underground Grain Silos"
+      }
+    ],
+    "105265": [
+      {
+        "qid": "Q38145623",
+        "label": "Power House / Pump House"
+      }
+    ],
+    "105270": [
+      {
+        "qid": "Q38152397",
+        "label": "Swan Island Defence Precinct"
+      }
+    ],
+    "105272": [
+      {
+        "qid": "Q38169261",
+        "label": "J Gun Battery"
+      },
+      {
+        "qid": "Q92880143",
+        "label": "Challenger Battery"
+      }
+    ],
+    "105273": [
+      {
+        "qid": "Q38148461",
+        "label": "Cliff Point Historic Site"
+      }
+    ],
+    "105274": [
+      {
+        "qid": "Q3095431",
+        "label": "Garden Island"
+      }
+    ],
+    "105275": [
+      {
+        "qid": "Q38156271",
+        "label": "Point Cook Air Base"
+      }
+    ],
+    "105276": [
+      {
+        "qid": "Q38162727",
+        "label": "Point Wilson Defence Natural Area"
+      }
+    ],
+    "105277": [
+      {
+        "qid": "Q38162768",
+        "label": "Victoria Barracks Precinct"
+      }
+    ],
+    "105278": [
+      {
+        "qid": "Q38157131",
+        "label": "Buildings VB41, 45 & 53"
+      }
+    ],
+    "105279": [
+      {
+        "qid": "Q38156159",
+        "label": "Buildings VB13, 15, 16 & 17"
+      }
+    ],
+    "105280": [
+      {
+        "qid": "Q38165259",
+        "label": "Buildings MQVB16 and VB56"
+      }
+    ],
+    "105281": [
+      {
+        "qid": "Q38153717",
+        "label": "Victoria Barracks Perimeter Wall and Gates"
+      }
+    ],
+    "105282": [
+      {
+        "qid": "Q38167221",
+        "label": "Building VB2 Guard House"
+      }
+    ],
+    "105283": [
+      {
+        "qid": "Q38168478",
+        "label": "Buildings VB60 and VB62"
+      }
+    ],
+    "105285": [
+      {
+        "qid": "Q38145396",
+        "label": "Wide Bay Military Reserve"
+      }
+    ],
+    "105286": [
+      {
+        "qid": "Q38156401",
+        "label": "Garden Island Precinct"
+      }
+    ],
+    "105287": [
+      {
+        "qid": "Q38165136",
+        "label": "Buildings 31 and 32"
+      }
+    ],
+    "105288": [
+      {
+        "qid": "Q38160513",
+        "label": "Rigging Shed and Chapel"
+      }
+    ],
+    "105289": [
+      {
+        "qid": "Q38163198",
+        "label": "Residences Group"
+      }
+    ],
+    "105290": [
+      {
+        "qid": "Q38146980",
+        "label": "Factory"
+      }
+    ],
+    "105291": [
+      {
+        "qid": "Q38170383",
+        "label": "Naval Store"
+      }
+    ],
+    "105292": [
+      {
+        "qid": "Q38148412",
+        "label": "Office Building"
+      }
+    ],
+    "105293": [
+      {
+        "qid": "Q38169984",
+        "label": "Chain and Anchor Store (former)"
+      }
+    ],
+    "105295": [
+      {
+        "qid": "Q38150856",
+        "label": "Victoria Barracks Squash Courts"
+      }
+    ],
+    "105297": [
+      {
+        "qid": "Q38153771",
+        "label": "Phosphate Hill Historic Area"
+      }
+    ],
+    "105300": [
+      {
+        "qid": "Q38167592",
+        "label": "Paddington Post Office"
+      }
+    ],
+    "105302": [
+      {
+        "qid": "Q38160834",
+        "label": "Building VB1 and Parade Ground"
+      }
+    ],
+    "105303": [
+      {
+        "qid": "Q38147562",
+        "label": "Buildings VB69, 75 & 76 including Garden"
+      }
+    ],
+    "105304": [
+      {
+        "qid": "Q38165861",
+        "label": "Buildings VB83, 84, 85, 87 & 89"
+      }
+    ],
+    "105305": [
+      {
+        "qid": "Q38141038",
+        "label": "Buildings VB90, 91, 91A & 92"
+      }
+    ],
+    "105306": [
+      {
+        "qid": "Q38163034",
+        "label": "Gazebo"
+      }
+    ],
+    "105307": [
+      {
+        "qid": "Q38169081",
+        "label": "Lennox House Complex"
+      }
+    ],
+    "105308": [
+      {
+        "qid": "Q38161218",
+        "label": "Headquarters Building 32, Keswick Barracks"
+      }
+    ],
+    "105309": [
+      {
+        "qid": "Q38156030",
+        "label": "Mount Stromlo Observatory Precinct"
+      }
+    ],
+    "105310": [
+      {
+        "qid": "Q251999",
+        "label": "Uluṟu-Kata Tjuṯa National Park"
+      }
+    ],
+    "105312": [
+      {
+        "qid": "Q38167304",
+        "label": "Cape St George Lighthouse Ruins & Curtilage"
+      }
+    ],
+    "105313": [
+      {
+        "qid": "Q38164210",
+        "label": "Australian American Memorial and Sir Thomas Blamey Square"
+      }
+    ],
+    "105314": [
+      {
+        "qid": "Q38168353",
+        "label": "Christians Minde Settlement"
+      }
+    ],
+    "105315": [
+      {
+        "qid": "Q38150653",
+        "label": "Settlement Christmas Island"
+      }
+    ],
+    "105317": [
+      {
+        "qid": "Q38158738",
+        "label": "Orchard Hills Cumberland Plain Woodland"
+      }
+    ],
+    "105318": [
+      {
+        "qid": "Q38155356",
+        "label": "Old Parliament House and Curtilage"
+      }
+    ],
+    "105320": [
+      {
+        "qid": "Q38162226",
+        "label": "Currarong Rockshelters Area"
+      }
+    ],
+    "105321": [
+      {
+        "qid": "Q38167469",
+        "label": "Bundanon Trust Property"
+      }
+    ],
+    "105322": [
+      {
+        "qid": "Q38166950",
+        "label": "Crocodile Head Area"
+      }
+    ],
+    "105324": [
+      {
+        "qid": "Q38148248",
+        "label": "Shark Point Battery"
+      }
+    ],
+    "105325": [
+      {
+        "qid": "Q38151304",
+        "label": "Defence Explosive Factory Maribyrnong"
+      }
+    ],
+    "105330": [
+      {
+        "qid": "Q38167795",
+        "label": "Macrossan Stores Depot Group"
+      }
+    ],
+    "105331": [
+      {
+        "qid": "Q38161884",
+        "label": "Puckapunyal Army Camp"
+      }
+    ],
+    "105332": [
+      {
+        "qid": "Q38148365",
+        "label": "Artillery Barracks"
+      }
+    ],
+    "105335": [
+      {
+        "qid": "Q38161660",
+        "label": "Fort Wallace"
+      }
+    ],
+    "105336": [
+      {
+        "qid": "Q38168666",
+        "label": "HMAS Cerberus Central Area Group"
+      }
+    ],
+    "105337": [
+      {
+        "qid": "Q38163699",
+        "label": "Administrators House Precinct"
+      }
+    ],
+    "105338": [
+      {
+        "qid": "Q38166996",
+        "label": "Bungalow 702"
+      }
+    ],
+    "105339": [
+      {
+        "qid": "Q38168794",
+        "label": "Drumsite Industrial Area"
+      }
+    ],
+    "105340": [
+      {
+        "qid": "Q38160638",
+        "label": "Acton Conservation Area"
+      }
+    ],
+    "105341": [
+      {
+        "qid": "Q38151064",
+        "label": "Acton Peninsula Building 1"
+      }
+    ],
+    "105342": [
+      {
+        "qid": "Q38166622",
+        "label": "Acton Peninsula Building 15"
+      }
+    ],
+    "105343": [
+      {
+        "qid": "Q38147812",
+        "label": "Acton Peninsula Building 2"
+      }
+    ],
+    "105344": [
+      {
+        "qid": "Q38153958",
+        "label": "Acton Peninsula Limestone Outcrops"
+      }
+    ],
+    "105345": [
+      {
+        "qid": "Q38165817",
+        "label": "Australian National Botanic Gardens (part)"
+      }
+    ],
+    "105346": [
+      {
+        "qid": "Q38152694",
+        "label": "Carillon"
+      }
+    ],
+    "105347": [
+      {
+        "qid": "Q38163116",
+        "label": "Commencement Column Monument"
+      }
+    ],
+    "105348": [
+      {
+        "qid": "Q38163532",
+        "label": "CSIRO Main Entomology Building"
+      }
+    ],
+    "105349": [
+      {
+        "qid": "Q38163926",
+        "label": "East Block Government Offices"
+      }
+    ],
+    "105351": [
+      {
+        "qid": "Q38163496",
+        "label": "Institute of Anatomy (former)"
+      }
+    ],
+    "105352": [
+      {
+        "qid": "Q30601743",
+        "label": "King George V Memorial"
+      }
+    ],
+    "105353": [
+      {
+        "qid": "Q38147215",
+        "label": "RAAF Memorial"
+      }
+    ],
+    "105354": [
+      {
+        "qid": "Q38163985",
+        "label": "Qantas Huts (former)"
+      }
+    ],
+    "105355": [
+      {
+        "qid": "Q38164179",
+        "label": "Home Island Cemetery"
+      }
+    ],
+    "105356": [
+      {
+        "qid": "Q38162199",
+        "label": "Administration Building Forecourt"
+      }
+    ],
+    "105357": [
+      {
+        "qid": "Q38168310",
+        "label": "Type 2 Residences"
+      }
+    ],
+    "105358": [
+      {
+        "qid": "Q38145728",
+        "label": "Direction Island (DI) Houses"
+      }
+    ],
+    "105359": [
+      {
+        "qid": "Q38169009",
+        "label": "West Island Elevated Houses"
+      }
+    ],
+    "105360": [
+      {
+        "qid": "Q38149324",
+        "label": "Government House"
+      }
+    ],
+    "105361": [
+      {
+        "qid": "Q38157257",
+        "label": "Captain Ballards Grave"
+      }
+    ],
+    "105362": [
+      {
+        "qid": "Q38150016",
+        "label": "Early Settlers Graves"
+      }
+    ],
+    "105363": [
+      {
+        "qid": "Q38157813",
+        "label": "Home Island Foreshore"
+      }
+    ],
+    "105364": [
+      {
+        "qid": "Q2100730",
+        "label": "Point Perpendicular Light"
+      }
+    ],
+    "105365": [
+      {
+        "qid": "Q38155861",
+        "label": "Macquarie Lighthouse Group"
+      }
+    ],
+    "105366": [
+      {
+        "qid": "Q1065004",
+        "label": "Macquarie Lighthouse"
+      }
+    ],
+    "105367": [
+      {
+        "qid": "Q6692895",
+        "label": "Low Isles Light"
+      }
+    ],
+    "105368": [
+      {
+        "qid": "Q7056470",
+        "label": "North Reef Light"
+      }
+    ],
+    "105369": [
+      {
+        "qid": "Q5259374",
+        "label": "Dent Island Light"
+      }
+    ],
+    "105370": [
+      {
+        "qid": "Q38149901",
+        "label": "South Perth Post Office"
+      }
+    ],
+    "105373": [
+      {
+        "qid": "Q7045615",
+        "label": "Nobbys Head Light"
+      }
+    ],
+    "105375": [
+      {
+        "qid": "Q1278441",
+        "label": "Wilsons Promontory Lighthouse"
+      }
+    ],
+    "105376": [
+      {
+        "qid": "Q38164440",
+        "label": "Cape Northumberland Lighthouse"
+      }
+    ],
+    "105377": [
+      {
+        "qid": "Q28375271",
+        "label": "Mersey Bluff Lighthouse"
+      }
+    ],
+    "105379": [
+      {
+        "qid": "Q23073587",
+        "label": "Gabo Island Lighthouse"
+      }
+    ],
+    "105380": [
+      {
+        "qid": "Q38159773",
+        "label": "Royal Australian Naval College"
+      }
+    ],
+    "105381": [
+      {
+        "qid": "Q1464941",
+        "label": "Government House"
+      },
+      {
+        "qid": "Q38169780",
+        "label": "Yarralumla and Surrounds"
+      }
+    ],
+    "105382": [
+      {
+        "qid": "Q38168877",
+        "label": "Captains Quarters Assets B1 to B4"
+      }
+    ],
+    "105383": [
+      {
+        "qid": "Q38162432",
+        "label": "Residence Asset C8"
+      }
+    ],
+    "105384": [
+      {
+        "qid": "Q38156782",
+        "label": "Residence Asset B7"
+      }
+    ],
+    "105385": [
+      {
+        "qid": "Q38169942",
+        "label": "Residence Asset C7"
+      }
+    ],
+    "105386": [
+      {
+        "qid": "Q38166473",
+        "label": "Commandants House Asset B9"
+      }
+    ],
+    "105387": [
+      {
+        "qid": "Q38151259",
+        "label": "Residence Asset C12"
+      }
+    ],
+    "105388": [
+      {
+        "qid": "Q38169529",
+        "label": "Residence Asset C13"
+      }
+    ],
+    "105389": [
+      {
+        "qid": "Q38086920",
+        "label": "Residence Asset C14"
+      }
+    ],
+    "105390": [
+      {
+        "qid": "Q38156075",
+        "label": "Residence Asset C15"
+      }
+    ],
+    "105391": [
+      {
+        "qid": "Q38151764",
+        "label": "Residence Asset B5"
+      }
+    ],
+    "105392": [
+      {
+        "qid": "Q38162944",
+        "label": "Cliff House"
+      }
+    ],
+    "105393": [
+      {
+        "qid": "Q38164401",
+        "label": "Spectacle Island Explosives Complex"
+      }
+    ],
+    "105394": [
+      {
+        "qid": "Q38163339",
+        "label": "Jervis Bay Territory"
+      }
+    ],
+    "105395": [
+      {
+        "qid": "Q38166512",
+        "label": "Mawsons Huts of 1912"
+      }
+    ],
+    "105396": [
+      {
+        "qid": "Q38148310",
+        "label": "Reserve Bank of Australia"
+      }
+    ],
+    "105398": [
+      {
+        "qid": "Q38162268",
+        "label": "Admiralty House and Lodge"
+      }
+    ],
+    "105399": [
+      {
+        "qid": "Q38169375",
+        "label": "Admiralty House Garden and Fortifications"
+      }
+    ],
+    "105400": [
+      {
+        "qid": "Q38166705",
+        "label": "Jervis Bay Botanic Gardens"
+      }
+    ],
+    "105401": [
+      {
+        "qid": "Q38151361",
+        "label": "Swan Island and Naval Waters"
+      }
+    ],
+    "105402": [
+      {
+        "qid": "Q38163076",
+        "label": "Malay Kampong Group"
+      }
+    ],
+    "105404": [
+      {
+        "qid": "Q38155490",
+        "label": "Army Cottage with return verandah"
+      }
+    ],
+    "105405": [
+      {
+        "qid": "Q38164709",
+        "label": "Cubbitch Barta National Estate Area"
+      }
+    ],
+    "105406": [
+      {
+        "qid": "Q38155700",
+        "label": "Holsworthy Internment Camp"
+      }
+    ],
+    "105408": [
+      {
+        "qid": "Q38169738",
+        "label": "Type T Houses Precinct"
+      }
+    ],
+    "105409": [
+      {
+        "qid": "Q38155029",
+        "label": "Old Co-op Shop (Canteen)"
+      }
+    ],
+    "105410": [
+      {
+        "qid": "Q38155447",
+        "label": "Cameron Offices (Wings 3, 4 and 5, and Bridge)"
+      }
+    ],
+    "105411": [
+      {
+        "qid": "Q38159316",
+        "label": "Cottage at Macquarie Lighthouse"
+      }
+    ],
+    "105412": [
+      {
+        "qid": "Q38165968",
+        "label": "Macquarie Lighthouse Surrounding Wall"
+      }
+    ],
+    "105413": [
+      {
+        "qid": "Q28211308",
+        "label": "Cape St Albans lighthouse"
+      }
+    ],
+    "105414": [
+      {
+        "qid": "Q15207441",
+        "label": "Cape du Couedic Lighthouse"
+      }
+    ],
+    "105415": [
+      {
+        "qid": "Q6470134",
+        "label": "Lady Elliot Island Light"
+      }
+    ],
+    "105416": [
+      {
+        "qid": "Q1034452",
+        "label": "Cape Leeuwin Lighthouse"
+      }
+    ],
+    "105417": [
+      {
+        "qid": "Q3077989",
+        "label": "Fort Queenscliff"
+      }
+    ],
+    "105418": [
+      {
+        "qid": "Q38156523",
+        "label": "Yampi Defence Area"
+      }
+    ],
+    "105419": [
+      {
+        "qid": "Q38152906",
+        "label": "Green Hill Fort"
+      }
+    ],
+    "105420": [
+      {
+        "qid": "Q38150912",
+        "label": "ABC Radio Studios"
+      }
+    ],
+    "105422": [
+      {
+        "qid": "Q38160721",
+        "label": "Adelaide River War Cemetery"
+      }
+    ],
+    "105423": [
+      {
+        "qid": "Q38167685",
+        "label": "Arid A Type Residence"
+      }
+    ],
+    "105426": [
+      {
+        "qid": "Q38161352",
+        "label": "Australian Forestry School (former)"
+      }
+    ],
+    "105427": [
+      {
+        "qid": "Q38169336",
+        "label": "Westridge House & Grounds"
+      }
+    ],
+    "105428": [
+      {
+        "qid": "Q38164484",
+        "label": "West Block and the Dugout"
+      }
+    ],
+    "105430": [
+      {
+        "qid": "Q38164976",
+        "label": "RAAF Base Commanding Officers Residence"
+      }
+    ],
+    "105431": [
+      {
+        "qid": "Q38151857",
+        "label": "North Head Artillery Barracks"
+      }
+    ],
+    "105432": [
+      {
+        "qid": "Q38161382",
+        "label": "Strathalbyn Post Office"
+      }
+    ],
+    "105433": [
+      {
+        "qid": "Q38162173",
+        "label": "Malay Kampong Precinct"
+      }
+    ],
+    "105434": [
+      {
+        "qid": "Q38160419",
+        "label": "Gungahlin Homestead and Landscape"
+      }
+    ],
+    "105435": [
+      {
+        "qid": "Q38163418",
+        "label": "Mawsons Huts Historic Site"
+      }
+    ],
+    "105436": [
+      {
+        "qid": "Q5196499",
+        "label": "Customs House, Sydney"
+      }
+    ],
+    "105437": [
+      {
+        "qid": "Q38151016",
+        "label": "Gungahlin Complex"
+      }
+    ],
+    "105439": [
+      {
+        "qid": "Q38146641",
+        "label": "General Bridges Grave"
+      }
+    ],
+    "105442": [
+      {
+        "qid": "Q28244455",
+        "label": "Bessieres Island Lighthouse"
+      }
+    ],
+    "105444": [
+      {
+        "qid": "Q1434388",
+        "label": "Mawson Station"
+      }
+    ],
+    "105448": [
+      {
+        "qid": "Q38160953",
+        "label": "Duntroon House and Garden"
+      }
+    ],
+    "105449": [
+      {
+        "qid": "Q38166150",
+        "label": "RMC Duntroon Conservation Area"
+      }
+    ],
+    "105450": [
+      {
+        "qid": "Q38168431",
+        "label": "Marine Biological Station"
+      }
+    ],
+    "105451": [
+      {
+        "qid": "Q38161793",
+        "label": "Kirribilli House"
+      }
+    ],
+    "105452": [
+      {
+        "qid": "Q38149766",
+        "label": "The Lodge"
+      }
+    ],
+    "105453": [
+      {
+        "qid": "Q38163377",
+        "label": "Commonwealth Offices Building"
+      }
+    ],
+    "105454": [
+      {
+        "qid": "Q38162314",
+        "label": "Patent Office (former)"
+      }
+    ],
+    "105455": [
+      {
+        "qid": "Q38160593",
+        "label": "Pontville Small Arms Range Grassland Site"
+      }
+    ],
+    "105456": [
+      {
+        "qid": "Q38161169",
+        "label": "Reserve Bank"
+      }
+    ],
+    "105457": [
+      {
+        "qid": "Q38155575",
+        "label": "HMAS Cerberus Marine and Coastal Area"
+      }
+    ],
+    "105458": [
+      {
+        "qid": "Q5583593",
+        "label": "Goods Island Light"
+      }
+    ],
+    "105460": [
+      {
+        "qid": "Q38165357",
+        "label": "Hundred Acres Reserve"
+      }
+    ],
+    "105461": [
+      {
+        "qid": "Q38152305",
+        "label": "Point Ross Reserve"
+      }
+    ],
+    "105462": [
+      {
+        "qid": "Q38145510",
+        "label": "Two Chimneys Reserve & Escarpment"
+      }
+    ],
+    "105465": [
+      {
+        "qid": "Q19866433",
+        "label": "General Post Office, Hobart"
+      }
+    ],
+    "105466": [
+      {
+        "qid": "Q38149467",
+        "label": "Parliament House Vista"
+      }
+    ],
+    "105467": [
+      {
+        "qid": "Q38154991",
+        "label": "The Surveyors Hut"
+      }
+    ],
+    "105469": [
+      {
+        "qid": "Q782783",
+        "label": "Australian War Memorial"
+      }
+    ],
+    "105470": [
+      {
+        "qid": "Q38164103",
+        "label": "National Library of Australia and Surrounds"
+      }
+    ],
+    "105471": [
+      {
+        "qid": "Q28110176",
+        "label": "Sewer Vent No 1"
+      }
+    ],
+    "105472": [
+      {
+        "qid": "Q38150546",
+        "label": "John Gorton Building"
+      }
+    ],
+    "105473": [
+      {
+        "qid": "Q38169660",
+        "label": "National Rose Gardens"
+      }
+    ],
+    "105474": [
+      {
+        "qid": "Q38162991",
+        "label": "Parliament House Vista Extension - Portal Buildings"
+      }
+    ],
+    "105476": [
+      {
+        "qid": "Q38141517",
+        "label": "Edmund Barton Offices"
+      }
+    ],
+    "105477": [
+      {
+        "qid": "Q7547328",
+        "label": "Snapper Island"
+      }
+    ],
+    "105479": [
+      {
+        "qid": "Q38168013",
+        "label": "Canungra Land Warfare Centre Training Area (part)"
+      }
+    ],
+    "105480": [
+      {
+        "qid": "Q38167886",
+        "label": "Scott Reef and Surrounds - Commonwealth Area"
+      }
+    ],
+    "105488": [
+      {
+        "qid": "Q4763383",
+        "label": "Anglesea Barracks"
+      }
+    ],
+    "105492": [
+      {
+        "qid": "Q30101295",
+        "label": "Casino Post Office"
+      }
+    ],
+    "105493": [
+      {
+        "qid": "Q38159730",
+        "label": "Armidale Post Office"
+      }
+    ],
+    "105494": [
+      {
+        "qid": "Q38153076",
+        "label": "Glen Innes Post Office"
+      }
+    ],
+    "105495": [
+      {
+        "qid": "Q38167550",
+        "label": "Narrabri Post Office and former Telegraph Office"
+      }
+    ],
+    "105496": [
+      {
+        "qid": "Q38157358",
+        "label": "Tamworth Post Office"
+      }
+    ],
+    "105497": [
+      {
+        "qid": "Q38146083",
+        "label": "Wellington Post Office"
+      }
+    ],
+    "105498": [
+      {
+        "qid": "Q38155262",
+        "label": "Mudgee Post Office"
+      }
+    ],
+    "105499": [
+      {
+        "qid": "Q38154863",
+        "label": "Broken Hill Post Office"
+      }
+    ],
+    "105500": [
+      {
+        "qid": "Q10541346",
+        "label": "Junee Post Office"
+      }
+    ],
+    "105501": [
+      {
+        "qid": "Q38166330",
+        "label": "Hay Post Office"
+      }
+    ],
+    "105502": [
+      {
+        "qid": "Q30102940",
+        "label": "Forbes Post Office"
+      }
+    ],
+    "105503": [
+      {
+        "qid": "Q30106401",
+        "label": "Goulburn Post Office"
+      }
+    ],
+    "105504": [
+      {
+        "qid": "Q38167172",
+        "label": "Maitland Post Office"
+      }
+    ],
+    "105506": [
+      {
+        "qid": "Q30106394",
+        "label": "Albury Post Office"
+      }
+    ],
+    "105508": [
+      {
+        "qid": "Q38170176",
+        "label": "Kiama Post Office"
+      }
+    ],
+    "105509": [
+      {
+        "qid": "Q5532119",
+        "label": "General Post Office, Sydney"
+      }
+    ],
+    "105510": [
+      {
+        "qid": "Q38148044",
+        "label": "Pyrmont Post Office"
+      }
+    ],
+    "105511": [
+      {
+        "qid": "Q38165012",
+        "label": "Kempsey Post Office"
+      }
+    ],
+    "105512": [
+      {
+        "qid": "Q38154703",
+        "label": "Lancer Barracks Precinct"
+      }
+    ],
+    "105513": [
+      {
+        "qid": "Q28928858",
+        "label": "Stawell Post Office"
+      }
+    ],
+    "105514": [
+      {
+        "qid": "Q28929009",
+        "label": "Castlemaine Post Office"
+      }
+    ],
+    "105515": [
+      {
+        "qid": "Q38160200",
+        "label": "Maryborough Post Office"
+      }
+    ],
+    "105516": [
+      {
+        "qid": "Q6811781",
+        "label": "Melbourne General Post Office"
+      }
+    ],
+    "105517": [
+      {
+        "qid": "Q28929066",
+        "label": "Flemington Post Office"
+      }
+    ],
+    "105518": [
+      {
+        "qid": "Q38162479",
+        "label": "Adelaide General Post Office"
+      }
+    ],
+    "105519": [
+      {
+        "qid": "Q38169223",
+        "label": "Royal Australian Naval Transmitting Station"
+      }
+    ],
+    "105521": [
+      {
+        "qid": "Q5532113",
+        "label": "General Post Office"
+      }
+    ],
+    "105523": [
+      {
+        "qid": "Q38164925",
+        "label": "Charters Towers Post Office"
+      }
+    ],
+    "105524": [
+      {
+        "qid": "Q38162855",
+        "label": "Stanthorpe Post Office"
+      }
+    ],
+    "105526": [
+      {
+        "qid": "Q38159204",
+        "label": "Claremont Post Office"
+      }
+    ],
+    "105527": [
+      {
+        "qid": "Q5532116",
+        "label": "General Post Office, Perth"
+      }
+    ],
+    "105528": [
+      {
+        "qid": "Q38161313",
+        "label": "Northam Post Office"
+      }
+    ],
+    "105534": [
+      {
+        "qid": "Q38167770",
+        "label": "Shale Woodland Llandilo"
+      }
+    ],
+    "105535": [
+      {
+        "qid": "Q38160755",
+        "label": "Synemon Plana Moth Habitat"
+      }
+    ],
+    "105537": [
+      {
+        "qid": "Q38168104",
+        "label": "Warwick Post Office"
+      }
+    ],
+    "105538": [
+      {
+        "qid": "Q38167637",
+        "label": "North Hobart Post Office"
+      }
+    ],
+    "105539": [
+      {
+        "qid": "Q38156353",
+        "label": "Beecroft Peninsula"
+      }
+    ],
+    "105541": [
+      {
+        "qid": "Q38152044",
+        "label": "Defence site - Georges Heights and Middle Head"
+      }
+    ],
+    "105543": [
+      {
+        "qid": "Q38148849",
+        "label": "Villawood Immigration Centre"
+      }
+    ],
+    "105544": [
+      {
+        "qid": "Q38168517",
+        "label": "High Court - National Gallery Precinct"
+      }
+    ],
+    "105545": [
+      {
+        "qid": "Q38164279",
+        "label": "Shoalwater Bay Military Training Area"
+      }
+    ],
+    "105547": [
+      {
+        "qid": "Q38152210",
+        "label": "Murray Mallee - Calperum Station and Taylorville Station"
+      }
+    ],
+    "105548": [
+      {
+        "qid": "Q21924247",
+        "label": "Ningaloo Marine Park"
+      }
+    ],
+    "105551": [
+      {
+        "qid": "Q38163268",
+        "label": "Learmonth Air Weapons Range Facility"
+      }
+    ],
+    "105552": [
+      {
+        "qid": "Q38150452",
+        "label": "Puckapunyal Military Area"
+      }
+    ],
+    "105553": [
+      {
+        "qid": "Q38154143",
+        "label": "Russell Cafeteria"
+      }
+    ],
+    "105557": [
+      {
+        "qid": "Q38161040",
+        "label": "High Court of Australia Building"
+      }
+    ],
+    "105558": [
+      {
+        "qid": "Q795228",
+        "label": "National Gallery of Australia"
+      }
+    ],
+    "105559": [
+      {
+        "qid": "Q38149852",
+        "label": "Blowfly Insectary Numbers 1 and 2"
+      }
+    ],
+    "105560": [
+      {
+        "qid": "Q38168627",
+        "label": "Phytotron"
+      }
+    ],
+    "105564": [
+      {
+        "qid": "Q38162652",
+        "label": "Goose Island Lighthouse"
+      }
+    ],
+    "105565": [
+      {
+        "qid": "Q38161578",
+        "label": "Eddystone Lighthouse"
+      }
+    ],
+    "105566": [
+      {
+        "qid": "Q38151953",
+        "label": "Tasman Island Lighthouse"
+      }
+    ],
+    "105567": [
+      {
+        "qid": "Q38154823",
+        "label": "Cape Wickham Lighthouse"
+      }
+    ],
+    "105571": [
+      {
+        "qid": "Q5034579",
+        "label": "Cape Baily Light"
+      }
+    ],
+    "105572": [
+      {
+        "qid": "Q38149135",
+        "label": "Military Road Framework - Defence Land"
+      }
+    ],
+    "105574": [
+      {
+        "qid": "Q38170308",
+        "label": "Headquarters 8th Brigade Precinct"
+      }
+    ],
+    "105575": [
+      {
+        "qid": "Q38153860",
+        "label": "Golf Clubhouse (former)"
+      }
+    ],
+    "105576": [
+      {
+        "qid": "Q38161616",
+        "label": "Battery B42"
+      }
+    ],
+    "105577": [
+      {
+        "qid": "Q38163569",
+        "label": "Batteries A83 and C9A"
+      }
+    ],
+    "105578": [
+      {
+        "qid": "Q38158261",
+        "label": "Lancelin Defence Training Area"
+      }
+    ],
+    "105581": [
+      {
+        "qid": "Q38155905",
+        "label": "HMAS Penguin"
+      }
+    ],
+    "105582": [
+      {
+        "qid": "Q38168834",
+        "label": "Barracks Group HMAS Watson"
+      }
+    ],
+    "105583": [
+      {
+        "qid": "Q38159536",
+        "label": "Navy Refuelling Depot and Caretakers House"
+      }
+    ],
+    "105584": [
+      {
+        "qid": "Q38155991",
+        "label": "Headquarters Training Command Precinct"
+      }
+    ],
+    "105585": [
+      {
+        "qid": "Q38165684",
+        "label": "Thirty Terminal Squadron Precinct"
+      }
+    ],
+    "105586": [
+      {
+        "qid": "Q38161706",
+        "label": "Commonwealth Avenue Defence Housing"
+      }
+    ],
+    "105587": [
+      {
+        "qid": "Q38151808",
+        "label": "Ten Terminal Regiment Headquarters and AusAid Training Centre"
+      }
+    ],
+    "105588": [
+      {
+        "qid": "Q38169294",
+        "label": "Three Wartime Bomb Dump Buildings"
+      }
+    ],
+    "105589": [
+      {
+        "qid": "Q38152431",
+        "label": "Kirribilli House Garden & Grounds"
+      }
+    ],
+    "105595": [
+      {
+        "qid": "Q38156627",
+        "label": "The CSIRO Forestry Precinct"
+      }
+    ],
+    "105597": [
+      {
+        "qid": "Q38163888",
+        "label": "Cape Sorell Lighthouse"
+      }
+    ],
+    "105598": [
+      {
+        "qid": "Q38166187",
+        "label": "Swan Island Lighthouse"
+      }
+    ],
+    "105599": [
+      {
+        "qid": "Q38169704",
+        "label": "Cape Byron Lighthouse"
+      }
+    ],
+    "105601": [
+      {
+        "qid": "Q12061985",
+        "label": "Montague Island Light"
+      }
+    ],
+    "105602": [
+      {
+        "qid": "Q7635018",
+        "label": "Sugarloaf Point Light"
+      }
+    ],
+    "105603": [
+      {
+        "qid": "Q38165171",
+        "label": "Table Cape Lighthouse"
+      }
+    ],
+    "105604": [
+      {
+        "qid": "Q7546135",
+        "label": "Smoky Cape Lighthouse"
+      }
+    ],
+    "105605": [
+      {
+        "qid": "Q38161748",
+        "label": "Malabar Headland"
+      }
+    ],
+    "105606": [
+      {
+        "qid": "Q38141387",
+        "label": "Kingston and Arthurs Vale Commonwealth Tenure Area"
+      }
+    ],
+    "105615": [
+      {
+        "qid": "Q38155832",
+        "label": "Fort Gellibrand"
+      }
+    ],
+    "105616": [
+      {
+        "qid": "Q38154049",
+        "label": "Old Parliament House Gardens"
+      }
+    ],
+    "105618": [
+      {
+        "qid": "Q38160553",
+        "label": "Communications Centre"
+      }
+    ],
+    "105619": [
+      {
+        "qid": "Q38166548",
+        "label": "Bindoon Defence Training Area"
+      }
+    ],
+    "105621": [
+      {
+        "qid": "Q38152096",
+        "label": "Russell Precinct Heritage Area"
+      }
+    ],
+    "105622": [
+      {
+        "qid": "Q38164598",
+        "label": "Bumbora Reserve"
+      }
+    ],
+    "105623": [
+      {
+        "qid": "Q38154617",
+        "label": "Arched Building, Longridge"
+      }
+    ],
+    "105624": [
+      {
+        "qid": "Q38147688",
+        "label": "Selwyn Reserve (2003 boundary)"
+      }
+    ],
+    "105625": [
+      {
+        "qid": "Q38148989",
+        "label": "Nepean Island Reserve"
+      }
+    ],
+    "105627": [
+      {
+        "qid": "Q38162058",
+        "label": "Phillip Island"
+      }
+    ],
+    "105629": [
+      {
+        "qid": "Q38151673",
+        "label": "Casey House and Garden"
+      }
+    ],
+    "105630": [
+      {
+        "qid": "Q38162514",
+        "label": "Sculpture Garden National Gallery of Australia"
+      }
+    ],
+    "105632": [
+      {
+        "qid": "Q38148702",
+        "label": "Sorrento Post Office"
+      }
+    ],
+    "105633": [
+      {
+        "qid": "Q38164014",
+        "label": "Point Cook Air Base - Museum & Heritage Precincts"
+      }
+    ],
+    "105634": [
+      {
+        "qid": "Q38145103",
+        "label": "Point Cook Air Base - College & Training Area"
+      }
+    ],
+    "105635": [
+      {
+        "qid": "Q38162355",
+        "label": "Drill Hall Gallery"
+      }
+    ],
+    "105636": [
+      {
+        "qid": "Q38146532",
+        "label": "Canberra School of Music"
+      }
+    ],
+    "105637": [
+      {
+        "qid": "Q7811362",
+        "label": "Toad Hall"
+      }
+    ],
+    "105638": [
+      {
+        "qid": "Q38167967",
+        "label": "Remount Complex (former)"
+      }
+    ],
+    "105639": [
+      {
+        "qid": "Q38163454",
+        "label": "Williamtown RAAF Base Group"
+      }
+    ],
+    "105640": [
+      {
+        "qid": "Q38164353",
+        "label": "Leongatha Post & Telegraph Office"
+      }
+    ],
+    "105641": [
+      {
+        "qid": "Q38153681",
+        "label": "Defence National Storage and Distribution Centre"
+      }
+    ],
+    "105642": [
+      {
+        "qid": "Q38156877",
+        "label": "Murinbin House Group"
+      }
+    ],
+    "105646": [
+      {
+        "qid": "Q38164796",
+        "label": "Anson Bay Reserve"
+      }
+    ],
+    "105647": [
+      {
+        "qid": "Q38165399",
+        "label": "Ball Bay Reserve"
+      }
+    ],
+    "105650": [
+      {
+        "qid": "Q38147937",
+        "label": "Amberley RAAF Base Group"
+      }
+    ],
+    "105651": [
+      {
+        "qid": "Q38162014",
+        "label": "School of Musketry and Officers Mess, Randwick Army Barracks"
+      }
+    ],
+    "105652": [
+      {
+        "qid": "Q38152818",
+        "label": "Mount Bundey Training Area"
+      }
+    ],
+    "105653": [
+      {
+        "qid": "Q38148104",
+        "label": "RAAF Base Richmond"
+      }
+    ],
+    "105654": [
+      {
+        "qid": "Q38160463",
+        "label": "Tully Training Area"
+      }
+    ],
+    "105655": [
+      {
+        "qid": "Q38149612",
+        "label": "Bradshaw Defence Area"
+      }
+    ],
+    "105656": [
+      {
+        "qid": "Q38165637",
+        "label": "Hunter River Lancers Training Depot"
+      }
+    ],
+    "105658": [
+      {
+        "qid": "Q38158133",
+        "label": "Geraldton Drill Hall Complex"
+      }
+    ],
+    "105659": [
+      {
+        "qid": "Q38155787",
+        "label": "Mulwala Homestead Precinct"
+      }
+    ],
+    "105663": [
+      {
+        "qid": "Q38157482",
+        "label": "Australian Maritime College, Newnham Campus"
+      }
+    ],
+    "105664": [
+      {
+        "qid": "Q724265",
+        "label": "Lark Quarry Dinosaur Trackways"
+      }
+    ],
+    "105665": [
+      {
+        "qid": "Q38161928",
+        "label": "Recherche Bay (North East Peninsula) Area"
+      }
+    ],
+    "105671": [
+      {
+        "qid": "Q38156271",
+        "label": "Point Cook Air Base"
+      }
+    ],
+    "105673": [
+      {
+        "qid": "Q38162559",
+        "label": "Budj Bim National Heritage Landscape - Mt Eccles Lake Condah Area"
+      }
+    ],
+    "105678": [
+      {
+        "qid": "Q38153585",
+        "label": "Budj Bim National Heritage Landscape - Tyrendarra Area"
+      }
+    ],
+    "105680": [
+      {
+        "qid": "Q38154780",
+        "label": "Point Nepean Defence Sites and Quarantine Station Area"
+      }
+    ],
+    "105683": [
+      {
+        "qid": "Q5050535",
+        "label": "Castlemaine Diggings National Heritage Park"
+      }
+    ],
+    "105685": [
+      {
+        "qid": "Q38153039",
+        "label": "R G Menzies Building ANU"
+      }
+    ],
+    "105686": [
+      {
+        "qid": "Q38167074",
+        "label": "Shark Bay"
+      }
+    ],
+    "105687": [
+      {
+        "qid": "Q251999",
+        "label": "Uluṟu-Kata Tjuṯa National Park"
+      }
+    ],
+    "105688": [
+      {
+        "qid": "Q189657",
+        "label": "Kakadu National Park"
+      }
+    ],
+    "105689": [
+      {
+        "qid": "Q1135808",
+        "label": "Wet Tropics of Queensland"
+      }
+    ],
+    "105691": [
+      {
+        "qid": "Q635473",
+        "label": "Riversleigh"
+      }
+    ],
+    "105692": [
+      {
+        "qid": "Q38163848",
+        "label": "Australian Fossil Mammal Sites (Naracoorte)"
+      }
+    ],
+    "105693": [
+      {
+        "qid": "Q747875",
+        "label": "Willandra Lakes Region"
+      }
+    ],
+    "105694": [
+      {
+        "qid": "Q1869866",
+        "label": "Lord Howe Island Group"
+      }
+    ],
+    "105695": [
+      {
+        "qid": "Q38149041",
+        "label": "Tasmanian Wilderness"
+      }
+    ],
+    "105697": [
+      {
+        "qid": "Q679568",
+        "label": "Purnululu National Park"
+      }
+    ],
+    "105698": [
+      {
+        "qid": "Q38054261",
+        "label": "Macquarie Island"
+      }
+    ],
+    "105704": [
+      {
+        "qid": "Q643063",
+        "label": "Gondwana Rainforests of Australia"
+      }
+    ],
+    "105707": [
+      {
+        "qid": "Q131198",
+        "label": "Heard Island and McDonald Islands"
+      }
+    ],
+    "105708": [
+      {
+        "qid": "Q695935",
+        "label": "Royal Exhibition Building"
+      }
+    ],
+    "105709": [
+      {
+        "qid": "Q7343",
+        "label": "Great Barrier Reef"
+      }
+    ],
+    "105710": [
+      {
+        "qid": "Q38165474",
+        "label": "South Australian Old and New Parliament Houses"
+      }
+    ],
+    "105713": [
+      {
+        "qid": "Q38170065",
+        "label": "Mawsons Huts Historic Site"
+      }
+    ],
+    "105716": [
+      {
+        "qid": "Q33232860",
+        "label": "Ballarat Avenue of Honour"
+      }
+    ],
+    "105718": [
+      {
+        "qid": "Q38167031",
+        "label": "Port Arthur Historic Site"
+      }
+    ],
+    "105721": [
+      {
+        "qid": "Q7837599",
+        "label": "Tree of Knowledge"
+      }
+    ],
+    "105724": [
+      {
+        "qid": "Q38146858",
+        "label": "Richmond Bridge"
+      }
+    ],
+    "105727": [
+      {
+        "qid": "Q38160993",
+        "label": "Dampier Archipelago (including Burrup Peninsula)"
+      }
+    ],
+    "105729": [
+      {
+        "qid": "Q38150810",
+        "label": "Glenrowan Heritage Precinct"
+      }
+    ],
+    "105733": [
+      {
+        "qid": "Q38158871",
+        "label": "State Circle Cutting"
+      }
+    ],
+    "105734": [
+      {
+        "qid": "Q38166823",
+        "label": "Blundells Farmhouse, Slab Outbuilding and Surrounds"
+      }
+    ],
+    "105738": [
+      {
+        "qid": "Q45178",
+        "label": "Sydney Opera House"
+      }
+    ],
+    "105739": [
+      {
+        "qid": "Q7018440",
+        "label": "Newman College"
+      }
+    ],
+    "105741": [
+      {
+        "qid": "Q27493197",
+        "label": "Shine Dome"
+      }
+    ],
+    "105743": [
+      {
+        "qid": "Q7509252",
+        "label": "Sidney Myer Music Bowl"
+      }
+    ],
+    "105745": [
+      {
+        "qid": "Q38159434",
+        "label": "High Court - National Gallery Precinct"
+      }
+    ],
+    "105747": [
+      {
+        "qid": "Q1653239",
+        "label": "ICI House"
+      }
+    ],
+    "105748": [
+      {
+        "qid": "Q4941403",
+        "label": "Bondi Pavilion"
+      }
+    ],
+    "105751": [
+      {
+        "qid": "Q38152166",
+        "label": "Western Tasmania Aboriginal Cultural Landscape"
+      }
+    ],
+    "105754": [
+      {
+        "qid": "Q38157607",
+        "label": "Eureka Stockade Gardens"
+      },
+      {
+        "qid": "Q56670436",
+        "label": "Eureka Historic Precinct"
+      }
+    ],
+    "105756": [
+      {
+        "qid": "Q38086873",
+        "label": "Quarantine Station and Surrounds"
+      }
+    ],
+    "105758": [
+      {
+        "qid": "Q38165097",
+        "label": "The Adelaide Park Lands and City Layout"
+      }
+    ],
+    "105759": [
+      {
+        "qid": "Q38169118",
+        "label": "North Head - Sydney"
+      }
+    ],
+    "105761": [
+      {
+        "qid": "Q19873401",
+        "label": "First Government House, Sydney"
+      }
+    ],
+    "105762": [
+      {
+        "qid": "Q3089169",
+        "label": "Fremantle Prison"
+      }
+    ],
+    "105763": [
+      {
+        "qid": "Q7335741",
+        "label": "Rippon Lea Estate"
+      }
+    ],
+    "105764": [
+      {
+        "qid": "Q1565703",
+        "label": "HMVS Cerberus"
+      }
+    ],
+    "105765": [
+      {
+        "qid": "Q38156193",
+        "label": "Canberra School of Art"
+      }
+    ],
+    "105767": [
+      {
+        "qid": "Q38148545",
+        "label": "Hermannsburg Historic Precinct"
+      }
+    ],
+    "105774": [
+      {
+        "qid": "Q38155356",
+        "label": "Old Parliament House and Curtilage"
+      }
+    ],
+    "105777": [
+      {
+        "qid": "Q1281224",
+        "label": "Echuca wharf"
+      }
+    ],
+    "105778": [
+      {
+        "qid": "Q911374",
+        "label": "Brewarrina Aboriginal Fish Traps (Baiames Ngunnhu)"
+      }
+    ],
+    "105780": [
+      {
+        "qid": "Q18618925",
+        "label": "Barwon Sewer Aqueduct"
+      }
+    ],
+    "105808": [
+      {
+        "qid": "Q1227877",
+        "label": "Dirk Hartog Landing Site"
+      }
+    ],
+    "105812": [
+      {
+        "qid": "Q38154314",
+        "label": "Kurnell Peninsula Headland"
+      }
+    ],
+    "105815": [
+      {
+        "qid": "Q38154095",
+        "label": "Glass House Mountains National Landscape"
+      }
+    ],
+    "105817": [
+      {
+        "qid": "Q38140986",
+        "label": "Ku-ring-gai Chase National Park, Lion, Long and Spectacle Island Nature Reserves"
+      }
+    ],
+    "105818": [
+      {
+        "qid": "Q115591",
+        "label": "Stirling Range National Park"
+      }
+    ],
+    "105819": [
+      {
+        "qid": "Q38164677",
+        "label": "Great Artesian Basin Springs: Witjira-Dalhousie"
+      }
+    ],
+    "105821": [
+      {
+        "qid": "Q38167335",
+        "label": "Great Artesian Basin Springs: Elizabeth"
+      }
+    ],
+    "105845": [
+      {
+        "qid": "Q38155397",
+        "label": "Bonegilla Migrant Camp - Block 19"
+      }
+    ],
+    "105851": [
+      {
+        "qid": "Q8050787",
+        "label": "Yea Flora Fossil Site"
+      }
+    ],
+    "105852": [
+      {
+        "qid": "Q515047",
+        "label": "Grampians (Gariwerd) National Park"
+      }
+    ],
+    "105853": [
+      {
+        "qid": "Q847071",
+        "label": "Warrumbungle National Park"
+      }
+    ],
+    "105861": [
+      {
+        "qid": "Q38151152",
+        "label": "City of Broken Hill"
+      }
+    ],
+    "105869": [
+      {
+        "qid": "Q38141099",
+        "label": "Myall Creek Massacre and Memorial Site"
+      }
+    ],
+    "105870": [
+      {
+        "qid": "Q38162142",
+        "label": "Tasmanian Seamounts Area"
+      }
+    ],
+    "105875": [
+      {
+        "qid": "Q38155067",
+        "label": "Great Ocean Road and Scenic Environs"
+      }
+    ],
+    "105881": [
+      {
+        "qid": "Q1541665",
+        "label": "Ningaloo Reef"
+      }
+    ],
+    "105885": [
+      {
+        "qid": "Q330136",
+        "label": "Melbourne Cricket Ground"
+      }
+    ],
+    "105887": [
+      {
+        "qid": "Q38164557",
+        "label": "Batavia Shipwreck Site and Survivor Camps Area 1629 - Houtman Abrolhos"
+      }
+    ],
+    "105888": [
+      {
+        "qid": "Q54495",
+        "label": "Sydney Harbour Bridge"
+      }
+    ],
+    "105889": [
+      {
+        "qid": "Q782783",
+        "label": "Australian War Memorial"
+      }
+    ],
+    "105891": [
+      {
+        "qid": "Q16826297",
+        "label": "Australian Alps National Parks and Reserves"
+      }
+    ],
+    "105893": [
+      {
+        "qid": "Q38158985",
+        "label": "Royal National Park and Garawarra State Conservation Area"
+      }
+    ],
+    "105896": [
+      {
+        "qid": "Q38154413",
+        "label": "High Court of Australia (former)"
+      }
+    ],
+    "105897": [
+      {
+        "qid": "Q38148156",
+        "label": "Wave Hill Walk Off Route"
+      }
+    ],
+    "105914": [
+      {
+        "qid": "Q45178",
+        "label": "Sydney Opera House"
+      }
+    ],
+    "105919": [
+      {
+        "qid": "Q1804312",
+        "label": "Snowy Mountains Scheme"
+      }
+    ],
+    "105922": [
+      {
+        "qid": "Q5458630",
+        "label": "Flemington Racecourse"
+      }
+    ],
+    "105928": [
+      {
+        "qid": "Q1105244",
+        "label": "Cockatoo Island"
+      }
+    ],
+    "105931": [
+      {
+        "qid": "Q38163156",
+        "label": "Coal Mines Historic Site"
+      }
+    ],
+    "105932": [
+      {
+        "qid": "Q1046891",
+        "label": "Cascades Female Factory"
+      }
+    ],
+    "105933": [
+      {
+        "qid": "Q1144760",
+        "label": "Darlington Probation Station"
+      }
+    ],
+    "105935": [
+      {
+        "qid": "Q1577600",
+        "label": "Hyde Park Barracks"
+      }
+    ],
+    "105936": [
+      {
+        "qid": "Q1950814",
+        "label": "Mount William stone axe quarry"
+      }
+    ],
+    "105937": [
+      {
+        "qid": "Q38159983",
+        "label": "Cyprus Hellene Club - Australian Hall"
+      }
+    ],
+    "105957": [
+      {
+        "qid": "Q38166390",
+        "label": "Old Government House and the Government Domain"
+      }
+    ],
+    "105961": [
+      {
+        "qid": "Q38150598",
+        "label": "Old Great North Road"
+      }
+    ],
+    "105962": [
+      {
+        "qid": "Q38164056",
+        "label": "Kingston and Arthurs Vale Historic Area"
+      }
+    ],
+    "105967": [
+      {
+        "qid": "Q958356",
+        "label": "Lesueur National Park"
+      }
+    ],
+    "105974": [
+      {
+        "qid": "Q1421348",
+        "label": "Fitzgerald River National Park"
+      }
+    ],
+    "105976": [
+      {
+        "qid": "Q38151103",
+        "label": "Woolmers Estate"
+      }
+    ],
+    "105977": [
+      {
+        "qid": "Q19871567",
+        "label": "Brickendon Estate"
+      }
+    ],
+    "105982": [
+      {
+        "qid": "Q2104482",
+        "label": "Porongurup National Park"
+      }
+    ],
+    "105984": [
+      {
+        "qid": "Q1424748",
+        "label": "Kokoda Track"
+      }
+    ],
+    "105985": [
+      {
+        "qid": "Q433110",
+        "label": "ANZAC Cove"
+      }
+    ],
+    "105987": [
+      {
+        "qid": "Q28110472",
+        "label": "Howard Florey's laboratory"
+      }
+    ],
+    "105991": [
+      {
+        "qid": "Q38152469",
+        "label": "Majura Valley Natural Temperate Grassland"
+      }
+    ],
+    "105992": [
+      {
+        "qid": "Q134905",
+        "label": "K'gari"
+      }
+    ],
+    "105999": [
+      {
+        "qid": "Q38166105",
+        "label": "The Greater Blue Mountains Area"
+      }
+    ],
+    "106002": [
+      {
+        "qid": "Q38151906",
+        "label": "RAAF Williams Laverton - Eastern Hangars and West Workshops Precincts"
+      }
+    ],
+    "106007": [
+      {
+        "qid": "Q1535029",
+        "label": "Goldfields Water Supply Scheme"
+      }
+    ],
+    "106008": [
+      {
+        "qid": "Q38145203",
+        "label": "Wet Tropics World Heritage Area (Indigenous Values)"
+      }
+    ],
+    "106009": [
+      {
+        "qid": "Q21919992",
+        "label": "Bondi Beach"
+      }
+    ],
+    "106018": [
+      {
+        "qid": "Q3061684",
+        "label": "HMAS Diamantina"
+      }
+    ],
+    "106022": [
+      {
+        "qid": "Q38155743",
+        "label": "Koonalda Cave"
+      }
+    ],
+    "106025": [
+      {
+        "qid": "Q1620895",
+        "label": "Ngarrabullgan"
+      }
+    ],
+    "106033": [
+      {
+        "qid": "Q1123787",
+        "label": "Coranderrk"
+      }
+    ],
+    "106060": [
+      {
+        "qid": "Q38152349",
+        "label": "Cascades Female Factory Yard 4 North"
+      }
+    ],
+    "106061": [
+      {
+        "qid": "Q38141164",
+        "label": "The Burke, Wills, King and Yandruwandha National Heritage Place"
+      }
+    ],
+    "106062": [
+      {
+        "qid": "Q38165444",
+        "label": "HMAS Sydney II and HSK Kormoran Shipwreck Sites"
+      }
+    ],
+    "106063": [
+      {
+        "qid": "Q38161122",
+        "label": "The West Kimberley"
+      }
+    ],
+    "106064": [
+      {
+        "qid": "Q28184183",
+        "label": "Qantas Hangar, Longreach"
+      }
+    ],
+    "106065": [
+      {
+        "qid": "Q38149820",
+        "label": "HMAS Sydney II and HSK Kormoran Shipwreck Sites"
+      }
+    ],
+    "106083": [
+      {
+        "qid": "Q38165593",
+        "label": "ABC Regional Radio Studio"
+      }
+    ],
+    "106088": [
+      {
+        "qid": "Q38157727",
+        "label": "Wurrwurrwuy"
+      }
+    ],
+    "106096": [
+      {
+        "qid": "Q38154455",
+        "label": "Australian Cornish Mining Sites: Moonta"
+      }
+    ],
+    "106098": [
+      {
+        "qid": "Q38165211",
+        "label": "Moree Baths and Swimming Pool"
+      }
+    ],
+    "106116": [
+      {
+        "qid": "Q38146200",
+        "label": "Sydney Airport Air Traffic Control Tower"
+      }
+    ],
+    "106117": [
+      {
+        "qid": "Q38150292",
+        "label": "Hobart Airport Air Traffic Control Tower"
+      }
+    ],
+    "106118": [
+      {
+        "qid": "Q38161838",
+        "label": "Bankstown Airport Air Traffic Control Tower"
+      }
+    ],
+    "106119": [
+      {
+        "qid": "Q38151495",
+        "label": "Essendon Airport Air Traffic Control Tower"
+      }
+    ],
+    "106120": [
+      {
+        "qid": "Q38167266",
+        "label": "Parafield Airport Air Traffic Control Tower"
+      }
+    ],
+    "106121": [
+      {
+        "qid": "Q38170354",
+        "label": "Launceston Airport Air Traffic Control Tower"
+      }
+    ],
+    "106123": [
+      {
+        "qid": "Q38151998",
+        "label": "Boonah Post Office"
+      }
+    ],
+    "106124": [
+      {
+        "qid": "Q38151628",
+        "label": "Bowen Post Office"
+      }
+    ],
+    "106125": [
+      {
+        "qid": "Q38154187",
+        "label": "Bundaberg Post Office"
+      }
+    ],
+    "106126": [
+      {
+        "qid": "Q30101298",
+        "label": "Inverell Post Office"
+      }
+    ],
+    "106127": [
+      {
+        "qid": "Q38152258",
+        "label": "Macksville Post Office"
+      }
+    ],
+    "106128": [
+      {
+        "qid": "Q38154659",
+        "label": "Muswellbrook Post Office"
+      }
+    ],
+    "106129": [
+      {
+        "qid": "Q38148193",
+        "label": "Temora Post Office"
+      }
+    ],
+    "106130": [
+      {
+        "qid": "Q38155621",
+        "label": "Camperdown Post Office"
+      }
+    ],
+    "106131": [
+      {
+        "qid": "Q38153998",
+        "label": "Canterbury Post Office"
+      }
+    ],
+    "106132": [
+      {
+        "qid": "Q38156119",
+        "label": "Kerang Post Office"
+      }
+    ],
+    "106133": [
+      {
+        "qid": "Q28929238",
+        "label": "Kyneton Post Office"
+      }
+    ],
+    "106134": [
+      {
+        "qid": "Q38151203",
+        "label": "Inglewood Post Office"
+      }
+    ],
+    "106135": [
+      {
+        "qid": "Q38162816",
+        "label": "Hamilton Post Office"
+      }
+    ],
+    "106136": [
+      {
+        "qid": "Q38153359",
+        "label": "North Adelaide Post Office"
+      }
+    ],
+    "106137": [
+      {
+        "qid": "Q24190098",
+        "label": "Port Pirie Post Office"
+      }
+    ],
+    "106138": [
+      {
+        "qid": "Q38156732",
+        "label": "Renmark Post Office"
+      }
+    ],
+    "106139": [
+      {
+        "qid": "Q38141763",
+        "label": "Yass Post Office"
+      }
+    ],
+    "106140": [
+      {
+        "qid": "Q38160864",
+        "label": "Maryborough Post Office"
+      }
+    ],
+    "106141": [
+      {
+        "qid": "Q28929634",
+        "label": "Traralgon Post Office"
+      }
+    ],
+    "106143": [
+      {
+        "qid": "Q38167425",
+        "label": "Botany Post Office"
+      }
+    ],
+    "106144": [
+      {
+        "qid": "Q38169181",
+        "label": "North Sydney Post Office"
+      }
+    ],
+    "106146": [
+      {
+        "qid": "Q38148798",
+        "label": "Orange Post Office"
+      }
+    ],
+    "106149": [
+      {
+        "qid": "Q38148758",
+        "label": "Murtoa No 1 Grain Store"
+      }
+    ],
+    "106152": [
+      {
+        "qid": "Q38149712",
+        "label": "Edward Braddon Commonwealth Law Courts"
+      }
+    ],
+    "106165": [
+      {
+        "qid": "Q12252353",
+        "label": "High Commission of Australia, London"
+      }
+    ],
+    "106166": [
+      {
+        "qid": "Q38149262",
+        "label": "Residence of the Australian Ambassador in Washington"
+      }
+    ],
+    "106167": [
+      {
+        "qid": "Q38149666",
+        "label": "HMS Sirius Shipwreck"
+      }
+    ],
+    "106168": [
+      {
+        "qid": "Q38152955",
+        "label": "Jordan River levee site"
+      }
+    ],
+    "106172": [
+      {
+        "qid": "Q38158012",
+        "label": "Ayr Post Office"
+      }
+    ],
+    "106174": [
+      {
+        "qid": "Q38156481",
+        "label": "Bondi Beach Post Office"
+      }
+    ],
+    "106175": [
+      {
+        "qid": "Q38160908",
+        "label": "Byron Bay Post Office"
+      }
+    ],
+    "106176": [
+      {
+        "qid": "Q38153536",
+        "label": "Camden Post Office"
+      }
+    ],
+    "106178": [
+      {
+        "qid": "Q38168746",
+        "label": "Cobar Post Office"
+      }
+    ],
+    "106191": [
+      {
+        "qid": "Q38152559",
+        "label": "The Royal Australian Mint"
+      }
+    ],
+    "106196": [
+      {
+        "qid": "Q38151404",
+        "label": "Wingham Post Office"
+      }
+    ],
+    "106197": [
+      {
+        "qid": "Q38161966",
+        "label": "Victoria Park Post Office"
+      }
+    ],
+    "106198": [
+      {
+        "qid": "Q38152511",
+        "label": "Tumut Post Office"
+      }
+    ],
+    "106199": [
+      {
+        "qid": "Q38164137",
+        "label": "Scone Post Office"
+      }
+    ],
+    "106200": [
+      {
+        "qid": "Q38151542",
+        "label": "Ingham Post Office"
+      }
+    ],
+    "106201": [
+      {
+        "qid": "Q38153487",
+        "label": "Euroa Post Office"
+      }
+    ],
+    "106202": [
+      {
+        "qid": "Q38160363",
+        "label": "Cooroy Post Office"
+      }
+    ],
+    "106203": [
+      {
+        "qid": "Q38170260",
+        "label": "Cronulla Post Office"
+      }
+    ],
+    "106204": [
+      {
+        "qid": "Q38155525",
+        "label": "Marrickville Post Office"
+      }
+    ],
+    "106241": [
+      {
+        "qid": "Q28110505",
+        "label": "Canberra Main Outfall Sewer"
+      }
+    ],
+    "106277": [
+      {
+        "qid": "Q860621",
+        "label": "Queen Victoria Market"
+      }
+    ],
+    "106304": [
+      {
+        "qid": "Q38166058",
+        "label": "Australian Cornish Mining Sites: Burra"
+      }
+    ],
+    "106305": [
+      {
+        "qid": "Q56705791",
+        "label": "Domain Parklands"
+      }
+    ],
+    "106345": [
+      {
+        "qid": "Q148044",
+        "label": "Parkes Observatory"
+      }
+    ],
+    "1158": [
+      {
+        "qid": "Q4879076",
+        "label": "Bedervale"
+      }
+    ],
+    "12070": [
+      {
+        "qid": "Q28375271",
+        "label": "Mersey Bluff Lighthouse"
+      }
+    ],
+    "1309": [
+      {
+        "qid": "Q24189901",
+        "label": "St John's Anglican Church, Newcastle"
+      }
+    ],
+    "13186": [
+      {
+        "qid": "Q102192035",
+        "label": "Ross Hotel"
+      }
+    ],
+    "13846": [
+      {
+        "qid": "Q94391240",
+        "label": "Robert Marsden Hope Building"
+      }
+    ],
+    "13867": [
+      {
+        "qid": "Q60189791",
+        "label": "Red Cross House"
+      }
+    ],
+    "14362": [
+      {
+        "qid": "Q55606306",
+        "label": "CBC Bank Building, Bega"
+      }
+    ],
+    "1445": [
+      {
+        "qid": "Q7675565",
+        "label": "Tahlee"
+      }
+    ],
+    "1446": [
+      {
+        "qid": "Q7675565",
+        "label": "Tahlee"
+      }
+    ],
+    "1447": [
+      {
+        "qid": "Q7675565",
+        "label": "Tahlee"
+      }
+    ],
+    "14625": [
+      {
+        "qid": "Q19879396",
+        "label": "St Kilda Cemetery"
+      }
+    ],
+    "14862": [
+      {
+        "qid": "Q21970741",
+        "label": "Beeliar Regional Park"
+      }
+    ],
+    "1541": [
+      {
+        "qid": "Q60228235",
+        "label": "Illawarra Museum"
+      }
+    ],
+    "15892": [
+      {
+        "qid": "Q55634944",
+        "label": "Tenterfield Creek railway bridge, Sunnyside"
+      }
+    ],
+    "15942": [
+      {
+        "qid": "Q28109879",
+        "label": "Cooks River Sewer Aqueduct"
+      }
+    ],
+    "15943": [
+      {
+        "qid": "Q28109887",
+        "label": "Wolli Creek Sewer Aqueduct"
+      }
+    ],
+    "15944": [
+      {
+        "qid": "Q28109883",
+        "label": "Johnston's Creek Sewer Aqueduct"
+      }
+    ],
+    "15945": [
+      {
+        "qid": "Q28109886",
+        "label": "Whites Creek Sewer Aqueduct"
+      }
+    ],
+    "16061": [
+      {
+        "qid": "Q18618925",
+        "label": "Barwon Sewer Aqueduct"
+      }
+    ],
+    "16274": [
+      {
+        "qid": "Q5370996",
+        "label": "Emery Point Light"
+      }
+    ],
+    "1632": [
+      {
+        "qid": "Q58202212",
+        "label": "Throsby Park"
+      }
+    ],
+    "1633": [
+      {
+        "qid": "Q58202212",
+        "label": "Throsby Park"
+      }
+    ],
+    "16455": [
+      {
+        "qid": "Q7056470",
+        "label": "North Reef Light"
+      }
+    ],
+    "16653": [
+      {
+        "qid": "Q7056133",
+        "label": "Fremantle North Mole Lighthouse"
+      }
+    ],
+    "1674": [
+      {
+        "qid": "Q5021748",
+        "label": "Callan Park"
+      }
+    ],
+    "1675": [
+      {
+        "qid": "Q5021748",
+        "label": "Callan Park"
+      }
+    ],
+    "1676": [
+      {
+        "qid": "Q5021748",
+        "label": "Callan Park"
+      }
+    ],
+    "1677": [
+      {
+        "qid": "Q5021748",
+        "label": "Callan Park"
+      }
+    ],
+    "1678": [
+      {
+        "qid": "Q5021748",
+        "label": "Callan Park"
+      }
+    ],
+    "1679": [
+      {
+        "qid": "Q5021748",
+        "label": "Callan Park"
+      }
+    ],
+    "1680": [
+      {
+        "qid": "Q5021748",
+        "label": "Callan Park"
+      }
+    ],
+    "1681": [
+      {
+        "qid": "Q5021748",
+        "label": "Callan Park"
+      }
+    ],
+    "1682": [
+      {
+        "qid": "Q5021748",
+        "label": "Callan Park"
+      }
+    ],
+    "1683": [
+      {
+        "qid": "Q5021748",
+        "label": "Callan Park"
+      }
+    ],
+    "16983": [
+      {
+        "qid": "Q52421719",
+        "label": "Gawler Chambers"
+      }
+    ],
+    "17018": [
+      {
+        "qid": "Q38163377",
+        "label": "Commonwealth Offices Building"
+      }
+    ],
+    "1716": [
+      {
+        "qid": "Q15894159",
+        "label": "St Peters Church"
+      }
+    ],
+    "17189": [
+      {
+        "qid": "Q5034949",
+        "label": "Cape Moreton Light"
+      }
+    ],
+    "1751": [
+      {
+        "qid": "Q19880206",
+        "label": "Ventnor"
+      }
+    ],
+    "1787": [
+      {
+        "qid": "Q5196499",
+        "label": "Customs House, Sydney"
+      }
+    ],
+    "1799": [
+      {
+        "qid": "Q60233535",
+        "label": "16–18 Bulletin Place, Sydney"
+      }
+    ],
+    "1801": [
+      {
+        "qid": "Q5953715",
+        "label": "Hyde Park Obelisk"
+      }
+    ],
+    "1803": [
+      {
+        "qid": "Q60189793",
+        "label": "348-352 George Street, Sydney"
+      }
+    ],
+    "1804": [
+      {
+        "qid": "Q60189794",
+        "label": "354 George Street, Sydney"
+      }
+    ],
+    "18122": [
+      {
+        "qid": "Q33232860",
+        "label": "Ballarat Avenue of Honour"
+      }
+    ],
+    "1819": [
+      {
+        "qid": "Q60189802",
+        "label": "The Judges House"
+      }
+    ],
+    "1820": [
+      {
+        "qid": "Q648182",
+        "label": "St James’ Church, Sydney"
+      }
+    ],
+    "1825": [
+      {
+        "qid": "Q1641346",
+        "label": "Sydney Mint"
+      }
+    ],
+    "1857": [
+      {
+        "qid": "Q54495",
+        "label": "Sydney Harbour Bridge"
+      }
+    ],
+    "1866": [
+      {
+        "qid": "Q2680709",
+        "label": "Government House"
+      }
+    ],
+    "18749": [
+      {
+        "qid": "Q7619043",
+        "label": "Stone Wall"
+      }
+    ],
+    "19029": [
+      {
+        "qid": "Q7493667",
+        "label": "Shell House"
+      }
+    ],
+    "19045": [
+      {
+        "qid": "Q4942778",
+        "label": "Booby Island Light"
+      }
+    ],
+    "19047": [
+      {
+        "qid": "Q97121471",
+        "label": "Gunnedah Cemetery"
+      }
+    ],
+    "1907": [
+      {
+        "qid": "Q33158029",
+        "label": "Hong Kong House"
+      }
+    ],
+    "191": [
+      {
+        "qid": "Q251999",
+        "label": "Uluṟu-Kata Tjuṯa National Park"
+      }
+    ],
+    "19111": [
+      {
+        "qid": "Q28110176",
+        "label": "Sewer Vent No 1"
+      }
+    ],
+    "19112": [
+      {
+        "qid": "Q28110180",
+        "label": "Sewer Vent No 2"
+      }
+    ],
+    "19113": [
+      {
+        "qid": "Q28110184",
+        "label": "Sewer Vent No 3"
+      }
+    ],
+    "19181": [
+      {
+        "qid": "Q5002095",
+        "label": "Bustard Head Light"
+      }
+    ],
+    "19571": [
+      {
+        "qid": "Q5259374",
+        "label": "Dent Island Light"
+      }
+    ],
+    "19575": [
+      {
+        "qid": "Q7417192",
+        "label": "Sandy Cape Light"
+      }
+    ],
+    "19707": [
+      {
+        "qid": "Q28109974",
+        "label": "Shone Ejector Station"
+      }
+    ],
+    "1982": [
+      {
+        "qid": "Q7593526",
+        "label": "St John's Anglican Church, Darlinghurst"
+      }
+    ],
+    "1983": [
+      {
+        "qid": "Q7593526",
+        "label": "St John's Anglican Church, Darlinghurst"
+      }
+    ],
+    "19840": [
+      {
+        "qid": "Q28244455",
+        "label": "Bessieres Island Lighthouse"
+      }
+    ],
+    "19860": [
+      {
+        "qid": "Q7959291",
+        "label": "Wadjemup Lighthouse"
+      }
+    ],
+    "19880": [
+      {
+        "qid": "Q118728037",
+        "label": "Uniting Church Cemetery Hobbys Yards"
+      }
+    ],
+    "2000": [
+      {
+        "qid": "Q656521",
+        "label": "Elizabeth Bay House"
+      }
+    ],
+    "2076": [
+      {
+        "qid": "Q5316515",
+        "label": "Durham Hall"
+      }
+    ],
+    "209": [
+      {
+        "qid": "Q55606048",
+        "label": "Brundah"
+      }
+    ],
+    "2123": [
+      {
+        "qid": "Q43371259",
+        "label": "ASN Co building"
+      }
+    ],
+    "2164": [
+      {
+        "qid": "Q5572186",
+        "label": "Glover cottages"
+      }
+    ],
+    "2192": [
+      {
+        "qid": "Q60169658",
+        "label": "Erskine Street Police Station"
+      }
+    ],
+    "2347": [
+      {
+        "qid": "Q7331038",
+        "label": "Richmond Villa"
+      }
+    ],
+    "2353": [
+      {
+        "qid": "Q45178",
+        "label": "Sydney Opera House"
+      }
+    ],
+    "2360": [
+      {
+        "qid": "Q60189783",
+        "label": "Trust Building"
+      }
+    ],
+    "2474": [
+      {
+        "qid": "Q2972578",
+        "label": "Waverley Cemetery"
+      }
+    ],
+    "2480": [
+      {
+        "qid": "Q5134976",
+        "label": "Cloncorrick, Darling Point"
+      }
+    ],
+    "2577": [
+      {
+        "qid": "Q7767669",
+        "label": "The Swifts"
+      }
+    ],
+    "2582": [
+      {
+        "qid": "Q4918081",
+        "label": "Bishopscourt, Darling Point"
+      }
+    ],
+    "288": [
+      {
+        "qid": "Q55632367",
+        "label": "Saints Mary and Joseph Catholic Cathedral"
+      }
+    ],
+    "2928": [
+      {
+        "qid": "Q8003337",
+        "label": "Willandra, Ryde"
+      }
+    ],
+    "2938": [
+      {
+        "qid": "Q55637360",
+        "label": "Walter Burley Griffin Lodge"
+      }
+    ],
+    "2940": [
+      {
+        "qid": "Q15196838",
+        "label": "Barrenjoey Head Lighthouse"
+      }
+    ],
+    "2987": [
+      {
+        "qid": "Q55633823",
+        "label": "St Bartholomew's Anglican Church and Cemetery, Prospect"
+      }
+    ],
+    "3011": [
+      {
+        "qid": "Q55888246",
+        "label": "Horsley complex"
+      }
+    ],
+    "3012": [
+      {
+        "qid": "Q55888246",
+        "label": "Horsley complex"
+      }
+    ],
+    "3149": [
+      {
+        "qid": "Q58204650",
+        "label": "Johnston Street terraces"
+      }
+    ],
+    "3161": [
+      {
+        "qid": "Q58204701",
+        "label": "Court House Hotel, Windsor"
+      }
+    ],
+    "3236": [
+      {
+        "qid": "Q17986230",
+        "label": "Camelot, Kirkham"
+      }
+    ],
+    "3295": [
+      {
+        "qid": "Q58201914",
+        "label": "St Luke's Anglican Church, Liverpool"
+      }
+    ],
+    "3323": [
+      {
+        "qid": "Q55635291",
+        "label": "The Homestead (Georges Hall)"
+      }
+    ],
+    "3344": [
+      {
+        "qid": "Q55638058",
+        "label": "Yasmar"
+      }
+    ],
+    "3345": [
+      {
+        "qid": "Q55638058",
+        "label": "Yasmar"
+      }
+    ],
+    "3416": [
+      {
+        "qid": "Q7568510",
+        "label": "South Solitary Island Light"
+      }
+    ],
+    "3431": [
+      {
+        "qid": "Q55607544",
+        "label": "Christ Church Cathedral, Grafton"
+      }
+    ],
+    "371": [
+      {
+        "qid": "Q55627367",
+        "label": "Ohio Homestead"
+      }
+    ],
+    "380": [
+      {
+        "qid": "Q30103042",
+        "label": "St. Andrew's Anglican Church"
+      }
+    ],
+    "4983": [
+      {
+        "qid": "Q7018440",
+        "label": "Newman College"
+      }
+    ],
+    "502": [
+      {
+        "qid": "Q38146083",
+        "label": "Wellington Post Office"
+      }
+    ],
+    "5054713": [
+      {
+        "qid": "Q1088015",
+        "label": "St Andrew's Cathedral"
+      }
+    ],
+    "5210": [
+      {
+        "qid": "Q7085326",
+        "label": "Old Treasury Building"
+      }
+    ],
+    "5216": [
+      {
+        "qid": "Q3444049",
+        "label": "Fitzroy Gardens"
+      }
+    ],
+    "5274": [
+      {
+        "qid": "Q829338",
+        "label": "Carlton Gardens"
+      }
+    ],
+    "545": [
+      {
+        "qid": "Q56817653",
+        "label": "Broken Hill Town Hall"
+      }
+    ],
+    "5527": [
+      {
+        "qid": "Q28109938",
+        "label": "Spotswood Pumping Station"
+      }
+    ],
+    "555": [
+      {
+        "qid": "Q55637539",
+        "label": "Wesley Uniting Church, Broken Hill"
+      }
+    ],
+    "574": [
+      {
+        "qid": "Q55628401",
+        "label": "Palace Hotel, Broken Hill"
+      }
+    ],
+    "590": [
+      {
+        "qid": "Q55616021",
+        "label": "Kinchega Woolshed"
+      }
+    ],
+    "68679": [
+      {
+        "qid": "Q126202508",
+        "label": "Forests Office"
+      }
+    ],
+    "693": [
+      {
+        "qid": "Q7983021",
+        "label": "Wentworth Gaol"
+      }
+    ],
+    "7426": [
+      {
+        "qid": "Q28211308",
+        "label": "Cape St Albans lighthouse"
+      }
+    ],
+    "780": [
+      {
+        "qid": "Q17008358",
+        "label": "Jenolan Caves House"
+      }
+    ],
+    "8265": [
+      {
+        "qid": "Q28375319",
+        "label": "Cape Banks lighthouse"
+      }
+    ],
+    "858": [
+      {
+        "qid": "Q4950838",
+        "label": "Bowenfels railway station"
+      }
+    ],
+    "859": [
+      {
+        "qid": "Q4950838",
+        "label": "Bowenfels railway station"
+      }
+    ],
+    "8651": [
+      {
+        "qid": "Q5132205",
+        "label": "Cleveland Point Light"
+      }
+    ],
+    "877": [
+      {
+        "qid": "Q55615448",
+        "label": "Junction Reefs Dam"
+      }
+    ],
+    "897": [
+      {
+        "qid": "Q55886162",
+        "label": "Duntryleague with Lodge, Park, Gates and former Stables, Woodward St, Orange, NSW, Australia"
+      }
+    ],
+    "957": [
+      {
+        "qid": "Q55607782",
+        "label": "Cliefden, Mandurama"
+      }
+    ],
+    "958": [
+      {
+        "qid": "Q17986536",
+        "label": "Cliefden Caves"
+      }
+    ],
+    "9686": [
+      {
+        "qid": "Q1722083",
+        "label": "Kalbarri National Park"
+      }
+    ],
+    "9928": [
+      {
+        "qid": "Q5309628",
+        "label": "Dryandra Woodland National Park"
+      }
+    ],
+    "9969": [
+      {
+        "qid": "Q17986513",
+        "label": "Clackline Nature Reserve"
+      }
+    ]
+  }
+}

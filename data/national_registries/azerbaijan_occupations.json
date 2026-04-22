@@ -1,0 +1,1766 @@
+{
+  "metadata": {
+    "source": "Azərbaycan Respublikasının Dövlət Statistika Komitəsi - Məşğulluq Təsnifatı (AZT041-2010)",
+    "country": "AZ",
+    "language": "az",
+    "isco_version": "ISCO-08",
+    "classification_code": "AZT041-2010",
+    "effective_date": "2011-01-10",
+    "count": 438,
+    "date_parsed": "2026-04-22"
+  },
+  "entries": [
+    {
+      "code": "0110",
+      "name_az": "Silahlı qüvvələrin zabit heyəti"
+    },
+    {
+      "code": "0210",
+      "name_az": "Silahlı qüvvələrin çavuş heyəti"
+    },
+    {
+      "code": "0310",
+      "name_az": "Silahlı qüvvələrin sair heyətləri"
+    },
+    {
+      "code": "1111",
+      "name_az": "Qanunvericilər"
+    },
+    {
+      "code": "1112",
+      "name_az": "Yüksək vəzifəli hökumət qulluqçuları"
+    },
+    {
+      "code": "1113",
+      "name_az": "Ənənəvi başçılar və yaşayış yerlərinin başçıları"
+    },
+    {
+      "code": "1114",
+      "name_az": "İctimai təşkilatların yüksək vəzifəli şəxsləri"
+    },
+    {
+      "code": "1120",
+      "name_az": "Direktorlar və baş rəhbərlər"
+    },
+    {
+      "code": "1211",
+      "name_az": "Maliyyə xidmətlərinin rəhbərləri"
+    },
+    {
+      "code": "1212",
+      "name_az": "Heyətin və istehsal münasibətlərinin idarə edilməsi xidmətlərinin rəhbərləri"
+    },
+    {
+      "code": "1213",
+      "name_az": "Siyasət və planlaşdırma üzrə rəhbərlər"
+    },
+    {
+      "code": "1219",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən biznes və inzibati xidmətlərin rəhbərləri"
+    },
+    {
+      "code": "1221",
+      "name_az": "Satış və marketinq üzrə xidmətlərin rəhbərləri"
+    },
+    {
+      "code": "1222",
+      "name_az": "Reklam və ictimaiyyətlə əlaqələr üzrə xidmətlərin rəhbərləri"
+    },
+    {
+      "code": "1223",
+      "name_az": "Elmi tədqiqatlar və elmi işlər üzrə bölmələrin rəhbərləri"
+    },
+    {
+      "code": "1311",
+      "name_az": "Kənd təsərrüfatı və meşəçilikdə istehsalat üzrə bölmələrin rəhbərləri"
+    },
+    {
+      "code": "1312",
+      "name_az": "Balıqyetişdirmədə və balıqçılıqda istehsalat üzrə bölmələrin rəhbərləri"
+    },
+    {
+      "code": "1321",
+      "name_az": "Emal sənayesində baş idarəedənlər"
+    },
+    {
+      "code": "1322",
+      "name_az": "Dağ-mədən sənayesində baş idarəedənlər"
+    },
+    {
+      "code": "1323",
+      "name_az": "Tikintidə baş idarəedənlər"
+    },
+    {
+      "code": "1324",
+      "name_az": "Təchizat və malların yayılması üzrə xidmətlərin rəhbərləri"
+    },
+    {
+      "code": "1330",
+      "name_az": "İnformasiya və kommunikasiya texnologiyaları xidmətlərinin rəhbərləri"
+    },
+    {
+      "code": "1341",
+      "name_az": "Uşaqlara qulluq üzrə xidmətlərin rəhbərləri"
+    },
+    {
+      "code": "1342",
+      "name_az": "Tibbi xidmətlərin rəhbərləri"
+    },
+    {
+      "code": "1343",
+      "name_az": "Qocalara qulluq üzrə xidmətlərin rəhbərləri"
+    },
+    {
+      "code": "1344",
+      "name_az": "Sosial təminat xidmətlərinin rəhbərləri"
+    },
+    {
+      "code": "1345",
+      "name_az": "Təhsil xidmətlərinin rəhbərləri"
+    },
+    {
+      "code": "1346",
+      "name_az": "Maliyyə və sığorta xidmətlərinin rəhbərləri"
+    },
+    {
+      "code": "1349",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən peşəkar xidmətlərin rəhbərləri"
+    },
+    {
+      "code": "1411",
+      "name_az": "Mehmanxanaların rəhbərləri (idarəedənləri)"
+    },
+    {
+      "code": "1412",
+      "name_az": "Restoranların rəhbərləri (idarəedənləri)"
+    },
+    {
+      "code": "1420",
+      "name_az": "Topdansatış və pərakəndə ticarətdə rəhbərlər (idarəedənlər)"
+    },
+    {
+      "code": "1431",
+      "name_az": "İdman, istirahət və mədəniyyət mərkəzlərinin rəhbərləri (idarəedənləri)"
+    },
+    {
+      "code": "1439",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən xidmətlər üzrə rəhbərlər"
+    },
+    {
+      "code": "2111",
+      "name_az": "Fizik, mexanika"
+    },
+    {
+      "code": "2112",
+      "name_az": "Meteoroloqlar"
+    },
+    {
+      "code": "2113",
+      "name_az": "Kimyaçılar"
+    },
+    {
+      "code": "2114",
+      "name_az": "Geoloqlar və geofiziklər"
+    },
+    {
+      "code": "2120",
+      "name_az": "Riyaziyyatçılar, aktuarlar, statistiklər və bunlara yaxın peşələrin peşəkar mütəxəssisləri"
+    },
+    {
+      "code": "2121",
+      "name_az": "Standartlaşdırma və metrologiya üzrə mütəxəssislər"
+    },
+    {
+      "code": "2131",
+      "name_az": "Bioloqlar, botaniklər, zooloqlar və bunlara yaxın peşələrin peşəkar mütəxəssisləri"
+    },
+    {
+      "code": "2132",
+      "name_az": "Kənd təsərrüfatı, meşəçilik və balıqçılıq üzrə məsləhətçilər"
+    },
+    {
+      "code": "2133",
+      "name_az": "Ətraf mühitin mühafizəsi üzrə peşəkar"
+    },
+    {
+      "code": "2141",
+      "name_az": "İstehsalat mühəndisləri və mühəndistexnoloqlar"
+    },
+    {
+      "code": "2142",
+      "name_az": "Mülki tikinti üzrə mühəndislər"
+    },
+    {
+      "code": "2143",
+      "name_az": "Ətraf mühitin mühafizəsi üzrə mühəndislər"
+    },
+    {
+      "code": "2144",
+      "name_az": "Mühəndislər-mexaniklər"
+    },
+    {
+      "code": "2145",
+      "name_az": "Mühəndislər-kimyaçılar"
+    },
+    {
+      "code": "2146",
+      "name_az": "Dağ-mədən mühəndisləri, metallurqlar və bunlara yaxın peşələrin peşəkar mütəxəssisləri"
+    },
+    {
+      "code": "2149",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən mühəndislər və bunlara yaxın peşələrin peşəkar mütəxəssisləri"
+    },
+    {
+      "code": "2151",
+      "name_az": "Mühəndislər-elektriklər"
+    },
+    {
+      "code": "2152",
+      "name_az": "Mühəndislər-elektronçular"
+    },
+    {
+      "code": "2153",
+      "name_az": "Telekommunikasiya üzrə mühəndislər"
+    },
+    {
+      "code": "2161",
+      "name_az": "Tikinti üzrə memarlar"
+    },
+    {
+      "code": "2162",
+      "name_az": "Mənzərə üzrə memarlar"
+    },
+    {
+      "code": "2163",
+      "name_az": "Məhsul və geyim üzrə dizaynerlər"
+    },
+    {
+      "code": "2164",
+      "name_az": "Şəhərsalanlar və nəqliyyat qovşaqlarının layihəçiləri"
+    },
+    {
+      "code": "2165",
+      "name_az": "Kartoqraflar və topoqraflar"
+    },
+    {
+      "code": "2166",
+      "name_az": "Rəssam-tərtibatçılar və multimediya dizaynerləri"
+    },
+    {
+      "code": "2211",
+      "name_az": "Ümumi praktika ilə məşğul olan həkimlər"
+    },
+    {
+      "code": "2212",
+      "name_az": "İxtisaslaşmış həkimlər"
+    },
+    {
+      "code": "2221",
+      "name_az": "Tibbi qulluq üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2222",
+      "name_az": "Mamalıq üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2230",
+      "name_az": "Ənənəvi və qeyri-ənənəvi təbabətin həkimləri"
+    },
+    {
+      "code": "2240",
+      "name_az": "Orta tibb heyəti"
+    },
+    {
+      "code": "2250",
+      "name_az": "Baytar həkimləri"
+    },
+    {
+      "code": "2261",
+      "name_az": "Stomatoloqlar"
+    },
+    {
+      "code": "2262",
+      "name_az": "Əczaçılar"
+    },
+    {
+      "code": "2263",
+      "name_az": "Ətraf mühitin və əməyin gigiyenası üzrə mütəxəssislər"
+    },
+    {
+      "code": "2264",
+      "name_az": "Fizioterapevtlər"
+    },
+    {
+      "code": "2265",
+      "name_az": "Dietoloqlar və səmərəli qida üzrə mütəxəssislər"
+    },
+    {
+      "code": "2266",
+      "name_az": "Loqopedlər"
+    },
+    {
+      "code": "2267",
+      "name_az": "Optometristlər və optika mütəxəssisləri"
+    },
+    {
+      "code": "2269",
+      "name_az": "Səhiyyə sahəsində digər ibtidai qruplara daxil edilməyən peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2310",
+      "name_az": "Ali təhsil müəssisələrinin müəllimləri"
+    },
+    {
+      "code": "2320",
+      "name_az": "İlk peşə - ixtisas təhsili müəssisələrində müəllimlər"
+    },
+    {
+      "code": "2330",
+      "name_az": "Ümumi orta və tam orta ümumi təhsil məktəblərində müəllimlər"
+    },
+    {
+      "code": "2341",
+      "name_az": "İbtidai təhsil səviyyəsində (ibtidai məktəblərdə) müəllimlər"
+    },
+    {
+      "code": "2342",
+      "name_az": "Məktəbəqədər təhsil müəssisələrində pedaqoji işçilər"
+    },
+    {
+      "code": "2351",
+      "name_az": "Təhsilin metodikası üzrə mütəxəssislər"
+    },
+    {
+      "code": "2352",
+      "name_az": "Xüsusi təhsil sahəsində müəllimlər"
+    },
+    {
+      "code": "2353",
+      "name_az": "Sair dil müəllimləri"
+    },
+    {
+      "code": "2354",
+      "name_az": "Sair musiqi müəllimləri"
+    },
+    {
+      "code": "2355",
+      "name_az": "Sair incəsənət müəllimləri"
+    },
+    {
+      "code": "2356",
+      "name_az": "İnformatika müəllimləri"
+    },
+    {
+      "code": "2359",
+      "name_az": "Təhsil sahəsində digər ibtidai qruplara daxil edilməyən sair peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2360",
+      "name_az": "Orta ixtisas təhsili müəssisələrinin müəllimləri"
+    },
+    {
+      "code": "2411",
+      "name_az": "Mühasiblər"
+    },
+    {
+      "code": "2412",
+      "name_az": "Maliyyə və investisiyalar üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2413",
+      "name_az": "Maliyyə təhlilçiləri"
+    },
+    {
+      "code": "2421",
+      "name_az": "İdarəetmə və təşkilati işlər üzrə təhlilçilər"
+    },
+    {
+      "code": "2422",
+      "name_az": "Siyasi idarəetmə üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2423",
+      "name_az": "Kadrlar və peşə yönümü üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2424",
+      "name_az": "Təlimlər və kadrlar üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2431",
+      "name_az": "Reklam və marketinq üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2432",
+      "name_az": "İctimaiyyətlə əlaqələr üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2433",
+      "name_az": "Texnika və tibb texnikasının satışı üzrə peşəkar mütəxəssislər (İKT istisna olmaqla)"
+    },
+    {
+      "code": "2434",
+      "name_az": "İnformasiya və kommunikasiya texnologiyalarının satışı üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2452",
+      "name_az": "Mühəndislər-elektronçular"
+    },
+    {
+      "code": "2511",
+      "name_az": "Sistem təhlilçiləri"
+    },
+    {
+      "code": "2512",
+      "name_az": "Proqram təminatı yaradıcıları"
+    },
+    {
+      "code": "2513",
+      "name_az": "Veb və multimedia yaradıcıları"
+    },
+    {
+      "code": "2514",
+      "name_az": "Tətbiqi proqramçılar"
+    },
+    {
+      "code": "2519",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən proqram təminatı və sistem yaradıcıları və təhlilçiləri"
+    },
+    {
+      "code": "2521",
+      "name_az": "Məlumat bazalarının dizaynerləri və administratorları"
+    },
+    {
+      "code": "2522",
+      "name_az": "Sistem administratorları"
+    },
+    {
+      "code": "2523",
+      "name_az": "Kompüter şəbəkəsi üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2529",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən məlumat bazası və kompüter şəbəkəsi üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2611",
+      "name_az": "Hüquqşünaslar"
+    },
+    {
+      "code": "2612",
+      "name_az": "Hakimlər"
+    },
+    {
+      "code": "2619",
+      "name_az": "Digər ibtidai qruplara daxil olmayan hüquq sahəsində peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2621",
+      "name_az": "Arxivçilər və muzey mühafizəçiləri"
+    },
+    {
+      "code": "2622",
+      "name_az": "Kitabxanaçılar və informasiya ilə əlaqədar bir-birinə yaxın peşələrin peşəkar mütəxəssisləri"
+    },
+    {
+      "code": "2631",
+      "name_az": "İqtisadçılar"
+    },
+    {
+      "code": "2632",
+      "name_az": "Sosioloqlar, antropoloqlar və bunlara yaxın peşələrin peşəkar mütəxəssisləri"
+    },
+    {
+      "code": "2633",
+      "name_az": "Filosoflar, tarixçilər və politoloqlar"
+    },
+    {
+      "code": "2634",
+      "name_az": "Psixoloqlar"
+    },
+    {
+      "code": "2635",
+      "name_az": "Sosial problemlər və məsləhətlər üzrə peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2636",
+      "name_az": "Din sahəsində peşəkar mütəxəssislər"
+    },
+    {
+      "code": "2641",
+      "name_az": "Yazıçılar"
+    },
+    {
+      "code": "2642",
+      "name_az": "Jurnalistlər"
+    },
+    {
+      "code": "2643",
+      "name_az": "Yazılı və şifahi tərcüməçilər"
+    },
+    {
+      "code": "2651",
+      "name_az": "Təsviri incəsənət ustaları"
+    },
+    {
+      "code": "2652",
+      "name_az": "Bəstəkarlar, musiqiçilər və müğənnilər"
+    },
+    {
+      "code": "2653",
+      "name_az": "Xoreoqraflar və rəqqaslar"
+    },
+    {
+      "code": "2654",
+      "name_az": "Kino, teatr rejissorları və bunlara yaxın incəsənət xadimləri"
+    },
+    {
+      "code": "2655",
+      "name_az": "Aktyorlar"
+    },
+    {
+      "code": "2656",
+      "name_az": "Radio, televiziya diktorları və sair diktorlar"
+    },
+    {
+      "code": "2659",
+      "name_az": "Digər ibtidai qruplara daxil olmayan incəsənət xadimləri"
+    },
+    {
+      "code": "3111",
+      "name_az": "Kimya və fizika elmləri sahəsində texniklər"
+    },
+    {
+      "code": "3112",
+      "name_az": "Mülki tikinti üzrə texniklər"
+    },
+    {
+      "code": "3113",
+      "name_az": "Texniklər-elektriklər"
+    },
+    {
+      "code": "3114",
+      "name_az": "Texniklər-elektronçular"
+    },
+    {
+      "code": "3115",
+      "name_az": "Texniklər-mexaniklər"
+    },
+    {
+      "code": "3116",
+      "name_az": "Kimya maşınqayırmasında texniklər"
+    },
+    {
+      "code": "3117",
+      "name_az": "Hasilat sənayesində və metallurgiyada texniklər"
+    },
+    {
+      "code": "3118",
+      "name_az": "Çertyojçular"
+    },
+    {
+      "code": "3119",
+      "name_az": "Fizika və texniki elmlərdə digər ibtidai qruplara daxil edilməyən texniklər"
+    },
+    {
+      "code": "3121",
+      "name_az": "Şaxtalarda nəzarətçilər"
+    },
+    {
+      "code": "3122",
+      "name_az": "İstehsalatda nəzarətçilər"
+    },
+    {
+      "code": "3123",
+      "name_az": "Tikintidə nəzarətçilər"
+    },
+    {
+      "code": "3131",
+      "name_az": "Enerji hasilatı üzrə qurğuların operatorları"
+    },
+    {
+      "code": "3132",
+      "name_az": "Yüksək temperaturlu sobaların, suyun emalı üzrə qurğuların operatorları"
+    },
+    {
+      "code": "3133",
+      "name_az": "Kimyəvi xammalın emalı üzrə qurğuların nəzarətçiləri"
+    },
+    {
+      "code": "3134",
+      "name_az": "Neft və qaz təmizləmə qurğularının operatorları"
+    },
+    {
+      "code": "3135",
+      "name_az": "Metalın emalı üzrə nəzarətçilər"
+    },
+    {
+      "code": "3139",
+      "name_az": "Digər ibtidai qruplara daxil olmayan texnoloji proseslərin idarə edilməsi üzrə texniki işçilər"
+    },
+    {
+      "code": "3141",
+      "name_az": "Təbiət elmləri sahəsində texniklər"
+    },
+    {
+      "code": "3142",
+      "name_az": "Kənd təsərrüfatında texniklər"
+    },
+    {
+      "code": "3143",
+      "name_az": "Meşə təsərrüfatında texniklər"
+    },
+    {
+      "code": "3151",
+      "name_az": "Gəmi mexanikləri"
+    },
+    {
+      "code": "3152",
+      "name_az": "Kapitanın göyərtə köməkçiləri və losmanlar"
+    },
+    {
+      "code": "3153",
+      "name_az": "Təyyarələrin pilotları və bunlara yaxın peşələrin mütəxəssisləri"
+    },
+    {
+      "code": "3154",
+      "name_az": "Təyyarələrin hərəkətinin nəzarətçiləri"
+    },
+    {
+      "code": "3155",
+      "name_az": "Təyyarələrin hərəkətinin təhlükəsizliyi üzrə mütəxəssislər"
+    },
+    {
+      "code": "3211",
+      "name_az": "Rentgen və müalicə avadanlıqlarının operatorları"
+    },
+    {
+      "code": "3212",
+      "name_az": "Tibbi və patoloji laboratoriya texnikləri"
+    },
+    {
+      "code": "3213",
+      "name_az": "Əczaçı texnikləri və köməkçiləri"
+    },
+    {
+      "code": "3214",
+      "name_az": "Diş texnikləri və protezçilər"
+    },
+    {
+      "code": "3221",
+      "name_az": "Tibbi qulluq üzrə köməkçi heyət"
+    },
+    {
+      "code": "3222",
+      "name_az": "Mamalıq üzrə köməkçi heyət"
+    },
+    {
+      "code": "3230",
+      "name_az": "Ənənəvi və qeyri-ənənəvi təbabətdə köməkçi heyət"
+    },
+    {
+      "code": "3240",
+      "name_az": "Feldşer-baytarlar və baytar köməkçiləri"
+    },
+    {
+      "code": "3251",
+      "name_az": "Feldşer-stomatoloqlar"
+    },
+    {
+      "code": "3252",
+      "name_az": "Tibbi hesablamalar və səhiyyə məlumatları üzrə texniklər"
+    },
+    {
+      "code": "3253",
+      "name_az": "Sanitar maarifləndirmə sahəsində işçilər"
+    },
+    {
+      "code": "3254",
+      "name_az": "Optika mütəxəssisləri (texniklər)"
+    },
+    {
+      "code": "3255",
+      "name_az": "Fizioterapiya sahəsində köməkçi heyət"
+    },
+    {
+      "code": "3256",
+      "name_az": "Feldşerlər"
+    },
+    {
+      "code": "3257",
+      "name_az": "Ətraf mühitin və əməyin gigiyenası üzrə nəzarətçilər"
+    },
+    {
+      "code": "3258",
+      "name_az": "Təcili yardım işçiləri"
+    },
+    {
+      "code": "3259",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən müasir səhiyyənin köməkçi heyəti"
+    },
+    {
+      "code": "3311",
+      "name_az": "Qiymətli kağızların və maliyyə sənədlərinin satışı üzrə dilerlər və brokerlər"
+    },
+    {
+      "code": "3312",
+      "name_az": "Kreditlərin verilməsi üzrə işçilər"
+    },
+    {
+      "code": "3313",
+      "name_az": "Mühasibat işində köməkçi heyət"
+    },
+    {
+      "code": "3314",
+      "name_az": "Statistika, riyaziyyat və oxşar sahələrin peşəkarları"
+    },
+    {
+      "code": "3315",
+      "name_az": "Qiymətləndiricilər və hərracçılar"
+    },
+    {
+      "code": "3321",
+      "name_az": "Sığorta agentləri"
+    },
+    {
+      "code": "3322",
+      "name_az": "Kommersiya satışları üzrə agentlər"
+    },
+    {
+      "code": "3323",
+      "name_az": "Tədarük üzrə agentlər"
+    },
+    {
+      "code": "3324",
+      "name_az": "Ticarət brokerləri"
+    },
+    {
+      "code": "3331",
+      "name_az": "Gömrük rüsumlarından azad olma üzrə agentlər"
+    },
+    {
+      "code": "3332",
+      "name_az": "Konfransların və tədbirlərin təşkilatçıları (planlaşdırıcıları)"
+    },
+    {
+      "code": "3333",
+      "name_az": "Əmək müqavilələri və məşğuliyyət üzrə agentlər"
+    },
+    {
+      "code": "3334",
+      "name_az": "Əmlakın satışı üzrə agentlər"
+    },
+    {
+      "code": "3339",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən kommersiya xidmətləri üzrə agentlər"
+    },
+    {
+      "code": "3341",
+      "name_az": "Ofis nəzarətçiləri"
+    },
+    {
+      "code": "3342",
+      "name_az": "Hüquq işində katiblər"
+    },
+    {
+      "code": "3343",
+      "name_az": "İnzibati və icraçı katiblər"
+    },
+    {
+      "code": "3344",
+      "name_az": "Tibb işində katiblər"
+    },
+    {
+      "code": "3351",
+      "name_az": "Gömrük və sərhəd müfəttişləri"
+    },
+    {
+      "code": "3352",
+      "name_az": "Vergilərin və aksizlərin ödənilməsinə nəzarət üzrə müfəttişlər"
+    },
+    {
+      "code": "3353",
+      "name_az": "Sosial müdafiə və pensiya təminatı üzrə dövlət qulluqçuları"
+    },
+    {
+      "code": "3354",
+      "name_az": "Lisenziyalar üzrə dövlət qulluqçuları"
+    },
+    {
+      "code": "3355",
+      "name_az": "Polis əməkdaşları (orta rəis heyəti) və detektivlər"
+    },
+    {
+      "code": "3359",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən dövlət fəaliyyəti üzrə köməkçi heyət"
+    },
+    {
+      "code": "3411",
+      "name_az": "Hüquq sahəsində köməkçi heyət və birbirinə yaxın peşələrin köməkçi heyəti"
+    },
+    {
+      "code": "3412",
+      "name_az": "Sosial problemlər sahəsinin köməkçi heyəti"
+    },
+    {
+      "code": "3413",
+      "name_az": "Din sahəsində dini rütbəsi olmayan köməkçi heyət"
+    },
+    {
+      "code": "3421",
+      "name_az": "Yüngül atletlər və idmançılar"
+    },
+    {
+      "code": "3422",
+      "name_az": "İdman məşqçiləri və təlimatçıları"
+    },
+    {
+      "code": "3423",
+      "name_az": "Fitnes və istirahət sahəsində məşqçilər"
+    },
+    {
+      "code": "3431",
+      "name_az": "Fotoqraflar"
+    },
+    {
+      "code": "3432",
+      "name_az": "Tərtibatçılar və dizaynerlər"
+    },
+    {
+      "code": "3433",
+      "name_az": "Teatr, muzey və kitabxanalarda köməkçi heyət"
+    },
+    {
+      "code": "3434",
+      "name_az": "Baş aşbazlar"
+    },
+    {
+      "code": "3435",
+      "name_az": "Mədəniyyət və incəsənət sahəsində sair köməkçi heyət"
+    },
+    {
+      "code": "3511",
+      "name_az": "İnformasiya və kommunikasiya texnologiyaları sahəsində operatorlar"
+    },
+    {
+      "code": "3512",
+      "name_az": "İnformasiya və kommunikasiya texnologiyaları sahəsində texniki köməkçi heyət"
+    },
+    {
+      "code": "3513",
+      "name_az": "Kompüter şəbəkəsi və sistem operatorları"
+    },
+    {
+      "code": "3514",
+      "name_az": "Veb operatorları"
+    },
+    {
+      "code": "3521",
+      "name_az": "Audio-vizual və radio, televiziya verilişləri üçün aparatların operatorları"
+    },
+    {
+      "code": "3522",
+      "name_az": "Telekommunikasiya üzrə texniklər"
+    },
+    {
+      "code": "4110",
+      "name_az": "İdarə (ofis) qulluqçuları"
+    },
+    {
+      "code": "4120",
+      "name_az": "Katiblər"
+    },
+    {
+      "code": "4131",
+      "name_az": "Makinaçılar və mətnlərin redaktə edilməsi və oxşar işlərin yerinə yetirilməsi üzrə avadanlığın operatorları"
+    },
+    {
+      "code": "4132",
+      "name_az": "Müxtəlif məlumatların daxil edilməsi üzrə avadanlığın operatorları"
+    },
+    {
+      "code": "4211",
+      "name_az": "Bank xəzinədarları və digər işçilər"
+    },
+    {
+      "code": "4212",
+      "name_az": "Bukmekerlər və krupyelər (qumarxana xidmətçiləri)"
+    },
+    {
+      "code": "4213",
+      "name_az": "Əşyaların girov qoyulması və borc pul verilməsi üzrə agentlər"
+    },
+    {
+      "code": "4214",
+      "name_az": "Hesablar və borclar üzrə ödənişlərin, habelə nağd məbləğlərin alınması üzrə işçilər"
+    },
+    {
+      "code": "4221",
+      "name_az": "Səyahətlər üzrə məsləhətçilər"
+    },
+    {
+      "code": "4222",
+      "name_az": "Müsafirlərin məlumatlandırılması üzrə işçilər"
+    },
+    {
+      "code": "4223",
+      "name_az": "Telefonçular"
+    },
+    {
+      "code": "4224",
+      "name_az": "Mehmanxanada müsafirlərin qəbulu üzrə işçilər"
+    },
+    {
+      "code": "4225",
+      "name_az": "İnformasiya bürolarının işçiləri"
+    },
+    {
+      "code": "4226",
+      "name_az": "Qəbul otaqlarının katibləri (resepşn işçiləri)"
+    },
+    {
+      "code": "4227",
+      "name_az": "Bazar konyunkturasını öyrənmək məqsədilə müsahibə alanlar və sorğu keçirənlər"
+    },
+    {
+      "code": "4229",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən müştərilərin məlumatlandırılması üzrə işçilər"
+    },
+    {
+      "code": "4311",
+      "name_az": "Mühasibat əməliyyatları və uçotu üzrə qulluqçular"
+    },
+    {
+      "code": "4312",
+      "name_az": "Statistika, sığorta və maliyyə məlumatlarının işlənməsi üzrə qulluqçular"
+    },
+    {
+      "code": "4313",
+      "name_az": "Ödəniş cədvəllərinin təşkili üzrə işçilər"
+    },
+    {
+      "code": "4321",
+      "name_az": "Anbarda idarə qulluqçuları"
+    },
+    {
+      "code": "4322",
+      "name_az": "Məhsulun uçota alınması üzrə qulluqçular"
+    },
+    {
+      "code": "4323",
+      "name_az": "Nəqliyyatda idarə qulluqçuları"
+    },
+    {
+      "code": "4411",
+      "name_az": "Kitabxana işçiləri"
+    },
+    {
+      "code": "4412",
+      "name_az": "Poçt paylayanlar və çeşidləyicilər"
+    },
+    {
+      "code": "4413",
+      "name_az": "Kodlaşdırıcılar, təshihçilər və oxşar peşə işçiləri"
+    },
+    {
+      "code": "4414",
+      "name_az": "Mirzələr və oxşar peşə işçiləri"
+    },
+    {
+      "code": "4415",
+      "name_az": "Kartoteka işçiləri və surət çıxaranlar"
+    },
+    {
+      "code": "4416",
+      "name_az": "İnsan resursları üzrə qulluqçular"
+    },
+    {
+      "code": "4419",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən idarə qulluqçularının köməkçiləri"
+    },
+    {
+      "code": "5111",
+      "name_az": "Yolda xidmətedici işçi heyət, bort"
+    },
+    {
+      "code": "5112",
+      "name_az": "İctimai nəqliyyat konduktorları"
+    },
+    {
+      "code": "5113",
+      "name_az": "Bələdçilər"
+    },
+    {
+      "code": "5120",
+      "name_az": "Aşbazlar"
+    },
+    {
+      "code": "5131",
+      "name_az": "Ofisiantlar"
+    },
+    {
+      "code": "5132",
+      "name_az": "Barmenlər"
+    },
+    {
+      "code": "5141",
+      "name_az": "Qadın və kişi bərbərləri"
+    },
+    {
+      "code": "5142",
+      "name_az": "Kosmetoloqlar və oxşar peşələrin işçiləri"
+    },
+    {
+      "code": "5151",
+      "name_az": "Ofislərdə, mehmanxanalarda və digər müəssisələrdə təmizlik və təsərrüfat üzrə köməkçilər"
+    },
+    {
+      "code": "5152",
+      "name_az": "Ev təsərrüfatlarının idarə edilməsi üzrə köməkçilər"
+    },
+    {
+      "code": "5153",
+      "name_az": "Bina nəzarətçiləri"
+    },
+    {
+      "code": "5161",
+      "name_az": "Astroloqlar, falçılar, xiromantlar və oxşar peşə işçiləri"
+    },
+    {
+      "code": "5162",
+      "name_az": "Şəriklər və qulluqçular"
+    },
+    {
+      "code": "5163",
+      "name_az": "Tabutçular və balzamlayıcılar"
+    },
+    {
+      "code": "5164",
+      "name_az": "Ev heyvanlarının baxıcıları"
+    },
+    {
+      "code": "5165",
+      "name_az": "Avtomobil sürmə üzrə təlimatçılar"
+    },
+    {
+      "code": "5169",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən fərdi xidmətlər göstərən işçilər"
+    },
+    {
+      "code": "5211",
+      "name_az": "Çadır və bazar satıcıları"
+    },
+    {
+      "code": "5212",
+      "name_az": "Ərzaq malları satan küçə ticarətçiləri"
+    },
+    {
+      "code": "5221",
+      "name_az": "Mağaza sahibləri (dükançılar)"
+    },
+    {
+      "code": "5222",
+      "name_az": "Mağaza nəzarətçiləri"
+    },
+    {
+      "code": "5223",
+      "name_az": "Mağaza satıcıları"
+    },
+    {
+      "code": "5230",
+      "name_az": "Bilet kassalarının xəzinədarları da daxil"
+    },
+    {
+      "code": "5241",
+      "name_az": "Manekenlər və digər canlı modellər"
+    },
+    {
+      "code": "5242",
+      "name_az": "Mal, məhsul nümayiş edənlər"
+    },
+    {
+      "code": "5243",
+      "name_az": "Malları yaşayış yerləri üzrə alıcılara təklif edən ticarətçilər"
+    },
+    {
+      "code": "5244",
+      "name_az": "Malları telefonla alıcılara təklif edən ticarətçilər"
+    },
+    {
+      "code": "5245",
+      "name_az": "Təmir məntəqələrinin xidmətçi heyəti"
+    },
+    {
+      "code": "5246",
+      "name_az": "Özünəxidmət mağazalarında xidmətçi heyət"
+    },
+    {
+      "code": "5249",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən ticarət işçiləri"
+    },
+    {
+      "code": "5311",
+      "name_az": "Uşaqlara qulluq edən işçilər"
+    },
+    {
+      "code": "5312",
+      "name_az": "Müəllimlərin köməkçiləri"
+    },
+    {
+      "code": "5321",
+      "name_az": "Müalicə müəssisələrinin xəstələrinə fərdi xidmət göstərən işçilər"
+    },
+    {
+      "code": "5322",
+      "name_az": "Evdə fərdi xidmət göstərən işçilər"
+    },
+    {
+      "code": "5329",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən səhiyyə sahəsində fərdi qulluq üzrə xidmət göstərən işçilər"
+    },
+    {
+      "code": "5411",
+      "name_az": "Yanğınsöndürənlər"
+    },
+    {
+      "code": "5412",
+      "name_az": "Polis əməkdaşları (kiçik rəis heyəti)"
+    },
+    {
+      "code": "5413",
+      "name_az": "Penitensiar müəssisələrin nəzarətçiləri"
+    },
+    {
+      "code": "5414",
+      "name_az": "Mühafizəçilər, cangüdənlər"
+    },
+    {
+      "code": "5419",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən vətəndaşların və mülkiyyətin mühafizəsini aparan xidmətlərin işçiləri"
+    },
+    {
+      "code": "6111",
+      "name_az": "Tarlaçılar və tərəvəzçilər"
+    },
+    {
+      "code": "6112",
+      "name_az": "Ağac və kol şəkildə yetişdirilən bitkilər üzrə ixtisaslaşan bağban-mütəxəssislər"
+    },
+    {
+      "code": "6113",
+      "name_az": "Bağbanlar, bağçılar və meyvə şitilliyi işçiləri"
+    },
+    {
+      "code": "6114",
+      "name_az": "Qarışıq kənd təsərrüfatı məhsullarının istehsalçıları"
+    },
+    {
+      "code": "6121",
+      "name_az": "Heyvandarlıq məhsullarının istehsalçıları"
+    },
+    {
+      "code": "6122",
+      "name_az": "Quşçular"
+    },
+    {
+      "code": "6123",
+      "name_az": "Arıçılar və ipəkçilər"
+    },
+    {
+      "code": "6129",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən heyvandarlıq məhsullarının istehsalçıları"
+    },
+    {
+      "code": "6130",
+      "name_az": "Qarışıq kənd təsərrüfatı bitkilərinin istehsalçıları və heyvandarlar"
+    },
+    {
+      "code": "6210",
+      "name_az": "Meşəçilər və meşə tədarükçüləri"
+    },
+    {
+      "code": "6221",
+      "name_az": "Balıq yetişdirənlər və dənizçilər"
+    },
+    {
+      "code": "6222",
+      "name_az": "Daxili su hövzələrində və sahilyanı sularda balıqyetişdirmə işçiləri"
+    },
+    {
+      "code": "6223",
+      "name_az": "Dərin su zonalarında balıq yetişdirmə işçiləri"
+    },
+    {
+      "code": "6224",
+      "name_az": "Atıcı ovçular və trapper ovçuları (tələquranlar)"
+    },
+    {
+      "code": "6310",
+      "name_az": "Şəxsi istehlak üçün məhsul istehsal edən ixtisaslı kənd təsərrüfatı işçiləri"
+    },
+    {
+      "code": "6320",
+      "name_az": "Şəxsi istehlak üçün məhsul istehsal edən maldarlıq təsərrüfatının işçiləri"
+    },
+    {
+      "code": "6330",
+      "name_az": "Şəxsi istehlak üçün məhsul istehsal edən qarışıq kənd təsərrüfatı və maldarlıq təsərrüfatı işçiləri"
+    },
+    {
+      "code": "6340",
+      "name_az": "Şəxsi istehlak üçün ov edən ovçular, balıq yetişdirmə və balıq ovlama işçiləri"
+    },
+    {
+      "code": "7111",
+      "name_az": "İnşaatçılar"
+    },
+    {
+      "code": "7112",
+      "name_az": "Bənnalar (kərpic və daş üzrə) və oxşar peşə"
+    },
+    {
+      "code": "7113",
+      "name_az": "Daş bloklarını sındıranlar, daşyonanlar və daşkəsənlər"
+    },
+    {
+      "code": "7114",
+      "name_az": "Beton düzücüləri, beton bəzəyiciləri və oxşar peşə fəhlələri"
+    },
+    {
+      "code": "7115",
+      "name_az": "Dülgər və xarratlar"
+    },
+    {
+      "code": "7119",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən inşaatçılar və oxşar peşə fəhlələri"
+    },
+    {
+      "code": "7121",
+      "name_az": "Taxtapuşçular"
+    },
+    {
+      "code": "7122",
+      "name_az": "Döşəmə ustaları və tava döşəyənlər"
+    },
+    {
+      "code": "7123",
+      "name_az": "Suvaqçılar"
+    },
+    {
+      "code": "7124",
+      "name_az": "İstilik və akustika izolyasiyası düzücüləri"
+    },
+    {
+      "code": "7125",
+      "name_az": "Şüşəsalanlar"
+    },
+    {
+      "code": "7126",
+      "name_az": "Santexnika çilingərləri və boru kəməri çəkən çilingərlər"
+    },
+    {
+      "code": "7127",
+      "name_az": "Kondisioner və soyuducu mexanikləri"
+    },
+    {
+      "code": "7131",
+      "name_az": "Rəngsazlar və oxşar peşələrin fəhlələri"
+    },
+    {
+      "code": "7132",
+      "name_az": "Lakçəkənlər və oxşar peşə fəhlələri"
+    },
+    {
+      "code": "7133",
+      "name_az": "Bina və qurğuların səthini təmizləyən fəhlələr"
+    },
+    {
+      "code": "7211",
+      "name_az": "Qəlibçilər"
+    },
+    {
+      "code": "7212",
+      "name_az": "Qaynaqçılar və qaz vasitəsilə kəsənlər"
+    },
+    {
+      "code": "7213",
+      "name_az": "Yaymaçılar"
+    },
+    {
+      "code": "7214",
+      "name_az": "Konstruksiya metalını hazırlayanlar və quraşdırıcılar"
+    },
+    {
+      "code": "7215",
+      "name_az": "Takelajçılar və lehimləyici kabelçilər"
+    },
+    {
+      "code": "7221",
+      "name_az": "Dəmirçilər, gürz və preslə işləyən dəmirçilər"
+    },
+    {
+      "code": "7222",
+      "name_az": "Alət hazırlayan çilingərlər və oxşar peşə fəhlələri"
+    },
+    {
+      "code": "7223",
+      "name_az": "Dəzgahqayıranlar və metal emal edən dəzgah nizamlayıcıları"
+    },
+    {
+      "code": "7224",
+      "name_az": "Cilalayıcılar, pardaqlayıcılar və alət itiləyənlər"
+    },
+    {
+      "code": "7231",
+      "name_az": "Mühərrikli nəqliyyat vasitələri üzrə mexaniklər və yığıcı çilingərlər"
+    },
+    {
+      "code": "7232",
+      "name_az": "Uçuş aparatları üzrə mexaniklər və yığıcı çilingərlər"
+    },
+    {
+      "code": "7233",
+      "name_az": "Kənd təsərrüfatı və sənaye avadanlıqları üzrə mexaniklər və yığıcı çilingərlər"
+    },
+    {
+      "code": "7234",
+      "name_az": "Velosipedlər və oxşar nəqliyyat vasitələri üzrə yığıcı çilingərlər"
+    },
+    {
+      "code": "7311",
+      "name_az": "Ən dəqiq alətlərin hazırlanması və təmiri üzrə fəhlələr"
+    },
+    {
+      "code": "7312",
+      "name_az": "Musiqi alətlərini hazırlayanlar və sazlayanlar"
+    },
+    {
+      "code": "7313",
+      "name_az": "Zərgərlik bəzək əşyalarının və qiymətli metallardan məmulatların hazırlanması üzrə ustalar"
+    },
+    {
+      "code": "7314",
+      "name_az": "Dulusçular və oxşar peşə fəhlələri"
+    },
+    {
+      "code": "7315",
+      "name_az": "Şüşəni formaya salanlar, taraşlayıcılar, cilalayıcılar və pardaqlayıcılar"
+    },
+    {
+      "code": "7316",
+      "name_az": "Dekorasiya rəssamları, oymaçılar və s."
+    },
+    {
+      "code": "7317",
+      "name_az": "Ağacdan və hörmə materiallardan nəfis məmulatlar hazırlayanlar"
+    },
+    {
+      "code": "7318",
+      "name_az": "Parça, gön və oxşar materiallardan bədii məmulat hazırlayanlar"
+    },
+    {
+      "code": "7319",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən nəfis məmulatlar hazırlayanlar"
+    },
+    {
+      "code": "7321",
+      "name_az": "Çapdan əvvəl görülən işlər üzrə texniklər"
+    },
+    {
+      "code": "7322",
+      "name_az": "Çapçılar (mətbəə fəhlələri)"
+    },
+    {
+      "code": "7323",
+      "name_az": "Cildçilər və oxşar peşələrin fəhlələri"
+    },
+    {
+      "code": "7411",
+      "name_az": "Tikinti elektrikləri və oxşar peşə fəhlələri"
+    },
+    {
+      "code": "7412",
+      "name_az": "Elektrik avadanlığı mexanikləri və montyorları"
+    },
+    {
+      "code": "7413",
+      "name_az": "Elektrik xəttləri quraşdırıcıları və təmirçilər"
+    },
+    {
+      "code": "7421",
+      "name_az": "Elektron avadanlıqlarının təmiri və onlara xidmət göstərilməsi üzrə mexaniklər"
+    },
+    {
+      "code": "7422",
+      "name_az": "İnformasiya və kommunikasiya texnologiyaları avadanlıqlarının quraşdırıcıları və onlara xidmət göstərilməsi üzrə mexaniklər"
+    },
+    {
+      "code": "7511",
+      "name_az": "Ət, balıq və digər yeyinti məhsullarının emalçıları və hazırlayıcıları"
+    },
+    {
+      "code": "7512",
+      "name_az": "Çörəkbişirənlər, qənnadıçılar və konfet hazırlayanlar"
+    },
+    {
+      "code": "7513",
+      "name_az": "Süd məhsulları hazırlayanlar"
+    },
+    {
+      "code": "7514",
+      "name_az": "Meyvə və tərəvəz tədarükçüləri və emalçıları"
+    },
+    {
+      "code": "7516",
+      "name_az": "Tütün məhsullarını hazırlayanlar və istehsal edənlər"
+    },
+    {
+      "code": "7521",
+      "name_az": "Ağacın ilkin emalı üzrə fəhlələr"
+    },
+    {
+      "code": "7522",
+      "name_az": "Mebelçilər və oxşar peşə fəhlələri"
+    },
+    {
+      "code": "7523",
+      "name_az": "Ağac emal edən dəzgahların sazlayıcıları və operatorları"
+    },
+    {
+      "code": "7531",
+      "name_az": "Kişi və qadın dərziləri, xəz ustaları və şlyapa düzəldənlər"
+    },
+    {
+      "code": "7532",
+      "name_az": "Tikiş məmulatları üçün lekal hazırlayanlar və biçicilər"
+    },
+    {
+      "code": "7533",
+      "name_az": "Tikişçilər, naxıştikənlər və oxşar peşələrin fəhlələri"
+    },
+    {
+      "code": "7534",
+      "name_az": "Mebelə üz çəkənlər və oxşar peşə fəhlələri"
+    },
+    {
+      "code": "7535",
+      "name_az": "Dəri aşılayanlar, dabbaqlar və xəzçilər"
+    },
+    {
+      "code": "7536",
+      "name_az": "Ayaqqabı sənayesi fəhlələri və oxşar məmulat hazırlayanlar"
+    },
+    {
+      "code": "7541",
+      "name_az": "Sualtı işlər mütəxəssisləri"
+    },
+    {
+      "code": "7542",
+      "name_az": "Partladıcılar və fitilqoyanlar"
+    },
+    {
+      "code": "7543",
+      "name_az": "Məhsulu (ərzaq və içki istisna olmaqla) çeşidlərə ayıran və sınaqdan keçirən fəhlələr"
+    },
+    {
+      "code": "7544",
+      "name_az": "Fumiqatorlar və dezinfeksiya işləri aparan sair işçilər"
+    },
+    {
+      "code": "7549",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən sənayenin ixtisaslı işçiləri və bir-birinə yaxın peşələrin fəhlələri"
+    },
+    {
+      "code": "8111",
+      "name_az": "Mədən və karxanaların fəhlələri"
+    },
+    {
+      "code": "8112",
+      "name_az": "Filiz və mədən süxurlarının emalı üzrə qurğuların operatorları"
+    },
+    {
+      "code": "8113",
+      "name_az": "Quyu qazanlar və oxşar peşə fəhlələri"
+    },
+    {
+      "code": "8114",
+      "name_az": "Sement, daş və digər mineral materiallardan məhsul istehsalı üzrə maşın operatorları"
+    },
+    {
+      "code": "8121",
+      "name_az": "Metal emal edən qurğuların operatorları"
+    },
+    {
+      "code": "8122",
+      "name_az": "Pardaqlama, metallaşdırma və metalların səthinə qoruyucu örtüyün çəkilməsi üzrə qurğuların operatorları"
+    },
+    {
+      "code": "8131",
+      "name_az": "Kimyəvi məhsulların istehsalı üzrə maşın operatorları"
+    },
+    {
+      "code": "8132",
+      "name_az": "Fotoqrafiya məhsullarının istehsalı üzrə maşın operatorları"
+    },
+    {
+      "code": "8141",
+      "name_az": "Rezin istehsalı üzrə maşın operatorları"
+    },
+    {
+      "code": "8142",
+      "name_az": "Plastik kütlə istehsalı üzrə maşın operatorları"
+    },
+    {
+      "code": "8143",
+      "name_az": "Kağız istehsalı üzrə maşın operatorları"
+    },
+    {
+      "code": "8151",
+      "name_az": "Lif hazırlayan maşınların, əyirmə və sarıma"
+    },
+    {
+      "code": "8152",
+      "name_az": "Toxuculuq və toxuma maşınlarının operatorları"
+    },
+    {
+      "code": "8153",
+      "name_az": "Tikiş avadanlığının operatorları"
+    },
+    {
+      "code": "8154",
+      "name_az": "Ağartma, boyama və təmizləmə üzrə maşınların operatorları"
+    },
+    {
+      "code": "8155",
+      "name_az": "Xəz və dəri aşılayıcı maşınların operatorları"
+    },
+    {
+      "code": "8156",
+      "name_az": "Ayaqqabı və oxşar məhsulların hazırlanması üzrə maşınların operatorları"
+    },
+    {
+      "code": "8157",
+      "name_az": "Camaşırxana maşınlarının operatorları"
+    },
+    {
+      "code": "8159",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən toxuculuq, dəri və xəz məhsullarının istehsalı üzrə maşınların operatorları"
+    },
+    {
+      "code": "8160",
+      "name_az": "Yeyinti məhsullarının və oxşar məhsulların emalı üzrə maşınların operatorları"
+    },
+    {
+      "code": "8171",
+      "name_az": "Kağız kütləsinin hazırlanması üzrə qurğuların operatorları"
+    },
+    {
+      "code": "8172",
+      "name_az": "Ağac emalı üzrə qurğuların operatorları"
+    },
+    {
+      "code": "8181",
+      "name_az": "Şüşə və keramika istehsalı üzrə qurğuların operatorları"
+    },
+    {
+      "code": "8182",
+      "name_az": "Buxar mühərriklərinin və qazanlarının operatorları"
+    },
+    {
+      "code": "8183",
+      "name_az": "Qablaşdırma və nişanlama maşınlarının operatorları"
+    },
+    {
+      "code": "8189",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən sənaye qurğularının və maşınlarının operatorları"
+    },
+    {
+      "code": "8211",
+      "name_az": "Mexaniki maşınların yığıcı-çilingərləri"
+    },
+    {
+      "code": "8212",
+      "name_az": "Elektrik və elektron avadanlığının yığıcıları"
+    },
+    {
+      "code": "8219",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən avadanlıqların yığıcıları"
+    },
+    {
+      "code": "8311",
+      "name_az": "Lokomotiv maşinistləri"
+    },
+    {
+      "code": "8312",
+      "name_az": "Əyləc fəhlələri, yolayıranlar və qoşucular"
+    },
+    {
+      "code": "8321",
+      "name_az": "Motosikletlərin sürücüləri"
+    },
+    {
+      "code": "8322",
+      "name_az": "Minik avtomobillərinin, taksilərin və furqonların sürücüləri"
+    },
+    {
+      "code": "8331",
+      "name_az": "Avtobus və tramvay sürücüləri"
+    },
+    {
+      "code": "8332",
+      "name_az": "Yük avtomobillərinin sürücüləri"
+    },
+    {
+      "code": "8341",
+      "name_az": "Səyyar kənd və meşə təsərrüfatı avadanlıqlarının operatorları"
+    },
+    {
+      "code": "8342",
+      "name_az": "Yerqazan və oxşar maşınların operatorları"
+    },
+    {
+      "code": "8343",
+      "name_az": "Kranların, qaldırıcıların və oxşar avadanlıqların operatorları"
+    },
+    {
+      "code": "8344",
+      "name_az": "Avtomat yükvuranların operatorları"
+    },
+    {
+      "code": "8350",
+      "name_az": "Gəmilərin göyərtə komandalarının üzvləri və oxşar peşə fəhlələri"
+    },
+    {
+      "code": "9111",
+      "name_az": "Ev qulluqçuları və süpürgəçilər"
+    },
+    {
+      "code": "9112",
+      "name_az": "İdarələrdə, mehmanxanalarda və digər yerlərdə qulluqçular və süpürgəçilər"
+    },
+    {
+      "code": "9121",
+      "name_az": "Əl ilə paltaryuyanlar və ütüləyənlər"
+    },
+    {
+      "code": "9122",
+      "name_az": "Nəqliyyat vasitələrini yuyanlar"
+    },
+    {
+      "code": "9123",
+      "name_az": "Pəncərələri yuyanlar"
+    },
+    {
+      "code": "9129",
+      "name_az": "Yuma üzrə xidmətlər göstərən sair işçilər"
+    },
+    {
+      "code": "9211",
+      "name_az": "Əkinçilik sahəsində ixtisassız fəhlələr"
+    },
+    {
+      "code": "9212",
+      "name_az": "Heyvandarlıq sahəsində ixtisassız fəhlələr"
+    },
+    {
+      "code": "9213",
+      "name_az": "Qarışıq kənd təsərrüfatı sahəsində ixtisassız fəhlələr"
+    },
+    {
+      "code": "9214",
+      "name_az": "İxtisassız bağbanlar və bağçılar"
+    },
+    {
+      "code": "9215",
+      "name_az": "İxtisassız meşə təsərrüfatı fəhlələri"
+    },
+    {
+      "code": "9216",
+      "name_az": "İxtisassız balıq yetişdirmə, balıq tutma təsərrüfatı fəhlələri"
+    },
+    {
+      "code": "9311",
+      "name_az": "Mədənçıxarma sənayesində və karxanaların işlənməsində ixtisassız fəhlələr"
+    },
+    {
+      "code": "9312",
+      "name_az": "Tikintidə çalışan ixtisassız fəhlələr"
+    },
+    {
+      "code": "9313",
+      "name_az": "Binaların tikintisində çalışan ixtisassız fəhlələr"
+    },
+    {
+      "code": "9321",
+      "name_az": "Əl ilə qablaşdırıcılar"
+    },
+    {
+      "code": "9329",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən emal sənayesinin ixtisassız fəhlələri"
+    },
+    {
+      "code": "9331",
+      "name_az": "Əllə və pedalla idarə edilən nəqliyyat"
+    },
+    {
+      "code": "9332",
+      "name_az": "Arabaçılar və dartı gücü ilə işləyən maşınların sürücüləri"
+    },
+    {
+      "code": "9333",
+      "name_az": "Yükdaşıyanlar"
+    },
+    {
+      "code": "9334",
+      "name_az": "Qablaşdırıcılar"
+    },
+    {
+      "code": "9411",
+      "name_az": "Qəlyənaltı (fast food) hazırlayanlar"
+    },
+    {
+      "code": "9412",
+      "name_az": "Mətbəxdə köməkçi heyət"
+    },
+    {
+      "code": "9510",
+      "name_az": "Küçə xidmətləri göstərən ixtisassız işçilər"
+    },
+    {
+      "code": "9520",
+      "name_az": "Qeyri-ərzaq malları satan küçə satıcıları"
+    },
+    {
+      "code": "9611",
+      "name_az": "Zibil yığışdıranlar"
+    },
+    {
+      "code": "9612",
+      "name_az": "Tullantıları çeşidlərə ayıran işçilər"
+    },
+    {
+      "code": "9613",
+      "name_az": "Ərazini təmizləyənlər (süpürgəçilər) və oxşar işçilər"
+    },
+    {
+      "code": "9621",
+      "name_az": "Kuryerlər, paket və baqaj daşıyanlar"
+    },
+    {
+      "code": "9622",
+      "name_az": "İxtisassız işçilər"
+    },
+    {
+      "code": "9623",
+      "name_az": "Ticarət avtomatlarından pulları toplayanlar, sayıcıların nəzarətçiləri və oxşar işçilər"
+    },
+    {
+      "code": "9624",
+      "name_az": "Su və odun toplayıcıları"
+    },
+    {
+      "code": "9629",
+      "name_az": "Digər ibtidai qruplara daxil edilməyən ixtisassız işçilər"
+    }
+  ]
+}

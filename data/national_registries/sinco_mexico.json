@@ -1,0 +1,4804 @@
+[
+  {
+    "": "0",
+    "code": "1",
+    "name": "Funcionarios, directores y jefes",
+    "level": "1digit",
+    "parent_id": ""
+  },
+  {
+    "": "1",
+    "code": "11",
+    "name": "Funcionarios y altas autoridades de los sectores público, privado y social",
+    "level": "2digit",
+    "parent_id": "0.0"
+  },
+  {
+    "": "2",
+    "code": "111",
+    "name": "Funcionarios, legisladores y autoridades gubernamentales",
+    "level": "3digit",
+    "parent_id": "1.0"
+  },
+  {
+    "": "3",
+    "code": "1111",
+    "name": "Altas autoridades gubernamentales y jurisdiccionales",
+    "level": "4digit",
+    "parent_id": "2.0"
+  },
+  {
+    "": "4",
+    "code": "1112",
+    "name": "Legisladores",
+    "level": "4digit",
+    "parent_id": "2.0"
+  },
+  {
+    "": "5",
+    "code": "1113",
+    "name": "Presidentes y autoridades municipales",
+    "level": "4digit",
+    "parent_id": "2.0"
+  },
+  {
+    "": "6",
+    "code": "112",
+    "name": "Presidentes y directores generales",
+    "level": "3digit",
+    "parent_id": "1.0"
+  },
+  {
+    "": "7",
+    "code": "1121",
+    "name": "Presidentes y directores generales en instituciones públicas",
+    "level": "4digit",
+    "parent_id": "6.0"
+  },
+  {
+    "": "8",
+    "code": "1122",
+    "name": "Presidentes y directores generales en instituciones y empresas privadas",
+    "level": "4digit",
+    "parent_id": "6.0"
+  },
+  {
+    "": "9",
+    "code": "1129",
+    "name": "Otros presidentes y directores generales, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "6.0"
+  },
+  {
+    "": "10",
+    "code": "113",
+    "name": "Directores de organizaciones políticas, sindicales y civiles",
+    "level": "3digit",
+    "parent_id": "1.0"
+  },
+  {
+    "": "11",
+    "code": "1131",
+    "name": "Directores de organizaciones políticas",
+    "level": "4digit",
+    "parent_id": "10.0"
+  },
+  {
+    "": "12",
+    "code": "1132",
+    "name": "Directores de organizaciones sindicales",
+    "level": "4digit",
+    "parent_id": "10.0"
+  },
+  {
+    "": "13",
+    "code": "1133",
+    "name": "Directores de organizaciones empresariales",
+    "level": "4digit",
+    "parent_id": "10.0"
+  },
+  {
+    "": "14",
+    "code": "1134",
+    "name": "Directores de organizaciones agrarias",
+    "level": "4digit",
+    "parent_id": "10.0"
+  },
+  {
+    "": "15",
+    "code": "1135",
+    "name": "Directores de organizaciones civiles y religiosas",
+    "level": "4digit",
+    "parent_id": "10.0"
+  },
+  {
+    "": "16",
+    "code": "12",
+    "name": "Directores y gerentes en servicios financieros, administrativos y sociales",
+    "level": "2digit",
+    "parent_id": "0.0"
+  },
+  {
+    "": "17",
+    "code": "121",
+    "name": "Directores y gerentes en servicios financieros y administrativos",
+    "level": "3digit",
+    "parent_id": "16.0"
+  },
+  {
+    "": "18",
+    "code": "1211",
+    "name": "Directores y gerentes en administración, recursos humanos y mercadotecnia",
+    "level": "4digit",
+    "parent_id": "17.0"
+  },
+  {
+    "": "19",
+    "code": "1212",
+    "name": "Directores y gerentes en servicios contables, financieros, banca y seguros",
+    "level": "4digit",
+    "parent_id": "17.0"
+  },
+  {
+    "": "20",
+    "code": "122",
+    "name": "Directores y gerentes en servicios de salud, enseñanza y sociales",
+    "level": "3digit",
+    "parent_id": "16.0"
+  },
+  {
+    "": "21",
+    "code": "1221",
+    "name": "Directores y gerentes en servicios de salud, protección civil y medio ambiente",
+    "level": "4digit",
+    "parent_id": "20.0"
+  },
+  {
+    "": "22",
+    "code": "1222",
+    "name": "Directores y gerentes en desarrollo social y económico",
+    "level": "4digit",
+    "parent_id": "20.0"
+  },
+  {
+    "": "23",
+    "code": "1223",
+    "name": "Directores y gerentes en centros de enseñanza y capacitación",
+    "level": "4digit",
+    "parent_id": "20.0"
+  },
+  {
+    "": "24",
+    "code": "1224",
+    "name": "Jueces de juzgado, directores y gerentes en servicios legales y procuración de justicia",
+    "level": "4digit",
+    "parent_id": "20.0"
+  },
+  {
+    "": "25",
+    "code": "1225",
+    "name": "Comandantes de las fuerzas armadas",
+    "level": "4digit",
+    "parent_id": "20.0"
+  },
+  {
+    "": "26",
+    "code": "1226",
+    "name": "Directores en servicios de vigilancia y seguridad",
+    "level": "4digit",
+    "parent_id": "20.0"
+  },
+  {
+    "": "27",
+    "code": "13",
+    "name": "Directores y gerentes en producción, tecnología y transporte",
+    "level": "2digit",
+    "parent_id": "0.0"
+  },
+  {
+    "": "28",
+    "code": "131",
+    "name": "Directores y gerentes en producción agropecuaria, industrial, construcción y mantenimiento",
+    "level": "3digit",
+    "parent_id": "27.0"
+  },
+  {
+    "": "29",
+    "code": "1311",
+    "name": "Directores y gerentes en producción agropecuaria, silvícola y pesquera",
+    "level": "4digit",
+    "parent_id": "28.0"
+  },
+  {
+    "": "30",
+    "code": "1312",
+    "name": "Directores y gerentes en producción minera, petrolera y gas",
+    "level": "4digit",
+    "parent_id": "28.0"
+  },
+  {
+    "": "31",
+    "code": "1313",
+    "name": "Directores y gerentes en generación y provisión de energía eléctrica y agua",
+    "level": "4digit",
+    "parent_id": "28.0"
+  },
+  {
+    "": "32",
+    "code": "1314",
+    "name": "Directores y gerentes en producción manufacturera",
+    "level": "4digit",
+    "parent_id": "28.0"
+  },
+  {
+    "": "33",
+    "code": "1315",
+    "name": "Directores y gerentes en construcción, reparación y mantenimiento",
+    "level": "4digit",
+    "parent_id": "28.0"
+  },
+  {
+    "": "34",
+    "code": "132",
+    "name": "Directores y gerentes en informática, telecomunicaciones, transporte y en investigación y desarrollo tecnológico",
+    "level": "3digit",
+    "parent_id": "27.0"
+  },
+  {
+    "": "35",
+    "code": "1321",
+    "name": "Directores y gerentes en informática",
+    "level": "4digit",
+    "parent_id": "34.0"
+  },
+  {
+    "": "36",
+    "code": "1322",
+    "name": "Directores y gerentes en comunicación y telecomunicaciones",
+    "level": "4digit",
+    "parent_id": "34.0"
+  },
+  {
+    "": "37",
+    "code": "1323",
+    "name": "Directores y gerentes en servicios de transporte",
+    "level": "4digit",
+    "parent_id": "34.0"
+  },
+  {
+    "": "38",
+    "code": "1324",
+    "name": "Directores y gerentes en centros de investigación y desarrollo tecnológico",
+    "level": "4digit",
+    "parent_id": "34.0"
+  },
+  {
+    "": "39",
+    "code": "14",
+    "name": "Directores y gerentes de ventas, restaurantes, hoteles y otros establecimientos",
+    "level": "2digit",
+    "parent_id": "0.0"
+  },
+  {
+    "": "40",
+    "code": "141",
+    "name": "Directores y gerentes de ventas, restaurantes y hoteles",
+    "level": "3digit",
+    "parent_id": "39.0"
+  },
+  {
+    "": "41",
+    "code": "1411",
+    "name": "Directores y gerentes de ventas, comercialización y alquiler",
+    "level": "4digit",
+    "parent_id": "40.0"
+  },
+  {
+    "": "42",
+    "code": "1412",
+    "name": "Directores y gerentes de restaurantes y hoteles",
+    "level": "4digit",
+    "parent_id": "40.0"
+  },
+  {
+    "": "43",
+    "code": "142",
+    "name": "Directores y gerentes de museos, cines y otros establecimientos",
+    "level": "3digit",
+    "parent_id": "39.0"
+  },
+  {
+    "": "44",
+    "code": "1421",
+    "name": "Directores y productores artísticos de cine, teatro y afines",
+    "level": "4digit",
+    "parent_id": "43.0"
+  },
+  {
+    "": "45",
+    "code": "1422",
+    "name": "Directores y gerentes de museos, cines y otros establecimientos deportivos y culturales",
+    "level": "4digit",
+    "parent_id": "43.0"
+  },
+  {
+    "": "46",
+    "code": "1423",
+    "name": "Directores y gerentes en servicios funerarios y otros servicios",
+    "level": "4digit",
+    "parent_id": "43.0"
+  },
+  {
+    "": "47",
+    "code": "15",
+    "name": "Coordinadores y jefes de área en servicios financieros, administrativos y sociales",
+    "level": "2digit",
+    "parent_id": "0.0"
+  },
+  {
+    "": "48",
+    "code": "151",
+    "name": "Coordinadores y jefes de área en servicios financieros y administrativos",
+    "level": "3digit",
+    "parent_id": "47.0"
+  },
+  {
+    "": "49",
+    "code": "1511",
+    "name": "Coordinadores y jefes de área en administración, recursos humanos y mercadotecnia",
+    "level": "4digit",
+    "parent_id": "48.0"
+  },
+  {
+    "": "50",
+    "code": "1512",
+    "name": "Coordinadores y jefes de área en servicios contables, financieros, banca y seguros",
+    "level": "4digit",
+    "parent_id": "48.0"
+  },
+  {
+    "": "51",
+    "code": "152",
+    "name": "Coordinadores y jefes de área en servicios de salud, enseñanza, sociales y jueces calificadores",
+    "level": "3digit",
+    "parent_id": "47.0"
+  },
+  {
+    "": "52",
+    "code": "1521",
+    "name": "Coordinadores y jefes de área en servicios de salud, protección civil y medio ambiente",
+    "level": "4digit",
+    "parent_id": "51.0"
+  },
+  {
+    "": "53",
+    "code": "1522",
+    "name": "Coordinadores y jefes de área en desarrollo social y económico",
+    "level": "4digit",
+    "parent_id": "51.0"
+  },
+  {
+    "": "54",
+    "code": "1523",
+    "name": "Coordinadores y jefes de área en centros de enseñanza y capacitación",
+    "level": "4digit",
+    "parent_id": "51.0"
+  },
+  {
+    "": "55",
+    "code": "1524",
+    "name": "Coordinadores y jefes de área en servicios legales, jueces calificadores y fiscales",
+    "level": "4digit",
+    "parent_id": "51.0"
+  },
+  {
+    "": "56",
+    "code": "1525",
+    "name": "Capitanes, tenientes y jefes de área de las fuerzas armadas",
+    "level": "4digit",
+    "parent_id": "51.0"
+  },
+  {
+    "": "57",
+    "code": "1526",
+    "name": "Coordinadores y jefes de área en servicios de vigilancia y seguridad",
+    "level": "4digit",
+    "parent_id": "51.0"
+  },
+  {
+    "": "58",
+    "code": "16",
+    "name": "Coordinadores y jefes de área en producción y tecnología",
+    "level": "2digit",
+    "parent_id": "0.0"
+  },
+  {
+    "": "59",
+    "code": "161",
+    "name": "Coordinadores y jefes de área en producción agropecuaria, industrial, construcción y mantenimiento",
+    "level": "3digit",
+    "parent_id": "58.0"
+  },
+  {
+    "": "60",
+    "code": "1611",
+    "name": "Coordinadores y jefes de área en producción agropecuaria, silvícola y pesquera",
+    "level": "4digit",
+    "parent_id": "59.0"
+  },
+  {
+    "": "61",
+    "code": "1612",
+    "name": "Coordinadores y jefes de área en producción minera, petrolera y gas",
+    "level": "4digit",
+    "parent_id": "59.0"
+  },
+  {
+    "": "62",
+    "code": "1613",
+    "name": "Coordinadores y jefes de área en generación y provisión de energía eléctrica y agua",
+    "level": "4digit",
+    "parent_id": "59.0"
+  },
+  {
+    "": "63",
+    "code": "1614",
+    "name": "Coordinadores y jefes de área en producción manufacturera",
+    "level": "4digit",
+    "parent_id": "59.0"
+  },
+  {
+    "": "64",
+    "code": "1615",
+    "name": "Coordinadores y jefes de área en construcción, reparación y mantenimiento",
+    "level": "4digit",
+    "parent_id": "59.0"
+  },
+  {
+    "": "65",
+    "code": "1619",
+    "name": "Otros coordinadores y jefes de área en producción agropecuaria, industrial, construcción y mantenimiento, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "59.0"
+  },
+  {
+    "": "66",
+    "code": "162",
+    "name": "Coordinadores y jefes de área en informática, telecomunicaciones, transporte y en investigación y desarrollo tecnológico",
+    "level": "3digit",
+    "parent_id": "58.0"
+  },
+  {
+    "": "67",
+    "code": "1621",
+    "name": "Coordinadores y jefes de área en informática",
+    "level": "4digit",
+    "parent_id": "66.0"
+  },
+  {
+    "": "68",
+    "code": "1622",
+    "name": "Coordinadores y jefes de área en comunicación y telecomunicaciones",
+    "level": "4digit",
+    "parent_id": "66.0"
+  },
+  {
+    "": "69",
+    "code": "1623",
+    "name": "Coordinadores y jefes de área en servicios de transporte",
+    "level": "4digit",
+    "parent_id": "66.0"
+  },
+  {
+    "": "70",
+    "code": "1624",
+    "name": "Coordinadores y jefes de área en centros de investigación y desarrollo tecnológico",
+    "level": "4digit",
+    "parent_id": "66.0"
+  },
+  {
+    "": "71",
+    "code": "1629",
+    "name": "Otros coordinadores y jefes de área en informática, telecomunicaciones, transporte y en investigación y desarrollo tecnológico, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "66.0"
+  },
+  {
+    "": "72",
+    "code": "17",
+    "name": "Coordinadores y jefes de área de ventas, restaurantes, hoteles y otros establecimientos",
+    "level": "2digit",
+    "parent_id": "0.0"
+  },
+  {
+    "": "73",
+    "code": "171",
+    "name": "Coordinadores y jefes de área de ventas, restaurantes y hoteles",
+    "level": "3digit",
+    "parent_id": "72.0"
+  },
+  {
+    "": "74",
+    "code": "1711",
+    "name": "Coordinadores y jefes de área de ventas, comercialización y alquiler",
+    "level": "4digit",
+    "parent_id": "73.0"
+  },
+  {
+    "": "75",
+    "code": "1712",
+    "name": "Coordinadores y jefes de área de restaurantes y hoteles",
+    "level": "4digit",
+    "parent_id": "73.0"
+  },
+  {
+    "": "76",
+    "code": "172",
+    "name": "Coordinadores y jefes de área en museos, cines y otros establecimientos",
+    "level": "3digit",
+    "parent_id": "72.0"
+  },
+  {
+    "": "77",
+    "code": "1721",
+    "name": "Coordinadores y jefes de área en actividades artísticas, de cine, teatro y afines",
+    "level": "4digit",
+    "parent_id": "76.0"
+  },
+  {
+    "": "78",
+    "code": "1722",
+    "name": "Coordinadores y jefes de área en museos, cines, deportivos y servicios culturales",
+    "level": "4digit",
+    "parent_id": "76.0"
+  },
+  {
+    "": "79",
+    "code": "1723",
+    "name": "Coordinadores y jefes de área en servicios funerarios y otros servicios",
+    "level": "4digit",
+    "parent_id": "76.0"
+  },
+  {
+    "": "80",
+    "code": "19",
+    "name": "Otros directores, funcionarios, gerentes, coordinadores y jefes de área, no clasificados anteriormente",
+    "level": "2digit",
+    "parent_id": "0.0"
+  },
+  {
+    "": "81",
+    "code": "199",
+    "name": "Otros directores, funcionarios, gerentes, coordinadores y jefes de área, no clasificados anteriormente",
+    "level": "3digit",
+    "parent_id": "80.0"
+  },
+  {
+    "": "82",
+    "code": "1999",
+    "name": "Otros directores, funcionarios, gerentes, coordinadores y jefes de área, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "81.0"
+  },
+  {
+    "": "83",
+    "code": "2",
+    "name": "Profesionistas y técnicos",
+    "level": "1digit",
+    "parent_id": ""
+  },
+  {
+    "": "84",
+    "code": "21",
+    "name": "Administradores y mercadólogos",
+    "level": "2digit",
+    "parent_id": "83.0"
+  },
+  {
+    "": "85",
+    "code": "211",
+    "name": "Administradores y mercadólogos",
+    "level": "3digit",
+    "parent_id": "84.0"
+  },
+  {
+    "": "86",
+    "code": "2111",
+    "name": "Administradores y especialistas en recursos humanos y sistemas de gestión",
+    "level": "4digit",
+    "parent_id": "85.0"
+  },
+  {
+    "": "87",
+    "code": "2112",
+    "name": "Especialistas y consultores en mercadotecnia, publicidad, comunicación y comercio exterior",
+    "level": "4digit",
+    "parent_id": "85.0"
+  },
+  {
+    "": "88",
+    "code": "2113",
+    "name": "Especialistas en hotelería y turismo",
+    "level": "4digit",
+    "parent_id": "85.0"
+  },
+  {
+    "": "89",
+    "code": "212",
+    "name": "Contadores, auditores, especialistas en finanzas y en economía",
+    "level": "3digit",
+    "parent_id": "84.0"
+  },
+  {
+    "": "90",
+    "code": "2121",
+    "name": "Contadores y auditores",
+    "level": "4digit",
+    "parent_id": "89.0"
+  },
+  {
+    "": "91",
+    "code": "2122",
+    "name": "Asesores y analistas en finanzas",
+    "level": "4digit",
+    "parent_id": "89.0"
+  },
+  {
+    "": "92",
+    "code": "2123",
+    "name": "Economistas, consultores e investigadores en política económica",
+    "level": "4digit",
+    "parent_id": "89.0"
+  },
+  {
+    "": "93",
+    "code": "213",
+    "name": "Investigadores y especialistas en ciencias sociales",
+    "level": "3digit",
+    "parent_id": "84.0"
+  },
+  {
+    "": "94",
+    "code": "2131",
+    "name": "Antropólogos, arqueólogos e historiadores",
+    "level": "4digit",
+    "parent_id": "93.0"
+  },
+  {
+    "": "95",
+    "code": "2132",
+    "name": "Investigadores y especialistas en sociología y desarrollo social",
+    "level": "4digit",
+    "parent_id": "93.0"
+  },
+  {
+    "": "96",
+    "code": "2133",
+    "name": "Investigadores y especialistas en ciencias políticas y administración pública",
+    "level": "4digit",
+    "parent_id": "93.0"
+  },
+  {
+    "": "97",
+    "code": "2134",
+    "name": "Geógrafos",
+    "level": "4digit",
+    "parent_id": "93.0"
+  },
+  {
+    "": "98",
+    "code": "2135",
+    "name": "Abogados",
+    "level": "4digit",
+    "parent_id": "93.0"
+  },
+  {
+    "": "99",
+    "code": "214",
+    "name": "Investigadores y especialistas en ciencias humanistas",
+    "level": "3digit",
+    "parent_id": "84.0"
+  },
+  {
+    "": "100",
+    "code": "2141",
+    "name": "Investigadores y especialistas en filosofía y letras (filólogos)",
+    "level": "4digit",
+    "parent_id": "99.0"
+  },
+  {
+    "": "101",
+    "code": "2142",
+    "name": "Psicólogos",
+    "level": "4digit",
+    "parent_id": "99.0"
+  },
+  {
+    "": "102",
+    "code": "2143",
+    "name": "Especialistas en trabajo social",
+    "level": "4digit",
+    "parent_id": "99.0"
+  },
+  {
+    "": "103",
+    "code": "2144",
+    "name": "Especialistas en archivonomía, biblioteconomía y museografía",
+    "level": "4digit",
+    "parent_id": "99.0"
+  },
+  {
+    "": "104",
+    "code": "2145",
+    "name": "Sacerdotes, pastores y otros teólogos",
+    "level": "4digit",
+    "parent_id": "99.0"
+  },
+  {
+    "": "105",
+    "code": "215",
+    "name": "Autores, periodistas y traductores",
+    "level": "3digit",
+    "parent_id": "84.0"
+  },
+  {
+    "": "106",
+    "code": "2151",
+    "name": "Escritores y críticos literarios",
+    "level": "4digit",
+    "parent_id": "105.0"
+  },
+  {
+    "": "107",
+    "code": "2152",
+    "name": "Periodistas y redactores",
+    "level": "4digit",
+    "parent_id": "105.0"
+  },
+  {
+    "": "108",
+    "code": "2153",
+    "name": "Traductores e intérpretes",
+    "level": "4digit",
+    "parent_id": "105.0"
+  },
+  {
+    "": "109",
+    "code": "216",
+    "name": "Pintores, diseñadores y dibujantes artísticos, escultores y escenógrafos",
+    "level": "3digit",
+    "parent_id": "84.0"
+  },
+  {
+    "": "110",
+    "code": "2161",
+    "name": "Pintores",
+    "level": "4digit",
+    "parent_id": "109.0"
+  },
+  {
+    "": "111",
+    "code": "2162",
+    "name": "Dibujantes y diseñadores artísticos, ilustradores y grabadores",
+    "level": "4digit",
+    "parent_id": "109.0"
+  },
+  {
+    "": "112",
+    "code": "2163",
+    "name": "Escultores",
+    "level": "4digit",
+    "parent_id": "109.0"
+  },
+  {
+    "": "113",
+    "code": "2164",
+    "name": "Escenógrafos",
+    "level": "4digit",
+    "parent_id": "109.0"
+  },
+  {
+    "": "114",
+    "code": "217",
+    "name": "Artistas interpretativos",
+    "level": "3digit",
+    "parent_id": "84.0"
+  },
+  {
+    "": "115",
+    "code": "2171",
+    "name": "Compositores y arreglistas",
+    "level": "4digit",
+    "parent_id": "114.0"
+  },
+  {
+    "": "116",
+    "code": "2172",
+    "name": "Músicos",
+    "level": "4digit",
+    "parent_id": "114.0"
+  },
+  {
+    "": "117",
+    "code": "2173",
+    "name": "Cantantes",
+    "level": "4digit",
+    "parent_id": "114.0"
+  },
+  {
+    "": "118",
+    "code": "2174",
+    "name": "Bailarines y coreógrafos",
+    "level": "4digit",
+    "parent_id": "114.0"
+  },
+  {
+    "": "119",
+    "code": "2175",
+    "name": "Actores",
+    "level": "4digit",
+    "parent_id": "114.0"
+  },
+  {
+    "": "120",
+    "code": "22",
+    "name": "Investigadores y especialistas en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones",
+    "level": "2digit",
+    "parent_id": "83.0"
+  },
+  {
+    "": "121",
+    "code": "221",
+    "name": "Investigadores y especialistas en física, matemáticas, estadística y actuaría",
+    "level": "3digit",
+    "parent_id": "120.0"
+  },
+  {
+    "": "122",
+    "code": "2211",
+    "name": "Investigadores y especialistas en física",
+    "level": "4digit",
+    "parent_id": "121.0"
+  },
+  {
+    "": "123",
+    "code": "2212",
+    "name": "Investigadores y especialistas en matemáticas, estadística y actuaría",
+    "level": "4digit",
+    "parent_id": "121.0"
+  },
+  {
+    "": "124",
+    "code": "222",
+    "name": "Investigadores y especialistas en ciencias biológicas, químicas y del medio ambiente",
+    "level": "3digit",
+    "parent_id": "120.0"
+  },
+  {
+    "": "125",
+    "code": "2221",
+    "name": "Biólogos y especialistas en ciencias del mar y oceanógrafos",
+    "level": "4digit",
+    "parent_id": "124.0"
+  },
+  {
+    "": "126",
+    "code": "2222",
+    "name": "Químicos",
+    "level": "4digit",
+    "parent_id": "124.0"
+  },
+  {
+    "": "127",
+    "code": "2223",
+    "name": "Ecólogos y especialistas en ciencias atmosféricas",
+    "level": "4digit",
+    "parent_id": "124.0"
+  },
+  {
+    "": "128",
+    "code": "223",
+    "name": "Especialistas en ciencias agronómicas",
+    "level": "3digit",
+    "parent_id": "120.0"
+  },
+  {
+    "": "129",
+    "code": "2231",
+    "name": "Agrónomos",
+    "level": "4digit",
+    "parent_id": "128.0"
+  },
+  {
+    "": "130",
+    "code": "2232",
+    "name": "Veterinarios y zootecnistas",
+    "level": "4digit",
+    "parent_id": "128.0"
+  },
+  {
+    "": "131",
+    "code": "2233",
+    "name": "Especialistas en forestación",
+    "level": "4digit",
+    "parent_id": "128.0"
+  },
+  {
+    "": "132",
+    "code": "2234",
+    "name": "Especialistas en pesca y en acuacultura",
+    "level": "4digit",
+    "parent_id": "128.0"
+  },
+  {
+    "": "133",
+    "code": "224",
+    "name": "Ingenieros eléctricos y en electrónica",
+    "level": "3digit",
+    "parent_id": "120.0"
+  },
+  {
+    "": "134",
+    "code": "2241",
+    "name": "Ingenieros eléctricos",
+    "level": "4digit",
+    "parent_id": "133.0"
+  },
+  {
+    "": "135",
+    "code": "2242",
+    "name": "Ingenieros electrónicos",
+    "level": "4digit",
+    "parent_id": "133.0"
+  },
+  {
+    "": "136",
+    "code": "225",
+    "name": "Ingenieros químicos, mecánicos, industriales, mineros y metalúrgicos",
+    "level": "3digit",
+    "parent_id": "120.0"
+  },
+  {
+    "": "137",
+    "code": "2251",
+    "name": "Ingenieros químicos",
+    "level": "4digit",
+    "parent_id": "136.0"
+  },
+  {
+    "": "138",
+    "code": "2252",
+    "name": "Ingenieros mecánicos",
+    "level": "4digit",
+    "parent_id": "136.0"
+  },
+  {
+    "": "139",
+    "code": "2253",
+    "name": "Ingenieros industriales",
+    "level": "4digit",
+    "parent_id": "136.0"
+  },
+  {
+    "": "140",
+    "code": "2254",
+    "name": "Ingenieros en minas, metalurgia y petróleo",
+    "level": "4digit",
+    "parent_id": "136.0"
+  },
+  {
+    "": "141",
+    "code": "226",
+    "name": "Ingenieros civiles, topógrafos y arquitectos",
+    "level": "3digit",
+    "parent_id": "120.0"
+  },
+  {
+    "": "142",
+    "code": "2261",
+    "name": "Ingenieros civiles y de la construcción",
+    "level": "4digit",
+    "parent_id": "141.0"
+  },
+  {
+    "": "143",
+    "code": "2262",
+    "name": "Ingenieros en topografía, hidrología, geología y geodesia",
+    "level": "4digit",
+    "parent_id": "141.0"
+  },
+  {
+    "": "144",
+    "code": "2263",
+    "name": "Arquitectos, planificadores urbanos y del transporte",
+    "level": "4digit",
+    "parent_id": "141.0"
+  },
+  {
+    "": "145",
+    "code": "227",
+    "name": "Investigadores y especialistas en sistemas computacionales",
+    "level": "3digit",
+    "parent_id": "120.0"
+  },
+  {
+    "": "146",
+    "code": "2271",
+    "name": "Desarrolladores y analistas de software y multimedia",
+    "level": "4digit",
+    "parent_id": "145.0"
+  },
+  {
+    "": "147",
+    "code": "2272",
+    "name": "Administradores de bases de datos y redes de computadora",
+    "level": "4digit",
+    "parent_id": "145.0"
+  },
+  {
+    "": "148",
+    "code": "228",
+    "name": "Ingenieros en comunicaciones y telecomunicaciones",
+    "level": "3digit",
+    "parent_id": "120.0"
+  },
+  {
+    "": "149",
+    "code": "2281",
+    "name": "Ingenieros en comunicaciones y telecomunicaciones",
+    "level": "4digit",
+    "parent_id": "148.0"
+  },
+  {
+    "": "150",
+    "code": "23",
+    "name": "Profesores y especialistas en docencia",
+    "level": "2digit",
+    "parent_id": "83.0"
+  },
+  {
+    "": "151",
+    "code": "231",
+    "name": "Supervisores educativos y especialistas en ciencias de la educación",
+    "level": "3digit",
+    "parent_id": "150.0"
+  },
+  {
+    "": "152",
+    "code": "2311",
+    "name": "Supervisores e inspectores educativos",
+    "level": "4digit",
+    "parent_id": "151.0"
+  },
+  {
+    "": "153",
+    "code": "2312",
+    "name": "Pedagogos, orientadores educativos y otros especialistas en ciencias educativas",
+    "level": "4digit",
+    "parent_id": "151.0"
+  },
+  {
+    "": "154",
+    "code": "232",
+    "name": "Profesores de nivel medio y superior",
+    "level": "3digit",
+    "parent_id": "150.0"
+  },
+  {
+    "": "155",
+    "code": "2321",
+    "name": "Profesores universitarios y de enseñanza superior",
+    "level": "4digit",
+    "parent_id": "154.0"
+  },
+  {
+    "": "156",
+    "code": "2322",
+    "name": "Profesores de preparatoria y equivalentes",
+    "level": "4digit",
+    "parent_id": "154.0"
+  },
+  {
+    "": "157",
+    "code": "233",
+    "name": "Profesores de nivel básico",
+    "level": "3digit",
+    "parent_id": "150.0"
+  },
+  {
+    "": "158",
+    "code": "2331",
+    "name": "Profesores de enseñanza secundaria",
+    "level": "4digit",
+    "parent_id": "157.0"
+  },
+  {
+    "": "159",
+    "code": "2332",
+    "name": "Profesores de enseñanza primaria",
+    "level": "4digit",
+    "parent_id": "157.0"
+  },
+  {
+    "": "160",
+    "code": "2333",
+    "name": "Alfabetizadores",
+    "level": "4digit",
+    "parent_id": "157.0"
+  },
+  {
+    "": "161",
+    "code": "2334",
+    "name": "Profesores de enseñanza bilingüe (indígena)",
+    "level": "4digit",
+    "parent_id": "157.0"
+  },
+  {
+    "": "162",
+    "code": "2335",
+    "name": "Profesores de enseñanza preescolar",
+    "level": "4digit",
+    "parent_id": "157.0"
+  },
+  {
+    "": "163",
+    "code": "2339",
+    "name": "Otros profesores de nivel básico, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "157.0"
+  },
+  {
+    "": "164",
+    "code": "234",
+    "name": "Profesores en enseñanza especial",
+    "level": "3digit",
+    "parent_id": "150.0"
+  },
+  {
+    "": "165",
+    "code": "2341",
+    "name": "Profesores de personas con problemas de audición y lenguaje",
+    "level": "4digit",
+    "parent_id": "164.0"
+  },
+  {
+    "": "166",
+    "code": "2342",
+    "name": "Profesores de personas con problemas de aprendizaje",
+    "level": "4digit",
+    "parent_id": "164.0"
+  },
+  {
+    "": "167",
+    "code": "2343",
+    "name": "Otros profesores de enseñanza especial",
+    "level": "4digit",
+    "parent_id": "164.0"
+  },
+  {
+    "": "168",
+    "code": "239",
+    "name": "Otros profesores y especialistas en docencia, no clasificados anteriormente",
+    "level": "3digit",
+    "parent_id": "150.0"
+  },
+  {
+    "": "169",
+    "code": "2391",
+    "name": "Otros profesores y especialistas en docencia, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "168.0"
+  },
+  {
+    "": "170",
+    "code": "24",
+    "name": "Médicos, enfermeras y otros especialistas en salud",
+    "level": "2digit",
+    "parent_id": "83.0"
+  },
+  {
+    "": "171",
+    "code": "241",
+    "name": "Médicos generales y especialistas",
+    "level": "3digit",
+    "parent_id": "170.0"
+  },
+  {
+    "": "172",
+    "code": "2411",
+    "name": "Médicos generales y familiares",
+    "level": "4digit",
+    "parent_id": "171.0"
+  },
+  {
+    "": "173",
+    "code": "2412",
+    "name": "Médicos especialistas",
+    "level": "4digit",
+    "parent_id": "171.0"
+  },
+  {
+    "": "174",
+    "code": "2413",
+    "name": "Dentistas",
+    "level": "4digit",
+    "parent_id": "171.0"
+  },
+  {
+    "": "175",
+    "code": "242",
+    "name": "Otros especialistas en salud",
+    "level": "3digit",
+    "parent_id": "170.0"
+  },
+  {
+    "": "176",
+    "code": "2421",
+    "name": "Ingenieros biomédicos",
+    "level": "4digit",
+    "parent_id": "175.0"
+  },
+  {
+    "": "177",
+    "code": "2422",
+    "name": "Optometristas",
+    "level": "4digit",
+    "parent_id": "175.0"
+  },
+  {
+    "": "178",
+    "code": "2423",
+    "name": "Nutriólogos",
+    "level": "4digit",
+    "parent_id": "175.0"
+  },
+  {
+    "": "179",
+    "code": "2424",
+    "name": "Especialistas en seguridad e higiene y salud pública",
+    "level": "4digit",
+    "parent_id": "175.0"
+  },
+  {
+    "": "180",
+    "code": "2425",
+    "name": "Especialistas en medicina tradicional y alternativa",
+    "level": "4digit",
+    "parent_id": "175.0"
+  },
+  {
+    "": "181",
+    "code": "2426",
+    "name": "Enfermeras especialistas",
+    "level": "4digit",
+    "parent_id": "175.0"
+  },
+  {
+    "": "182",
+    "code": "2427",
+    "name": "Fisioterapeutas, audiólogos y logopedas",
+    "level": "4digit",
+    "parent_id": "175.0"
+  },
+  {
+    "": "183",
+    "code": "2428",
+    "name": "Farmacólogos",
+    "level": "4digit",
+    "parent_id": "175.0"
+  },
+  {
+    "": "184",
+    "code": "25",
+    "name": "Auxiliares y técnicos en ciencias económico-administrativas, ciencias sociales, humanistas y en artes",
+    "level": "2digit",
+    "parent_id": "83.0"
+  },
+  {
+    "": "185",
+    "code": "251",
+    "name": "Auxiliares en administración, contabilidad y finanzas",
+    "level": "3digit",
+    "parent_id": "184.0"
+  },
+  {
+    "": "186",
+    "code": "2511",
+    "name": "Auxiliares en administración, mercadotecnia, comercialización y comercio exterior",
+    "level": "4digit",
+    "parent_id": "185.0"
+  },
+  {
+    "": "187",
+    "code": "2512",
+    "name": "Auxiliares en contabilidad, economía, finanzas y agentes de bolsa",
+    "level": "4digit",
+    "parent_id": "185.0"
+  },
+  {
+    "": "188",
+    "code": "2513",
+    "name": "Tramitadores aduanales",
+    "level": "4digit",
+    "parent_id": "185.0"
+  },
+  {
+    "": "189",
+    "code": "2514",
+    "name": "Valuadores, subastadores y rematadores",
+    "level": "4digit",
+    "parent_id": "185.0"
+  },
+  {
+    "": "190",
+    "code": "252",
+    "name": "Inspectores públicos",
+    "level": "3digit",
+    "parent_id": "184.0"
+  },
+  {
+    "": "191",
+    "code": "2521",
+    "name": "Oficiales del ministerio público y detectives",
+    "level": "4digit",
+    "parent_id": "190.0"
+  },
+  {
+    "": "192",
+    "code": "2522",
+    "name": "Agentes aduanales y fronterizos",
+    "level": "4digit",
+    "parent_id": "190.0"
+  },
+  {
+    "": "193",
+    "code": "2523",
+    "name": "Agentes de recaudación tributaria y de licencias",
+    "level": "4digit",
+    "parent_id": "190.0"
+  },
+  {
+    "": "194",
+    "code": "2524",
+    "name": "Inspectores en seguridad social, de precios y otros inspectores públicos",
+    "level": "4digit",
+    "parent_id": "190.0"
+  },
+  {
+    "": "195",
+    "code": "253",
+    "name": "Auxiliares en ciencias sociales y humanistas",
+    "level": "3digit",
+    "parent_id": "184.0"
+  },
+  {
+    "": "196",
+    "code": "2531",
+    "name": "Auxiliares en ciencias sociales y humanistas",
+    "level": "4digit",
+    "parent_id": "195.0"
+  },
+  {
+    "": "197",
+    "code": "2532",
+    "name": "Auxiliares en servicios jurídicos",
+    "level": "4digit",
+    "parent_id": "195.0"
+  },
+  {
+    "": "198",
+    "code": "2533",
+    "name": "Monjas y predicadores",
+    "level": "4digit",
+    "parent_id": "195.0"
+  },
+  {
+    "": "199",
+    "code": "254",
+    "name": "Diseñadores de modas, industriales, gráficos y decoradores de interiores",
+    "level": "3digit",
+    "parent_id": "184.0"
+  },
+  {
+    "": "200",
+    "code": "2541",
+    "name": "Diseñadores de moda y vestuario",
+    "level": "4digit",
+    "parent_id": "199.0"
+  },
+  {
+    "": "201",
+    "code": "2542",
+    "name": "Diseñadores industriales",
+    "level": "4digit",
+    "parent_id": "199.0"
+  },
+  {
+    "": "202",
+    "code": "2543",
+    "name": "Diseñadores gráficos",
+    "level": "4digit",
+    "parent_id": "199.0"
+  },
+  {
+    "": "203",
+    "code": "2544",
+    "name": "Decoradores de interiores, jardines y diversos materiales (tazas, llaveros, etcétera)",
+    "level": "4digit",
+    "parent_id": "199.0"
+  },
+  {
+    "": "204",
+    "code": "255",
+    "name": "Locutores, animadores y payasos",
+    "level": "3digit",
+    "parent_id": "184.0"
+  },
+  {
+    "": "205",
+    "code": "2551",
+    "name": "Locutores de radio, televisión y otros medios de comunicación",
+    "level": "4digit",
+    "parent_id": "204.0"
+  },
+  {
+    "": "206",
+    "code": "2552",
+    "name": "Animadores y organizadores de eventos",
+    "level": "4digit",
+    "parent_id": "204.0"
+  },
+  {
+    "": "207",
+    "code": "2553",
+    "name": "Payasos, mimos y cirqueros",
+    "level": "4digit",
+    "parent_id": "204.0"
+  },
+  {
+    "": "208",
+    "code": "256",
+    "name": "Deportistas, entrenadores y árbitros",
+    "level": "3digit",
+    "parent_id": "184.0"
+  },
+  {
+    "": "209",
+    "code": "2561",
+    "name": "Deportistas",
+    "level": "4digit",
+    "parent_id": "208.0"
+  },
+  {
+    "": "210",
+    "code": "2562",
+    "name": "Entrenadores deportivos y directores técnicos",
+    "level": "4digit",
+    "parent_id": "208.0"
+  },
+  {
+    "": "211",
+    "code": "2563",
+    "name": "Árbitros y jueces deportivos",
+    "level": "4digit",
+    "parent_id": "208.0"
+  },
+  {
+    "": "212",
+    "code": "26",
+    "name": "Auxiliares y técnicos en ciencias exactas, biológicas, ingeniería, informática y en telecomunicaciones",
+    "level": "2digit",
+    "parent_id": "83.0"
+  },
+  {
+    "": "213",
+    "code": "261",
+    "name": "Auxiliares y técnicos en ciencias físicas, matemáticas, biológicas, químicas, del medio ambiente y agronómicas",
+    "level": "3digit",
+    "parent_id": "212.0"
+  },
+  {
+    "": "214",
+    "code": "2611",
+    "name": "Auxiliares y técnicos en física, matemáticas, estadística y actuaría",
+    "level": "4digit",
+    "parent_id": "213.0"
+  },
+  {
+    "": "215",
+    "code": "2612",
+    "name": "Auxiliares y técnicos en ciencias biológicas, químicas y del medio ambiente",
+    "level": "4digit",
+    "parent_id": "213.0"
+  },
+  {
+    "": "216",
+    "code": "2613",
+    "name": "Auxiliares y técnicos en agronomía",
+    "level": "4digit",
+    "parent_id": "213.0"
+  },
+  {
+    "": "217",
+    "code": "2614",
+    "name": "Auxiliares y técnicos en veterinaria, pesca y forestación",
+    "level": "4digit",
+    "parent_id": "213.0"
+  },
+  {
+    "": "218",
+    "code": "262",
+    "name": "Auxiliares y técnicos industriales, topógrafos, mineros y dibujantes técnicos",
+    "level": "3digit",
+    "parent_id": "212.0"
+  },
+  {
+    "": "219",
+    "code": "2621",
+    "name": "Auxiliares y técnicos industriales y químicos",
+    "level": "4digit",
+    "parent_id": "218.0"
+  },
+  {
+    "": "220",
+    "code": "2622",
+    "name": "Auxiliares y técnicos topógrafos, en hidrología y geología",
+    "level": "4digit",
+    "parent_id": "218.0"
+  },
+  {
+    "": "221",
+    "code": "2623",
+    "name": "Auxiliares y técnicos mineros, metalúrgicos y petroleros",
+    "level": "4digit",
+    "parent_id": "218.0"
+  },
+  {
+    "": "222",
+    "code": "2624",
+    "name": "Auxiliares y técnicos en construcción y arquitectura",
+    "level": "4digit",
+    "parent_id": "218.0"
+  },
+  {
+    "": "223",
+    "code": "2625",
+    "name": "Dibujantes técnicos",
+    "level": "4digit",
+    "parent_id": "218.0"
+  },
+  {
+    "": "224",
+    "code": "263",
+    "name": "Mecánicos y técnicos en mantenimiento y reparación de equipos mecánicos, vehículos de motor, instrumentos industriales y equipo de refrigeración",
+    "level": "3digit",
+    "parent_id": "212.0"
+  },
+  {
+    "": "225",
+    "code": "2630",
+    "name": "Supervisores de mecánicos y técnicos en mantenimiento y reparación de equipos mecánicos, vehículos de motor, instrumentos industriales y equipo de refrigeración",
+    "level": "4digit",
+    "parent_id": "224.0"
+  },
+  {
+    "": "226",
+    "code": "2631",
+    "name": "Técnicos en mantenimiento y reparación de vehículos de motor",
+    "level": "4digit",
+    "parent_id": "224.0"
+  },
+  {
+    "": "227",
+    "code": "2632",
+    "name": "Mecánicos en mantenimiento y reparación de vehículos de motor",
+    "level": "4digit",
+    "parent_id": "224.0"
+  },
+  {
+    "": "228",
+    "code": "2633",
+    "name": "Técnicos en mantenimiento y reparación de maquinaria e instrumentos industriales",
+    "level": "4digit",
+    "parent_id": "224.0"
+  },
+  {
+    "": "229",
+    "code": "2634",
+    "name": "Mecánicos en mantenimiento y reparación de maquinaria e instrumentos industriales",
+    "level": "4digit",
+    "parent_id": "224.0"
+  },
+  {
+    "": "230",
+    "code": "2635",
+    "name": "Técnicos en mantenimiento y reparación de instrumentos de precisión y musicales",
+    "level": "4digit",
+    "parent_id": "224.0"
+  },
+  {
+    "": "231",
+    "code": "2636",
+    "name": "Mecánicos en mantenimiento y reparación de instrumentos de precisión y musicales",
+    "level": "4digit",
+    "parent_id": "224.0"
+  },
+  {
+    "": "232",
+    "code": "2637",
+    "name": "Técnicos en la instalación, reparación y mantenimiento de equipos de refrigeración, climas y aire acondicionado",
+    "level": "4digit",
+    "parent_id": "224.0"
+  },
+  {
+    "": "233",
+    "code": "2638",
+    "name": "Mecánicos en instalación, mantenimiento y reparación de equipos de refrigeración, climas y aire acondicionado.",
+    "level": "4digit",
+    "parent_id": "224.0"
+  },
+  {
+    "": "234",
+    "code": "2639",
+    "name": "Otras ocupaciones de mecánicos y técnicos en el mantenimiento y reparación de equipos mecánicos, vehículos de motor e instrumentos industriales, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "224.0"
+  },
+  {
+    "": "235",
+    "code": "264",
+    "name": "Técnicos eléctricos, en electrónica y de equipos en telecomunicaciones y electromecánicos",
+    "level": "3digit",
+    "parent_id": "212.0"
+  },
+  {
+    "": "236",
+    "code": "2640",
+    "name": "Supervisores de técnicos eléctricos, en electrónica y de equipos en telecomunicaciones y electromecánicos",
+    "level": "4digit",
+    "parent_id": "235.0"
+  },
+  {
+    "": "237",
+    "code": "2641",
+    "name": "Técnicos eléctricos",
+    "level": "4digit",
+    "parent_id": "235.0"
+  },
+  {
+    "": "238",
+    "code": "2642",
+    "name": "Electricistas y linieros",
+    "level": "4digit",
+    "parent_id": "235.0"
+  },
+  {
+    "": "239",
+    "code": "2643",
+    "name": "Técnicos en instalación y reparación de equipos electrónicos, telecomunicaciones y electrodoméstico (excepto equipos informáticos)",
+    "level": "4digit",
+    "parent_id": "235.0"
+  },
+  {
+    "": "240",
+    "code": "2644",
+    "name": "Trabajadores en instalación y reparación de equipos electrónicos, telecomunicaciones y electrodoméstico (excepto equipos informáticos)",
+    "level": "4digit",
+    "parent_id": "235.0"
+  },
+  {
+    "": "241",
+    "code": "2645",
+    "name": "Técnicos en reparación de equipos electromecánicos",
+    "level": "4digit",
+    "parent_id": "235.0"
+  },
+  {
+    "": "242",
+    "code": "2646",
+    "name": "Trabajadores en reparación de equipos electromecánicos",
+    "level": "4digit",
+    "parent_id": "235.0"
+  },
+  {
+    "": "243",
+    "code": "2649",
+    "name": "Otros técnicos eléctricos, en electrónica y de equipos en telecomunicaciones y electromecánicos, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "235.0"
+  },
+  {
+    "": "244",
+    "code": "265",
+    "name": "Auxiliares y técnicos en informática y en equipos de comunicaciones y grabación",
+    "level": "3digit",
+    "parent_id": "212.0"
+  },
+  {
+    "": "245",
+    "code": "2651",
+    "name": "Técnicos en la instalación y reparación de redes, equipos y en sistemas computacionales",
+    "level": "4digit",
+    "parent_id": "244.0"
+  },
+  {
+    "": "246",
+    "code": "2652",
+    "name": "Técnicos en operaciones de equipos de radio",
+    "level": "4digit",
+    "parent_id": "244.0"
+  },
+  {
+    "": "247",
+    "code": "2653",
+    "name": "Auxiliares y técnicos de equipos de grabación y reproducción de video",
+    "level": "4digit",
+    "parent_id": "244.0"
+  },
+  {
+    "": "248",
+    "code": "2654",
+    "name": "Auxiliares y técnicos de ingeniería de audio, sonido e iluminación",
+    "level": "4digit",
+    "parent_id": "244.0"
+  },
+  {
+    "": "249",
+    "code": "2655",
+    "name": "Fotógrafos",
+    "level": "4digit",
+    "parent_id": "244.0"
+  },
+  {
+    "": "250",
+    "code": "266",
+    "name": "Controladores de tráfico aéreo y de otros transportes",
+    "level": "3digit",
+    "parent_id": "212.0"
+  },
+  {
+    "": "251",
+    "code": "2661",
+    "name": "Controladores de tráfico aéreo",
+    "level": "4digit",
+    "parent_id": "250.0"
+  },
+  {
+    "": "252",
+    "code": "2662",
+    "name": "Controladores de tráfico de otros transportes (terrestre, ferroviario y marítimo)",
+    "level": "4digit",
+    "parent_id": "250.0"
+  },
+  {
+    "": "253",
+    "code": "27",
+    "name": "Auxiliares y técnicos en educación, instructores y capacitadores",
+    "level": "2digit",
+    "parent_id": "83.0"
+  },
+  {
+    "": "254",
+    "code": "271",
+    "name": "Auxiliares y técnicos en educación, instructores y capacitadores",
+    "level": "3digit",
+    "parent_id": "253.0"
+  },
+  {
+    "": "255",
+    "code": "2711",
+    "name": "Auxiliares y técnicos en pedagogía y en educación",
+    "level": "4digit",
+    "parent_id": "254.0"
+  },
+  {
+    "": "256",
+    "code": "2712",
+    "name": "Instructores en estudios y capacitación artística",
+    "level": "4digit",
+    "parent_id": "254.0"
+  },
+  {
+    "": "257",
+    "code": "2713",
+    "name": "Instructores en estudios y capacitación comercial y administrativa",
+    "level": "4digit",
+    "parent_id": "254.0"
+  },
+  {
+    "": "258",
+    "code": "2714",
+    "name": "Instructores en idiomas extranjeros",
+    "level": "4digit",
+    "parent_id": "254.0"
+  },
+  {
+    "": "259",
+    "code": "2715",
+    "name": "Instructores y capacitadores en oficios y para el trabajo",
+    "level": "4digit",
+    "parent_id": "254.0"
+  },
+  {
+    "": "260",
+    "code": "2716",
+    "name": "Profesores en educación física y deporte",
+    "level": "4digit",
+    "parent_id": "254.0"
+  },
+  {
+    "": "261",
+    "code": "28",
+    "name": "Enfermeras, técnicos en medicina y trabajadores de apoyo en salud",
+    "level": "2digit",
+    "parent_id": "83.0"
+  },
+  {
+    "": "262",
+    "code": "281",
+    "name": "Enfermeras y técnicos en medicina",
+    "level": "3digit",
+    "parent_id": "261.0"
+  },
+  {
+    "": "263",
+    "code": "2811",
+    "name": "Enfermeras (técnicas)",
+    "level": "4digit",
+    "parent_id": "262.0"
+  },
+  {
+    "": "264",
+    "code": "2812",
+    "name": "Técnicos en aparatos de diagnóstico, tratamiento médico, podólogos y fisioterapeutas",
+    "level": "4digit",
+    "parent_id": "262.0"
+  },
+  {
+    "": "265",
+    "code": "2813",
+    "name": "Técnicos de laboratorios médicos",
+    "level": "4digit",
+    "parent_id": "262.0"
+  },
+  {
+    "": "266",
+    "code": "2814",
+    "name": "Técnicos y asistentes farmacéuticos",
+    "level": "4digit",
+    "parent_id": "262.0"
+  },
+  {
+    "": "267",
+    "code": "2815",
+    "name": "Técnicos de prótesis médicas y dentales",
+    "level": "4digit",
+    "parent_id": "262.0"
+  },
+  {
+    "": "268",
+    "code": "2816",
+    "name": "Técnicos dietistas y nutriólogos",
+    "level": "4digit",
+    "parent_id": "262.0"
+  },
+  {
+    "": "269",
+    "code": "2817",
+    "name": "Técnicos en medicina alternativa",
+    "level": "4digit",
+    "parent_id": "262.0"
+  },
+  {
+    "": "270",
+    "code": "282",
+    "name": "Trabajadores de apoyo en salud",
+    "level": "3digit",
+    "parent_id": "261.0"
+  },
+  {
+    "": "271",
+    "code": "2821",
+    "name": "Auxiliares en enfermería y paramédicos",
+    "level": "4digit",
+    "parent_id": "270.0"
+  },
+  {
+    "": "272",
+    "code": "2822",
+    "name": "Auxiliares y asistentes dentales",
+    "level": "4digit",
+    "parent_id": "270.0"
+  },
+  {
+    "": "273",
+    "code": "2823",
+    "name": "Auxiliares hospitalarios y de medicina",
+    "level": "4digit",
+    "parent_id": "270.0"
+  },
+  {
+    "": "274",
+    "code": "2824",
+    "name": "Parteras",
+    "level": "4digit",
+    "parent_id": "270.0"
+  },
+  {
+    "": "275",
+    "code": "2825",
+    "name": "Técnicos en seguridad en el trabajo e higiene",
+    "level": "4digit",
+    "parent_id": "270.0"
+  },
+  {
+    "": "276",
+    "code": "2826",
+    "name": "Curanderos, hierberos y hueseros",
+    "level": "4digit",
+    "parent_id": "270.0"
+  },
+  {
+    "": "277",
+    "code": "2827",
+    "name": "Fumigadores y controladores de plagas",
+    "level": "4digit",
+    "parent_id": "270.0"
+  },
+  {
+    "": "278",
+    "code": "29",
+    "name": "Otros especialistas y técnicos, no clasificados anteriormente",
+    "level": "2digit",
+    "parent_id": "83.0"
+  },
+  {
+    "": "279",
+    "code": "299",
+    "name": "Otros especialistas y técnicos, no clasificados anteriormente",
+    "level": "3digit",
+    "parent_id": "278.0"
+  },
+  {
+    "": "280",
+    "code": "2991",
+    "name": "Otros especialistas no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "279.0"
+  },
+  {
+    "": "281",
+    "code": "2992",
+    "name": "Otros técnicos no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "279.0"
+  },
+  {
+    "": "282",
+    "code": "3",
+    "name": "Trabajadores auxiliares en actividades administrativas",
+    "level": "1digit",
+    "parent_id": ""
+  },
+  {
+    "": "283",
+    "code": "31",
+    "name": "Secretarias, capturistas, cajeros y trabajadores de control de archivo y transporte",
+    "level": "2digit",
+    "parent_id": "282.0"
+  },
+  {
+    "": "284",
+    "code": "310",
+    "name": "Supervisores de secretarias, capturistas, cajeros y trabajadores de control de archivo y transporte",
+    "level": "3digit",
+    "parent_id": "283.0"
+  },
+  {
+    "": "285",
+    "code": "3101",
+    "name": "Supervisores de secretarias, capturistas, cajeros y trabajadores de control de archivo y transporte",
+    "level": "4digit",
+    "parent_id": "284.0"
+  },
+  {
+    "": "286",
+    "code": "311",
+    "name": "Secretarias, taquígrafos, mecanógrafos, capturistas de datos y operadores de máquinas de oficina",
+    "level": "3digit",
+    "parent_id": "283.0"
+  },
+  {
+    "": "287",
+    "code": "3111",
+    "name": "Secretarias",
+    "level": "4digit",
+    "parent_id": "286.0"
+  },
+  {
+    "": "288",
+    "code": "3112",
+    "name": "Taquígrafos, mecanógrafos y similares",
+    "level": "4digit",
+    "parent_id": "286.0"
+  },
+  {
+    "": "289",
+    "code": "3113",
+    "name": "Capturistas de datos",
+    "level": "4digit",
+    "parent_id": "286.0"
+  },
+  {
+    "": "290",
+    "code": "3114",
+    "name": "Operadores de máquinas de oficina (fotocopiadora, etc.)",
+    "level": "4digit",
+    "parent_id": "286.0"
+  },
+  {
+    "": "291",
+    "code": "3115",
+    "name": "Trabajadores de apoyo en actividades administrativas diversas",
+    "level": "4digit",
+    "parent_id": "286.0"
+  },
+  {
+    "": "292",
+    "code": "312",
+    "name": "Cajeros, cobradores y pagadores",
+    "level": "3digit",
+    "parent_id": "283.0"
+  },
+  {
+    "": "293",
+    "code": "3121",
+    "name": "Cajeros, taquilleros y receptores de apuestas",
+    "level": "4digit",
+    "parent_id": "292.0"
+  },
+  {
+    "": "294",
+    "code": "3122",
+    "name": "Cobradores, pagadores y prestamistas",
+    "level": "4digit",
+    "parent_id": "292.0"
+  },
+  {
+    "": "295",
+    "code": "313",
+    "name": "Trabajadores en archivo y control de almacén y bodega",
+    "level": "3digit",
+    "parent_id": "283.0"
+  },
+  {
+    "": "296",
+    "code": "3131",
+    "name": "Trabajadores en archivo y correspondencia",
+    "level": "4digit",
+    "parent_id": "295.0"
+  },
+  {
+    "": "297",
+    "code": "3132",
+    "name": "Encargados y trabajadores en control de almacén y bodega",
+    "level": "4digit",
+    "parent_id": "295.0"
+  },
+  {
+    "": "298",
+    "code": "314",
+    "name": "Trabajadores en el control de la operación de transporte",
+    "level": "3digit",
+    "parent_id": "283.0"
+  },
+  {
+    "": "299",
+    "code": "3141",
+    "name": "Despachadores de transporte",
+    "level": "4digit",
+    "parent_id": "298.0"
+  },
+  {
+    "": "300",
+    "code": "3142",
+    "name": "Checadores y revisores de transporte",
+    "level": "4digit",
+    "parent_id": "298.0"
+  },
+  {
+    "": "301",
+    "code": "32",
+    "name": "Trabajadores que brindan y manejan información",
+    "level": "2digit",
+    "parent_id": "282.0"
+  },
+  {
+    "": "302",
+    "code": "320",
+    "name": "Supervisores de trabajadores que brindan y manejan información",
+    "level": "3digit",
+    "parent_id": "301.0"
+  },
+  {
+    "": "303",
+    "code": "3201",
+    "name": "Supervisores de trabajadores que brindan y manejan información",
+    "level": "4digit",
+    "parent_id": "302.0"
+  },
+  {
+    "": "304",
+    "code": "321",
+    "name": "Recepcionistas, trabajadores que brindan información y telefonistas",
+    "level": "3digit",
+    "parent_id": "301.0"
+  },
+  {
+    "": "305",
+    "code": "3211",
+    "name": "Recepcionistas y trabajadores que brindan información (de forma personal)",
+    "level": "4digit",
+    "parent_id": "304.0"
+  },
+  {
+    "": "306",
+    "code": "3212",
+    "name": "Trabajadores que brindan información por teléfono (centro de llamadas) y anunciadores",
+    "level": "4digit",
+    "parent_id": "304.0"
+  },
+  {
+    "": "307",
+    "code": "3213",
+    "name": "Telefonistas y telegrafistas",
+    "level": "4digit",
+    "parent_id": "304.0"
+  },
+  {
+    "": "308",
+    "code": "322",
+    "name": "Trabajadores en agencias de viajes e información turística",
+    "level": "3digit",
+    "parent_id": "301.0"
+  },
+  {
+    "": "309",
+    "code": "3221",
+    "name": "Trabajadores en agencias de viajes",
+    "level": "4digit",
+    "parent_id": "308.0"
+  },
+  {
+    "": "310",
+    "code": "3222",
+    "name": "Guías de turismo en museos, casinos, parques, cines y otros centros recreativos",
+    "level": "4digit",
+    "parent_id": "308.0"
+  },
+  {
+    "": "311",
+    "code": "323",
+    "name": "Encuestadores y codificadores",
+    "level": "3digit",
+    "parent_id": "301.0"
+  },
+  {
+    "": "312",
+    "code": "3231",
+    "name": "Encuestadores",
+    "level": "4digit",
+    "parent_id": "311.0"
+  },
+  {
+    "": "313",
+    "code": "3232",
+    "name": "Codificadores de información",
+    "level": "4digit",
+    "parent_id": "311.0"
+  },
+  {
+    "": "314",
+    "code": "39",
+    "name": "Otras secretarias, capturistas, cajeros y trabajadores que brindan información, no clasificados anteriormente",
+    "level": "2digit",
+    "parent_id": "282.0"
+  },
+  {
+    "": "315",
+    "code": "399",
+    "name": "Otras secretarias, capturistas, cajeros y trabajadores que brindan información, no clasificados anteriormente",
+    "level": "3digit",
+    "parent_id": "314.0"
+  },
+  {
+    "": "316",
+    "code": "3999",
+    "name": "Otras secretarias, capturistas, cajeros y trabajadores que brindan información, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "315.0"
+  },
+  {
+    "": "317",
+    "code": "4",
+    "name": "Comerciantes, empleados en ventas y agentes de ventas",
+    "level": "1digit",
+    "parent_id": ""
+  },
+  {
+    "": "318",
+    "code": "41",
+    "name": "Comerciantes en establecimientos",
+    "level": "2digit",
+    "parent_id": "317.0"
+  },
+  {
+    "": "319",
+    "code": "411",
+    "name": "Comerciantes en establecimientos",
+    "level": "3digit",
+    "parent_id": "318.0"
+  },
+  {
+    "": "320",
+    "code": "4111",
+    "name": "Comerciantes en establecimientos",
+    "level": "4digit",
+    "parent_id": "319.0"
+  },
+  {
+    "": "321",
+    "code": "42",
+    "name": "Empleados de ventas en establecimientos",
+    "level": "2digit",
+    "parent_id": "317.0"
+  },
+  {
+    "": "322",
+    "code": "420",
+    "name": "Encargados y supervisores de ventas de productos y de servicios financieros y de alquiler",
+    "level": "3digit",
+    "parent_id": "321.0"
+  },
+  {
+    "": "323",
+    "code": "4201",
+    "name": "Encargados y supervisores de ventas de productos y de servicios financieros y de alquiler",
+    "level": "4digit",
+    "parent_id": "322.0"
+  },
+  {
+    "": "324",
+    "code": "421",
+    "name": "Empleados de ventas y vendedores por teléfono",
+    "level": "3digit",
+    "parent_id": "321.0"
+  },
+  {
+    "": "325",
+    "code": "4211",
+    "name": "Empleados de ventas, despachadores y dependientes en comercios",
+    "level": "4digit",
+    "parent_id": "324.0"
+  },
+  {
+    "": "326",
+    "code": "4212",
+    "name": "Anaqueleros, acomodadores y seleccionadores de mercancías y alimentadores de máquinas expendedoras",
+    "level": "4digit",
+    "parent_id": "324.0"
+  },
+  {
+    "": "327",
+    "code": "4213",
+    "name": "Vendedores por teléfono",
+    "level": "4digit",
+    "parent_id": "324.0"
+  },
+  {
+    "": "328",
+    "code": "4214",
+    "name": "Choferes vendedores",
+    "level": "4digit",
+    "parent_id": "324.0"
+  },
+  {
+    "": "329",
+    "code": "422",
+    "name": "Agentes, representantes de ventas y vendedores por catálogo",
+    "level": "3digit",
+    "parent_id": "321.0"
+  },
+  {
+    "": "330",
+    "code": "4221",
+    "name": "Agentes y representantes de ventas y consignatarios",
+    "level": "4digit",
+    "parent_id": "329.0"
+  },
+  {
+    "": "331",
+    "code": "4222",
+    "name": "Agentes de seguros y servicios financieros (ejecutivos de cuenta)",
+    "level": "4digit",
+    "parent_id": "329.0"
+  },
+  {
+    "": "332",
+    "code": "4223",
+    "name": "Agentes de bienes raíces",
+    "level": "4digit",
+    "parent_id": "329.0"
+  },
+  {
+    "": "333",
+    "code": "4224",
+    "name": "Vendedores por catálogo",
+    "level": "4digit",
+    "parent_id": "329.0"
+  },
+  {
+    "": "334",
+    "code": "423",
+    "name": "Trabajadores en la promoción de ventas y modelos",
+    "level": "3digit",
+    "parent_id": "321.0"
+  },
+  {
+    "": "335",
+    "code": "4231",
+    "name": "Demostradores y promotores",
+    "level": "4digit",
+    "parent_id": "334.0"
+  },
+  {
+    "": "336",
+    "code": "4232",
+    "name": "Edecanes",
+    "level": "4digit",
+    "parent_id": "334.0"
+  },
+  {
+    "": "337",
+    "code": "4233",
+    "name": "Modelos de moda, arte y publicidad",
+    "level": "4digit",
+    "parent_id": "334.0"
+  },
+  {
+    "": "338",
+    "code": "43",
+    "name": "Trabajadores en el alquiler",
+    "level": "2digit",
+    "parent_id": "317.0"
+  },
+  {
+    "": "339",
+    "code": "431",
+    "name": "Trabajadores en el alquiler",
+    "level": "3digit",
+    "parent_id": "338.0"
+  },
+  {
+    "": "340",
+    "code": "4311",
+    "name": "Trabajadores en el alquiler inmobiliario (casas, terrenos, etcétera)",
+    "level": "4digit",
+    "parent_id": "339.0"
+  },
+  {
+    "": "341",
+    "code": "4312",
+    "name": "Trabajadores en el alquiler de bienes muebles (loza, películas, videojuegos, etcétera)",
+    "level": "4digit",
+    "parent_id": "339.0"
+  },
+  {
+    "": "342",
+    "code": "49",
+    "name": "Otros comerciantes, empleados en ventas y agentes de ventas en establecimientos, no clasificados anteriormente",
+    "level": "2digit",
+    "parent_id": "317.0"
+  },
+  {
+    "": "343",
+    "code": "499",
+    "name": "Otros comerciantes, empleados en ventas y agentes de ventas en establecimientos, no clasificados anteriormente",
+    "level": "3digit",
+    "parent_id": "342.0"
+  },
+  {
+    "": "344",
+    "code": "4999",
+    "name": "Otros comerciantes, empleados en ventas y agentes de ventas en establecimientos, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "343.0"
+  },
+  {
+    "": "345",
+    "code": "5",
+    "name": "Trabajadores en servicios personales y vigilancia",
+    "level": "1digit",
+    "parent_id": ""
+  },
+  {
+    "": "346",
+    "code": "51",
+    "name": "Trabajadores en la preparación y servicio de alimentos y bebidas en establecimientos",
+    "level": "2digit",
+    "parent_id": "345.0"
+  },
+  {
+    "": "347",
+    "code": "510",
+    "name": "Supervisores en la preparación y servicio de alimentos y bebidas, así como en servicios de esparcimiento y de hotelería",
+    "level": "3digit",
+    "parent_id": "346.0"
+  },
+  {
+    "": "348",
+    "code": "5101",
+    "name": "Supervisores en la preparación y servicio de alimentos y bebidas, así como en servicios de esparcimiento y de hotelería",
+    "level": "4digit",
+    "parent_id": "347.0"
+  },
+  {
+    "": "349",
+    "code": "511",
+    "name": "Trabajadores en la preparación y servicio de alimentos y bebidas en establecimientos",
+    "level": "3digit",
+    "parent_id": "346.0"
+  },
+  {
+    "": "350",
+    "code": "5111",
+    "name": "Cocineros",
+    "level": "4digit",
+    "parent_id": "349.0"
+  },
+  {
+    "": "351",
+    "code": "5112",
+    "name": "Fonderos, vendedores y comerciantes de comida",
+    "level": "4digit",
+    "parent_id": "349.0"
+  },
+  {
+    "": "352",
+    "code": "5113",
+    "name": "Cocineros domésticos",
+    "level": "4digit",
+    "parent_id": "349.0"
+  },
+  {
+    "": "353",
+    "code": "5114",
+    "name": "Taqueros y preparadores de comida rápida, antojitos, pizzas, hot dogs, jugos, café, etcétera",
+    "level": "4digit",
+    "parent_id": "349.0"
+  },
+  {
+    "": "354",
+    "code": "5115",
+    "name": "Cantineros",
+    "level": "4digit",
+    "parent_id": "349.0"
+  },
+  {
+    "": "355",
+    "code": "5116",
+    "name": "Meseros",
+    "level": "4digit",
+    "parent_id": "349.0"
+  },
+  {
+    "": "356",
+    "code": "52",
+    "name": "Trabajadores en cuidados personales y del hogar",
+    "level": "2digit",
+    "parent_id": "345.0"
+  },
+  {
+    "": "357",
+    "code": "520",
+    "name": "Supervisores y encargados de trabajadores en cuidados personales y del hogar",
+    "level": "3digit",
+    "parent_id": "356.0"
+  },
+  {
+    "": "358",
+    "code": "5201",
+    "name": "Supervisores y encargados de trabajadores en cuidados personales y del hogar",
+    "level": "4digit",
+    "parent_id": "357.0"
+  },
+  {
+    "": "359",
+    "code": "521",
+    "name": "Peluqueros, embellecedores y similares",
+    "level": "3digit",
+    "parent_id": "356.0"
+  },
+  {
+    "": "360",
+    "code": "5211",
+    "name": "Peluqueros, barberos, estilistas y peinadores",
+    "level": "4digit",
+    "parent_id": "359.0"
+  },
+  {
+    "": "361",
+    "code": "5212",
+    "name": "Maquillistas, manicuristas, pedicuristas y tatuadores",
+    "level": "4digit",
+    "parent_id": "359.0"
+  },
+  {
+    "": "362",
+    "code": "5213",
+    "name": "Bañeros y masajistas",
+    "level": "4digit",
+    "parent_id": "359.0"
+  },
+  {
+    "": "363",
+    "code": "522",
+    "name": "Trabajadores en el cuidado de personas",
+    "level": "3digit",
+    "parent_id": "356.0"
+  },
+  {
+    "": "364",
+    "code": "5221",
+    "name": "Cuidadores de niños, personas con discapacidad y ancianos en establecimientos",
+    "level": "4digit",
+    "parent_id": "363.0"
+  },
+  {
+    "": "365",
+    "code": "5222",
+    "name": "Cuidadores de niños, personas con discapacidad y ancianos en casas particulares",
+    "level": "4digit",
+    "parent_id": "363.0"
+  },
+  {
+    "": "366",
+    "code": "523",
+    "name": "Azafatas y sobrecargos",
+    "level": "3digit",
+    "parent_id": "356.0"
+  },
+  {
+    "": "367",
+    "code": "5231",
+    "name": "Azafatas y sobrecargos",
+    "level": "4digit",
+    "parent_id": "366.0"
+  },
+  {
+    "": "368",
+    "code": "524",
+    "name": "Jardineros",
+    "level": "3digit",
+    "parent_id": "356.0"
+  },
+  {
+    "": "369",
+    "code": "5241",
+    "name": "Jardineros en establecimientos",
+    "level": "4digit",
+    "parent_id": "368.0"
+  },
+  {
+    "": "370",
+    "code": "5242",
+    "name": "Jardineros en casas particulares",
+    "level": "4digit",
+    "parent_id": "368.0"
+  },
+  {
+    "": "371",
+    "code": "525",
+    "name": "Trabajadores en otros servicios personales",
+    "level": "3digit",
+    "parent_id": "356.0"
+  },
+  {
+    "": "372",
+    "code": "5251",
+    "name": "Astrólogos, adivinadores y afines",
+    "level": "4digit",
+    "parent_id": "371.0"
+  },
+  {
+    "": "373",
+    "code": "5252",
+    "name": "Trabajadores dedicados a la prostitución",
+    "level": "4digit",
+    "parent_id": "371.0"
+  },
+  {
+    "": "374",
+    "code": "5253",
+    "name": "Trabajadores en servicios funerarios",
+    "level": "4digit",
+    "parent_id": "371.0"
+  },
+  {
+    "": "375",
+    "code": "5254",
+    "name": "Entrenadores de animales y ocupaciones relacionadas con el cuidado de mascotas",
+    "level": "4digit",
+    "parent_id": "371.0"
+  },
+  {
+    "": "376",
+    "code": "53",
+    "name": "Trabajadores en servicios de protección y vigilancia",
+    "level": "2digit",
+    "parent_id": "345.0"
+  },
+  {
+    "": "377",
+    "code": "530",
+    "name": "Supervisores en servicios de protección y vigilancia",
+    "level": "3digit",
+    "parent_id": "376.0"
+  },
+  {
+    "": "378",
+    "code": "5301",
+    "name": "Supervisores en servicios de protección y vigilancia",
+    "level": "4digit",
+    "parent_id": "377.0"
+  },
+  {
+    "": "379",
+    "code": "531",
+    "name": "Trabajadores en servicios de protección y vigilancia",
+    "level": "3digit",
+    "parent_id": "376.0"
+  },
+  {
+    "": "380",
+    "code": "5311",
+    "name": "Bomberos",
+    "level": "4digit",
+    "parent_id": "379.0"
+  },
+  {
+    "": "381",
+    "code": "5312",
+    "name": "Policías y agentes de tránsito",
+    "level": "4digit",
+    "parent_id": "379.0"
+  },
+  {
+    "": "382",
+    "code": "5313",
+    "name": "Vigilantes y guardias en establecimientos",
+    "level": "4digit",
+    "parent_id": "379.0"
+  },
+  {
+    "": "383",
+    "code": "5314",
+    "name": "Vigilantes y porteros en casas particulares",
+    "level": "4digit",
+    "parent_id": "379.0"
+  },
+  {
+    "": "384",
+    "code": "54",
+    "name": "Trabajadores de las fuerzas armadas",
+    "level": "2digit",
+    "parent_id": "345.0"
+  },
+  {
+    "": "385",
+    "code": "540",
+    "name": "Supervisores de las fuerzas armadas",
+    "level": "3digit",
+    "parent_id": "384.0"
+  },
+  {
+    "": "386",
+    "code": "5401",
+    "name": "Supervisores de las fuerzas armadas",
+    "level": "4digit",
+    "parent_id": "385.0"
+  },
+  {
+    "": "387",
+    "code": "541",
+    "name": "Trabajadores de las fuerzas armadas",
+    "level": "3digit",
+    "parent_id": "384.0"
+  },
+  {
+    "": "388",
+    "code": "5411",
+    "name": "Trabajadores de la fuerza armada aérea",
+    "level": "4digit",
+    "parent_id": "387.0"
+  },
+  {
+    "": "389",
+    "code": "5412",
+    "name": "Trabajadores de la fuerza armada marítima",
+    "level": "4digit",
+    "parent_id": "387.0"
+  },
+  {
+    "": "390",
+    "code": "5413",
+    "name": "Trabajadores de la fuerza armada terrestre",
+    "level": "4digit",
+    "parent_id": "387.0"
+  },
+  {
+    "": "391",
+    "code": "59",
+    "name": "Otras ocupaciones en servicios personales y vigilancia, no clasificadas anteriormente",
+    "level": "2digit",
+    "parent_id": "345.0"
+  },
+  {
+    "": "392",
+    "code": "599",
+    "name": "Otras ocupaciones en servicios personales y vigilancia, no clasificadas anteriormente",
+    "level": "3digit",
+    "parent_id": "391.0"
+  },
+  {
+    "": "393",
+    "code": "5999",
+    "name": "Otras ocupaciones en servicios personales y vigilancia, no clasificadas anteriormente",
+    "level": "4digit",
+    "parent_id": "392.0"
+  },
+  {
+    "": "394",
+    "code": "6",
+    "name": "Trabajadores en actividades agrícolas, ganaderas, forestales, caza y pesca",
+    "level": "1digit",
+    "parent_id": ""
+  },
+  {
+    "": "395",
+    "code": "61",
+    "name": "Trabajadores en actividades agrícolas y ganaderas",
+    "level": "2digit",
+    "parent_id": "394.0"
+  },
+  {
+    "": "396",
+    "code": "610",
+    "name": "Supervisores, encargados y capataces agropecuarios",
+    "level": "3digit",
+    "parent_id": "395.0"
+  },
+  {
+    "": "397",
+    "code": "6101",
+    "name": "Supervisores, encargados y capataces agropecuarios",
+    "level": "4digit",
+    "parent_id": "396.0"
+  },
+  {
+    "": "398",
+    "code": "611",
+    "name": "Trabajadores en actividades agrícolas",
+    "level": "3digit",
+    "parent_id": "395.0"
+  },
+  {
+    "": "399",
+    "code": "6111",
+    "name": "Trabajadores en el cultivo de maíz y/o frijol",
+    "level": "4digit",
+    "parent_id": "398.0"
+  },
+  {
+    "": "400",
+    "code": "6112",
+    "name": "Trabajadores en el cultivo de hortalizas y verduras",
+    "level": "4digit",
+    "parent_id": "398.0"
+  },
+  {
+    "": "401",
+    "code": "6113",
+    "name": "Trabajadores en el cultivo de café, cacao y tabaco",
+    "level": "4digit",
+    "parent_id": "398.0"
+  },
+  {
+    "": "402",
+    "code": "6114",
+    "name": "Trabajadores en el cultivo de frutales",
+    "level": "4digit",
+    "parent_id": "398.0"
+  },
+  {
+    "": "403",
+    "code": "6115",
+    "name": "Trabajadores en el cultivo de flores",
+    "level": "4digit",
+    "parent_id": "398.0"
+  },
+  {
+    "": "404",
+    "code": "6116",
+    "name": "Trabajadores en otros cultivos agrícolas",
+    "level": "4digit",
+    "parent_id": "398.0"
+  },
+  {
+    "": "405",
+    "code": "6117",
+    "name": "Trabajadores en actividades de beneficio de productos agrícolas",
+    "level": "4digit",
+    "parent_id": "398.0"
+  },
+  {
+    "": "406",
+    "code": "6119",
+    "name": "Otros trabajadores en actividades agrícolas, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "398.0"
+  },
+  {
+    "": "407",
+    "code": "612",
+    "name": "Trabajadores en actividades ganaderas y en la cría de animales",
+    "level": "3digit",
+    "parent_id": "395.0"
+  },
+  {
+    "": "408",
+    "code": "6121",
+    "name": "Trabajadores en la cría de ganado bovino",
+    "level": "4digit",
+    "parent_id": "407.0"
+  },
+  {
+    "": "409",
+    "code": "6122",
+    "name": "Trabajadores en la cría de porcinos",
+    "level": "4digit",
+    "parent_id": "407.0"
+  },
+  {
+    "": "410",
+    "code": "6123",
+    "name": "Trabajadores en la cría avícola",
+    "level": "4digit",
+    "parent_id": "407.0"
+  },
+  {
+    "": "411",
+    "code": "6124",
+    "name": "Trabajadores en la cría de caprinos y ovinos",
+    "level": "4digit",
+    "parent_id": "407.0"
+  },
+  {
+    "": "412",
+    "code": "6125",
+    "name": "Trabajadores en la cría de equinos",
+    "level": "4digit",
+    "parent_id": "407.0"
+  },
+  {
+    "": "413",
+    "code": "6126",
+    "name": "Trabajadores en la apicultura",
+    "level": "4digit",
+    "parent_id": "407.0"
+  },
+  {
+    "": "414",
+    "code": "6127",
+    "name": "Trabajadores en la cría y cuidado de otro tipo de animales",
+    "level": "4digit",
+    "parent_id": "407.0"
+  },
+  {
+    "": "415",
+    "code": "6128",
+    "name": "Trabajadores en actividades de beneficio de productos pecuarios",
+    "level": "4digit",
+    "parent_id": "407.0"
+  },
+  {
+    "": "416",
+    "code": "6129",
+    "name": "Otros trabajadores en actividades ganaderas y en la cría de animales, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "407.0"
+  },
+  {
+    "": "417",
+    "code": "613",
+    "name": "Trabajadores que combinan actividades agrícolas con ganaderas",
+    "level": "3digit",
+    "parent_id": "395.0"
+  },
+  {
+    "": "418",
+    "code": "6131",
+    "name": "Trabajadores que combinan actividades agrícolas con ganaderas",
+    "level": "4digit",
+    "parent_id": "417.0"
+  },
+  {
+    "": "419",
+    "code": "62",
+    "name": "Trabajadores en actividades pesqueras, forestales, caza y similares",
+    "level": "2digit",
+    "parent_id": "394.0"
+  },
+  {
+    "": "420",
+    "code": "620",
+    "name": "Supervisores, encargados y capataces de trabajadores en actividades pesqueras, acuícolas, forestales, caza y similares",
+    "level": "3digit",
+    "parent_id": "419.0"
+  },
+  {
+    "": "421",
+    "code": "6201",
+    "name": "Supervisores, encargados y capataces de trabajadores en actividades pesqueras, acuícolas, forestales, caza y similares",
+    "level": "4digit",
+    "parent_id": "420.0"
+  },
+  {
+    "": "422",
+    "code": "621",
+    "name": "Trabajadores en actividades pesqueras y de acuacultura",
+    "level": "3digit",
+    "parent_id": "419.0"
+  },
+  {
+    "": "423",
+    "code": "6211",
+    "name": "Trabajadores en actividades pesqueras",
+    "level": "4digit",
+    "parent_id": "422.0"
+  },
+  {
+    "": "424",
+    "code": "6212",
+    "name": "Trabajadores en actividades de acuacultura",
+    "level": "4digit",
+    "parent_id": "422.0"
+  },
+  {
+    "": "425",
+    "code": "6213",
+    "name": "Trabajadores en actividades de beneficio de productos pesqueros o acuícolas",
+    "level": "4digit",
+    "parent_id": "422.0"
+  },
+  {
+    "": "426",
+    "code": "622",
+    "name": "Trabajadores en actividades silvícolas y forestales",
+    "level": "3digit",
+    "parent_id": "419.0"
+  },
+  {
+    "": "427",
+    "code": "6221",
+    "name": "Taladores, trocadores, cortadores de árboles y similares",
+    "level": "4digit",
+    "parent_id": "426.0"
+  },
+  {
+    "": "428",
+    "code": "6222",
+    "name": "Caucheros, chicleros, resineros y similares",
+    "level": "4digit",
+    "parent_id": "426.0"
+  },
+  {
+    "": "429",
+    "code": "6223",
+    "name": "Trabajadores en viveros e invernaderos",
+    "level": "4digit",
+    "parent_id": "426.0"
+  },
+  {
+    "": "430",
+    "code": "6224",
+    "name": "Trabajadores en actividades de plantación, reforestación y conservación de bosques",
+    "level": "4digit",
+    "parent_id": "426.0"
+  },
+  {
+    "": "431",
+    "code": "6225",
+    "name": "Cortadores de leña",
+    "level": "4digit",
+    "parent_id": "426.0"
+  },
+  {
+    "": "432",
+    "code": "6226",
+    "name": "Trabajadores en actividades de recolección de plantas, hierbas y raíces no cultivadas",
+    "level": "4digit",
+    "parent_id": "426.0"
+  },
+  {
+    "": "433",
+    "code": "6227",
+    "name": "Productores de carbón vegetal",
+    "level": "4digit",
+    "parent_id": "426.0"
+  },
+  {
+    "": "434",
+    "code": "623",
+    "name": "Trabajadores en actividades de caza, trampería y similares",
+    "level": "3digit",
+    "parent_id": "419.0"
+  },
+  {
+    "": "435",
+    "code": "6231",
+    "name": "Trabajadores en actividades de caza, trampería y similares",
+    "level": "4digit",
+    "parent_id": "434.0"
+  },
+  {
+    "": "436",
+    "code": "63",
+    "name": "Operadores de maquinaria agropecuaria y forestal",
+    "level": "2digit",
+    "parent_id": "394.0"
+  },
+  {
+    "": "437",
+    "code": "631",
+    "name": "Operadores de maquinaria agropecuaria y forestal",
+    "level": "3digit",
+    "parent_id": "436.0"
+  },
+  {
+    "": "438",
+    "code": "6311",
+    "name": "Operadores de maquinaria agropecuaria y forestal",
+    "level": "4digit",
+    "parent_id": "437.0"
+  },
+  {
+    "": "439",
+    "code": "69",
+    "name": "Otros trabajadores en actividades agrícolas, ganaderas, forestales, caza y pesca, no clasificados anteriormente",
+    "level": "2digit",
+    "parent_id": "394.0"
+  },
+  {
+    "": "440",
+    "code": "699",
+    "name": "Otros trabajadores en actividades agrícolas, ganaderas, forestales, caza y pesca, no clasificados anteriormente",
+    "level": "3digit",
+    "parent_id": "439.0"
+  },
+  {
+    "": "441",
+    "code": "6999",
+    "name": "Otros trabajadores en actividades agrícolas, ganaderas, forestales, caza y pesca, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "440.0"
+  },
+  {
+    "": "442",
+    "code": "7",
+    "name": "Trabajadores artesanales",
+    "level": "1digit",
+    "parent_id": ""
+  },
+  {
+    "": "443",
+    "code": "71",
+    "name": "Trabajadores en la extracción y la edificación de construcciones",
+    "level": "2digit",
+    "parent_id": "442.0"
+  },
+  {
+    "": "444",
+    "code": "710",
+    "name": "Supervisores de trabajadores en la extracción, albañiles y en acabados de la construcción",
+    "level": "3digit",
+    "parent_id": "443.0"
+  },
+  {
+    "": "445",
+    "code": "7101",
+    "name": "Supervisores de trabajadores en la extracción, albañiles y en acabados de la construcción",
+    "level": "4digit",
+    "parent_id": "444.0"
+  },
+  {
+    "": "446",
+    "code": "711",
+    "name": "Trabajadores en la extracción",
+    "level": "3digit",
+    "parent_id": "443.0"
+  },
+  {
+    "": "447",
+    "code": "7111",
+    "name": "Mineros y trabajadores en la extracción en minas de minerales metálicos",
+    "level": "4digit",
+    "parent_id": "446.0"
+  },
+  {
+    "": "448",
+    "code": "7112",
+    "name": "Trabajadores en la extracción de cantera, arcilla, arena, piedra y grava",
+    "level": "4digit",
+    "parent_id": "446.0"
+  },
+  {
+    "": "449",
+    "code": "7113",
+    "name": "Dinamiteros y buzos en perforación de pozos y en la construcción",
+    "level": "4digit",
+    "parent_id": "446.0"
+  },
+  {
+    "": "450",
+    "code": "712",
+    "name": "Albañiles y otros trabajadores en la edificación de construcciones",
+    "level": "3digit",
+    "parent_id": "443.0"
+  },
+  {
+    "": "451",
+    "code": "7121",
+    "name": "Albañiles, mamposteros y afines",
+    "level": "4digit",
+    "parent_id": "450.0"
+  },
+  {
+    "": "452",
+    "code": "7122",
+    "name": "Techadores (colocadores de palapas, etcétera)",
+    "level": "4digit",
+    "parent_id": "450.0"
+  },
+  {
+    "": "453",
+    "code": "7123",
+    "name": "Carpinteros de obra negra",
+    "level": "4digit",
+    "parent_id": "450.0"
+  },
+  {
+    "": "454",
+    "code": "713",
+    "name": "Yeseros, instaladores de pisos, climas, impermeabilizante, vidrio, etc., plomeros y pintores",
+    "level": "3digit",
+    "parent_id": "443.0"
+  },
+  {
+    "": "455",
+    "code": "7131",
+    "name": "Yeseros, escayolistas y otros recubridores de techos y paredes",
+    "level": "4digit",
+    "parent_id": "454.0"
+  },
+  {
+    "": "456",
+    "code": "7132",
+    "name": "Instaladores de pisos, azulejos, mosaicos y baldosas",
+    "level": "4digit",
+    "parent_id": "454.0"
+  },
+  {
+    "": "457",
+    "code": "7133",
+    "name": "Instaladores de material aislante, de impermeabilización, vidrio y otros materiales",
+    "level": "4digit",
+    "parent_id": "454.0"
+  },
+  {
+    "": "458",
+    "code": "7134",
+    "name": "Plomeros, fontaneros e instaladores de tubería",
+    "level": "4digit",
+    "parent_id": "454.0"
+  },
+  {
+    "": "459",
+    "code": "7135",
+    "name": "Pintores de brocha gorda",
+    "level": "4digit",
+    "parent_id": "454.0"
+  },
+  {
+    "": "460",
+    "code": "72",
+    "name": "Artesanos y trabajadores en el tratamiento y elaboración de productos de metal",
+    "level": "2digit",
+    "parent_id": "442.0"
+  },
+  {
+    "": "461",
+    "code": "720",
+    "name": "Supervisores de artesanos y trabajadores en el tratamiento y elaboración de productos de metal",
+    "level": "3digit",
+    "parent_id": "460.0"
+  },
+  {
+    "": "462",
+    "code": "7201",
+    "name": "Supervisores de artesanos y trabajadores en el tratamiento y elaboración de productos de metal",
+    "level": "4digit",
+    "parent_id": "461.0"
+  },
+  {
+    "": "463",
+    "code": "721",
+    "name": "Moldeadores, soldadores, hojalateros y pintores de metales",
+    "level": "3digit",
+    "parent_id": "460.0"
+  },
+  {
+    "": "464",
+    "code": "7211",
+    "name": "Moldeadores, torneros y troqueladores",
+    "level": "4digit",
+    "parent_id": "463.0"
+  },
+  {
+    "": "465",
+    "code": "7212",
+    "name": "Soldadores y oxicortadores",
+    "level": "4digit",
+    "parent_id": "463.0"
+  },
+  {
+    "": "466",
+    "code": "7213",
+    "name": "Hojalateros, chaperos, latoneros, cobreros y pintores de metales",
+    "level": "4digit",
+    "parent_id": "463.0"
+  },
+  {
+    "": "467",
+    "code": "7214",
+    "name": "Montadores de estructuras metálicas",
+    "level": "4digit",
+    "parent_id": "463.0"
+  },
+  {
+    "": "468",
+    "code": "722",
+    "name": "Herreros, cerrajeros, joyeros y artesanos en la elaboración de productos de metal",
+    "level": "3digit",
+    "parent_id": "460.0"
+  },
+  {
+    "": "469",
+    "code": "7221",
+    "name": "Herreros, balconeros, aluminadores y forjadores",
+    "level": "4digit",
+    "parent_id": "468.0"
+  },
+  {
+    "": "470",
+    "code": "7222",
+    "name": "Cerrajeros, afiladores y pulidores de herramientas",
+    "level": "4digit",
+    "parent_id": "468.0"
+  },
+  {
+    "": "471",
+    "code": "7223",
+    "name": "Joyeros, orfebres, plateros y pulidores de metal",
+    "level": "4digit",
+    "parent_id": "468.0"
+  },
+  {
+    "": "472",
+    "code": "73",
+    "name": "Artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel",
+    "level": "2digit",
+    "parent_id": "442.0"
+  },
+  {
+    "": "473",
+    "code": "730",
+    "name": "Supervisores de artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel",
+    "level": "3digit",
+    "parent_id": "472.0"
+  },
+  {
+    "": "474",
+    "code": "7301",
+    "name": "Supervisores de artesanos y trabajadores en la elaboración de productos de madera, papel, textiles y de cuero y piel",
+    "level": "4digit",
+    "parent_id": "473.0"
+  },
+  {
+    "": "475",
+    "code": "731",
+    "name": "Artesanos y trabajadores en la elaboración de productos de madera",
+    "level": "3digit",
+    "parent_id": "472.0"
+  },
+  {
+    "": "476",
+    "code": "7311",
+    "name": "Carpinteros, ebanistas y cepilladores en la elaboración de productos de madera",
+    "level": "4digit",
+    "parent_id": "475.0"
+  },
+  {
+    "": "477",
+    "code": "7312",
+    "name": "Pintores y barnizadores de madera",
+    "level": "4digit",
+    "parent_id": "475.0"
+  },
+  {
+    "": "478",
+    "code": "7313",
+    "name": "Artesanos de productos de bejuco, vara, palma, carrizo y mimbre, excepto madera",
+    "level": "4digit",
+    "parent_id": "475.0"
+  },
+  {
+    "": "479",
+    "code": "732",
+    "name": "Artesanos y trabajadores en la elaboración de productos de papel, cartón y trabajos de impresión",
+    "level": "3digit",
+    "parent_id": "472.0"
+  },
+  {
+    "": "480",
+    "code": "7321",
+    "name": "Artesanos y trabajadores en la elaboración de productos de papel y cartón",
+    "level": "4digit",
+    "parent_id": "479.0"
+  },
+  {
+    "": "481",
+    "code": "7322",
+    "name": "Impresores, linotipistas, fotograbadores y encuadernadores",
+    "level": "4digit",
+    "parent_id": "479.0"
+  },
+  {
+    "": "482",
+    "code": "7323",
+    "name": "Reveladores e impresores de fotografías",
+    "level": "4digit",
+    "parent_id": "479.0"
+  },
+  {
+    "": "483",
+    "code": "733",
+    "name": "Tejedores y trabajadores en la preparación de fibras textiles",
+    "level": "3digit",
+    "parent_id": "472.0"
+  },
+  {
+    "": "484",
+    "code": "7331",
+    "name": "Trabajadores en la preparación de fibras e hilados",
+    "level": "4digit",
+    "parent_id": "483.0"
+  },
+  {
+    "": "485",
+    "code": "7332",
+    "name": "Tejedores de fibras",
+    "level": "4digit",
+    "parent_id": "483.0"
+  },
+  {
+    "": "486",
+    "code": "734",
+    "name": "Artesanos y trabajadores en la elaboración de productos textiles",
+    "level": "3digit",
+    "parent_id": "472.0"
+  },
+  {
+    "": "487",
+    "code": "7341",
+    "name": "Sastres y modistos, costureras y confeccionadores de prendas de vestir",
+    "level": "4digit",
+    "parent_id": "486.0"
+  },
+  {
+    "": "488",
+    "code": "7342",
+    "name": "Artesanos y confeccionadores de productos textiles",
+    "level": "4digit",
+    "parent_id": "486.0"
+  },
+  {
+    "": "489",
+    "code": "7343",
+    "name": "Bordadores y deshiladores",
+    "level": "4digit",
+    "parent_id": "486.0"
+  },
+  {
+    "": "490",
+    "code": "7344",
+    "name": "Patronistas de productos textiles",
+    "level": "4digit",
+    "parent_id": "486.0"
+  },
+  {
+    "": "491",
+    "code": "735",
+    "name": "Tapiceros y trabajadores en el tratamiento y elaboración de productos de cuero y piel",
+    "level": "3digit",
+    "parent_id": "472.0"
+  },
+  {
+    "": "492",
+    "code": "7351",
+    "name": "Tapiceros",
+    "level": "4digit",
+    "parent_id": "491.0"
+  },
+  {
+    "": "493",
+    "code": "7352",
+    "name": "Peleteros, cortadores, curtidores y teñidores de cuero, piel y similares",
+    "level": "4digit",
+    "parent_id": "491.0"
+  },
+  {
+    "": "494",
+    "code": "7353",
+    "name": "Zapateros artesanales",
+    "level": "4digit",
+    "parent_id": "491.0"
+  },
+  {
+    "": "495",
+    "code": "74",
+    "name": "Artesanos y trabajadores en la elaboración de productos de hule, caucho, plásticos y de sustancias químicas",
+    "level": "2digit",
+    "parent_id": "442.0"
+  },
+  {
+    "": "496",
+    "code": "740",
+    "name": "Supervisores de artesanos y trabajadores en la elaboración de productos de hule, caucho, plásticos y de sustancias químicas",
+    "level": "3digit",
+    "parent_id": "495.0"
+  },
+  {
+    "": "497",
+    "code": "7401",
+    "name": "Supervisores de artesanos y trabajadores en la elaboración de productos de hule, caucho, plásticos y de sustancias químicas",
+    "level": "4digit",
+    "parent_id": "496.0"
+  },
+  {
+    "": "498",
+    "code": "741",
+    "name": "Artesanos y trabajadores en la elaboración de productos de hule, caucho, plásticos y de sustancias químicas",
+    "level": "3digit",
+    "parent_id": "495.0"
+  },
+  {
+    "": "499",
+    "code": "7411",
+    "name": "Trabajadores en la elaboración y reparación de productos de hule, caucho, plásticos y vulcanización de neumáticos",
+    "level": "4digit",
+    "parent_id": "498.0"
+  },
+  {
+    "": "500",
+    "code": "7412",
+    "name": "Trabajadores en la elaboración de sustancias y compuestos químicos",
+    "level": "4digit",
+    "parent_id": "498.0"
+  },
+  {
+    "": "501",
+    "code": "75",
+    "name": "Trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco",
+    "level": "2digit",
+    "parent_id": "442.0"
+  },
+  {
+    "": "502",
+    "code": "750",
+    "name": "Supervisores de trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco",
+    "level": "3digit",
+    "parent_id": "501.0"
+  },
+  {
+    "": "503",
+    "code": "7501",
+    "name": "Supervisores de trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco",
+    "level": "4digit",
+    "parent_id": "502.0"
+  },
+  {
+    "": "504",
+    "code": "751",
+    "name": "Trabajadores en la elaboración y procesamiento de alimentos, bebidas y productos de tabaco",
+    "level": "3digit",
+    "parent_id": "501.0"
+  },
+  {
+    "": "505",
+    "code": "7511",
+    "name": "Trabajadores en la elaboración de productos de carne, pescado y sus derivados",
+    "level": "4digit",
+    "parent_id": "504.0"
+  },
+  {
+    "": "506",
+    "code": "7512",
+    "name": "Trabajadores en la elaboración de productos lácteos",
+    "level": "4digit",
+    "parent_id": "504.0"
+  },
+  {
+    "": "507",
+    "code": "7513",
+    "name": "Trabajadores en la elaboración de pan, tortilla, repostería, y otros productos de cereales y harinas",
+    "level": "4digit",
+    "parent_id": "504.0"
+  },
+  {
+    "": "508",
+    "code": "7514",
+    "name": "Trabajadores en la elaboración de productos a base de frutas y verduras",
+    "level": "4digit",
+    "parent_id": "504.0"
+  },
+  {
+    "": "509",
+    "code": "7515",
+    "name": "Trabajadores en la elaboración de productos a base de azúcar, chocolate, confitería y tabaco",
+    "level": "4digit",
+    "parent_id": "504.0"
+  },
+  {
+    "": "510",
+    "code": "7516",
+    "name": "Trabajadores en la elaboración de aceites, grasas, sal y especias",
+    "level": "4digit",
+    "parent_id": "504.0"
+  },
+  {
+    "": "511",
+    "code": "7517",
+    "name": "Trabajadores en la elaboración de bebidas alcohólicas y no alcohólicas",
+    "level": "4digit",
+    "parent_id": "504.0"
+  },
+  {
+    "": "512",
+    "code": "76",
+    "name": "Artesanos y trabajadores en la elaboración de productos de cerámica, vidrio, azulejo y similares",
+    "level": "2digit",
+    "parent_id": "442.0"
+  },
+  {
+    "": "513",
+    "code": "760",
+    "name": "Supervisores de artesanos y trabajadores en la elaboración de productos de cerámica, vidrio, azulejo y similares",
+    "level": "3digit",
+    "parent_id": "512.0"
+  },
+  {
+    "": "514",
+    "code": "7601",
+    "name": "Supervisores de artesanos y trabajadores en la elaboración de productos de cerámica, vidrio, azulejo y similares",
+    "level": "4digit",
+    "parent_id": "513.0"
+  },
+  {
+    "": "515",
+    "code": "761",
+    "name": "Artesanos y trabajadores en la elaboración de productos de cerámica, vidrio, azulejo y similares",
+    "level": "3digit",
+    "parent_id": "512.0"
+  },
+  {
+    "": "516",
+    "code": "7611",
+    "name": "Alfareros y trabajadores ceramistas",
+    "level": "4digit",
+    "parent_id": "515.0"
+  },
+  {
+    "": "517",
+    "code": "7612",
+    "name": "Trabajadores en la elaboración de productos de cemento, cal, yeso, azulejo, piedra y ladrilleros",
+    "level": "4digit",
+    "parent_id": "515.0"
+  },
+  {
+    "": "518",
+    "code": "7613",
+    "name": "Trabajadores del vidrio y similares",
+    "level": "4digit",
+    "parent_id": "515.0"
+  },
+  {
+    "": "519",
+    "code": "7614",
+    "name": "Trabajadores en la elaboración de productos de hueso, concha, coral y similares",
+    "level": "4digit",
+    "parent_id": "515.0"
+  },
+  {
+    "": "520",
+    "code": "79",
+    "name": "Otros trabajadores artesanales, no clasificados anteriormente",
+    "level": "2digit",
+    "parent_id": "442.0"
+  },
+  {
+    "": "521",
+    "code": "799",
+    "name": "Otros trabajadores artesanales, no clasificados anteriormente",
+    "level": "3digit",
+    "parent_id": "520.0"
+  },
+  {
+    "": "522",
+    "code": "7999",
+    "name": "Otros trabajadores artesanales, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "521.0"
+  },
+  {
+    "": "523",
+    "code": "8",
+    "name": "Operadores de maquinaria industrial, ensambladores, choferes y conductores de transporte",
+    "level": "1digit",
+    "parent_id": ""
+  },
+  {
+    "": "524",
+    "code": "81",
+    "name": "Operadores de instalaciones y maquinaria industrial",
+    "level": "2digit",
+    "parent_id": "523.0"
+  },
+  {
+    "": "525",
+    "code": "810",
+    "name": "Supervisores de operadores de maquinaria industrial",
+    "level": "3digit",
+    "parent_id": "524.0"
+  },
+  {
+    "": "526",
+    "code": "8101",
+    "name": "Supervisores de operadores de maquinaria industrial",
+    "level": "4digit",
+    "parent_id": "525.0"
+  },
+  {
+    "": "527",
+    "code": "811",
+    "name": "Operadores de máquinas y equipos para la extracción en minas, canteras y pozos",
+    "level": "3digit",
+    "parent_id": "524.0"
+  },
+  {
+    "": "528",
+    "code": "8111",
+    "name": "Operadores de máquinas y equipos para la extracción y beneficio en minas y canteras",
+    "level": "4digit",
+    "parent_id": "527.0"
+  },
+  {
+    "": "529",
+    "code": "8112",
+    "name": "Operadores de máquinas y equipos para la extracción en pozos petroleros",
+    "level": "4digit",
+    "parent_id": "527.0"
+  },
+  {
+    "": "530",
+    "code": "8113",
+    "name": "Operadores de máquinas y equipos para la captación, bombeo y distribución de agua",
+    "level": "4digit",
+    "parent_id": "527.0"
+  },
+  {
+    "": "531",
+    "code": "8114",
+    "name": "Operadores de equipos portátiles especializados para la construcción",
+    "level": "4digit",
+    "parent_id": "527.0"
+  },
+  {
+    "": "532",
+    "code": "812",
+    "name": "Operadores de máquinas y equipos en la fabricación metalúrgica, fabricación de maquinaria y productos metálicos",
+    "level": "3digit",
+    "parent_id": "524.0"
+  },
+  {
+    "": "533",
+    "code": "8121",
+    "name": "Operadores de hornos metalúrgicos, coladores y laminadores y operadores de máquinas trefiladoras y estiradoras de metales",
+    "level": "4digit",
+    "parent_id": "532.0"
+  },
+  {
+    "": "534",
+    "code": "8122",
+    "name": "Operadores de máquinas pulidoras, galvanizadoras y recubridoras de metal",
+    "level": "4digit",
+    "parent_id": "532.0"
+  },
+  {
+    "": "535",
+    "code": "8123",
+    "name": "Operadores de máquinas que cortan, perforan, doblan, troquelan, sueldan, etc., piezas y productos metálicos",
+    "level": "4digit",
+    "parent_id": "532.0"
+  },
+  {
+    "": "536",
+    "code": "813",
+    "name": "Operadores de máquinas y equipos en la elaboración de productos químicos, plásticos, tratamiento de agua y petroquímica",
+    "level": "3digit",
+    "parent_id": "524.0"
+  },
+  {
+    "": "537",
+    "code": "8131",
+    "name": "Operadores de máquinas para la elaboración de productos químicos",
+    "level": "4digit",
+    "parent_id": "536.0"
+  },
+  {
+    "": "538",
+    "code": "8132",
+    "name": "Operadores de máquinas para la elaboración de productos farmacéuticos y cosméticos",
+    "level": "4digit",
+    "parent_id": "536.0"
+  },
+  {
+    "": "539",
+    "code": "8133",
+    "name": "Operadores de máquinas para la elaboración y ensamble de productos de plástico y hule",
+    "level": "4digit",
+    "parent_id": "536.0"
+  },
+  {
+    "": "540",
+    "code": "8134",
+    "name": "Operadores de máquinas para el tratamiento de agua",
+    "level": "4digit",
+    "parent_id": "536.0"
+  },
+  {
+    "": "541",
+    "code": "8135",
+    "name": "Operadores de máquinas y equipos para la refinación del petróleo y gas",
+    "level": "4digit",
+    "parent_id": "536.0"
+  },
+  {
+    "": "542",
+    "code": "814",
+    "name": "Operadores de máquinas para la madera y papel",
+    "level": "3digit",
+    "parent_id": "524.0"
+  },
+  {
+    "": "543",
+    "code": "8141",
+    "name": "Operadores de máquinas para el tratamiento de la madera y elaboración de aglomerados y triplay",
+    "level": "4digit",
+    "parent_id": "542.0"
+  },
+  {
+    "": "544",
+    "code": "8142",
+    "name": "Operadores de máquinas para la elaboración de productos de madera, bejuco, mimbre y similares",
+    "level": "4digit",
+    "parent_id": "542.0"
+  },
+  {
+    "": "545",
+    "code": "8143",
+    "name": "Operadores de máquinas en la elaboración de celulosa, papel y similares",
+    "level": "4digit",
+    "parent_id": "542.0"
+  },
+  {
+    "": "546",
+    "code": "8144",
+    "name": "Operadores de máquinas para la impresión y encuadernación",
+    "level": "4digit",
+    "parent_id": "542.0"
+  },
+  {
+    "": "547",
+    "code": "8145",
+    "name": "Operadores de máquinas para la elaboración de productos a base de papel y cartón",
+    "level": "4digit",
+    "parent_id": "542.0"
+  },
+  {
+    "": "548",
+    "code": "815",
+    "name": "Operadores de máquinas y equipos en la elaboración de productos textiles, cuero y piel",
+    "level": "3digit",
+    "parent_id": "524.0"
+  },
+  {
+    "": "549",
+    "code": "8151",
+    "name": "Operadores de máquinas y equipos de hilar y bobinar fibras textiles naturales y sintéticas",
+    "level": "4digit",
+    "parent_id": "548.0"
+  },
+  {
+    "": "550",
+    "code": "8152",
+    "name": "Operadores de máquinas para fabricar tejidos de punto, telas y alfombras",
+    "level": "4digit",
+    "parent_id": "548.0"
+  },
+  {
+    "": "551",
+    "code": "8153",
+    "name": "Operadores de máquinas de costura, bordado y de corte para la confección de productos textiles y prendas de vestir",
+    "level": "4digit",
+    "parent_id": "548.0"
+  },
+  {
+    "": "552",
+    "code": "8154",
+    "name": "Operadores de máquinas en el tratamiento del cuero, piel y la elaboración de calzado",
+    "level": "4digit",
+    "parent_id": "548.0"
+  },
+  {
+    "": "553",
+    "code": "8155",
+    "name": "Operadores de máquinas de lavado, blanqueo, teñido, estampado, afelpado, planchado y acabado de productos textiles, cuero, piel y similares",
+    "level": "4digit",
+    "parent_id": "548.0"
+  },
+  {
+    "": "554",
+    "code": "816",
+    "name": "Operadores de máquinas en la elaboración de alimentos, bebidas y tabaco",
+    "level": "3digit",
+    "parent_id": "524.0"
+  },
+  {
+    "": "555",
+    "code": "8161",
+    "name": "Operadores de máquinas en la elaboración de alimentos, aceites, grasas, sal y especias",
+    "level": "4digit",
+    "parent_id": "554.0"
+  },
+  {
+    "": "556",
+    "code": "8162",
+    "name": "Operadores de máquinas en la elaboración de tabaco",
+    "level": "4digit",
+    "parent_id": "554.0"
+  },
+  {
+    "": "557",
+    "code": "8163",
+    "name": "Operadores de máquinas en la elaboración de bebidas alcohólicas y no alcohólicas",
+    "level": "4digit",
+    "parent_id": "554.0"
+  },
+  {
+    "": "558",
+    "code": "817",
+    "name": "Operadores de máquinas en la elaboración de cemento y productos de cerámica, vidrio y similares",
+    "level": "3digit",
+    "parent_id": "524.0"
+  },
+  {
+    "": "559",
+    "code": "8171",
+    "name": "Operadores de máquinas en la elaboración de cemento, cal, yeso y productos de cemento",
+    "level": "4digit",
+    "parent_id": "558.0"
+  },
+  {
+    "": "560",
+    "code": "8172",
+    "name": "Operadores de máquinas en la elaboración de productos de cerámica, mosaico, azulejo y similares",
+    "level": "4digit",
+    "parent_id": "558.0"
+  },
+  {
+    "": "561",
+    "code": "8173",
+    "name": "Operadores de máquinas en la elaboración de vidrio y productos de vidrio y similares",
+    "level": "4digit",
+    "parent_id": "558.0"
+  },
+  {
+    "": "562",
+    "code": "818",
+    "name": "Operadores de máquinas para la generación de energía",
+    "level": "3digit",
+    "parent_id": "524.0"
+  },
+  {
+    "": "563",
+    "code": "8181",
+    "name": "Operadores de máquinas e instalaciones para la generación de energía",
+    "level": "4digit",
+    "parent_id": "562.0"
+  },
+  {
+    "": "564",
+    "code": "819",
+    "name": "Otros operadores de instalaciones y maquinaria fija industrial, no clasificados anteriormente",
+    "level": "3digit",
+    "parent_id": "524.0"
+  },
+  {
+    "": "565",
+    "code": "8199",
+    "name": "Otros operadores de instalaciones y maquinaria fija industrial, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "564.0"
+  },
+  {
+    "": "566",
+    "code": "82",
+    "name": "Ensambladores y montadores de herramientas, maquinaria, productos metálicos y electrónicos",
+    "level": "2digit",
+    "parent_id": "523.0"
+  },
+  {
+    "": "567",
+    "code": "820",
+    "name": "Supervisores en procesos de ensamblado y montaje de maquinaria, herramientas y productos metálicos y electrónicos",
+    "level": "3digit",
+    "parent_id": "566.0"
+  },
+  {
+    "": "568",
+    "code": "8201",
+    "name": "Supervisores en procesos de ensamblado y montaje de maquinaria, herramientas y productos metálicos y electrónicos",
+    "level": "4digit",
+    "parent_id": "567.0"
+  },
+  {
+    "": "569",
+    "code": "821",
+    "name": "Ensambladores y montadores de herramientas, maquinaria, productos metálicos y electrónicos",
+    "level": "3digit",
+    "parent_id": "566.0"
+  },
+  {
+    "": "570",
+    "code": "8211",
+    "name": "Ensambladores y montadores de herramientas, maquinaria y productos metálicos",
+    "level": "4digit",
+    "parent_id": "569.0"
+  },
+  {
+    "": "571",
+    "code": "8212",
+    "name": "Ensambladores y montadores de partes eléctricas y electrónicas",
+    "level": "4digit",
+    "parent_id": "569.0"
+  },
+  {
+    "": "572",
+    "code": "83",
+    "name": "Conductores de transporte y de maquinaria móvil",
+    "level": "2digit",
+    "parent_id": "523.0"
+  },
+  {
+    "": "573",
+    "code": "830",
+    "name": "Supervisores de conductores de transporte y de maquinaria móvil",
+    "level": "3digit",
+    "parent_id": "572.0"
+  },
+  {
+    "": "574",
+    "code": "8301",
+    "name": "Supervisores de conductores de transporte y de maquinaria móvil",
+    "level": "4digit",
+    "parent_id": "573.0"
+  },
+  {
+    "": "575",
+    "code": "831",
+    "name": "Conductores de transporte aéreo",
+    "level": "3digit",
+    "parent_id": "572.0"
+  },
+  {
+    "": "576",
+    "code": "8311",
+    "name": "Pilotos de aviación",
+    "level": "4digit",
+    "parent_id": "575.0"
+  },
+  {
+    "": "577",
+    "code": "832",
+    "name": "Conductores de transporte marítimo",
+    "level": "3digit",
+    "parent_id": "572.0"
+  },
+  {
+    "": "578",
+    "code": "8321",
+    "name": "Capitanes y conductores de transporte marítimo",
+    "level": "4digit",
+    "parent_id": "577.0"
+  },
+  {
+    "": "579",
+    "code": "8322",
+    "name": "Oficiales y marineros de cubierta y prácticos",
+    "level": "4digit",
+    "parent_id": "577.0"
+  },
+  {
+    "": "580",
+    "code": "8323",
+    "name": "Oficiales maquinistas de transporte marítimo",
+    "level": "4digit",
+    "parent_id": "577.0"
+  },
+  {
+    "": "581",
+    "code": "8324",
+    "name": "Conductores de pequeñas embarcaciones (lanchas, botes, trajineras, etcétera)",
+    "level": "4digit",
+    "parent_id": "577.0"
+  },
+  {
+    "": "582",
+    "code": "833",
+    "name": "Conductores de transporte en vías férreas",
+    "level": "3digit",
+    "parent_id": "572.0"
+  },
+  {
+    "": "583",
+    "code": "8331",
+    "name": "Conductores de transporte en vías férreas (tren, metro y tren ligero)",
+    "level": "4digit",
+    "parent_id": "582.0"
+  },
+  {
+    "": "584",
+    "code": "834",
+    "name": "Conductores de transporte terrestre con motor",
+    "level": "3digit",
+    "parent_id": "572.0"
+  },
+  {
+    "": "585",
+    "code": "8341",
+    "name": "Conductores de camiones, camionetas y automóviles de carga",
+    "level": "4digit",
+    "parent_id": "584.0"
+  },
+  {
+    "": "586",
+    "code": "8342",
+    "name": "Conductores de autobuses, camiones, camionetas, taxis y automóviles de pasajeros",
+    "level": "4digit",
+    "parent_id": "584.0"
+  },
+  {
+    "": "587",
+    "code": "8343",
+    "name": "Choferes en casas particulares",
+    "level": "4digit",
+    "parent_id": "584.0"
+  },
+  {
+    "": "588",
+    "code": "8344",
+    "name": "Conductores de motocicleta",
+    "level": "4digit",
+    "parent_id": "584.0"
+  },
+  {
+    "": "589",
+    "code": "8349",
+    "name": "Otros conductores de transporte terrestre con motor, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "584.0"
+  },
+  {
+    "": "590",
+    "code": "835",
+    "name": "Conductores de maquinaria móvil",
+    "level": "3digit",
+    "parent_id": "572.0"
+  },
+  {
+    "": "591",
+    "code": "8351",
+    "name": "Conductores de maquinaria móvil para la construcción y minería",
+    "level": "4digit",
+    "parent_id": "590.0"
+  },
+  {
+    "": "592",
+    "code": "8352",
+    "name": "Conductores de maquinaria móvil para el movimiento de mercancías en fábricas, puertos, comercios, etcétera.",
+    "level": "4digit",
+    "parent_id": "590.0"
+  },
+  {
+    "": "593",
+    "code": "89",
+    "name": "Otros operadores de maquinaria industrial, ensambladores y conductores de transporte, no clasificados anteriormente",
+    "level": "2digit",
+    "parent_id": "523.0"
+  },
+  {
+    "": "594",
+    "code": "899",
+    "name": "Otros operadores de maquinaria industrial, ensambladores y conductores de transporte, no clasificados anteriormente",
+    "level": "3digit",
+    "parent_id": "593.0"
+  },
+  {
+    "": "595",
+    "code": "8999",
+    "name": "Otros operadores de maquinaria industrial, ensambladores y conductores de transporte, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "594.0"
+  },
+  {
+    "": "596",
+    "code": "9",
+    "name": "Trabajadores en actividades elementales y de apoyo",
+    "level": "1digit",
+    "parent_id": ""
+  },
+  {
+    "": "597",
+    "code": "91",
+    "name": "Trabajadores de apoyo en actividades agropecuarias, forestales, pesca y caza",
+    "level": "2digit",
+    "parent_id": "596.0"
+  },
+  {
+    "": "598",
+    "code": "911",
+    "name": "Trabajadores de apoyo en actividades agropecuarias",
+    "level": "3digit",
+    "parent_id": "597.0"
+  },
+  {
+    "": "599",
+    "code": "9111",
+    "name": "Trabajadores de apoyo en actividades agrícolas",
+    "level": "4digit",
+    "parent_id": "598.0"
+  },
+  {
+    "": "600",
+    "code": "9112",
+    "name": "Trabajadores de apoyo en actividades ganaderas",
+    "level": "4digit",
+    "parent_id": "598.0"
+  },
+  {
+    "": "601",
+    "code": "9113",
+    "name": "Trabajadores de apoyo que realizan actividades agrícolas y ganaderas",
+    "level": "4digit",
+    "parent_id": "598.0"
+  },
+  {
+    "": "602",
+    "code": "912",
+    "name": "Trabajadores de apoyo en actividades forestales, pesca y caza",
+    "level": "3digit",
+    "parent_id": "597.0"
+  },
+  {
+    "": "603",
+    "code": "9121",
+    "name": "Trabajadores de apoyo en actividades silvícolas y forestales",
+    "level": "4digit",
+    "parent_id": "602.0"
+  },
+  {
+    "": "604",
+    "code": "9122",
+    "name": "Trabajadores de apoyo en actividades de acuicultura y pesca",
+    "level": "4digit",
+    "parent_id": "602.0"
+  },
+  {
+    "": "605",
+    "code": "9123",
+    "name": "Trabajadores de apoyo en actividades de caza y captura",
+    "level": "4digit",
+    "parent_id": "602.0"
+  },
+  {
+    "": "606",
+    "code": "9124",
+    "name": "Recolectores de leña y acarreadores de agua",
+    "level": "4digit",
+    "parent_id": "602.0"
+  },
+  {
+    "": "607",
+    "code": "92",
+    "name": "Trabajadores de apoyo en la minería, construcción e industria",
+    "level": "2digit",
+    "parent_id": "596.0"
+  },
+  {
+    "": "608",
+    "code": "921",
+    "name": "Trabajadores de apoyo en la minería y extracción",
+    "level": "3digit",
+    "parent_id": "607.0"
+  },
+  {
+    "": "609",
+    "code": "9211",
+    "name": "Trabajadores de apoyo en la minería",
+    "level": "4digit",
+    "parent_id": "608.0"
+  },
+  {
+    "": "610",
+    "code": "9212",
+    "name": "Trabajadores de apoyo en la extracción",
+    "level": "4digit",
+    "parent_id": "608.0"
+  },
+  {
+    "": "611",
+    "code": "922",
+    "name": "Trabajadores de apoyo en la construcción y la plomería",
+    "level": "3digit",
+    "parent_id": "607.0"
+  },
+  {
+    "": "612",
+    "code": "9221",
+    "name": "Trabajadores de apoyo en la construcción",
+    "level": "4digit",
+    "parent_id": "611.0"
+  },
+  {
+    "": "613",
+    "code": "9222",
+    "name": "Trabajadores de apoyo en plomería e instalación de tuberías",
+    "level": "4digit",
+    "parent_id": "611.0"
+  },
+  {
+    "": "614",
+    "code": "923",
+    "name": "Trabajadores de apoyo en la industria",
+    "level": "3digit",
+    "parent_id": "607.0"
+  },
+  {
+    "": "615",
+    "code": "9231",
+    "name": "Trabajadores de apoyo en la elaboración, reparación y mantenimiento mecánico de equipos, maquinaria y productos de metal y de precisión",
+    "level": "4digit",
+    "parent_id": "614.0"
+  },
+  {
+    "": "616",
+    "code": "9232",
+    "name": "Trabajadores de apoyo en la industria eléctrica, electrónica y comunicaciones",
+    "level": "4digit",
+    "parent_id": "614.0"
+  },
+  {
+    "": "617",
+    "code": "9233",
+    "name": "Trabajadores de apoyo en la industria química, petroquímica y plásticos",
+    "level": "4digit",
+    "parent_id": "614.0"
+  },
+  {
+    "": "618",
+    "code": "9234",
+    "name": "Trabajadores de apoyo en la industria de la madera, papel y cartón",
+    "level": "4digit",
+    "parent_id": "614.0"
+  },
+  {
+    "": "619",
+    "code": "9235",
+    "name": "Trabajadores de apoyo en la industria textil y del zapato",
+    "level": "4digit",
+    "parent_id": "614.0"
+  },
+  {
+    "": "620",
+    "code": "9236",
+    "name": "Trabajadores de apoyo en la industria de alimentos, bebidas y productos de tabaco",
+    "level": "4digit",
+    "parent_id": "614.0"
+  },
+  {
+    "": "621",
+    "code": "9237",
+    "name": "Trabajadores de apoyo en la industria de la cerámica, vidrio y similares",
+    "level": "4digit",
+    "parent_id": "614.0"
+  },
+  {
+    "": "622",
+    "code": "9239",
+    "name": "Trabajadores de apoyo en la industria, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "614.0"
+  },
+  {
+    "": "623",
+    "code": "93",
+    "name": "Ayudantes de conductores de transporte, conductores de transporte de tracción humana y animal y cargadores",
+    "level": "2digit",
+    "parent_id": "596.0"
+  },
+  {
+    "": "624",
+    "code": "931",
+    "name": "Ayudantes de conductores de transporte",
+    "level": "3digit",
+    "parent_id": "623.0"
+  },
+  {
+    "": "625",
+    "code": "9311",
+    "name": "Ayudantes de conductores de transporte terrestre con motor",
+    "level": "4digit",
+    "parent_id": "624.0"
+  },
+  {
+    "": "626",
+    "code": "9312",
+    "name": "Ayudantes de conductores de transporte en vías férreas",
+    "level": "4digit",
+    "parent_id": "624.0"
+  },
+  {
+    "": "627",
+    "code": "932",
+    "name": "Conductores de transporte en bicicleta y animal",
+    "level": "3digit",
+    "parent_id": "623.0"
+  },
+  {
+    "": "628",
+    "code": "9321",
+    "name": "Conductores de vehículos de transporte en bicicleta",
+    "level": "4digit",
+    "parent_id": "627.0"
+  },
+  {
+    "": "629",
+    "code": "9322",
+    "name": "Conductores de transporte de tracción animal (carretas, arrieros, etcétera)",
+    "level": "4digit",
+    "parent_id": "627.0"
+  },
+  {
+    "": "630",
+    "code": "933",
+    "name": "Cargadores",
+    "level": "3digit",
+    "parent_id": "623.0"
+  },
+  {
+    "": "631",
+    "code": "9331",
+    "name": "Cargadores",
+    "level": "4digit",
+    "parent_id": "630.0"
+  },
+  {
+    "": "632",
+    "code": "9332",
+    "name": "Cargadores por propina",
+    "level": "4digit",
+    "parent_id": "630.0"
+  },
+  {
+    "": "633",
+    "code": "94",
+    "name": "Ayudantes en la preparación de alimentos",
+    "level": "2digit",
+    "parent_id": "596.0"
+  },
+  {
+    "": "634",
+    "code": "941",
+    "name": "Ayudantes en la preparación de alimentos",
+    "level": "3digit",
+    "parent_id": "633.0"
+  },
+  {
+    "": "635",
+    "code": "9411",
+    "name": "Ayudantes en la preparación de alimentos",
+    "level": "4digit",
+    "parent_id": "634.0"
+  },
+  {
+    "": "636",
+    "code": "95",
+    "name": "Vendedores ambulantes",
+    "level": "2digit",
+    "parent_id": "596.0"
+  },
+  {
+    "": "637",
+    "code": "951",
+    "name": "Vendedores ambulantes (excluyendo los de venta de alimentos)",
+    "level": "3digit",
+    "parent_id": "636.0"
+  },
+  {
+    "": "638",
+    "code": "9511",
+    "name": "Vendedores ambulantes de periódicos y lotería",
+    "level": "4digit",
+    "parent_id": "637.0"
+  },
+  {
+    "": "639",
+    "code": "9512",
+    "name": "Vendedores ambulantes de artículos diversos (excluyendo los de venta de alimentos)",
+    "level": "4digit",
+    "parent_id": "637.0"
+  },
+  {
+    "": "640",
+    "code": "952",
+    "name": "Vendedores ambulantes de alimentos",
+    "level": "3digit",
+    "parent_id": "636.0"
+  },
+  {
+    "": "641",
+    "code": "9521",
+    "name": "Preparadores y vendedores ambulantes de alimentos",
+    "level": "4digit",
+    "parent_id": "640.0"
+  },
+  {
+    "": "642",
+    "code": "96",
+    "name": "Trabajadores domésticos, de limpieza, planchadores y otros trabajadores de limpieza",
+    "level": "2digit",
+    "parent_id": "596.0"
+  },
+  {
+    "": "643",
+    "code": "960",
+    "name": "Supervisores en limpieza, amas de llaves, mayordomos y en estacionamientos",
+    "level": "3digit",
+    "parent_id": "642.0"
+  },
+  {
+    "": "644",
+    "code": "9601",
+    "name": "Supervisores en limpieza, amas de llaves, mayordomos y en estacionamientos",
+    "level": "4digit",
+    "parent_id": "643.0"
+  },
+  {
+    "": "645",
+    "code": "961",
+    "name": "Trabajadores domésticos",
+    "level": "3digit",
+    "parent_id": "642.0"
+  },
+  {
+    "": "646",
+    "code": "9611",
+    "name": "Trabajadores domésticos",
+    "level": "4digit",
+    "parent_id": "645.0"
+  },
+  {
+    "": "647",
+    "code": "962",
+    "name": "Trabajadores de limpieza, recamaristas, mozos de limpieza y limpiadores de calzado",
+    "level": "3digit",
+    "parent_id": "642.0"
+  },
+  {
+    "": "648",
+    "code": "9621",
+    "name": "Barrenderos y trabajadores de limpieza (excepto en hoteles y restaurantes)",
+    "level": "4digit",
+    "parent_id": "647.0"
+  },
+  {
+    "": "649",
+    "code": "9622",
+    "name": "Recamaristas y camaristas",
+    "level": "4digit",
+    "parent_id": "647.0"
+  },
+  {
+    "": "650",
+    "code": "9623",
+    "name": "Mozos de hotel y restaurante",
+    "level": "4digit",
+    "parent_id": "647.0"
+  },
+  {
+    "": "651",
+    "code": "9624",
+    "name": "Limpiadores de calzado",
+    "level": "4digit",
+    "parent_id": "647.0"
+  },
+  {
+    "": "652",
+    "code": "963",
+    "name": "Lavadores y cuidadores de vehículos",
+    "level": "3digit",
+    "parent_id": "642.0"
+  },
+  {
+    "": "653",
+    "code": "9631",
+    "name": "Lavadores de vehículos en establecimientos",
+    "level": "4digit",
+    "parent_id": "652.0"
+  },
+  {
+    "": "654",
+    "code": "9632",
+    "name": "Lavadores de vehículos en vía pública",
+    "level": "4digit",
+    "parent_id": "652.0"
+  },
+  {
+    "": "655",
+    "code": "9633",
+    "name": "Cuidadores y acomodadores de autos en estacionamientos",
+    "level": "4digit",
+    "parent_id": "652.0"
+  },
+  {
+    "": "656",
+    "code": "9634",
+    "name": "Cuidadores de autos por propina",
+    "level": "4digit",
+    "parent_id": "652.0"
+  },
+  {
+    "": "657",
+    "code": "964",
+    "name": "Lavanderos y planchadores",
+    "level": "3digit",
+    "parent_id": "642.0"
+  },
+  {
+    "": "658",
+    "code": "9641",
+    "name": "Lavanderos en establecimientos",
+    "level": "4digit",
+    "parent_id": "657.0"
+  },
+  {
+    "": "659",
+    "code": "9642",
+    "name": "Planchadores y tintoreros en establecimientos",
+    "level": "4digit",
+    "parent_id": "657.0"
+  },
+  {
+    "": "660",
+    "code": "9643",
+    "name": "Lavanderos y planchadores domésticos",
+    "level": "4digit",
+    "parent_id": "657.0"
+  },
+  {
+    "": "661",
+    "code": "965",
+    "name": "Ayudantes de jardineros",
+    "level": "3digit",
+    "parent_id": "642.0"
+  },
+  {
+    "": "662",
+    "code": "9651",
+    "name": "Ayudantes de jardineros",
+    "level": "4digit",
+    "parent_id": "661.0"
+  },
+  {
+    "": "663",
+    "code": "966",
+    "name": "Recolectores de desechos, material reciclable y otros materiales",
+    "level": "3digit",
+    "parent_id": "642.0"
+  },
+  {
+    "": "664",
+    "code": "9661",
+    "name": "Recolectores de basura y material reciclable",
+    "level": "4digit",
+    "parent_id": "663.0"
+  },
+  {
+    "": "665",
+    "code": "9662",
+    "name": "Clasificadores de desechos",
+    "level": "4digit",
+    "parent_id": "663.0"
+  },
+  {
+    "": "666",
+    "code": "9663",
+    "name": "Recolectores de otros materiales",
+    "level": "4digit",
+    "parent_id": "663.0"
+  },
+  {
+    "": "667",
+    "code": "97",
+    "name": "Trabajadores de paquetería, de apoyo para espectáculos y repartidores de mercancías",
+    "level": "2digit",
+    "parent_id": "596.0"
+  },
+  {
+    "": "668",
+    "code": "971",
+    "name": "Trabajadores de paquetería, empacado y de apoyo para espectáculos",
+    "level": "3digit",
+    "parent_id": "667.0"
+  },
+  {
+    "": "669",
+    "code": "9711",
+    "name": "Trabajadores de paquetería, maleteros y botones de hotel",
+    "level": "4digit",
+    "parent_id": "668.0"
+  },
+  {
+    "": "670",
+    "code": "9712",
+    "name": "Empacadores de objetos y mercancías",
+    "level": "4digit",
+    "parent_id": "668.0"
+  },
+  {
+    "": "671",
+    "code": "9713",
+    "name": "Trabajadores de apoyo a la realización de espectáculos, deportes y en parques de diversiones",
+    "level": "4digit",
+    "parent_id": "668.0"
+  },
+  {
+    "": "672",
+    "code": "972",
+    "name": "Trabajadores repartidores de mensajería y mercancías (a pie y en bicicleta)",
+    "level": "3digit",
+    "parent_id": "667.0"
+  },
+  {
+    "": "673",
+    "code": "9721",
+    "name": "Carteros (a pie y en bicicleta)",
+    "level": "4digit",
+    "parent_id": "672.0"
+  },
+  {
+    "": "674",
+    "code": "9722",
+    "name": "Repartidores de mensajería (a pie y en bicicleta) y mandaderos",
+    "level": "4digit",
+    "parent_id": "672.0"
+  },
+  {
+    "": "675",
+    "code": "9723",
+    "name": "Repartidores de mercancías (a pie y en bicicleta)",
+    "level": "4digit",
+    "parent_id": "672.0"
+  },
+  {
+    "": "676",
+    "code": "973",
+    "name": "Lecturistas de medidores, recolectores de dinero y elevadoristas",
+    "level": "3digit",
+    "parent_id": "667.0"
+  },
+  {
+    "": "677",
+    "code": "9731",
+    "name": "Lecturistas de medidores",
+    "level": "4digit",
+    "parent_id": "676.0"
+  },
+  {
+    "": "678",
+    "code": "9732",
+    "name": "Recolectores de dinero",
+    "level": "4digit",
+    "parent_id": "676.0"
+  },
+  {
+    "": "679",
+    "code": "9733",
+    "name": "Elevadoristas y ascensoristas",
+    "level": "4digit",
+    "parent_id": "676.0"
+  },
+  {
+    "": "680",
+    "code": "98",
+    "name": "Otros trabajadores en actividades elementales y de apoyo, no clasificados anteriormente",
+    "level": "2digit",
+    "parent_id": "596.0"
+  },
+  {
+    "": "681",
+    "code": "989",
+    "name": "Otros trabajadores en actividades elementales y de apoyo, no clasificados anteriormente",
+    "level": "3digit",
+    "parent_id": "680.0"
+  },
+  {
+    "": "682",
+    "code": "9899",
+    "name": "Otros trabajadores en actividades elementales y de apoyo, no clasificados anteriormente",
+    "level": "4digit",
+    "parent_id": "681.0"
+  },
+  {
+    "": "683",
+    "code": "99",
+    "name": "Ocupaciones no especificadas",
+    "level": "2digit",
+    "parent_id": "596.0"
+  },
+  {
+    "": "684",
+    "code": "999",
+    "name": "Ocupaciones no especificadas",
+    "level": "3digit",
+    "parent_id": "683.0"
+  },
+  {
+    "": "685",
+    "code": "9999",
+    "name": "Ocupaciones no especificadas",
+    "level": "4digit",
+    "parent_id": "684.0"
+  }
+]

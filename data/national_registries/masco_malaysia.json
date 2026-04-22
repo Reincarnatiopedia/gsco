@@ -1,0 +1,2767 @@
+{
+  "metadata": {
+    "source": "MASCO 2020 (Malaysia Standard Classification of Occupations)",
+    "source_document": "masco_malaysia_2020_bm.pdf",
+    "publisher": "Ministry of Human Resources Malaysia (MOHR/KESUMA)",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "based_on": "ISCO-08",
+    "languages": [
+      "ms",
+      "en"
+    ],
+    "levels": {
+      "2_digit_sub_major": 51,
+      "3_digit_minor": 6,
+      "4_digit_unit": 491
+    },
+    "count": 548,
+    "count_4digit": 491,
+    "english_source": "ISCO-08 correspondence (ILO)",
+    "english_coverage_4digit": "491/491",
+    "notes": "Malay names (name_ms) extracted from official MASCO 2020 PDF. English names (name_en) mapped from ISCO-08 correspondence. MASCO-specific codes beyond ISCO-08 have English translations based on Malay title meaning.",
+    "url": "https://emasco.mohr.gov.my/"
+  },
+  "entries": [
+    {
+      "code": "01",
+      "name_ms": "TENTERA DARAT MALAYSIA (TDM)",
+      "name_en": "Commissioned Armed Forces Officers (Army)"
+    },
+    {
+      "code": "0111",
+      "name_ms": "PEGAWAI TUGAS IKHTISAS (TDM)",
+      "name_en": "Specialist Officers (Army)"
+    },
+    {
+      "code": "0121",
+      "name_ms": "PEGAWAI TUGAS AM (TDM)",
+      "name_en": "General Duty Officers (Army)"
+    },
+    {
+      "code": "0131",
+      "name_ms": "ANGGOTA LAIN-LAIN PANGKAT (TDM)",
+      "name_en": "Other Ranks (Army)"
+    },
+    {
+      "code": "02",
+      "name_ms": "TENTERA LAUT DIRAJA MALAYSIA (TLDM)",
+      "name_en": "Armed Forces (Navy)"
+    },
+    {
+      "code": "0211",
+      "name_ms": "PEGAWAI TUGAS AM (TLDM)",
+      "name_en": "General Duty Officers (Navy)"
+    },
+    {
+      "code": "022",
+      "name_ms": "ANGGOTA LAIN-LAIN PANGKAT (TLDM)",
+      "name_en": ""
+    },
+    {
+      "code": "0221",
+      "name_ms": "ANGGOTA LAIN-LAIN PANGKAT (TLDM)",
+      "name_en": "Other Ranks (Navy)"
+    },
+    {
+      "code": "03",
+      "name_ms": "TENTERA UDARA DIRAJA MALAYSIA (TUDM)",
+      "name_en": "Armed Forces (Air Force)"
+    },
+    {
+      "code": "0311",
+      "name_ms": "PEGAWAI TUGAS AM (TUDM)",
+      "name_en": "General Duty Officers (Air Force)"
+    },
+    {
+      "code": "0321",
+      "name_ms": "ANGGOTA LAIN-LAIN PANGKAT (TUDM)",
+      "name_en": "Other Ranks (Air Force)"
+    },
+    {
+      "code": "11",
+      "name_ms": "KETUA EKSEKUTIF, PEGAWAI KANAN, DAN PENGGUBAL UNDANG-UNDANG",
+      "name_en": "Chief Executives, Senior Officials and Legislators"
+    },
+    {
+      "code": "1111",
+      "name_ms": "PENGGUBAL UNDANG-UNDANG",
+      "name_en": "Legislators"
+    },
+    {
+      "code": "1112",
+      "name_ms": "PEGAWAI KANAN KERAJAAN",
+      "name_en": "Senior Government Officials"
+    },
+    {
+      "code": "1113",
+      "name_ms": "KETUA ADAT DAN KETUA KAMPUNG",
+      "name_en": "Traditional Chiefs and Heads of Villages"
+    },
+    {
+      "code": "1114",
+      "name_ms": "PEGAWAI KANAN PERTUBUHAN BERKEPENTINGAN KHAS",
+      "name_en": "Senior Officials of Special-interest Organizations"
+    },
+    {
+      "code": "112",
+      "name_ms": "PENGARAH URUSAN DAN KETUA EKSEKUTIF",
+      "name_en": ""
+    },
+    {
+      "code": "1121",
+      "name_ms": "PENGARAH URUSAN DAN KETUA EKSEKUTIF",
+      "name_en": "Managing Directors and Chief Executives"
+    },
+    {
+      "code": "12",
+      "name_ms": "PENGURUS PENTADBIRAN DAN KOMERSIL",
+      "name_en": "Administrative and Commercial Managers"
+    },
+    {
+      "code": "1211",
+      "name_ms": "PENGURUS KEWANGAN",
+      "name_en": "Finance Managers"
+    },
+    {
+      "code": "1212",
+      "name_ms": "PENGURUS SUMBER MANUSIA",
+      "name_en": "Human Resource Managers"
+    },
+    {
+      "code": "1213",
+      "name_ms": "PENGURUS DASAR DAN PERANCANGAN",
+      "name_en": "Policy and Planning Managers"
+    },
+    {
+      "code": "1214",
+      "name_ms": "PENGURUS PERKHIDMATAN PERNIAGAAN",
+      "name_en": "Business Services Managers"
+    },
+    {
+      "code": "1215",
+      "name_ms": "PENGURUS PENTADBIRAN",
+      "name_en": "Administration Managers"
+    },
+    {
+      "code": "1216",
+      "name_ms": "PENGURUS KUALITI",
+      "name_en": "Quality Assurance Managers"
+    },
+    {
+      "code": "1219",
+      "name_ms": "PENGURUS PERKHIDMATAN PERNIAGAAN DAN PENTADBIRAN",
+      "name_en": "Business Services and Administration Managers Not Elsewhere Classified"
+    },
+    {
+      "code": "122",
+      "name_ms": "PENGURUS JUALAN, PEMASARAN, DAN PEMBANGUNAN",
+      "name_en": ""
+    },
+    {
+      "code": "1221",
+      "name_ms": "PENGURUS JUALAN DAN PEMASARAN",
+      "name_en": "Sales and Marketing Managers"
+    },
+    {
+      "code": "1222",
+      "name_ms": "PENGURUS PENGIKLANAN DAN PERHUBUNGAN AWAM",
+      "name_en": "Advertising and Public Relations Managers"
+    },
+    {
+      "code": "1223",
+      "name_ms": "PENGURUS PENYELIDIKAN DAN PEMBANGUNAN",
+      "name_en": "Research and Development Managers"
+    },
+    {
+      "code": "13",
+      "name_ms": "PENGURUS PENGELUARAN DAN PEMBUATAN",
+      "name_en": "Production and Specialized Services Managers"
+    },
+    {
+      "code": "1311",
+      "name_ms": "PENGURUS PENGELUARAN PERTANIAN, PERHUTANAN, DAN PENTERNAKAN",
+      "name_en": "Agricultural, Forestry and Livestock Production Managers"
+    },
+    {
+      "code": "1312",
+      "name_ms": "PENGURUS PENGELUARAN AKUAKULTUR DAN PERIKANAN",
+      "name_en": "Aquaculture and Fisheries Production Managers"
+    },
+    {
+      "code": "132",
+      "name_ms": "PENGURUS PEMBUATAN, PERLOMBONGAN, PEMBINAAN, DAN PENGAGIHAN",
+      "name_en": ""
+    },
+    {
+      "code": "1321",
+      "name_ms": "PENGURUS PEMBUATAN",
+      "name_en": "Manufacturing Managers"
+    },
+    {
+      "code": "1322",
+      "name_ms": "PENGURUS PERLOMBONGAN",
+      "name_en": "Mining Managers"
+    },
+    {
+      "code": "1323",
+      "name_ms": "PENGURUS PEMBINAAN",
+      "name_en": "Construction Managers"
+    },
+    {
+      "code": "1324",
+      "name_ms": "PENGURUS BEKALAN, PENGAGIHAN, DAN YANG BERKAITAN",
+      "name_en": "Supply, Distribution and Related Managers"
+    },
+    {
+      "code": "14",
+      "name_ms": "PENGURUS HOSPITALITI, RUNCIT, DAN PERKHIDMATAN LAIN",
+      "name_en": "Hospitality, Retail and Other Services Managers"
+    },
+    {
+      "code": "1411",
+      "name_ms": "PENGURUS HOTEL DAN RUMAH PENGINAPAN",
+      "name_en": "Hotel and Accommodation Managers"
+    },
+    {
+      "code": "1412",
+      "name_ms": "PENGURUS RESTORAN",
+      "name_en": "Restaurant Managers"
+    },
+    {
+      "code": "142",
+      "name_ms": "PENGURUS PERDAGANGAN RUNCIT DAN BORONG",
+      "name_en": ""
+    },
+    {
+      "code": "1421",
+      "name_ms": "PENGURUS PERDAGANGAN RUNCIT DAN BORONG",
+      "name_en": "Retail and Wholesale Trade Managers"
+    },
+    {
+      "code": "15",
+      "name_ms": "PENGURUS TEKNOLOGI MAKLUMAT DAN KOMUNIKASI",
+      "name_en": "Information and Communications Technology Managers"
+    },
+    {
+      "code": "1511",
+      "name_ms": "PENGURUS TEKNOLOGI MAKLUMAT DAN KOMUNIKASI",
+      "name_en": "Information and Communications Technology Managers"
+    },
+    {
+      "code": "16",
+      "name_ms": "PENGURUS PERKHIDMATAN",
+      "name_en": "Services Managers"
+    },
+    {
+      "code": "1611",
+      "name_ms": "PENGURUS PERKHIDMATAN PENJAGAAN KANAK-KANAK",
+      "name_en": "Child Care Services Managers"
+    },
+    {
+      "code": "1612",
+      "name_ms": "PENGURUS PERKHIDMATAN KESIHATAN",
+      "name_en": "Health Services Managers"
+    },
+    {
+      "code": "1613",
+      "name_ms": "PENGURUS PERKHIDMATAN PENJAGAAN ORANG TUA",
+      "name_en": "Aged Care Services Managers"
+    },
+    {
+      "code": "1614",
+      "name_ms": "PENGURUS KEBAJIKAN SOSIAL",
+      "name_en": "Social Welfare Managers"
+    },
+    {
+      "code": "1615",
+      "name_ms": "PENGURUS PENDIDIKAN",
+      "name_en": "Education Managers"
+    },
+    {
+      "code": "1616",
+      "name_ms": "PENGURUS CAWANGAN PERKHIDMATAN KEWANGAN DAN INSURANS",
+      "name_en": "Financial and Insurance Services Branch Managers"
+    },
+    {
+      "code": "1617",
+      "name_ms": "PENGURUS PERUNDANGAN",
+      "name_en": "Legal Services Managers"
+    },
+    {
+      "code": "1618",
+      "name_ms": "PENGURUS HARTA",
+      "name_en": "Property Managers"
+    },
+    {
+      "code": "1619",
+      "name_ms": "PENGURUS PERKHIDMATAN PROFESIONAL YANG TIDAK DIKELASKAN DI MANA-MANA",
+      "name_en": "Professional Services Managers Not Elsewhere Classified"
+    },
+    {
+      "code": "162",
+      "name_ms": "PENGURUS PERKHIDMATAN LAIN",
+      "name_en": ""
+    },
+    {
+      "code": "1621",
+      "name_ms": "PENGURUS PUSAT SUKAN DAN REKREASI",
+      "name_en": "Recreation Centre Managers"
+    },
+    {
+      "code": "1622",
+      "name_ms": "PENGURUS PERKHIDMATAN PENJAGAAN DIRI, PEMBERSIHAN, DAN YANG BERKAITAN",
+      "name_en": "Sports Centre Managers"
+    },
+    {
+      "code": "1623",
+      "name_ms": "PENGURUS KESELAMATAN",
+      "name_en": "Security Managers"
+    },
+    {
+      "code": "1624",
+      "name_ms": "PENGURUS PUSAT KEBUDAYAAN, MUZIUM, DAN PERPUSTAKAAN",
+      "name_en": "Cultural Centre, Museum and Library Managers"
+    },
+    {
+      "code": "1629",
+      "name_ms": "PENGURUS PERKHIDMATAN LAIN YANG TIDAK DIKELASKAN DI MANA-MANA",
+      "name_en": "Other Services Managers Not Elsewhere Classified"
+    },
+    {
+      "code": "21",
+      "name_ms": "PROFESIONAL SAINS DAN KEJURUTERAAN",
+      "name_en": "Science and Engineering Professionals"
+    },
+    {
+      "code": "2111",
+      "name_ms": "AHLI FIZIK DAN ASTRONOMI",
+      "name_en": "Physicists and Astronomers"
+    },
+    {
+      "code": "2112",
+      "name_ms": "AHLI METEOROLOGI DAN AHLI SEISMOLOGI",
+      "name_en": "Meteorologists"
+    },
+    {
+      "code": "2113",
+      "name_ms": "AHLI KIMIA",
+      "name_en": "Chemists"
+    },
+    {
+      "code": "2114",
+      "name_ms": "AHLI GEOLOGI DAN GEOFIZIK",
+      "name_en": "Geologists and Geophysicists"
+    },
+    {
+      "code": "2121",
+      "name_ms": "AHLI MATEMATIK, AKTUARI, DAN PERANGKAWAN",
+      "name_en": "Mathematicians, Actuaries and Statisticians"
+    },
+    {
+      "code": "2131",
+      "name_ms": "PROFESIONAL BIOLOGI, BOTANI, ZOOLOGI DAN",
+      "name_en": "Biologists, Botanists, Zoologists and Related Professionals"
+    },
+    {
+      "code": "2132",
+      "name_ms": "PENASIHAT PERLADANGAN, PERTANIAN, PERHUTANAN, DAN",
+      "name_en": "Farming, Forestry and Fisheries Advisers"
+    },
+    {
+      "code": "2133",
+      "name_ms": "PROFESIONAL PERLINDUNGAN ALAM SEKITAR",
+      "name_en": "Environmental Protection Professionals"
+    },
+    {
+      "code": "2134",
+      "name_ms": "PROFESIONAL FARMAKOLOGI, PATOLOGI DAN PROFESIONAL",
+      "name_en": "Pharmacologists, Pathologists and Related Professionals"
+    },
+    {
+      "code": "2141",
+      "name_ms": "JURUTERA INDUSTRI DAN PENGELUARAN",
+      "name_en": "Industrial and Production Engineers"
+    },
+    {
+      "code": "2142",
+      "name_ms": "JURUTERA AWAM",
+      "name_en": "Civil Engineers"
+    },
+    {
+      "code": "2143",
+      "name_ms": "JURUTERA ALAM SEKITAR",
+      "name_en": "Environmental Engineers"
+    },
+    {
+      "code": "2144",
+      "name_ms": "JURUTERA MEKANIKAL",
+      "name_en": "Mechanical Engineers"
+    },
+    {
+      "code": "2145",
+      "name_ms": "JURUTERA KIMIA",
+      "name_en": "Chemical Engineers"
+    },
+    {
+      "code": "2146",
+      "name_ms": "JURUTERA PERLOMBONGAN, AHLI KAJI LOGAM",
+      "name_en": "Mining Engineers, Metallurgists and Related Professionals"
+    },
+    {
+      "code": "2149",
+      "name_ms": "PROFESIONAL KEJURUTERAAN (TIDAK TERMASUK",
+      "name_en": "Engineering Professionals Not Elsewhere Classified"
+    },
+    {
+      "code": "2151",
+      "name_ms": "JURUTERA ELEKTRIK",
+      "name_en": "Electrical Engineers"
+    },
+    {
+      "code": "2152",
+      "name_ms": "JURUTERA ELEKTRONIK",
+      "name_en": "Electronics Engineers"
+    },
+    {
+      "code": "2153",
+      "name_ms": "JURUTERA TELEKOMUNIKASI",
+      "name_en": "Telecommunications Engineers"
+    },
+    {
+      "code": "2161",
+      "name_ms": "ARKITEK BANGUNAN",
+      "name_en": "Building Architects"
+    },
+    {
+      "code": "2162",
+      "name_ms": "ARKITEK LANDSKAP",
+      "name_en": "Landscape Architects"
+    },
+    {
+      "code": "2163",
+      "name_ms": "PEREKA PRODUK DAN PAKAIAN",
+      "name_en": "Product and Garment Designers"
+    },
+    {
+      "code": "2164",
+      "name_ms": "PERANCANG BANDAR DAN TRAFIK",
+      "name_en": "Town and Traffic Planners"
+    },
+    {
+      "code": "2165",
+      "name_ms": "PELUKIS PETA DAN JURUUKUR",
+      "name_en": "Cartographers and Surveyors"
+    },
+    {
+      "code": "2166",
+      "name_ms": "PEREKA GRAFIK DAN MULTIMEDIA",
+      "name_en": "Graphic and Multimedia Designers"
+    },
+    {
+      "code": "2171",
+      "name_ms": "JURUTERA KAPAL",
+      "name_en": "Ship Engineers"
+    },
+    {
+      "code": "2172",
+      "name_ms": "PEGAWAI DAN PILOT DEK KAPAL",
+      "name_en": "Ships' Deck Officers and Pilots"
+    },
+    {
+      "code": "2173",
+      "name_ms": "JURUTERBANG PESAWAT UDARA DAN PROFESIONAL",
+      "name_en": "Aircraft Pilots and Related Professionals"
+    },
+    {
+      "code": "2174",
+      "name_ms": "PENGAWAL TRAFIK UDARA",
+      "name_en": "Air Traffic Controllers"
+    },
+    {
+      "code": "2175",
+      "name_ms": "PENGAWAL KERETA API/ LOKOMOTIF",
+      "name_en": "Railway/Locomotive Controllers"
+    },
+    {
+      "code": "2179",
+      "name_ms": "PENGAWAL PENGANGKUTAN YANG TIDAK DIKELASKAN",
+      "name_en": "Transport Controllers Not Elsewhere Classified"
+    },
+    {
+      "code": "2181",
+      "name_ms": "PROFESIONAL PERLOMBONGAN",
+      "name_en": "Mining Professionals"
+    },
+    {
+      "code": "2182",
+      "name_ms": "PROFESIONAL PEMBUATAN",
+      "name_en": "Manufacturing Professionals"
+    },
+    {
+      "code": "2183",
+      "name_ms": "PROFESIONAL PEMBINAAN",
+      "name_en": "Construction Professionals"
+    },
+    {
+      "code": "22",
+      "name_ms": "PROFESIONAL KESIHATAN",
+      "name_en": "Health Professionals"
+    },
+    {
+      "code": "2211",
+      "name_ms": "PENGAMAL PERUBATAN UMUM",
+      "name_en": "Generalist Medical Practitioners"
+    },
+    {
+      "code": "2212",
+      "name_ms": "PENGAMAL PERUBATAN PAKAR",
+      "name_en": "Specialist Medical Practitioners"
+    },
+    {
+      "code": "2221",
+      "name_ms": "PROFESIONAL KEJURURAWATAN",
+      "name_en": "Nursing Professionals"
+    },
+    {
+      "code": "2222",
+      "name_ms": "PROFESIONAL PERBIDANAN",
+      "name_en": "Midwifery Professionals"
+    },
+    {
+      "code": "2231",
+      "name_ms": "AHLI PERUBATAN TRADISIONAL DAN KOMPLEMENTARI",
+      "name_en": "Traditional and Complementary Medicine Practitioners"
+    },
+    {
+      "code": "2241",
+      "name_ms": "PENGAMAL PARAMEDIK",
+      "name_en": "Paramedical Practitioners"
+    },
+    {
+      "code": "2251",
+      "name_ms": "PAKAR VETERINAR",
+      "name_en": "Veterinarians"
+    },
+    {
+      "code": "2261",
+      "name_ms": "DOKTOR PERGIGIAN",
+      "name_en": "Dentists"
+    },
+    {
+      "code": "2262",
+      "name_ms": "AHLI FARMASI",
+      "name_en": "Pharmacists"
+    },
+    {
+      "code": "2263",
+      "name_ms": "PROFESIONAL PERSEKITARAN DAN KESIHATAN",
+      "name_en": "Environmental and Occupational Health and Hygiene Professionals"
+    },
+    {
+      "code": "2264",
+      "name_ms": "JURUPULIH ANGGOTA",
+      "name_en": "Physiotherapists"
+    },
+    {
+      "code": "2265",
+      "name_ms": "PEGAWAI DIET DAN PEGAWAI NUTRISI",
+      "name_en": "Dieticians and Nutritionists"
+    },
+    {
+      "code": "2266",
+      "name_ms": "PEGAWAI AUDIOLOGI DAN JURUPULIH PERTUTURAN",
+      "name_en": "Audiologists and Speech Therapists"
+    },
+    {
+      "code": "2267",
+      "name_ms": "PEGAWAI OPTOMETRI DAN PEGAWAI OPTIK",
+      "name_en": "Optometrists and Ophthalmic Opticians"
+    },
+    {
+      "code": "2268",
+      "name_ms": "JURUPULIH PEKERJAAN",
+      "name_en": "Occupational Therapists"
+    },
+    {
+      "code": "2269",
+      "name_ms": "PROFESIONAL KESIHATAN YANG TIDAK DIKELASKAN DI MANA-",
+      "name_en": "Health Professionals Not Elsewhere Classified"
+    },
+    {
+      "code": "23",
+      "name_ms": "PROFESIONAL PERGURUAN",
+      "name_en": "Teaching Professionals"
+    },
+    {
+      "code": "2311",
+      "name_ms": "PROFESIONAL PERGURUAN UNIVERSITI DAN PENDIDIKAN TINGGI",
+      "name_en": "University and Higher Education Teaching Professionals"
+    },
+    {
+      "code": "2321",
+      "name_ms": "GURU PENDIDIKAN VOKASIONAL",
+      "name_en": "Vocational Education Teachers"
+    },
+    {
+      "code": "2331",
+      "name_ms": "GURU PENDIDIKAN MENENGAH",
+      "name_en": "Secondary Education Teachers"
+    },
+    {
+      "code": "2341",
+      "name_ms": "GURU SEKOLAH RENDAH",
+      "name_en": "Primary School Teachers"
+    },
+    {
+      "code": "2342",
+      "name_ms": "GURU PENDIDIKAN AWAL KANAK-KANAK",
+      "name_en": "Early Childhood Educators"
+    },
+    {
+      "code": "2351",
+      "name_ms": "GURU MUZIK",
+      "name_en": "Education Methods Specialists"
+    },
+    {
+      "code": "2352",
+      "name_ms": "GURU SENI",
+      "name_en": "Special Needs Teachers"
+    },
+    {
+      "code": "2353",
+      "name_ms": "GURU SENI PERSEMBAHAN",
+      "name_en": "Other Language Teachers"
+    },
+    {
+      "code": "2361",
+      "name_ms": "GURU BAHASA",
+      "name_en": "Language Teachers"
+    },
+    {
+      "code": "2371",
+      "name_ms": "GURU AGAMA",
+      "name_en": "Religious Teachers"
+    },
+    {
+      "code": "2381",
+      "name_ms": "PEGAWAI LATIHAN VOKASIONAL",
+      "name_en": "Vocational Training Officers"
+    },
+    {
+      "code": "2391",
+      "name_ms": "PAKAR KAEDAH PENDIDIKAN",
+      "name_en": "Education Methods Specialists"
+    },
+    {
+      "code": "2392",
+      "name_ms": "GURU PENDIDIKAN KHAS",
+      "name_en": "Special Needs Teachers"
+    },
+    {
+      "code": "2393",
+      "name_ms": "JURULATIH TEKNOLOGI MAKLUMAT",
+      "name_en": "Information Technology Trainers"
+    },
+    {
+      "code": "2399",
+      "name_ms": "PROFESIONAL PERGURUAN YANG TIDAK DIKELASKAN",
+      "name_en": "Teaching Professionals Not Elsewhere Classified"
+    },
+    {
+      "code": "24",
+      "name_ms": "PROFESIONAL PERNIAGAAN DAN PENTADBIRAN",
+      "name_en": "Business and Administration Professionals"
+    },
+    {
+      "code": "2411",
+      "name_ms": "AKAUNTAN DAN JURUAUDIT",
+      "name_en": "Accountants"
+    },
+    {
+      "code": "2412",
+      "name_ms": "PENASIHAT KEWANGAN DAN PELABURAN",
+      "name_en": "Financial and Investment Advisers"
+    },
+    {
+      "code": "2413",
+      "name_ms": "JURUANALISIS KEWANGAN",
+      "name_en": "Financial Analysts"
+    },
+    {
+      "code": "2421",
+      "name_ms": "JURUANALISIS PENGURUSAN DAN ORGANISASI",
+      "name_en": "Management and Organization Analysts"
+    },
+    {
+      "code": "2422",
+      "name_ms": "PROFESIONAL PENTADBIRAN DASAR",
+      "name_en": "Policy Administration Professionals"
+    },
+    {
+      "code": "2423",
+      "name_ms": "PROFESIONAL PERSONEL DAN KERJAYA",
+      "name_en": "Personnel and Careers Professionals"
+    },
+    {
+      "code": "2424",
+      "name_ms": "PROFESIONAL PEMBANGUNAN LATIHAN DAN KAKITANGAN",
+      "name_en": "Training and Staff Development Professionals"
+    },
+    {
+      "code": "2425",
+      "name_ms": "PROFESIONAL PENTADBIRAN",
+      "name_en": "Administration Professionals"
+    },
+    {
+      "code": "2426",
+      "name_ms": "PROFESIONAL PENYELIDIKAN DAN PEMBANGUNAN",
+      "name_en": "Research and Development Professionals"
+    },
+    {
+      "code": "2431",
+      "name_ms": "PROFESIONAL PENGIKLANAN DAN PEMASARAN",
+      "name_en": "Advertising and Marketing Professionals"
+    },
+    {
+      "code": "2432",
+      "name_ms": "PROFESIONAL PERHUBUNGAN AWAM",
+      "name_en": "Public Relations Professionals"
+    },
+    {
+      "code": "2433",
+      "name_ms": "PROFESIONAL JUALAN TEKNIKAL DAN PERUBATAN",
+      "name_en": "Technical and Medical Sales Professionals (excluding ICT)"
+    },
+    {
+      "code": "2434",
+      "name_ms": "PROFESIONAL JUALAN TEKNOLOGI MAKLUMAT DAN KOMUNIKASI",
+      "name_en": "Information and Communications Technology Sales Professionals"
+    },
+    {
+      "code": "25",
+      "name_ms": "PROFESIONAL TEKNOLOGI MAKLUMAT DAN KOMUNIKASI",
+      "name_en": "Information and Communications Technology Professionals"
+    },
+    {
+      "code": "2511",
+      "name_ms": "JURUANALISIS SISTEM KOMPUTER",
+      "name_en": "Systems Analysts"
+    },
+    {
+      "code": "2512",
+      "name_ms": "PEMBANGUN PERISIAN",
+      "name_en": "Software Developers"
+    },
+    {
+      "code": "2513",
+      "name_ms": "PEMBANGUN WEB DAN MULTIMEDIA",
+      "name_en": "Web and Multimedia Developers"
+    },
+    {
+      "code": "2514",
+      "name_ms": "PENGATURCARA APLIKASI",
+      "name_en": "Applications Programmers"
+    },
+    {
+      "code": "2519",
+      "name_ms": "PEMBANGUN DAN JURUANALISIS PERISIAN DAN APLIKASI YANG",
+      "name_en": "Software and Applications Developers and Analysts Not Elsewhere Classified"
+    },
+    {
+      "code": "2521",
+      "name_ms": "PEREKA DAN PENTADBIR PANGKALAN DATA",
+      "name_en": "Database Designers and Administrators"
+    },
+    {
+      "code": "2522",
+      "name_ms": "PENTADBIR SISTEM TEKNOLOGI MAKLUMAT",
+      "name_en": "Systems Administrators"
+    },
+    {
+      "code": "2523",
+      "name_ms": "PROFESIONAL RANGKAIAN KOMPUTER",
+      "name_en": "Computer Network Professionals"
+    },
+    {
+      "code": "2524",
+      "name_ms": "PROFESIONAL DATA",
+      "name_en": "Data Professionals"
+    },
+    {
+      "code": "2531",
+      "name_ms": "PROFESIONAL KESELAMATAN SIBER",
+      "name_en": "Cybersecurity Professionals"
+    },
+    {
+      "code": "2541",
+      "name_ms": "PROFESIONAL KESAN VISUAL DAN ANIMASI",
+      "name_en": "Visual Effects and Animation Professionals"
+    },
+    {
+      "code": "2542",
+      "name_ms": "PROFESIONAL PERMAINAN DIGITAL DAN E-SUKAN",
+      "name_en": "Digital Games and E-Sports Professionals"
+    },
+    {
+      "code": "2543",
+      "name_ms": "PROFESIONAL PEREKA KANDUNGAN KREATIF",
+      "name_en": "Creative Content Designer Professionals"
+    },
+    {
+      "code": "26",
+      "name_ms": "PROFESIONAL PERUNDANGAN",
+      "name_en": "Legal, Social and Cultural Professionals"
+    },
+    {
+      "code": "2611",
+      "name_ms": "PEGUAM",
+      "name_en": "Lawyers"
+    },
+    {
+      "code": "2612",
+      "name_ms": "HAKIM",
+      "name_en": "Judges"
+    },
+    {
+      "code": "2619",
+      "name_ms": "PROFESIONAL PERUNDANGAN YANG TIDAK DIKELASKAN",
+      "name_en": "Legal Professionals Not Elsewhere Classified"
+    },
+    {
+      "code": "27",
+      "name_ms": "PROFESIONAL PERKHIDMATAN HOSPITALITI DAN YANG BERKAITAN",
+      "name_en": "Hospitality and Related Professionals"
+    },
+    {
+      "code": "2711",
+      "name_ms": "PROFESIONAL HOTEL",
+      "name_en": "Hotel Professionals"
+    },
+    {
+      "code": "2712",
+      "name_ms": "PROFESIONAL RESTORAN",
+      "name_en": "Restaurant Professionals"
+    },
+    {
+      "code": "28",
+      "name_ms": "PROFESIONAL SOSIAL DAN KEBUDAYAAN",
+      "name_en": "Social and Cultural Professionals"
+    },
+    {
+      "code": "2811",
+      "name_ms": "JURUARKIB DAN KURATOR",
+      "name_en": "Archivists and Curators"
+    },
+    {
+      "code": "2812",
+      "name_ms": "PUSTAKAWAN DAN PROFESIONAL MAKLUMAT YANG BERKAITAN",
+      "name_en": "Librarians and Related Information Professionals"
+    },
+    {
+      "code": "2821",
+      "name_ms": "AHLI EKONOMI",
+      "name_en": "Economists"
+    },
+    {
+      "code": "2822",
+      "name_ms": "AHLI SOSIOLOGI, AHLI ANTROPOLOGI DAN",
+      "name_en": "Sociologists, Anthropologists and Related Professionals"
+    },
+    {
+      "code": "2823",
+      "name_ms": "AHLI FALSAFAH, SEJARAWAN, DAN AHLI SAINS POLITIK",
+      "name_en": "Philosophers, Historians and Political Scientists"
+    },
+    {
+      "code": "2824",
+      "name_ms": "AHLI PSIKOLOGI",
+      "name_en": "Psychologists"
+    },
+    {
+      "code": "2825",
+      "name_ms": "PROFESIONAL KERJA SOSIAL DAN KAUNSELING",
+      "name_en": "Social Work and Counselling Professionals"
+    },
+    {
+      "code": "2826",
+      "name_ms": "PROFESIONAL KEAGAMAAN",
+      "name_en": "Religious Professionals"
+    },
+    {
+      "code": "2831",
+      "name_ms": "PENGARANG DAN PENULIS YANG BERKAITAN",
+      "name_en": "Authors and Related Writers"
+    },
+    {
+      "code": "2832",
+      "name_ms": "WARTAWAN",
+      "name_en": "Journalists"
+    },
+    {
+      "code": "2833",
+      "name_ms": "PENTERJEMAH, JURUBAHASA, DAN AHLI LINGUISTIK LAIN",
+      "name_en": "Translators, Interpreters and Other Linguists"
+    },
+    {
+      "code": "2841",
+      "name_ms": "ARTIS VISUAL",
+      "name_en": "Economists (Social)"
+    },
+    {
+      "code": "2842",
+      "name_ms": "AHLI MUZIK, PENYANYI, DAN KOMPOSER",
+      "name_en": "Sociologists and Anthropologists"
+    },
+    {
+      "code": "2843",
+      "name_ms": "PENARI DAN PEREKA TARI",
+      "name_en": "Philosophers, Historians and Political Scientists"
+    },
+    {
+      "code": "2844",
+      "name_ms": "PENGARAH DAN PENERBIT FILEM, PEMENTASAN",
+      "name_en": "Psychologists"
+    },
+    {
+      "code": "2845",
+      "name_ms": "PELAKON",
+      "name_en": "Social Work and Counselling Professionals"
+    },
+    {
+      "code": "2846",
+      "name_ms": "JURUHEBAH RADIO, TELEVISYEN, DAN MEDIA LAIN",
+      "name_en": "Religious Professionals"
+    },
+    {
+      "code": "2847",
+      "name_ms": "BADUT, AHLI SILAP MATA, AKROBAT DAN PROFESIONAL",
+      "name_en": "Authors and Related Writers"
+    },
+    {
+      "code": "2848",
+      "name_ms": "PENJAGA DAN JURULATIH HAIWAN",
+      "name_en": "Animal Caretakers and Trainers"
+    },
+    {
+      "code": "2849",
+      "name_ms": "ARTIS KREATIF DAN PERSEMBAHAN YANG TIDAK",
+      "name_en": "Creative and Performing Artists Not Elsewhere Classified"
+    },
+    {
+      "code": "29",
+      "name_ms": "PROFESIONAL BADAN PENGAWALATURAN",
+      "name_en": "Regulatory Body Professionals"
+    },
+    {
+      "code": "2911",
+      "name_ms": "PROFESIONAL INSPEKTOR KASTAM DAN SEMPADAN",
+      "name_en": "Regulatory Body Professionals"
+    },
+    {
+      "code": "2912",
+      "name_ms": "PROFESIONAL PEGAWAI PERCUKAIAN DAN EKSAIS",
+      "name_en": "Government Tax and Excise Professionals"
+    },
+    {
+      "code": "2913",
+      "name_ms": "PROFESIONAL PEGAWAI FAEDAH SOSIAL KERAJAAN",
+      "name_en": "Government Social Benefits Professionals"
+    },
+    {
+      "code": "2914",
+      "name_ms": "PROFESIONAL PEGAWAI PELESENAN KERAJAAN",
+      "name_en": "Government Licensing Professionals"
+    },
+    {
+      "code": "2915",
+      "name_ms": "PROFESIONAL PEGAWAI POLIS",
+      "name_en": "Police Professionals"
+    },
+    {
+      "code": "2916",
+      "name_ms": "PROFESIONAL PEGAWAI SIVIL",
+      "name_en": "Civil Service Professionals"
+    },
+    {
+      "code": "2919",
+      "name_ms": "PROFESIONAL BADAN PENGAWALATURAN YANG",
+      "name_en": "Regulatory Body Professionals Not Elsewhere Classified"
+    },
+    {
+      "code": "31",
+      "name_ms": "PROFESIONAL BERSEKUTU SAINS DAN KEJURUTERAAN",
+      "name_en": "Science and Engineering Associate Professionals"
+    },
+    {
+      "code": "3111",
+      "name_ms": "JURUTEKNIK SAINS KIMIA DAN FIZIK",
+      "name_en": "Chemical and Physical Science Technicians"
+    },
+    {
+      "code": "3112",
+      "name_ms": "JURUTEKNIK KEJURUTERAAN AWAM",
+      "name_en": "Civil Engineering Technicians"
+    },
+    {
+      "code": "3113",
+      "name_ms": "JURUTEKNIK KEJURUTERAAN ELEKTRIK",
+      "name_en": "Electrical Engineering Technicians"
+    },
+    {
+      "code": "3114",
+      "name_ms": "JURUTEKNIK KEJURUTERAAN ELEKTRONIK",
+      "name_en": "Electronics Engineering Technicians"
+    },
+    {
+      "code": "3115",
+      "name_ms": "JURUTEKNIK KEJURUTERAAN MEKANIKAL",
+      "name_en": "Mechanical Engineering Technicians"
+    },
+    {
+      "code": "3116",
+      "name_ms": "JURUTEKNIK KEJURUTERAAN KIMIA",
+      "name_en": "Chemical Engineering Technicians"
+    },
+    {
+      "code": "3117",
+      "name_ms": "JURUTEKNIK PERLOMBONGAN DAN KAJI LOGAM",
+      "name_en": "Mining and Metallurgical Technicians"
+    },
+    {
+      "code": "3118",
+      "name_ms": "PELUKIS PELAN DAN JURUTEKNIK UKUR",
+      "name_en": "Draughtspersons"
+    },
+    {
+      "code": "3119",
+      "name_ms": "JURUTEKNIK INDUSTRI DAN PENGELUARAN",
+      "name_en": "Physical and Engineering Science Technicians Not Elsewhere Classified"
+    },
+    {
+      "code": "3121",
+      "name_ms": "PENYELIA PERLOMBONGAN",
+      "name_en": "Mining Supervisors"
+    },
+    {
+      "code": "3122",
+      "name_ms": "PENYELIA PEMBUATAN",
+      "name_en": "Manufacturing Supervisors"
+    },
+    {
+      "code": "3123",
+      "name_ms": "PENYELIA PEMBINAAN",
+      "name_en": "Construction Supervisors"
+    },
+    {
+      "code": "3129",
+      "name_ms": "PENYELIA LAIN YANG TIDAK DIKELASKAN DI MANA-MANA",
+      "name_en": "Supervisors Not Elsewhere Classified"
+    },
+    {
+      "code": "3131",
+      "name_ms": "OPERATOR LOJI PENJANA KUASA",
+      "name_en": "Power Production Plant Operators"
+    },
+    {
+      "code": "3132",
+      "name_ms": "OPERATOR LOJI INSINERATOR DAN PERAWATAN AIR",
+      "name_en": "Incinerator and Water Treatment Plant Operators"
+    },
+    {
+      "code": "3133",
+      "name_ms": "PENGAWAL LOJI PEMPROSESAN KIMIA",
+      "name_en": "Chemical Processing Plant Controllers"
+    },
+    {
+      "code": "3134",
+      "name_ms": "OPERATOR LOJI PENAPISAN PETROLEUM DAN GAS ASLI",
+      "name_en": "Petroleum and Natural Gas Refining Plant Operators"
+    },
+    {
+      "code": "3135",
+      "name_ms": "PENGAWAL PROSES PENGELUARAN LOGAM",
+      "name_en": "Metal Production Process Controllers"
+    },
+    {
+      "code": "3139",
+      "name_ms": "JURUTEKNIK KAWALAN PROSES YANG TIDAK DIKELASKAN",
+      "name_en": "Process Control Technicians Not Elsewhere Classified"
+    },
+    {
+      "code": "3141",
+      "name_ms": "JURUTEKNIK SAINS HAYAT (TIDAK TERMASUK PERUBATAN)",
+      "name_en": "Life Science Technicians (excluding Medical)"
+    },
+    {
+      "code": "3142",
+      "name_ms": "JURUTEKNIK PERTANIAN DAN PENTERNAKAN",
+      "name_en": "Agricultural Technicians"
+    },
+    {
+      "code": "3143",
+      "name_ms": "JURUTEKNIK PERHUTANAN",
+      "name_en": "Forestry Technicians"
+    },
+    {
+      "code": "3144",
+      "name_ms": "JURUTEKNIK PERIKANAN",
+      "name_en": "Fisheries Technicians"
+    },
+    {
+      "code": "3151",
+      "name_ms": "JURUTEKNIK PESAWAT UDARA",
+      "name_en": "Ships' Engineers"
+    },
+    {
+      "code": "3152",
+      "name_ms": "JURUTEKNIK KAPAL/ MARIN",
+      "name_en": "Ships' Deck Officers and Pilots"
+    },
+    {
+      "code": "3153",
+      "name_ms": "JURUTEKNIK KERETA API/ LOKOMOTIF",
+      "name_en": "Aircraft Pilots and Related Associate Professionals"
+    },
+    {
+      "code": "3154",
+      "name_ms": "JURUTEKNIK KENDERAAN BERMOTOR",
+      "name_en": "Air Traffic Controllers"
+    },
+    {
+      "code": "3159",
+      "name_ms": "JURUTEKNIK PENGANGKUTAN YANG TIDAK DIKELASKAN",
+      "name_en": "Transport Technicians Not Elsewhere Classified"
+    },
+    {
+      "code": "3161",
+      "name_ms": "PROFESIONAL BERSEKUTU PENYELIDIKAN DAN PEMBANGUNAN",
+      "name_en": "Research and Development Associate Professionals"
+    },
+    {
+      "code": "32",
+      "name_ms": "PROFESIONAL BERSEKUTU KESIHATAN",
+      "name_en": "Health Associate Professionals"
+    },
+    {
+      "code": "3211",
+      "name_ms": "JURUTEKNIK KELENGKAPAN PENGIMEJAN PERUBATAN DAN",
+      "name_en": "Medical Imaging and Therapeutic Equipment Technicians"
+    },
+    {
+      "code": "3212",
+      "name_ms": "JURUTEKNIK MAKMAL PERUBATAN DAN PATOLOGI",
+      "name_en": "Medical and Pathology Laboratory Technicians"
+    },
+    {
+      "code": "3213",
+      "name_ms": "JURUTEKNIK DAN PEMBANTU FARMASEUTIKAL",
+      "name_en": "Pharmaceutical Technicians and Assistants"
+    },
+    {
+      "code": "3214",
+      "name_ms": "JURUTEKNIK PERUBATAN DAN PROSTETIK PERGIGIAN",
+      "name_en": "Medical and Dental Prosthetic Technicians"
+    },
+    {
+      "code": "3215",
+      "name_ms": "JURUTEKNIK ORTOTIK DAN PROSTETIK",
+      "name_en": "Orthotics and Prosthetics Technicians"
+    },
+    {
+      "code": "3221",
+      "name_ms": "PROFESIONAL BERSEKUTU KEJURURAWATAN",
+      "name_en": "Nursing Associate Professionals"
+    },
+    {
+      "code": "3222",
+      "name_ms": "PROFESIONAL BERSEKUTU PERBIDANAN",
+      "name_en": "Midwifery Associate Professionals"
+    },
+    {
+      "code": "3231",
+      "name_ms": "PROFESIONAL BERSEKUTU PERUBATAN TRADISIONAL",
+      "name_en": "Traditional Medicine Associate Professionals"
+    },
+    {
+      "code": "3241",
+      "name_ms": "JURUTEKNIK DAN PEMBANTU VETERINAR",
+      "name_en": "Veterinary Technicians and Assistants"
+    },
+    {
+      "code": "3251",
+      "name_ms": "PEMBANTU PERGIGIAN DAN AHLI TERAPI",
+      "name_en": "Dental Assistants and Therapists"
+    },
+    {
+      "code": "3252",
+      "name_ms": "JURUTEKNIK REKOD PERUBATAN DAN MAKLUMAT KESIHATAN",
+      "name_en": "Medical Records and Health Information Technicians"
+    },
+    {
+      "code": "3253",
+      "name_ms": "PEKERJA KESIHATAN MASYARAKAT",
+      "name_en": "Community Health Workers"
+    },
+    {
+      "code": "3254",
+      "name_ms": "JURUOPTIK PENDISPENSAN",
+      "name_en": "Dispensing Opticians"
+    },
+    {
+      "code": "3255",
+      "name_ms": "JURUTEKNIK DAN PEMBANTU JURUPULIH ANGGOTA",
+      "name_en": "Physiotherapy Technicians and Assistants"
+    },
+    {
+      "code": "3256",
+      "name_ms": "PEMBANTU PERUBATAN",
+      "name_en": "Medical Assistants"
+    },
+    {
+      "code": "3257",
+      "name_ms": "PEMERIKSA KESIHATAN PEKERJAAN DAN PERSEKITARAN",
+      "name_en": "Environmental and Occupational Health Inspectors and Associates"
+    },
+    {
+      "code": "3258",
+      "name_ms": "PEMBANTU AMBULANS",
+      "name_en": "Ambulance Workers"
+    },
+    {
+      "code": "3259",
+      "name_ms": "PROFESIONAL BERSEKUTU KESIHATAN YANG TIDAK DIKELASKAN",
+      "name_en": "Health Associate Professionals Not Elsewhere Classified"
+    },
+    {
+      "code": "33",
+      "name_ms": "PROFESIONAL BERSEKUTU PERNIAGAAN DAN PENTADBIRAN",
+      "name_en": "Business and Administration Associate Professionals"
+    },
+    {
+      "code": "3311",
+      "name_ms": "PERUNDING DAN BROKER SEKURITI DAN KEWANGAN",
+      "name_en": "Securities and Finance Dealers and Brokers"
+    },
+    {
+      "code": "3312",
+      "name_ms": "PEGAWAI KREDIT DAN PINJAMAN",
+      "name_en": "Credit and Loans Officers"
+    },
+    {
+      "code": "3313",
+      "name_ms": "PROFESIONAL BERSEKUTU PERAKAUNAN DAN PENGAUDITAN",
+      "name_en": "Accounting Associate Professionals"
+    },
+    {
+      "code": "3314",
+      "name_ms": "PROFESIONAL BERSEKUTU PERANGKAAN, MATEMATIK, DAN",
+      "name_en": "Statistical, Mathematical and Related Associate Professionals"
+    },
+    {
+      "code": "3315",
+      "name_ms": "PENILAI DAN PENTAKSIR KERUGIAN",
+      "name_en": "Valuers and Loss Assessors"
+    },
+    {
+      "code": "3321",
+      "name_ms": "WAKIL INSURANS",
+      "name_en": "Insurance Representatives"
+    },
+    {
+      "code": "3322",
+      "name_ms": "WAKIL JUALAN KOMERSIL",
+      "name_en": "Commercial Sales Representatives"
+    },
+    {
+      "code": "3323",
+      "name_ms": "PEMBELI",
+      "name_en": "Buyers"
+    },
+    {
+      "code": "3324",
+      "name_ms": "BROKER PERDAGANGAN",
+      "name_en": "Trade Brokers"
+    },
+    {
+      "code": "3331",
+      "name_ms": "EJEN PELEPASAN DAN PENGANGKUTAN",
+      "name_en": "Clearing and Forwarding Agents"
+    },
+    {
+      "code": "3332",
+      "name_ms": "EJEN PERSIDANGAN DAN ACARA",
+      "name_en": "Conference and Event Planners"
+    },
+    {
+      "code": "3333",
+      "name_ms": "EJEN DAN KONTRAKTOR PEKERJAAN",
+      "name_en": "Employment Agents and Contractors"
+    },
+    {
+      "code": "3334",
+      "name_ms": "EJEN HARTANAH DAN HARTA",
+      "name_en": "Real Estate Agents and Property Managers"
+    },
+    {
+      "code": "3339",
+      "name_ms": "EJEN PERKHIDMATAN PERNIAGAAN YANG TIDAK DIKELASKAN DI",
+      "name_en": "Business Services Agents Not Elsewhere Classified"
+    },
+    {
+      "code": "3341",
+      "name_ms": "PROFESIONAL BERSEKUTU PENTADBIRAN",
+      "name_en": "Office Supervisors"
+    },
+    {
+      "code": "3342",
+      "name_ms": "SETIAUSAHA PERUNDANGAN",
+      "name_en": "Legal Secretaries"
+    },
+    {
+      "code": "3343",
+      "name_ms": "SETIAUSAHA PENTADBIRAN DAN EKSEKUTIF",
+      "name_en": "Administrative and Executive Secretaries"
+    },
+    {
+      "code": "3344",
+      "name_ms": "SETIAUSAHA PERUBATAN",
+      "name_en": "Medical Secretaries"
+    },
+    {
+      "code": "34",
+      "name_ms": "PROFESIONAL BERSEKUTU PERUNDANGAN",
+      "name_en": "Legal, Social, Cultural and Related Associate Professionals"
+    },
+    {
+      "code": "3411",
+      "name_ms": "PROFESIONAL BERSEKUTU PERUNDANGAN DAN YANG BERKAITAN",
+      "name_en": "Legal and Related Associate Professionals"
+    },
+    {
+      "code": "35",
+      "name_ms": "JURUTEKNIK MAKLUMAT DAN KOMUNIKASI",
+      "name_en": "Information and Communications Technology Technicians"
+    },
+    {
+      "code": "3511",
+      "name_ms": "JURUTEKNIK OPERASI TEKNOLOGI MAKLUMAT DAN KOMUNIKASI",
+      "name_en": "Information and Communications Technology Operations Technicians"
+    },
+    {
+      "code": "3512",
+      "name_ms": "JURUTEKNIK SOKONGAN PENGGUNA TEKNOLOGI MAKLUMAT",
+      "name_en": "Information and Communications Technology User Support Technicians"
+    },
+    {
+      "code": "3513",
+      "name_ms": "JURUTEKNIK RANGKAIAN DAN SISTEM KOMPUTER",
+      "name_en": "Computer Network and Systems Technicians"
+    },
+    {
+      "code": "3514",
+      "name_ms": "JURUTEKNIK WEB",
+      "name_en": "Web Technicians"
+    },
+    {
+      "code": "3521",
+      "name_ms": "JURUTEKNIK PENYIARAN DAN AUDIOVISUAL",
+      "name_en": "Broadcasting and Audiovisual Technicians"
+    },
+    {
+      "code": "3522",
+      "name_ms": "JURUTEKNIK KEJURUTERAAN TELEKOMUNIKASI",
+      "name_en": "Telecommunications Engineering Technicians"
+    },
+    {
+      "code": "36",
+      "name_ms": "PROFESIONAL BERSEKUTU SOSIAL, KEBUDAYAAN, DAN YANG BERKAITAN",
+      "name_en": "Social, Cultural and Related Associate Professionals"
+    },
+    {
+      "code": "3611",
+      "name_ms": "PROFESIONAL BERSEKUTU KERJA SOSIAL",
+      "name_en": "Legal and Related Associate Professionals"
+    },
+    {
+      "code": "3612",
+      "name_ms": "PROFESIONAL BERSEKUTU KEAGAMAAN",
+      "name_en": "Social Work Associate Professionals"
+    },
+    {
+      "code": "3621",
+      "name_ms": "ATLET DAN AHLI SUKAN",
+      "name_en": "Athletes and Sports Players"
+    },
+    {
+      "code": "3622",
+      "name_ms": "JURULATIH, PENGAJAR, DAN PEGAWAI SUKAN",
+      "name_en": "Sports Coaches, Instructors and Officials"
+    },
+    {
+      "code": "3623",
+      "name_ms": "KETUA PROGRAM, DAN PENGAJAR KECERGASAN DAN REKREASI",
+      "name_en": "Fitness and Recreation Instructors and Program Leaders"
+    },
+    {
+      "code": "3631",
+      "name_ms": "JURUGAMBAR",
+      "name_en": "Photographers"
+    },
+    {
+      "code": "3632",
+      "name_ms": "PEREKA BENTUK DAN JURUHIAS DALAMAN",
+      "name_en": "Interior Designers and Decorators"
+    },
+    {
+      "code": "3633",
+      "name_ms": "PROFESIONAL BERSEKUTU GALERI, MUZIUM, DAN PERPUSTAKAAN",
+      "name_en": "Gallery, Museum and Library Associate Professionals"
+    },
+    {
+      "code": "3634",
+      "name_ms": "PROFESIONAL BERSEKUTU KEBUDAYAAN DAN KESENIAN",
+      "name_en": "Cultural and Arts Associate Professionals"
+    },
+    {
+      "code": "3639",
+      "name_ms": "PROFESIONAL BERSEKUTU KESENIAN DAN KEBUDAYAAN YANG",
+      "name_en": "Arts and Cultural Associate Professionals Not Elsewhere Classified"
+    },
+    {
+      "code": "3641",
+      "name_ms": "JURUMASAK",
+      "name_en": "Cooks"
+    },
+    {
+      "code": "37",
+      "name_ms": "PROFESIONAL BERSEKUTU BADAN PENGAWALATURAN",
+      "name_en": "Regulatory Body Associate Professionals"
+    },
+    {
+      "code": "3712",
+      "name_ms": "PROFESIONAL BERSEKUTU PEGAWAI PERCUKAIAN DAN EKSAIS",
+      "name_en": "Government Tax and Excise Associate Professionals"
+    },
+    {
+      "code": "3713",
+      "name_ms": "PROFESIONAL BERSEKUTU PEGAWAI FAEDAH SOSIAL KERAJAAN",
+      "name_en": "Government Social Benefits Associate Professionals"
+    },
+    {
+      "code": "3714",
+      "name_ms": "PROFESIONAL BERSEKUTU PEGAWAI PELESENAN KERAJAAN",
+      "name_en": "Government Licensing Associate Professionals"
+    },
+    {
+      "code": "3715",
+      "name_ms": "PEGAWAI POLIS",
+      "name_en": "Police Officers"
+    },
+    {
+      "code": "3716",
+      "name_ms": "PROFESIONAL BERSEKUTU PERTAHANAN AWAM",
+      "name_en": "Civil Defence Associate Professionals"
+    },
+    {
+      "code": "3719",
+      "name_ms": "PROFESIONAL BERSEKUTU BADAN PENGAWALATURAN YANG",
+      "name_en": "Regulatory Body Associate Professionals Not Elsewhere Classified"
+    },
+    {
+      "code": "41",
+      "name_ms": "KERANI PEJABAT",
+      "name_en": "General and Keyboard Clerks"
+    },
+    {
+      "code": "4111",
+      "name_ms": "KERANI AM PEJABAT",
+      "name_en": "General Office Clerks"
+    },
+    {
+      "code": "4121",
+      "name_ms": "SETIAUSAHA (AM)",
+      "name_en": "Secretaries (General)"
+    },
+    {
+      "code": "4131",
+      "name_ms": "JURUTAIP",
+      "name_en": "Typists and Word Processing Operators"
+    },
+    {
+      "code": "4132",
+      "name_ms": "KERANI KEMASUKAN DATA",
+      "name_en": "Data Entry Clerks"
+    },
+    {
+      "code": "42",
+      "name_ms": "KERANI PERKHIDMATAN PELANGGAN",
+      "name_en": "Customer Services Clerks"
+    },
+    {
+      "code": "4211",
+      "name_ms": "JURUWANG BANK DAN KERANI YANG BERKAITAN",
+      "name_en": "Bank Tellers and Related Clerks"
+    },
+    {
+      "code": "4212",
+      "name_ms": "PENERIMA TARUHAN, KRUPIER, DAN PEKERJA PERMAINAN YANG",
+      "name_en": "Bookmakers, Croupiers and Related Gaming Workers"
+    },
+    {
+      "code": "4213",
+      "name_ms": "BROKER GADAIAN DAN PEMINJAM WANG",
+      "name_en": "Pawnbrokers and Money-Lenders"
+    },
+    {
+      "code": "4214",
+      "name_ms": "PEMUNGUT HUTANG DAN SEWA, DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Debt Collectors and Related Workers"
+    },
+    {
+      "code": "4221",
+      "name_ms": "PERUNDING PERJALANAN DAN KERANI YANG BERKAITAN",
+      "name_en": "Travel Consultants and Clerks"
+    },
+    {
+      "code": "4222",
+      "name_ms": "KERANI PUSAT PENERANGAN INFORMASI",
+      "name_en": "Contact Centre Information Clerks"
+    },
+    {
+      "code": "4223",
+      "name_ms": "OPERATOR TELEFON",
+      "name_en": "Telephone Switchboard Operators"
+    },
+    {
+      "code": "4224",
+      "name_ms": "PENYAMBUT TETAMU",
+      "name_en": "Hotel Receptionists"
+    },
+    {
+      "code": "4225",
+      "name_ms": "KERANI PERTANYAAN",
+      "name_en": "Enquiry Clerks"
+    },
+    {
+      "code": "4226",
+      "name_ms": "PENEMUDUGA TINJAUAN DAN PENYELIDIKAN PASARAN",
+      "name_en": "Receptionists (General)"
+    },
+    {
+      "code": "4229",
+      "name_ms": "PEKERJA MAKLUMAT PELANGGAN YANG TIDAK DIKELASKAN DI",
+      "name_en": "Client Information Workers Not Elsewhere Classified"
+    },
+    {
+      "code": "43",
+      "name_ms": "KERANI PEREKODAN DATA BERANGKA DAN BAHAN",
+      "name_en": "Numerical and Material Recording Clerks"
+    },
+    {
+      "code": "4311",
+      "name_ms": "KERANI PERAKAUNAN, PENGAUDITAN DAN SIMPAN KIRA",
+      "name_en": "Accounting and Bookkeeping Clerks"
+    },
+    {
+      "code": "4312",
+      "name_ms": "KERANI PERANGKAAN, KEWANGAN, DAN INSURANS",
+      "name_en": "Statistical, Finance and Insurance Clerks"
+    },
+    {
+      "code": "4313",
+      "name_ms": "KERANI GAJI",
+      "name_en": "Payroll Clerks"
+    },
+    {
+      "code": "4321",
+      "name_ms": "KERANI STOK",
+      "name_en": "Stock Clerks"
+    },
+    {
+      "code": "4322",
+      "name_ms": "KERANI PENGELUARAN",
+      "name_en": "Production Clerks"
+    },
+    {
+      "code": "4323",
+      "name_ms": "KERANI PENGANGKUTAN",
+      "name_en": "Transport Clerks"
+    },
+    {
+      "code": "44",
+      "name_ms": "PEKERJA SOKONGAN PERKERANIAN LAIN",
+      "name_en": "Other Clerical Support Workers"
+    },
+    {
+      "code": "4411",
+      "name_ms": "KERANI PERPUSTAKAAN",
+      "name_en": "Library Clerks"
+    },
+    {
+      "code": "4412",
+      "name_ms": "KERANI PENGEDARAN DAN PENGISIHAN MEL",
+      "name_en": "Mail Carriers and Sorting Clerks"
+    },
+    {
+      "code": "4413",
+      "name_ms": "KERANI PENGEKODAN, PEMBACAAN PRUF DAN YANG BERKAITAN",
+      "name_en": "Coding, Proofreading and Related Clerks"
+    },
+    {
+      "code": "4414",
+      "name_ms": "JURUTULIS DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Scribes and Related Workers"
+    },
+    {
+      "code": "4415",
+      "name_ms": "KERANI PEMFAILAN DAN PENYALINAN",
+      "name_en": "Filing and Copying Clerks"
+    },
+    {
+      "code": "4416",
+      "name_ms": "KERANI PERSONEL",
+      "name_en": "Personnel Clerks"
+    },
+    {
+      "code": "4419",
+      "name_ms": "PEKERJA SOKONGAN PERKERANIAN LAIN YANG TIDAK",
+      "name_en": "Clerical Support Workers Not Elsewhere Classified"
+    },
+    {
+      "code": "51",
+      "name_ms": "PEKERJA PERKHIDMATAN PERIBADI",
+      "name_en": "Personal Services Workers"
+    },
+    {
+      "code": "5111",
+      "name_ms": "ATENDAN PERJALANAN DAN PELAYAN PERJALANAN",
+      "name_en": "Travel Attendants and Travel Stewards"
+    },
+    {
+      "code": "5112",
+      "name_ms": "KONDUKTOR PENGANGKUTAN",
+      "name_en": "Transport Conductors"
+    },
+    {
+      "code": "5113",
+      "name_ms": "PEMANDU PERJALANAN",
+      "name_en": "Travel Guides"
+    },
+    {
+      "code": "5121",
+      "name_ms": "TUKANG MASAK",
+      "name_en": "Cooks"
+    },
+    {
+      "code": "5131",
+      "name_ms": "PELAYAN",
+      "name_en": "Waiters"
+    },
+    {
+      "code": "5132",
+      "name_ms": "PELAYAN BAR",
+      "name_en": "Bartenders"
+    },
+    {
+      "code": "5141",
+      "name_ms": "PENDANDAN RAMBUT",
+      "name_en": "Hairdressers"
+    },
+    {
+      "code": "5142",
+      "name_ms": "JURUSOLEK DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Beauticians and Related Workers"
+    },
+    {
+      "code": "5151",
+      "name_ms": "PENYELIA PENCUCIAN DAN PENGEMASAN DI PEJABAT, HOTEL",
+      "name_en": "Cleaning and Housekeeping Supervisors"
+    },
+    {
+      "code": "5152",
+      "name_ms": "JURUKEMAS DOMESTIK",
+      "name_en": "Domestic Housekeepers"
+    },
+    {
+      "code": "5153",
+      "name_ms": "PENJAGA BANGUNAN",
+      "name_en": "Building Caretakers"
+    },
+    {
+      "code": "5161",
+      "name_ms": "AHLI NUJUM, TUKANG TILIK DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Astrologers, Fortune-Tellers and Related Workers"
+    },
+    {
+      "code": "5162",
+      "name_ms": "PENGIRING DAN PELAYAN",
+      "name_en": "Companions and Valets"
+    },
+    {
+      "code": "5163",
+      "name_ms": "PEKERJA PENGEBUMIAN DAN PERAPIAN MAYAT",
+      "name_en": "Undertakers and Embalmers"
+    },
+    {
+      "code": "5164",
+      "name_ms": "PERAPI HAIWAN PELIHARAAN DAN PENJAGA HAIWAN",
+      "name_en": "Pet Groomers and Animal Care Workers"
+    },
+    {
+      "code": "5165",
+      "name_ms": "PENGAJAR PEMANDUAN",
+      "name_en": "Driving Instructors"
+    },
+    {
+      "code": "5169",
+      "name_ms": "PEKERJA PERKHIDMATAN PERIBADI YANG TIDAK DIKELASKAN DI",
+      "name_en": "Personal Services Workers Not Elsewhere Classified"
+    },
+    {
+      "code": "52",
+      "name_ms": "PEKERJA JUALAN",
+      "name_en": "Sales Workers"
+    },
+    {
+      "code": "5211",
+      "name_ms": "JURUJUAL DI GERAI DAN PASAR",
+      "name_en": "Stall and Market Salespersons"
+    },
+    {
+      "code": "5212",
+      "name_ms": "JURUJUAL MAKANAN DI TEPI JALAN",
+      "name_en": "Street Food Salespersons"
+    },
+    {
+      "code": "5221",
+      "name_ms": "PENJAGA KEDAI",
+      "name_en": "Shopkeepers"
+    },
+    {
+      "code": "5222",
+      "name_ms": "PENYELIA KEDAI",
+      "name_en": "Shop Supervisors"
+    },
+    {
+      "code": "5223",
+      "name_ms": "PEMBANTU JUALAN DI KEDAI",
+      "name_en": "Shop Sales Assistants"
+    },
+    {
+      "code": "5231",
+      "name_ms": "JURUWANG DAN KERANI TIKET",
+      "name_en": "Cashiers and Ticket Clerks"
+    },
+    {
+      "code": "5241",
+      "name_ms": "MODEL FESYEN DAN MODEL LAIN",
+      "name_en": "Fashion and Other Models"
+    },
+    {
+      "code": "5242",
+      "name_ms": "PENUNJUK CARA JUALAN",
+      "name_en": "Sales Demonstrators"
+    },
+    {
+      "code": "5243",
+      "name_ms": "JURUJUAL PINTU-KE-PINTU",
+      "name_en": "Door-to-Door Salespersons"
+    },
+    {
+      "code": "5244",
+      "name_ms": "JURUJUAL PUSAT PERHUBUNGAN",
+      "name_en": "Contact Centre Salespersons"
+    },
+    {
+      "code": "5245",
+      "name_ms": "ATENDAN PAM DAN PUSAT SERVIS",
+      "name_en": "Service Station Attendants"
+    },
+    {
+      "code": "5246",
+      "name_ms": "ATENDAN KAUNTER MAKANAN",
+      "name_en": "Food Service Counter Attendants"
+    },
+    {
+      "code": "5249",
+      "name_ms": "PEKERJA JUALAN YANG TIDAK DIKELASKAN DI MANA-MANA",
+      "name_en": "Sales Workers Not Elsewhere Classified"
+    },
+    {
+      "code": "53",
+      "name_ms": "PEKERJA PERKHIDMATAN PENDIDIKAN DAN SOSIAL",
+      "name_en": "Personal Care Workers"
+    },
+    {
+      "code": "5311",
+      "name_ms": "PEKERJA ASUHAN KANAK-KANAK",
+      "name_en": "Child Care Workers"
+    },
+    {
+      "code": "5312",
+      "name_ms": "PEMBANTU GURU",
+      "name_en": "Teachers' Aides"
+    },
+    {
+      "code": "5321",
+      "name_ms": "PEMBANTU PENJAGAAN KESIHATAN",
+      "name_en": "Health Care Assistants"
+    },
+    {
+      "code": "5322",
+      "name_ms": "PEKERJA PENJAGAAN DIRI DI RUMAH",
+      "name_en": "Home-Based Personal Care Workers"
+    },
+    {
+      "code": "5329",
+      "name_ms": "PEKERJA PENJAGAAN DIRI DALAM PERKHIDMATAN KESIHATAN",
+      "name_en": "Personal Care Workers in Health Services Not Elsewhere Classified"
+    },
+    {
+      "code": "54",
+      "name_ms": "PEKERJA PERKHIDMATAN PERLINDUNGAN",
+      "name_en": "Protective Services Workers"
+    },
+    {
+      "code": "5411",
+      "name_ms": "AHLI BOMBA",
+      "name_en": "Firefighters"
+    },
+    {
+      "code": "5412",
+      "name_ms": "PEGAWAI POLIS RENDAH",
+      "name_en": "Police Officers"
+    },
+    {
+      "code": "5413",
+      "name_ms": "PENGAWAL PENJARA",
+      "name_en": "Prison Guards"
+    },
+    {
+      "code": "5414",
+      "name_ms": "PENGAWAL KESELAMATAN",
+      "name_en": "Security Guards"
+    },
+    {
+      "code": "5415",
+      "name_ms": "PEGAWAI DAN PEMBANTU IMIGRESEN/ KASTAM",
+      "name_en": "Immigration/Customs Officers and Assistants"
+    },
+    {
+      "code": "5419",
+      "name_ms": "PEKERJA PERKHIDMATAN PERLINDUNGAN YANG TIDAK",
+      "name_en": "Protective Services Workers Not Elsewhere Classified"
+    },
+    {
+      "code": "61",
+      "name_ms": "PEKERJA KEMAHIRAN PERTANIAN DAN PENTERNAKAN BERORIENTASIKAN PASARAN",
+      "name_en": "Market-Oriented Skilled Agricultural Workers"
+    },
+    {
+      "code": "6111",
+      "name_ms": "PENANAM TANAMAN LADANG",
+      "name_en": "Field Crop and Vegetable Growers"
+    },
+    {
+      "code": "6112",
+      "name_ms": "PENANAM POKOK RENEK",
+      "name_en": "Tree and Shrub Crop Growers"
+    },
+    {
+      "code": "6113",
+      "name_ms": "PEKEBUN, PENANAM HORTIKULTUR DAN TAPAK SEMAIAN",
+      "name_en": "Gardeners, Horticultural and Nursery Growers"
+    },
+    {
+      "code": "6114",
+      "name_ms": "PENANAM TANAMAN CAMPURAN",
+      "name_en": "Mixed Crop Growers"
+    },
+    {
+      "code": "6115",
+      "name_ms": "PENANAM SAYUR-SAYURAN",
+      "name_en": "Vegetable Growers"
+    },
+    {
+      "code": "6121",
+      "name_ms": "PENGELUAR TERNAKAN DAN TENUSU",
+      "name_en": "Livestock and Dairy Producers"
+    },
+    {
+      "code": "6122",
+      "name_ms": "PENGELUAR TERNAKAN AYAM ITIK",
+      "name_en": "Poultry Producers"
+    },
+    {
+      "code": "6123",
+      "name_ms": "PEMELIHARA LEBAH DAN ULAT SUTERA",
+      "name_en": "Apiarists and Sericulturists"
+    },
+    {
+      "code": "6129",
+      "name_ms": "PENGELUAR HAIWAN DAN PEKERJA BERKAITAN YANG TIDAK",
+      "name_en": "Animal Producers Not Elsewhere Classified"
+    },
+    {
+      "code": "6131",
+      "name_ms": "PENGELUAR TANAMAN DAN HAIWAN CAMPURAN",
+      "name_en": "Mixed Crop and Animal Producers"
+    },
+    {
+      "code": "62",
+      "name_ms": "PEKERJA KEMAHIRAN PERHUTANAN, PERIKANAN, DAN PERBURUAN BERORIENTASIKAN",
+      "name_en": "Market-Oriented Skilled Forestry, Fishery and Hunting Workers"
+    },
+    {
+      "code": "6211",
+      "name_ms": "PEKERJA KEMAHIRAN PERHUTANAN DAN YANG BERKAITAN",
+      "name_en": "Forestry and Related Skilled Workers"
+    },
+    {
+      "code": "6221",
+      "name_ms": "PENGELUAR PERIKANAN DAN AKUAKULTUR",
+      "name_en": "Aquaculture Workers"
+    },
+    {
+      "code": "6222",
+      "name_ms": "PEKERJA KEMAHIRAN PERIKANAN PERAIRAN PEDALAMAN DAN",
+      "name_en": "Inland and Coastal Waters Fishery Workers"
+    },
+    {
+      "code": "6223",
+      "name_ms": "PEKERJA KEMAHIRAN PERIKANAN LAUT DALAM",
+      "name_en": "Deep-Sea Fishery Workers"
+    },
+    {
+      "code": "6224",
+      "name_ms": "PEMBURU DAN PENJERAT",
+      "name_en": "Hunters and Trappers"
+    },
+    {
+      "code": "63",
+      "name_ms": "PELADANG, NELAYAN, PEMBURU, DAN PEMUNGUT BERORIENTASIKAN SARA DIRI",
+      "name_en": "Subsistence Farmers, Fishers, Hunters and Gatherers"
+    },
+    {
+      "code": "6311",
+      "name_ms": "PELADANG TANAMAN BERORIENTASIKAN SARA DIRI",
+      "name_en": "Subsistence Crop Farmers"
+    },
+    {
+      "code": "6321",
+      "name_ms": "PELADANG TERNAKAN BERORIENTASIKAN SARA DIRI",
+      "name_en": "Subsistence Livestock Farmers"
+    },
+    {
+      "code": "6331",
+      "name_ms": "PELADANG TANAMAN DAN TERNAKAN CAMPURAN",
+      "name_en": "Subsistence Mixed Crop and Livestock Farmers"
+    },
+    {
+      "code": "6341",
+      "name_ms": "NELAYAN, PEMBURU, PENJERAT, DAN PEMUNGUT",
+      "name_en": "Subsistence Fishers, Hunters, Trappers and Gatherers"
+    },
+    {
+      "code": "71",
+      "name_ms": "PEKERJA BANGUNAN DAN PEKERJA PERTUKANGAN YANG BERKAITAN (TIDAK TERMASUK",
+      "name_en": "Building and Related Trades Workers (excluding Electricians)"
+    },
+    {
+      "code": "7111",
+      "name_ms": "PEMBINA RUMAH DAN PEKERJA BINAAN",
+      "name_en": "House Builders"
+    },
+    {
+      "code": "7112",
+      "name_ms": "PENERAP BATA DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Bricklayers and Related Workers"
+    },
+    {
+      "code": "7113",
+      "name_ms": "TUKANG BATU, PEMOTONG BATU, PEMECAH BATU, DAN PENGUKIR",
+      "name_en": "Stonemasons, Stone Cutters, Splitters and Carvers"
+    },
+    {
+      "code": "7114",
+      "name_ms": "TUKANG LETAK KONKRIT, PENGEMAS KONKRIT, DAN PEKERJA",
+      "name_en": "Concrete Placers, Concrete Finishers and Related Workers"
+    },
+    {
+      "code": "7115",
+      "name_ms": "TUKANG KAYU DAN TUKANG TANGGAM",
+      "name_en": "Carpenters and Joiners"
+    },
+    {
+      "code": "7119",
+      "name_ms": "PEKERJA KERANGKA BANGUNAN DAN PEKERJA PERTUKANGAN",
+      "name_en": "Building Frame and Related Trades Workers Not Elsewhere Classified"
+    },
+    {
+      "code": "7121",
+      "name_ms": "PEMASANG BUMBUNG",
+      "name_en": "Roofers"
+    },
+    {
+      "code": "7122",
+      "name_ms": "PENURAP LANTAI DAN PENGATUR JUBIN",
+      "name_en": "Floor Layers and Tile Setters"
+    },
+    {
+      "code": "7123",
+      "name_ms": "TUKANG PLASTER",
+      "name_en": "Plasterers"
+    },
+    {
+      "code": "7124",
+      "name_ms": "TUKANG PENEBATAN",
+      "name_en": "Insulation Workers"
+    },
+    {
+      "code": "7125",
+      "name_ms": "TUKANG KACA",
+      "name_en": "Glaziers"
+    },
+    {
+      "code": "7126",
+      "name_ms": "TUKANG PAIP DAN JURUGEGAS PAIP",
+      "name_en": "Plumbers and Pipe Fitters"
+    },
+    {
+      "code": "7127",
+      "name_ms": "MEKANIK PENYAMAN UDARA DAN PENYEJUKAN",
+      "name_en": "Air Conditioning and Refrigeration Mechanics"
+    },
+    {
+      "code": "7131",
+      "name_ms": "TUKANG CAT DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Painters and Related Workers"
+    },
+    {
+      "code": "7132",
+      "name_ms": "TUKANG SEMBUR CAT DAN VARNIS",
+      "name_en": "Spray Painters and Varnishers"
+    },
+    {
+      "code": "7133",
+      "name_ms": "PENCUCI STRUKTUR BANGUNAN",
+      "name_en": "Building Structure Cleaners"
+    },
+    {
+      "code": "72",
+      "name_ms": "PEKERJA LOGAM, JENTERA DAN PEKERJA PERTUKANGAN YANG BERKAITAN",
+      "name_en": "Metal, Machinery and Related Trades Workers"
+    },
+    {
+      "code": "7211",
+      "name_ms": "PEMBUAT ACUAN DAN PEMBUAT TERAS LOGAM",
+      "name_en": "Metal Moulders and Coremakers"
+    },
+    {
+      "code": "7212",
+      "name_ms": "PENGIMPAL DAN PEMOTONG BESI",
+      "name_en": "Welders and Flamecutters"
+    },
+    {
+      "code": "7213",
+      "name_ms": "PEKERJA KEPINGAN LOGAM",
+      "name_en": "Sheet Metal Workers"
+    },
+    {
+      "code": "7214",
+      "name_ms": "PENYEDIA DAN PENEGAK LOGAM STRUKTUR",
+      "name_en": "Structural Metal Preparers and Erectors"
+    },
+    {
+      "code": "7215",
+      "name_ms": "JURUTALI DAN PENYAMBUNG KABEL",
+      "name_en": "Riggers and Cable Splicers"
+    },
+    {
+      "code": "7221",
+      "name_ms": "TUKANG BESI, TUKANG TUKUL, DAN PEKERJA MESIN PENEMPA",
+      "name_en": "Blacksmiths, Hammersmiths and Forging Press Workers"
+    },
+    {
+      "code": "7222",
+      "name_ms": "PEMBUAT PERALATAN DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Toolmakers and Related Workers"
+    },
+    {
+      "code": "7223",
+      "name_ms": "PENGESET DAN PENGENDALI PERALATAN UNTUK MESIN KERJA",
+      "name_en": "Metal Working Machine Tool Setters and Operators"
+    },
+    {
+      "code": "7224",
+      "name_ms": "PENGGILAP LOGAM, PENCANAI RODA, DAN PENGASAH",
+      "name_en": "Metal Polishers, Wheel Grinders and Tool Sharpeners"
+    },
+    {
+      "code": "7231",
+      "name_ms": "MEKANIK DAN PEMBAIK KENDERAAN BERMOTOR",
+      "name_en": "Motor Vehicle Mechanics and Repairers"
+    },
+    {
+      "code": "7232",
+      "name_ms": "MEKANIK DAN PEMBAIK ENJIN PESAWAT UDARA",
+      "name_en": "Aircraft Engine Mechanics and Repairers"
+    },
+    {
+      "code": "7233",
+      "name_ms": "MEKANIK DAN PEMBAIK JENTERA PERTANIAN DAN",
+      "name_en": "Agricultural and Industrial Machinery Mechanics and Repairers"
+    },
+    {
+      "code": "7234",
+      "name_ms": "PEMBAIK BASIKAL DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Bicycle and Related Repairers"
+    },
+    {
+      "code": "7239",
+      "name_ms": "MEKANIK DAN PEMBAIK JENTERA YANG TIDAK DIKELASKAN DI",
+      "name_en": "Machinery Mechanics and Repairers Not Elsewhere Classified"
+    },
+    {
+      "code": "73",
+      "name_ms": "PEKERJA KRAFTANGAN DAN PENCETAKAN",
+      "name_en": "Handicraft and Printing Workers"
+    },
+    {
+      "code": "7311",
+      "name_ms": "PEMBUAT DAN PEMBAIK PERALATAN JITU",
+      "name_en": "Precision-Instrument Makers and Repairers"
+    },
+    {
+      "code": "7312",
+      "name_ms": "PEMBUAT DAN PENALA ALAT MUZIK",
+      "name_en": "Musical Instrument Makers and Tuners"
+    },
+    {
+      "code": "7313",
+      "name_ms": "PEKERJA BARANG KEMAS DAN LOGAM BERHARGA",
+      "name_en": "Jewellery and Precious-Metal Workers"
+    },
+    {
+      "code": "7314",
+      "name_ms": "TUKANG TEMBIKAR DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Potters and Related Workers"
+    },
+    {
+      "code": "7315",
+      "name_ms": "PEMBUAT, PEMOTONG, PENCANAI, DAN PENGEMAS KACA",
+      "name_en": "Glass Makers, Cutters, Grinders and Finishers"
+    },
+    {
+      "code": "7316",
+      "name_ms": "PENULIS PAPAN TANDA, PELUKIS HIASAN, PENGUKIR, DAN",
+      "name_en": "Signwriters, Decorative Painters, Engravers and Etchers"
+    },
+    {
+      "code": "7317",
+      "name_ms": "PEKERJA KRAFTANGAN KAYU, BAKUL DAN BAHAN YANG",
+      "name_en": "Handicraft Workers in Wood, Basketry and Related Materials"
+    },
+    {
+      "code": "7318",
+      "name_ms": "PEKERJA KRAFTANGAN TEKSTIL, BARANGAN KULIT DAN BAHAN",
+      "name_en": "Handicraft Workers in Textile, Leather and Related Materials"
+    },
+    {
+      "code": "7319",
+      "name_ms": "PEKERJA KRAFTANGAN YANG TIDAK DIKELASKAN DI MANA-",
+      "name_en": "Handicraft Workers Not Elsewhere Classified"
+    },
+    {
+      "code": "7321",
+      "name_ms": "PEKERJA PRAPENCETAKAN",
+      "name_en": "Pre-Press Technicians"
+    },
+    {
+      "code": "7322",
+      "name_ms": "PENCETAK",
+      "name_en": "Printers"
+    },
+    {
+      "code": "7323",
+      "name_ms": "PEKERJA KEMASAN AKHIR DAN PENJILID PENCETAKAN",
+      "name_en": "Print Finishing and Binding Workers"
+    },
+    {
+      "code": "7324",
+      "name_ms": "PENGUKIR DAN PENGGORES PENCETAKAN DAN FOTO",
+      "name_en": "Printing and Photo Engravers and Etchers"
+    },
+    {
+      "code": "74",
+      "name_ms": "PEKERJA PERTUKANGAN ELEKTRIK DAN ELEKTRONIK",
+      "name_en": "Electrical and Electronics Trades Workers"
+    },
+    {
+      "code": "7411",
+      "name_ms": "JURUELEKTRIK BANGUNAN DAN YANG BERKAITAN",
+      "name_en": "Building and Related Electricians"
+    },
+    {
+      "code": "7412",
+      "name_ms": "MEKANIK DAN JURUGEGAS ELEKTRIK",
+      "name_en": "Electrical Mechanics and Fitters"
+    },
+    {
+      "code": "7413",
+      "name_ms": "PEMASANG DAN PEMBAIK TALIAN ELEKTRIK",
+      "name_en": "Electrical Line Installers and Repairers"
+    },
+    {
+      "code": "7421",
+      "name_ms": "MEKANIK DAN PENSERVIS ELEKTRONIK",
+      "name_en": "Electronics Mechanics and Servicers"
+    },
+    {
+      "code": "7422",
+      "name_ms": "PEMASANG DAN PENSERVIS TEKNOLOGI MAKLUMAT DAN",
+      "name_en": "Information and Communications Technology Installers and Servicers"
+    },
+    {
+      "code": "75",
+      "name_ms": "PEKERJA PEMPROSESAN MAKANAN DAN YANG BERKAITAN",
+      "name_en": "Food Processing, Woodworking, Garment and Other Craft Workers"
+    },
+    {
+      "code": "7511",
+      "name_ms": "PEKERJA PEMPROSESAN DAGING, IKAN, DAN PENYEDIA",
+      "name_en": "Butchers, Fishmongers and Related Food Preparers"
+    },
+    {
+      "code": "7512",
+      "name_ms": "PEMBUAT ROTI, PASTRI, PASTA, DAN KONFEKSI",
+      "name_en": "Bakers, Pastry-Cooks and Confectionery Makers"
+    },
+    {
+      "code": "7513",
+      "name_ms": "PEMBUAT PRODUK TENUSU",
+      "name_en": "Dairy Products Makers"
+    },
+    {
+      "code": "7514",
+      "name_ms": "PENGAWET BUAH-BUAHAN, SAYUR-SAYURAN DAN YANG",
+      "name_en": "Fruit, Vegetable and Related Preservers"
+    },
+    {
+      "code": "7515",
+      "name_ms": "PERASA DAN PENGGRED MAKANAN DAN MINUMAN",
+      "name_en": "Food and Beverage Tasters and Graders"
+    },
+    {
+      "code": "7516",
+      "name_ms": "PENYEDIA TEMBAKAU DAN PEMBUAT PRODUK TEMBAKAU",
+      "name_en": "Tobacco Preparers and Tobacco Products Makers"
+    },
+    {
+      "code": "76",
+      "name_ms": "PEKERJA KEMAHIRAN LAIN",
+      "name_en": "Other Skilled Workers"
+    },
+    {
+      "code": "7611",
+      "name_ms": "PERAWAT KAYU",
+      "name_en": "Wood Treaters (Other)"
+    },
+    {
+      "code": "7612",
+      "name_ms": "PEMBUAT KABINET DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Cabinet-Makers (Other)"
+    },
+    {
+      "code": "7613",
+      "name_ms": "PENGESET DAN PENGENDALI PERKAKAS MESIN UNTUK KERJA",
+      "name_en": "Woodworking Machine Tool Setters and Operators"
+    },
+    {
+      "code": "7621",
+      "name_ms": "TUKANG JAHIT, PENJAHIT PAKAIAN, PENJAHIT PAKAIAN BULU, DAN PEMBUAT TOPI",
+      "name_en": "Tailors, Dressmakers, Furriers and Hatters"
+    },
+    {
+      "code": "7622",
+      "name_ms": "PEMBUAT-POLA DAN PEMOTONG PAKAIAN DAN BAHAN LAIN",
+      "name_en": "Pattern-Makers and Cutters (Garments and Other Materials)"
+    },
+    {
+      "code": "7623",
+      "name_ms": "PEMBUAT KASUT DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Shoemakers and Related Workers"
+    },
+    {
+      "code": "7624",
+      "name_ms": "PEKERJA UPHOLSTERI DAN YANG BERKAITAN",
+      "name_en": "Upholsterers and Related Workers"
+    },
+    {
+      "code": "7625",
+      "name_ms": "PENGEMAS KULIT BULU, PENYAMAK KULIT BINATANG, DAN",
+      "name_en": "Pelt Dressers, Tanners and Fellmongers"
+    },
+    {
+      "code": "7631",
+      "name_ms": "PENYELAM DALAM AIR",
+      "name_en": "Underwater Divers"
+    },
+    {
+      "code": "7632",
+      "name_ms": "PEMBEDIL DAN PEMBAGAS",
+      "name_en": "Shotfirers and Blasters"
+    },
+    {
+      "code": "7633",
+      "name_ms": "PENGGRED DAN PENGUJI PRODUK (TIDAK TERMASUK MAKANAN",
+      "name_en": "Product Graders and Testers (excluding Foods and Beverages)"
+    },
+    {
+      "code": "7634",
+      "name_ms": "PENGASAP DAN PENGAWAL PEROSAK DAN RUMPAI",
+      "name_en": "Fumigators and Pest and Weed Controllers"
+    },
+    {
+      "code": "7639",
+      "name_ms": "PEKERJA KEMAHIRAN LAIN DAN YANG BERKAITAN YANG TIDAK",
+      "name_en": "Other Skilled and Related Workers Not Elsewhere Classified"
+    },
+    {
+      "code": "81",
+      "name_ms": "OPERATOR MESIN DAN LOJI PEGUN",
+      "name_en": "Stationary Plant and Machine Operators"
+    },
+    {
+      "code": "8111",
+      "name_ms": "PELOMBONG DAN PEKERJA KUARI",
+      "name_en": "Miners and Quarriers"
+    },
+    {
+      "code": "8112",
+      "name_ms": "OPERATOR LOJI PEMPROSESAN GALIAN DAN BATU",
+      "name_en": "Mineral and Stone Processing Plant Operators"
+    },
+    {
+      "code": "8113",
+      "name_ms": "PENGGERUDI DAN PENGOREK TELAGA DAN PEKERJA YANG",
+      "name_en": "Well Drillers and Borers and Related Workers"
+    },
+    {
+      "code": "8114",
+      "name_ms": "OPERATOR MESIN PRODUK SIMEN, BATU, DAN GALIAN LAIN",
+      "name_en": "Cement, Stone and Other Mineral Products Machine Operators"
+    },
+    {
+      "code": "8121",
+      "name_ms": "OPERATOR LOJI PEMPROSESAN LOGAM",
+      "name_en": "Metal Processing Plant Operators"
+    },
+    {
+      "code": "8122",
+      "name_ms": "OPERATOR MESIN PENGEMAS, PENYADUR, DAN PENYALUT",
+      "name_en": "Metal Finishing, Plating and Coating Machine Operators"
+    },
+    {
+      "code": "8131",
+      "name_ms": "OPERATOR MESIN DAN LOJI PRODUK KIMIA",
+      "name_en": "Chemical Products Plant and Machine Operators"
+    },
+    {
+      "code": "8132",
+      "name_ms": "OPERATOR MESIN PRODUK FOTOGRAFI",
+      "name_en": "Photographic Products Machine Operators"
+    },
+    {
+      "code": "8141",
+      "name_ms": "OPERATOR MESIN PRODUK GETAH",
+      "name_en": "Rubber Products Machine Operators"
+    },
+    {
+      "code": "8142",
+      "name_ms": "OPERATOR MESIN PRODUK PLASTIK",
+      "name_en": "Plastic Products Machine Operators"
+    },
+    {
+      "code": "8143",
+      "name_ms": "OPERATOR MESIN PRODUK KERTAS",
+      "name_en": "Paper Products Machine Operators"
+    },
+    {
+      "code": "8151",
+      "name_ms": "OPERATOR MESIN PENYEDIA GENTIAN, PEMINTAL, DAN PELILIT",
+      "name_en": "Fibre Preparing, Spinning and Winding Machine Operators"
+    },
+    {
+      "code": "8152",
+      "name_ms": "OPERATOR MESIN TENUN DAN KAIT",
+      "name_en": "Weaving and Knitting Machine Operators"
+    },
+    {
+      "code": "8153",
+      "name_ms": "OPERATOR MESIN JAHIT",
+      "name_en": "Sewing Machine Operators"
+    },
+    {
+      "code": "8154",
+      "name_ms": "OPERATOR MESIN PELUNTUR, PENCELUP, DAN PENCUCI FABRIK",
+      "name_en": "Bleaching, Dyeing and Fabric Cleaning Machine Operators"
+    },
+    {
+      "code": "8155",
+      "name_ms": "OPERATOR MESIN PENYEDIA BULU DAN KULIT",
+      "name_en": "Fur and Leather Preparing Machine Operators"
+    },
+    {
+      "code": "8156",
+      "name_ms": "OPERATOR MESIN MEMBUAT KASUT DAN YANG BERKAITAN",
+      "name_en": "Shoemaking and Related Machine Operators"
+    },
+    {
+      "code": "8157",
+      "name_ms": "OPERATOR MESIN DOBI",
+      "name_en": "Laundry Machine Operators"
+    },
+    {
+      "code": "8159",
+      "name_ms": "OPERATOR MESIN PRODUK TEKSTIL, BULU, DAN KULIT YANG",
+      "name_en": "Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified"
+    },
+    {
+      "code": "8161",
+      "name_ms": "OPERATOR MESIN PRODUK MAKANAN DAN YANG BERKAITAN",
+      "name_en": "Food and Related Products Machine Operators"
+    },
+    {
+      "code": "8171",
+      "name_ms": "OPERATOR LOJI PULPA DAN PEMBUATAN KERTAS",
+      "name_en": "Pulp and Papermaking Plant Operators"
+    },
+    {
+      "code": "8172",
+      "name_ms": "OPERATOR LOJI PEMPROSESAN KAYU",
+      "name_en": "Wood Processing Plant Operators"
+    },
+    {
+      "code": "8173",
+      "name_ms": "OPERATOR MESIN PRODUK KAYU",
+      "name_en": "Wood Products Machine Operators"
+    },
+    {
+      "code": "8181",
+      "name_ms": "OPERATOR LOJI KACA DAN SERAMIK",
+      "name_en": "Glass and Ceramics Plant Operators"
+    },
+    {
+      "code": "8182",
+      "name_ms": "OPERATOR ENJIN DAN DANDANG STIM",
+      "name_en": "Steam Engine and Boiler Operators"
+    },
+    {
+      "code": "8183",
+      "name_ms": "OPERATOR MESIN PEMBUNGKUS, PEMBOTOL, DAN PELABEL",
+      "name_en": "Packing, Bottling and Labelling Machine Operators"
+    },
+    {
+      "code": "8189",
+      "name_ms": "OPERATOR MESIN DAN LOJI PEGUN LAIN YANG TIDAK DIKELASKAN",
+      "name_en": "Stationary Plant and Machine Operators Not Elsewhere Classified"
+    },
+    {
+      "code": "82",
+      "name_ms": "PEMASANG",
+      "name_en": "Assemblers"
+    },
+    {
+      "code": "8211",
+      "name_ms": "PEMASANG JENTERA MEKANIKAL",
+      "name_en": "Mechanical Machinery Assemblers"
+    },
+    {
+      "code": "8212",
+      "name_ms": "PEMASANG KELENGKAPAN ELEKTRIK DAN ELEKTRONIK",
+      "name_en": "Electrical and Electronic Equipment Assemblers"
+    },
+    {
+      "code": "8213",
+      "name_ms": "PEMASANG PRODUK KULIT, LOGAM, GETAH, DAN PLASTIK",
+      "name_en": "Leather, Metal, Rubber and Plastic Products Assemblers"
+    },
+    {
+      "code": "8219",
+      "name_ms": "PEMASANG YANG TIDAK DIKELASKAN DI MANA-MANA",
+      "name_en": "Assemblers Not Elsewhere Classified"
+    },
+    {
+      "code": "8221",
+      "name_ms": "OPERATOR-PENGESET PERALATAN-MESIN",
+      "name_en": "Machine-Tool Setter-Operators"
+    },
+    {
+      "code": "83",
+      "name_ms": "PEMANDU DAN OPERATOR LOJI BERGERAK",
+      "name_en": "Drivers and Mobile Plant Operators"
+    },
+    {
+      "code": "8311",
+      "name_ms": "PEMANDU ENJIN LOKOMOTIF",
+      "name_en": "Locomotive Engine Drivers"
+    },
+    {
+      "code": "8312",
+      "name_ms": "OPERATOR BREK, ISYARAT, DAN SUIS LANDASAN KERETAPI",
+      "name_en": "Railway Brake, Signal and Switch Operators"
+    },
+    {
+      "code": "8321",
+      "name_ms": "PENUNGGANG (PEMANDU) MOTOSIKAL",
+      "name_en": "Motorcycle Drivers"
+    },
+    {
+      "code": "8322",
+      "name_ms": "PEMANDU KERETA, TEKSI, DAN VAN",
+      "name_en": "Car, Taxi and Van Drivers"
+    },
+    {
+      "code": "8331",
+      "name_ms": "PEMANDU BAS DAN TREM",
+      "name_en": "Bus and Tram Drivers"
+    },
+    {
+      "code": "8332",
+      "name_ms": "PEMANDU TRAK BERAT DAN LORI",
+      "name_en": "Heavy Truck and Lorry Drivers"
+    },
+    {
+      "code": "8341",
+      "name_ms": "OPERATOR LOJI BERGERAK BAGI LADANG DAN PERHUTANAN",
+      "name_en": "Mobile Farm and Forestry Plant Operators"
+    },
+    {
+      "code": "8342",
+      "name_ms": "OPERATOR LOJI TOLAK TANAH DAN YANG BERKAITAN",
+      "name_en": "Earthmoving and Related Plant Operators"
+    },
+    {
+      "code": "8343",
+      "name_ms": "OPERATOR LOJI KREN, TAKAL DAN YANG BERKAITAN",
+      "name_en": "Crane, Hoist and Related Plant Operators"
+    },
+    {
+      "code": "8344",
+      "name_ms": "OPERATOR TRAK ANGKAT",
+      "name_en": "Lifting Truck Operators"
+    },
+    {
+      "code": "8351",
+      "name_ms": "KELASI KAPAL DAN PEKERJA YANG BERKAITAN",
+      "name_en": "Ships' Deck Crews and Related Workers"
+    },
+    {
+      "code": "91",
+      "name_ms": "PENCUCI DAN PEMBANTU",
+      "name_en": "Cleaners and Helpers"
+    },
+    {
+      "code": "9111",
+      "name_ms": "PENCUCI DAN PEMBANTU DOMESTIK",
+      "name_en": "Domestic Cleaners and Helpers"
+    },
+    {
+      "code": "9112",
+      "name_ms": "PENCUCI DAN PEMBANTU DI PEJABAT, HOTEL",
+      "name_en": "Cleaners and Helpers in Offices, Hotels and Other Establishments"
+    },
+    {
+      "code": "9121",
+      "name_ms": "TUKANG DOBI DAN TUKANG SETERIKA (TANGAN)",
+      "name_en": "Hand Launderers and Pressers"
+    },
+    {
+      "code": "9122",
+      "name_ms": "PENCUCI KENDERAAN",
+      "name_en": "Vehicle Cleaners"
+    },
+    {
+      "code": "9123",
+      "name_ms": "PENCUCI PERMUKAAN DAN TETINGKAP",
+      "name_en": "Window Cleaners"
+    },
+    {
+      "code": "9129",
+      "name_ms": "PEKERJA PENCUCIAN LAIN YANG TIDAK DIKELASKAN",
+      "name_en": "Other Cleaning Workers"
+    },
+    {
+      "code": "92",
+      "name_ms": "BURUH PERTANIAN, PERHUTANAN, PENTERNAKAN, DAN PERIKANAN",
+      "name_en": "Agricultural, Forestry and Fishery Labourers"
+    },
+    {
+      "code": "9211",
+      "name_ms": "BURUH LADANG TANAMAN",
+      "name_en": "Crop Farm Labourers"
+    },
+    {
+      "code": "9212",
+      "name_ms": "BURUH LADANG TERNAKAN",
+      "name_en": "Livestock Farm Labourers"
+    },
+    {
+      "code": "9213",
+      "name_ms": "BURUH LADANG TANAMAN DAN TERNAKAN CAMPURAN",
+      "name_en": "Mixed Crop and Livestock Farm Labourers"
+    },
+    {
+      "code": "9214",
+      "name_ms": "BURUH KEBUN DAN HORTIKULTUR",
+      "name_en": "Garden and Horticultural Labourers"
+    },
+    {
+      "code": "9215",
+      "name_ms": "BURUH PERHUTANAN",
+      "name_en": "Forestry Labourers"
+    },
+    {
+      "code": "9216",
+      "name_ms": "BURUH PERIKANAN DAN AKUAKULTUR",
+      "name_en": "Fishery and Aquaculture Labourers"
+    },
+    {
+      "code": "9219",
+      "name_ms": "BURUH PERTANIAN, PERHUTANAN, PENTERNAKAN, DAN",
+      "name_en": "Agricultural, Forestry, Livestock and Fishery Labourers Not Elsewhere Classified"
+    },
+    {
+      "code": "93",
+      "name_ms": "BURUH PERLOMBONGAN, PEMBINAAN, PEMBUATAN, DAN PENGANGKUTAN",
+      "name_en": "Labourers in Mining, Construction, Manufacturing and Transport"
+    },
+    {
+      "code": "9311",
+      "name_ms": "BURUH PERLOMBONGAN DAN PERKUARIAN",
+      "name_en": "Mining and Quarrying Labourers"
+    },
+    {
+      "code": "9312",
+      "name_ms": "BURUH KEJURUTERAAN AWAM",
+      "name_en": "Civil Engineering Labourers"
+    },
+    {
+      "code": "9313",
+      "name_ms": "BURUH PEMBINAAN BANGUNAN",
+      "name_en": "Building Construction Labourers"
+    },
+    {
+      "code": "9321",
+      "name_ms": "BURUH PEMBUATAN",
+      "name_en": "Hand Packers"
+    },
+    {
+      "code": "9329",
+      "name_ms": "BURUH PEMBUATAN YANG TIDAK DIKELASKAN DI MANA-MANA",
+      "name_en": "Manufacturing Labourers Not Elsewhere Classified"
+    },
+    {
+      "code": "9331",
+      "name_ms": "PENGAYUH KENDERAAN TANGAN ATAU BERPEDAL",
+      "name_en": "Hand and Pedal Vehicle Drivers"
+    },
+    {
+      "code": "9332",
+      "name_ms": "PEMANDU KENDERAAN DAN JENTERA TARIKAN-HAIWAN",
+      "name_en": "Drivers of Animal-Drawn Vehicles and Machinery"
+    },
+    {
+      "code": "9333",
+      "name_ms": "PEKERJA PENGANGKUTAN BARANG DAN BURUH PENYIMPANAN",
+      "name_en": "Freight Handlers"
+    },
+    {
+      "code": "9334",
+      "name_ms": "PENGISI RAK",
+      "name_en": "Shelf Fillers"
+    },
+    {
+      "code": "94",
+      "name_ms": "PEMBANTU PENYEDIAAN MAKANAN",
+      "name_en": "Food Preparation Assistants"
+    },
+    {
+      "code": "9411",
+      "name_ms": "PENYEDIA MAKANAN SEGERA",
+      "name_en": "Fast Food Preparers"
+    },
+    {
+      "code": "9412",
+      "name_ms": "PEMBANTU DAPUR",
+      "name_en": "Kitchen Helpers"
+    },
+    {
+      "code": "95",
+      "name_ms": "PEKERJA PERKHIDMATAN TEPI JALAN DAN PEKERJA JUALAN DAN YANG BERKAITAN",
+      "name_en": "Street and Related Sales and Services Workers"
+    },
+    {
+      "code": "9511",
+      "name_ms": "PEKERJA PERKHIDMATAN TEPI JALAN DAN YANG BERKAITAN",
+      "name_en": "Street and Related Services Workers"
+    },
+    {
+      "code": "9521",
+      "name_ms": "PENJUAL TEPI JALAN (TIDAK TERMASUK MAKANAN)",
+      "name_en": "Street Vendors (excluding Food)"
+    },
+    {
+      "code": "96",
+      "name_ms": "PEKERJA ASAS LAIN",
+      "name_en": "Refuse Workers and Other Elementary Workers"
+    },
+    {
+      "code": "9611",
+      "name_ms": "PEMUNGUT SAMPAH",
+      "name_en": "Garbage and Recycling Collectors"
+    },
+    {
+      "code": "9612",
+      "name_ms": "PENGISIH BARANG BUANGAN DAN BARANG KITAR SEMULA",
+      "name_en": "Refuse Sorters"
+    },
+    {
+      "code": "9613",
+      "name_ms": "TUKANG SAPU DAN BURUH YANG BERKAITAN",
+      "name_en": "Sweepers and Related Labourers"
+    },
+    {
+      "code": "9621",
+      "name_ms": "PENGHANTAR MESEJ DAN BUNGKUSAN, DAN PORTER BAGASI",
+      "name_en": "Messengers, Package Deliverers and Luggage Porters"
+    },
+    {
+      "code": "9622",
+      "name_ms": "PEKERJA RENCAM",
+      "name_en": "Odd Job Persons"
+    },
+    {
+      "code": "9623",
+      "name_ms": "PEMBACA METER DAN PEMUNGUT WANG MESIN-LAYAN DIRI",
+      "name_en": "Meter Readers and Vending-Machine Collectors"
+    },
+    {
+      "code": "9624",
+      "name_ms": "PENGANGKAT AIR DAN PEMUNGUT KAYU API",
+      "name_en": "Water Collectors and Firewood Gatherers"
+    },
+    {
+      "code": "9625",
+      "name_ms": "ATENDAN",
+      "name_en": "Attendants"
+    },
+    {
+      "code": "9629",
+      "name_ms": "PEKERJA ASAS YANG LAIN YANG TIDAK DIKELASKAN",
+      "name_en": "Elementary Workers Not Elsewhere Classified"
+    }
+  ]
+}

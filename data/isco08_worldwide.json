@@ -1,0 +1,555 @@
+{
+  "metadata": {
+    "title": "ISCO-08 Worldwide National Adaptations and Translations",
+    "created": "2026-04-21",
+    "updated": "2026-04-21T18:00:00Z",
+    "description": "Cross-reference of ISCO-08 (International Standard Classification of Occupations 2008) translations and national adaptations worldwide",
+    "isco08_total_unit_groups": 436,
+    "methodology": "Web research of national statistical offices, ILO resources, and ESCO API"
+  },
+  "sources": {
+    "ILO_ISCO08": {
+      "languages": ["en", "fr", "es"],
+      "languages_planned": ["ar"],
+      "url": "https://isco-ilo.netlify.app/en/isco-08/",
+      "download_url": "https://webapps.ilo.org/ilostat-files/ISCO/newdocs-08-2021/ISCO-08/ISCO-08%20EN%20Vol%201.pdf",
+      "format": "PDF + Excel + CSV",
+      "occupations": 436,
+      "notes": "Official ILO standard. Available in EN/FR/ES. Arabic version announced as 'coming soon'."
+    },
+    "ESCO": {
+      "languages": ["ar", "bg", "cs", "da", "de", "el", "en", "es", "et", "fi", "fr", "ga", "hr", "hu", "is", "it", "lt", "lv", "mt", "nb", "nl", "pl", "pt", "ro", "sk", "sl", "sv", "uk"],
+      "language_count": 28,
+      "url": "https://esco.ec.europa.eu/en/use-esco/download",
+      "api_url": "https://ec.europa.eu/esco/api/",
+      "format": "API + CSV + RDF + TTL + ODS + XML + JSON-LD",
+      "occupations": 3039,
+      "isco08_unit_groups": 436,
+      "version": "v1.2.1 (2025-12-10)",
+      "notes": "EU official. 28 languages including Arabic, Icelandic, Norwegian Bokmal, Ukrainian. Each occupation mapped to exactly one ISCO-08 code."
+    },
+    "KBJI_2014_Indonesia": {
+      "languages": ["id"],
+      "url": "https://ppid.bps.go.id/upload/doc/Klasifikasi_Baku_Jabatan_Indonesia_2014_1659512277.pdf",
+      "alt_url": "https://satudata.kemnaker.go.id/publikasi/48",
+      "search_tool": "https://afiiif.github.io/spk/kbji-2014",
+      "format": "PDF",
+      "occupations": 436,
+      "based_on": "ISCO-08",
+      "authority": "BPS (Badan Pusat Statistik) + Kementerian Ketenagakerjaan",
+      "notes": "Klasifikasi Baku Jabatan Indonesia 2014. Direct ISCO-08 adaptation."
+    },
+    "MASCO_2020_Malaysia": {
+      "languages": ["ms", "en"],
+      "url": "https://emasco.mohr.gov.my/",
+      "format": "Online portal + PDF",
+      "occupations": 451,
+      "based_on": "ISCO-08",
+      "authority": "MOHR (Ministry of Human Resources)",
+      "notes": "Malaysia Standard Classification of Occupations 2020. Bilingual Malay/English."
+    },
+    "PSOC_2012_Philippines": {
+      "languages": ["en"],
+      "url": "https://psa.gov.ph/classification/psoc",
+      "format": "PDF (761KB)",
+      "occupations": 436,
+      "based_on": "ISCO-08",
+      "authority": "PSA (Philippine Statistics Authority)",
+      "notes": "Philippine Standard Occupational Classification 2012. English only, no Filipino/Tagalog labels."
+    },
+    "JSOC_Japan": {
+      "languages": ["ja"],
+      "url": "https://www.soumu.go.jp/toukei_toukatsu/index/seido/shokgyou/index.htm",
+      "data_url": "https://data.e-gov.go.jp/data/dataset/soumu_20170207_0007",
+      "search_url": "https://www.e-stat.go.jp/classifications/terms/20",
+      "format": "PDF + CSV (e-Stat)",
+      "based_on": "ISCO-08 (loosely, own structure)",
+      "authority": "Ministry of Internal Affairs and Communications (総務省)",
+      "notes": "日本標準職業分類 (Nihon Hyojun Shokugyo Bunrui). Set December 2009. Uses own code structure, not 1:1 ISCO-08 mapping."
+    },
+    "KSCO_Korea": {
+      "languages": ["ko"],
+      "url": "https://kssc.kostat.go.kr/",
+      "format": "Online portal + PDF",
+      "based_on": "ISCO-08 (adapted)",
+      "authority": "Statistics Korea (통계청)",
+      "notes": "한국표준직업분류 (KSCO) 7th revision, effective 2018-01-01. Own code structure with ISCO mapping. 8th revision effective 2025."
+    },
+    "GB_T_6565_China": {
+      "languages": ["zh"],
+      "url": "https://www.mohrss.gov.cn/SYrlzyhshbzb/zcfg/SYzhengqiuyijian/202207/t20220714_457833.html",
+      "format": "PDF + Excel",
+      "based_on": "Own system (loosely aligned to ISCO)",
+      "authority": "Ministry of Human Resources and Social Security + National Bureau of Statistics",
+      "notes": "中华人民共和国职业分类大典 (2022 edition). 8 major categories, own coding. Not direct ISCO-08 mapping."
+    },
+    "NCO_2015_India": {
+      "languages": ["en"],
+      "url_vol1": "https://labour.gov.in/sites/default/files/National%20Classification%20of%20Occupations%20_Vol%20I-%202015.pdf",
+      "url_vol2": "https://labour.gov.in/sites/default/files/National%20Classification%20of%20Occupations%20_Vol%20II-A-%202015.pdf",
+      "format": "PDF (2 volumes)",
+      "occupations": 436,
+      "based_on": "ISCO-08",
+      "authority": "Directorate General of Employment (DGE)",
+      "notes": "National Classification of Occupations 2015. English only, no Hindi labels in official docs. Compatible with ISCO-08."
+    },
+    "TSCO_Thailand": {
+      "languages": ["th"],
+      "url": "https://www.doe.go.th/prd/assets/upload/files/vgnew_th/3f3080c71f6ebbe05c1f0b52fbd5448c.pdf",
+      "data_catalog": "https://gdcatalog.go.th/dataset/gdpublish-0210-02-0001",
+      "format": "PDF",
+      "based_on": "ISCO-88 (TSCO 2001), ISCO-08 Thai translation (2022)",
+      "authority": "Department of Employment (กรมการจัดหางาน) + NSO",
+      "notes": "การจัดประเภทมาตรฐานอาชีพประเทศไทย. TSCO 2001 based on ISCO-88. NSO created ISCO-08 Thai translation in 2022."
+    },
+    "SINCO_Mexico": {
+      "languages": ["es"],
+      "url": "https://www.inegi.org.mx/app/biblioteca/ficha.html?upc=702825198411",
+      "format": "PDF + Online",
+      "based_on": "ISCO-08 (loosely)",
+      "authority": "INEGI",
+      "notes": "Sistema Nacional de Clasificación de Ocupaciones 2019. Own code structure, not direct ISCO-08 mapping."
+    },
+    "CBO_Brazil": {
+      "languages": ["pt"],
+      "url": "http://www.mtecbo.gov.br/cbosite/pages/downloads.jsf",
+      "portal_url": "https://www.mtecbo.gov.br/cbosite/pages/home.jsf",
+      "github": "https://github.com/datasets-br/cbo",
+      "format": "Online + CSV + PDF",
+      "based_on": "ISCO-88 (adapted)",
+      "authority": "MTE (Ministério do Trabalho e Emprego)",
+      "notes": "Classificação Brasileira de Ocupações. Based on ISCO-88 (not 08). Own 4-digit code structure."
+    },
+    "CUOC_Colombia": {
+      "languages": ["es"],
+      "url": "https://www.dane.gov.co/files/sen/nomenclatura/cuoc/documento-clasificacion-unica-ocupaciones-colombia-CUOC-2025.pdf",
+      "ciuo_url": "https://www.dane.gov.co/files/sen/nomenclatura/ciuo/CIUO_08_AC_2015_07_21.pdf",
+      "format": "PDF",
+      "based_on": "ISCO-08 (CIUO-08 A.C.)",
+      "authority": "DANE",
+      "notes": "Clasificación Única de Ocupaciones para Colombia (CUOC 2025). Adapted from CIUO/ISCO-08 via Decree 654/2021."
+    },
+    "CNO_Argentina": {
+      "languages": ["es"],
+      "url": "https://portal-andino.datos.gob.ar/dataset/indec-demo-clasificador-nacional-ocupaciones-cno",
+      "format": "PDF + Dataset",
+      "based_on": "Own system (partial ISCO alignment)",
+      "authority": "INDEC",
+      "notes": "Clasificador Nacional de Ocupaciones. Own code structure, not direct ISCO-08 mapping."
+    },
+    "SOC_2018_USA": {
+      "languages": ["en"],
+      "url": "https://www.bls.gov/soc/2018/",
+      "crosswalk_url": "https://www.bls.gov/soc/2018/crosswalks.htm",
+      "format": "Excel + PDF + Online",
+      "occupations": 867,
+      "based_on": "Own system (crosswalk to ISCO available for 2010 SOC)",
+      "authority": "BLS (Bureau of Labor Statistics)",
+      "notes": "Standard Occupational Classification 2018. Own 6-digit code system. SOC 2010 to ISCO-08 crosswalk exists."
+    },
+    "NOC_2021_Canada": {
+      "languages": ["en", "fr"],
+      "url": "https://noc.esdc.gc.ca/",
+      "data_url": "https://open.canada.ca/data/en/dataset/1feee3b5-8068-4dbb-b361-180875837593",
+      "format": "PDF + CSV + Online",
+      "based_on": "Own system (NOC 2021 to ISCO-08 crosswalk planned)",
+      "authority": "Statistics Canada + ESDC",
+      "notes": "National Occupational Classification 2021 v1.0. Bilingual EN/FR. Own 5-digit system. ISCO-08 crosswalk planned."
+    },
+    "SSCO_Saudi_Arabia": {
+      "languages": ["ar"],
+      "url": "https://www.stats.gov.sa/en/classifications",
+      "format": "Online + PDF",
+      "based_on": "ISCO-08",
+      "authority": "General Authority for Statistics (GASTAT)",
+      "notes": "Saudi Standard Classification of Occupations (SSCO). 5-level hierarchy based on ISCO-08. Arabic."
+    },
+    "ISCO_TR_Turkey": {
+      "languages": ["tr"],
+      "url": "https://biruni.tuik.gov.tr/DIESS/SiniflamaSatirListeAction.do?surumId=210&seviye=1&detay=H&turId=41",
+      "tmss_url": "https://immib.org.tr/download/9fbcedd957fd4c408b0dd4a000887da2/TMSS%20K%C4%B0TAP%C3%87IK.pdf",
+      "format": "Online (TÜİK) + PDF (TMSS)",
+      "based_on": "ISCO-08",
+      "authority": "TÜİK (Turkish Statistical Institute) + İŞKUR",
+      "notes": "TÜİK uses ISCO-08 directly. TMSS 2020 (Türkiye Meslek Sınıflama Sistemi) is draft national adaptation."
+    },
+    "OKZ_Russia": {
+      "languages": ["ru"],
+      "url": "https://www.consultant.ru/document/cons_doc_LAW_177953/",
+      "alt_url": "http://docs.cntd.ru/document/1200121893",
+      "format": "Online + PDF",
+      "occupations": 436,
+      "based_on": "ISCO-08 (direct translation)",
+      "authority": "Rosstandart",
+      "notes": "ОК 010-2014 (МСКЗ-08). Общероссийский классификатор занятий. Direct ISCO-08 Russian translation. Effective 2015-07-01."
+    },
+    "NKZ_Kazakhstan": {
+      "languages": ["kk", "ru"],
+      "url": "https://online.zakon.kz/m/Document/?doc_id=39462992",
+      "pdf_url": "https://career.enbek.kz/docs/Национальный_классификатор_занятий_(неофициальное_издание)_рус.pdf",
+      "format": "Online + PDF",
+      "based_on": "ISCO-08",
+      "authority": "Committee on Technical Regulation and Metrology",
+      "notes": "НК РК 01-2017 Классификатор занятий. Based on ISCO-08. Kazakh and Russian. Effective 2017."
+    },
+    "SASCO_South_Africa": {
+      "languages": ["en"],
+      "url": "https://www.statssa.gov.za/classifications/codelists/SASCO_2012.pdf",
+      "codes_url": "https://www.statssa.gov.za/?page_id=4528",
+      "format": "PDF",
+      "based_on": "ISCO-88 (SASCO), ISCO-08 (OFO replacement)",
+      "authority": "Statistics South Africa",
+      "notes": "SASCO 2012 based on ISCO-88. Now replaced by OFO (Organising Framework for Occupations) based on ANZSCO. English only."
+    },
+    "KeSCO_Kenya": {
+      "languages": ["en"],
+      "url": "https://labourmarket.go.ke/media/resources/KENYA_STANDARD_CLASSIFICATION_OF_OCCUPATIONS_KeSCO-2022.pdf",
+      "format": "PDF",
+      "based_on": "ISCO-08",
+      "authority": "KNBS (Kenya National Bureau of Statistics)",
+      "notes": "Kenya Standard Classification of Occupations 2022. English only, no Swahili labels."
+    },
+    "TASCO_Tanzania": {
+      "languages": ["en"],
+      "url": "https://www.nbs.go.tz/uploads/statistics/documents/en-1705503839-ISCO-08.pdf",
+      "format": "PDF",
+      "based_on": "ISCO-08",
+      "authority": "NBS Tanzania",
+      "notes": "Tanzania Standard Classification of Occupations. Uses ISCO-08 directly. English."
+    },
+    "PSCO_Pakistan": {
+      "languages": ["en"],
+      "url": "https://www.pbs.gov.pk/sites/default/files/other/documents/PSCO_2015.pdf",
+      "four_digit_url": "https://www.pbs.gov.pk/wp-content/uploads/2020/07/four-digit-occupation-classification.doc",
+      "format": "PDF + DOC",
+      "occupations": 436,
+      "based_on": "ISCO-08",
+      "authority": "PBS (Pakistan Bureau of Statistics)",
+      "notes": "Pakistan Standard Classification of Occupations 2015. 5-digit extension of ISCO-08. English only."
+    },
+    "BSCO_Bangladesh": {
+      "languages": ["en", "bn"],
+      "url": "https://bbs.gov.bd/",
+      "format": "PDF",
+      "based_on": "ISCO-08",
+      "authority": "BBS (Bangladesh Bureau of Statistics)",
+      "notes": "Bangladesh Standard Classification of Occupations (BSCO) 2020. Download from BBS website."
+    },
+    "Israel_CBS": {
+      "languages": ["he"],
+      "url": "https://www.cbs.gov.il/en/publications/Pages/2010/The-Conversion-Key-from-the-1994-Standard-Classification-of-Occupations-to-the-ISCO-88-Classification.aspx",
+      "format": "Online",
+      "based_on": "Own system (crosswalk to ISCO-88 available)",
+      "authority": "CBS (Central Bureau of Statistics)",
+      "notes": "Israel has own occupation classification. ISCO-88 crosswalk exists. ISCOIL Stata module converts CBS codes to ISCO-08."
+    },
+    "Iran_SCI": {
+      "languages": ["fa"],
+      "url": "https://www.amar.org.ir/",
+      "pdf_url": "https://www.amar.org.ir/Portals/0/Files/fulltext/1395/n_tbemi_95.pdf",
+      "format": "PDF",
+      "based_on": "ISCO-08",
+      "authority": "Statistical Center of Iran (مرکز آمار ایران)",
+      "notes": "طبقه بندی استاندارد مشاغل ایران 1395. Iran uses ISCO-08 for national surveys. Farsi occupation labels used in census data."
+    },
+    "ANZSCO_Australia_NZ": {
+      "languages": ["en"],
+      "url": "https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations",
+      "version_2022": "https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations/2022",
+      "format": "Online + PDF + Excel",
+      "occupations": 1076,
+      "based_on": "Own system (6-digit, not ISCO-08 based)",
+      "authority": "ABS (Australian Bureau of Statistics) + Stats NZ",
+      "notes": "Australian and New Zealand Standard Classification of Occupations 2022. Own 6-digit code. ANZSCO-to-ISCO crosswalk available."
+    },
+    "SOC_2020_UK": {
+      "languages": ["en"],
+      "url": "https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc/soc2020",
+      "crosswalk_isco": "https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc/soc2020/classifyingthestandardoccupationalclassification2020soc2020totheinternationalstandardclassificationofoccupationsisco08",
+      "format": "PDF + CSV + Online",
+      "occupations": 412,
+      "based_on": "Own system (SOC 2020 to ISCO-08 crosswalk available)",
+      "authority": "ONS (Office for National Statistics)",
+      "notes": "UK Standard Occupational Classification 2020. 9 major groups, 26 sub-major, 104 minor, 412 unit groups."
+    },
+    "KldB_2010_Germany": {
+      "languages": ["de"],
+      "url": "https://statistik.arbeitsagentur.de/DE/Navigation/Grundlagen/Klassifikationen/Klassifikation-der-Berufe/Klassifikation-der-Berufe-Nav.html",
+      "format": "PDF + Excel + Online",
+      "based_on": "Own system (5-digit, crosswalk to ISCO-08 available)",
+      "authority": "Bundesagentur für Arbeit",
+      "notes": "Klassifikation der Berufe 2010 (revised 2020). 5-digit system with crosswalk from KldB to ISCO-08 4-digit level."
+    },
+    "CH_ISCO_19_Switzerland": {
+      "languages": ["de", "fr", "it"],
+      "url": "https://www.bfs.admin.ch/bfs/en/home/statistics/work-income/nomenclatures/ch-isco-19.html",
+      "format": "PDF + Excel + Online",
+      "occupations": 664,
+      "based_on": "ISCO-08 (extended with 5th level)",
+      "authority": "BFS (Bundesamt für Statistik / FSO)",
+      "notes": "Schweizer Berufsnomenklatur CH-ISCO-19. ISCO-08 base + Swiss 5th level. Available in DE/FR/IT."
+    },
+    "Ethiopia_CSA": {
+      "languages": ["en"],
+      "url": "http://www.csa.gov.et/list-activities/international-standard-classification-of-occupations-isco-08",
+      "format": "PDF",
+      "based_on": "ISCO-08",
+      "authority": "CSA (Central Statistical Agency / Ethiopian Statistical Service)",
+      "notes": "Ethiopia uses ISCO-08 for census and surveys. English publication. No known Amharic standalone classifier published online."
+    },
+    "VSCO_Vietnam": {
+      "languages": ["vi"],
+      "url": "https://www.gso.gov.vn/",
+      "format": "PDF",
+      "based_on": "ISCO-08",
+      "authority": "GSO (General Statistics Office)",
+      "notes": "Vietnam Standard Classification of Occupations (VSCO). 4-digit level aligned with ISCO-08. Vietnamese labels in census microdata."
+    },
+    "Nigeria_NBS": {
+      "languages": ["en"],
+      "url": "https://nigerianstat.gov.ng/",
+      "format": "Uses ISCO-08 directly",
+      "based_on": "ISCO-08",
+      "authority": "NBS (National Bureau of Statistics)",
+      "notes": "Nigeria uses ISCO-08 directly for Labour Force Survey. English only. No known national adaptation published."
+    }
+  },
+  "coverage_matrix": {
+    "2111_physicists_and_astronomers": {
+      "_isco_title_en": "Physicists and astronomers",
+      "en": "Physicists and astronomers",
+      "fr": "Physiciens et astronomes",
+      "es": "Físicos y astrónomos",
+      "de": "Physiker und Astronomen",
+      "it": "Fisici e astronomi",
+      "pt": "Físicos e astrónomos",
+      "nl": "Natuurkundigen en astronomen",
+      "pl": "Fizycy i astronomowie",
+      "cs": "Fyzikové a astronomové",
+      "sk": "Fyzici a astronómovia",
+      "hu": "Fizikusok és csillagászok",
+      "ro": "Fizicieni și astronomi",
+      "bg": "Физици и астрономи",
+      "hr": "Fizičari/fizičarke i astronomi/astronomke",
+      "sl": "Fiziki/fizičarke in astronomi/astronomke",
+      "lt": "Fizikai ir astronomai",
+      "lv": "Fiziķi un astronomi",
+      "et": "Füüsikud ja astronoomid",
+      "fi": "Fyysikot ja astronomit",
+      "sv": "Fysiker och astronomer",
+      "da": "Arbejde inden for fysik og astronomi",
+      "el": "Φυσικοί και αστρονόμοι",
+      "mt": "Fiżiċisti u astronomi",
+      "nb": "Fysikere og astronomer",
+      "is": "Eðlisfræðingar og stjörnufræðingar",
+      "uk": "Фізики й астрономи",
+      "ar": "عالم فيزيائي / عالمة فيزيائية (physicist); عالم الفلك / عالمة الفلك (astronomer)",
+      "ru": "Физики и астрономы",
+      "id": "Ahli Fisika (KBJI 2014: 2111)",
+      "ms": "Ahli Fizik dan Ahli Astronomi (MASCO 2111)",
+      "ja": "物理学研究者 (JSOC, approximate mapping)",
+      "ko": "물리학 연구원 (KSCO 21121, different code structure)",
+      "zh": "物理学研究人员 (approximate, own classification)",
+      "tr": "Fizikçiler ve astronomlar (TÜİK ISCO-08 adaptation)",
+      "kk": "Физиктер және астрономдар (НКЗ 2017)"
+    },
+    "2113_chemists": {
+      "_isco_title_en": "Chemists",
+      "en": "Chemists",
+      "fr": "Chimistes",
+      "de": "Chemiker",
+      "lv": "Ķīmiķi",
+      "ru": "Химики",
+      "es": "Químicos",
+      "it": "Chimici",
+      "pt": "Químicos",
+      "pl": "Chemicy",
+      "nl": "Chemici",
+      "cs": "Chemici (kromě chemického inženýrství)",
+      "sk": "Chemici",
+      "hu": "Kémikusok",
+      "ro": "Chimiști",
+      "bg": "Химици",
+      "hr": "Kemičari/kemičarke",
+      "sl": "Kemiki/kemičarke",
+      "lt": "Chemikai",
+      "et": "Keemikud",
+      "fi": "Kemistit",
+      "sv": "Kemister",
+      "da": "Arbejde inden for kemi",
+      "el": "Χημικοί",
+      "mt": "Esperti fil-kimika",
+      "nb": "Kjemikere",
+      "id": "Ahli Kimia (KBJI 2014: 2113)",
+      "ms": "Ahli Kimia (MASCO 2113)",
+      "tr": "Kimyagerler",
+      "ar": "كيميائيون",
+      "ja": "化学研究者 (approximate)",
+      "ko": "화학 연구원 (approximate)",
+      "zh": "化学研究人员 (approximate)"
+    },
+    "2131_biologists_botanists_zoologists": {
+      "_isco_title_en": "Biologists, botanists, zoologists and related professionals",
+      "en": "Biologists, botanists, zoologists and related professionals",
+      "fr": "Biologistes, botanistes, zoologistes et assimilés",
+      "de": "Biologen, Botaniker, Zoologen und verwandte Berufe",
+      "lv": "Biologi, botāniķi, zoologi un tiem radniecīgu profesiju vecākie speciālisti",
+      "ru": "Биологи, ботаники, зоологи и специалисты родственных занятий",
+      "es": "Biólogos, botánicos, zoólogos y afines",
+      "it": "Biologi, botanici, zoologi ed assimilati",
+      "pt": "Biólogos, botânicos, zoólogos e especialistas similares",
+      "nl": "Biologen, botanici, zoölogen e.d.",
+      "pl": "Biolodzy, botanicy, zoolodzy i specjaliści nauk pokrewnych",
+      "cs": "Biologové, botanici, zoologové a specialisté v příbuzných oborech",
+      "sk": "Biológovia, botanici, zoológovia a špecialisti v príbuzných odboroch",
+      "hu": "Biológusok, botanikusok, zoológusok és hasonló foglalkozásúak",
+      "ro": "Biologi, botaniști, zoologi și asimilați",
+      "bg": "Биолози, ботаници, зоолози и сродни на тях",
+      "hr": "Biolozi/biologinje, botaničari/botaničarke, zoolozi/zoologinje i srodni stručnjaci",
+      "sl": "Biologi/biologinje, ekologi/ekologinje ipd.",
+      "lt": "Biologai, botanikai, zoologai ir susijusių profesijų specialistai",
+      "et": "Bioloogid, botaanikud, zooloogid jms alade tippspetsialistid",
+      "fi": "Biologit, kasvi- ja eläintieteilijät ym. erityisasiantuntijat",
+      "sv": "Biologer, botanister, zoologer m.fl.",
+      "da": "Arbejde inden for biologi, botanik, zoologi og beslægtede områder",
+      "el": "Βιολόγοι, βοτανολόγοι, ζωολόγοι και ασκούντες συναφή επαγγέλματα",
+      "mt": "Bijologi, botanisti, żoologi u professjonisti relatati ma' dan",
+      "nb": "Biologer",
+      "id": "Ahli Biologi (KBJI 2014: 2131)",
+      "ms": "Ahli Biologi (MASCO 2131)",
+      "tr": "Biyologlar, botanikçiler, zoologlar ve ilgili meslek mensupları",
+      "ar": "علماء الأحياء وعلماء النبات وعلماء الحيوان والمهنيون ذوو الصلة",
+      "ja": "生物学研究者 (approximate)",
+      "ko": "생명과학 연구원 (KSCO 2111, different code)",
+      "zh": "生物学研究人员 (approximate)"
+    },
+    "2641_authors_and_related_writers": {
+      "_isco_title_en": "Authors and related writers",
+      "en": "Authors and related writers",
+      "fr": "Auteurs et autres écrivains",
+      "de": "Autoren und verwandte schriftstellerische Berufe",
+      "lv": "Rakstnieki un tiem radniecīgu profesiju vecākie speciālisti",
+      "ru": "Писатели, поэты и другие литераторы",
+      "es": "Autores y escritores afines",
+      "it": "Scrittori ed assimilati",
+      "pt": "Autores e outros escritores",
+      "nl": "Auteurs e.d.",
+      "pl": "Literaci i pisarze",
+      "cs": "Spisovatelé a pracovníci v příbuzných oborech",
+      "sk": "Spisovatelia a podobní autori",
+      "hu": "Írók és hasonló szerzők",
+      "ro": "Autori și asimilați",
+      "bg": "Писатели",
+      "hr": "Književnici/književnice i srodna zanimanja",
+      "sl": "Pisatelji/pisateljice ipd.",
+      "lt": "Autoriai ir susiję rašytojai",
+      "et": "Kirjanikud",
+      "fi": "Kirjailijat ym.",
+      "sv": "Författare",
+      "da": "Forfatterarbejde",
+      "el": "Συγγραφείς και ασκούντες συναφή επαγγέλματα",
+      "mt": "Awturi u kittieba relatati ma' dan",
+      "nb": "Forfattere mv.",
+      "id": "Penulis (KBJI 2014: 2641)",
+      "ms": "Penulis dan Pengarang (MASCO 2641)",
+      "tr": "Yazarlar ve ilgili meslek mensupları",
+      "ar": "مؤلفون وكتّاب ومهنيون ذوو صلة",
+      "ja": "著述家 (approximate)",
+      "ko": "작가 (approximate)",
+      "zh": "作家 (approximate)"
+    },
+    "1111_legislators": {
+      "_isco_title_en": "Legislators",
+      "_note": "ISCO does not have a specific 'Politician' code. 1111 = Legislators is the closest.",
+      "en": "Legislators",
+      "fr": "Membres des corps législatifs",
+      "de": "Angehörige gesetzgebender Körperschaften",
+      "lv": "Likumdevēji",
+      "ru": "Законодатели",
+      "es": "Miembros del poder legislativo",
+      "it": "Membri dell'esecutivo e dei corpi legislativi",
+      "pt": "Membros dos corpos legislativos",
+      "nl": "Leden van wetgevende lichamen",
+      "pl": "Parlamentarzyści",
+      "cs": "Představitelé zákonodárné a výkonné moci",
+      "sk": "Zákonodarcovia a ústavní činitelia",
+      "hu": "Törvényhozók",
+      "ro": "Legislatori, membri ai executivului",
+      "bg": "Законодатели",
+      "hr": "Zakonodavci/zakonodavke",
+      "sl": "Zakonodajalci/zakonodajalke",
+      "lt": "Teisės aktų leidėjai",
+      "et": "Seadusandjad",
+      "fi": "Lainsäätäjät",
+      "sv": "Politiker",
+      "da": "Øverste ledelse i lovgivende myndigheder",
+      "el": "Μέλη των νομοθετικών σωμάτων",
+      "mt": "Leġiżlaturi",
+      "nb": "Politikere",
+      "id": "Anggota Badan Legislatif (KBJI 2014: 1111)",
+      "ar": "المشرعون"
+    }
+  },
+  "language_summary": {
+    "total_unique_languages_found": 46,
+    "languages_with_full_isco08_labels": {
+      "via_esco_28": ["ar", "bg", "cs", "da", "de", "el", "en", "es", "et", "fi", "fr", "ga", "hr", "hu", "is", "it", "lt", "lv", "mt", "nb", "nl", "pl", "pt", "ro", "sk", "sl", "sv", "uk"],
+      "via_ilo_official": ["en", "fr", "es"],
+      "via_national_direct_isco08": ["ru", "id", "tr", "kk"]
+    },
+    "languages_with_national_adaptation": {
+      "own_code_system_with_crosswalk": ["en_US", "en_CA", "fr_CA", "ja", "ko", "zh", "pt_BR", "es_MX", "es_AR"],
+      "isco08_based_english_only": ["en_IN", "en_PK", "en_PH", "en_KE", "en_TZ", "en_ZA"],
+      "isco08_based_local_language": ["ms", "th", "ar_SA"]
+    },
+    "languages_not_found_online": ["hi", "bn", "km", "my", "lo", "sw", "ha", "yo", "af", "zu", "xh", "tw", "wo", "am", "ur", "uz", "fa", "he", "vi", "tl"],
+    "notes": "Many countries (India, Pakistan, Kenya, Tanzania, Philippines) use ISCO-08 in English only, without translating occupation labels into local languages. Hindi, Urdu, Swahili, Amharic translations may exist in census microdata but are not published as standalone classifiers."
+  },
+  "our_9_languages_coverage": {
+    "_note": "Coverage assessment for hypothetical 9 target languages",
+    "en": {
+      "status": "FULL",
+      "sources": ["ILO ISCO-08", "ESCO", "SOC USA", "NOC Canada", "NCO India", "PSOC Philippines", "KeSCO Kenya", "PSCO Pakistan"]
+    },
+    "ru": {
+      "status": "FULL",
+      "sources": ["ОК 010-2014 (МСКЗ-08) Russia", "НКЗ 2017 Kazakhstan", "ESCO (uk=Ukrainian)"]
+    },
+    "de": {
+      "status": "FULL",
+      "sources": ["ESCO"]
+    },
+    "fr": {
+      "status": "FULL",
+      "sources": ["ILO ISCO-08", "ESCO", "NOC Canada"]
+    },
+    "es": {
+      "status": "FULL",
+      "sources": ["ILO ISCO-08", "ESCO", "SINCO Mexico", "CUOC Colombia"]
+    },
+    "pt": {
+      "status": "FULL",
+      "sources": ["ESCO", "CBO Brazil (ISCO-88 based)"]
+    },
+    "lv": {
+      "status": "FULL",
+      "sources": ["ESCO"]
+    },
+    "ar": {
+      "status": "FULL",
+      "sources": ["ESCO", "SSCO Saudi Arabia"]
+    },
+    "id": {
+      "status": "FULL",
+      "sources": ["KBJI 2014 Indonesia"]
+    }
+  },
+  "cross_reference_notes": {
+    "code_compatibility": {
+      "fully_compatible_isco08": ["ESCO (28 langs)", "KBJI Indonesia", "NCO India", "PSOC Philippines", "PSCO Pakistan", "KeSCO Kenya", "OKZ Russia", "NKZ Kazakhstan", "SSCO Saudi Arabia", "ISCO-TR Turkey"],
+      "own_codes_with_crosswalk": ["SOC USA", "NOC Canada", "CBO Brazil", "KSCO Korea", "JSOC Japan"],
+      "own_codes_partial_alignment": ["SINCO Mexico", "CNO Argentina", "GB/T 6565 China"]
+    },
+    "key_finding": "ESCO is the single richest source: 28 languages, all 436 ISCO-08 unit groups, machine-readable API+CSV. For non-European languages, each country must be researched individually. Most developing countries adopted ISCO-08 codes directly but publish only in English."
+  }
+}

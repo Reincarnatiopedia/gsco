@@ -1,0 +1,2300 @@
+{
+  "metadata": {
+    "source": "PSOC 2012",
+    "country": "Philippines",
+    "language": "en",
+    "isco_version": "ISCO-08",
+    "count": 572,
+    "date_parsed": "2026-04-22"
+  },
+  "entries": [
+    {
+      "code": "1992",
+      "name_en": "PSOC"
+    },
+    {
+      "code": "011",
+      "name_en": "OFFICERS"
+    },
+    {
+      "code": "0111",
+      "name_en": "COMMANDING OFFICERS"
+    },
+    {
+      "code": "0112",
+      "name_en": "STAFF OFFICERS"
+    },
+    {
+      "code": "0113",
+      "name_en": "PROFESSIONAL, TECHNICAL AND RELATED OFFICERS"
+    },
+    {
+      "code": "0119",
+      "name_en": "OFFICERS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "012",
+      "name_en": "ENLISTED PERSONNEL"
+    },
+    {
+      "code": "0121",
+      "name_en": "COMBAT SOILDIERS"
+    },
+    {
+      "code": "0122",
+      "name_en": "TECHNICIAN, SKILLED, SEMI-SKILLED WORKERS"
+    },
+    {
+      "code": "0123",
+      "name_en": "SERVICE AND RELATED WORKERS"
+    },
+    {
+      "code": "0129",
+      "name_en": "ENLISTED PERSONNEL NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "091",
+      "name_en": "NEW WORKERS SEEKING EMPLOYMENT"
+    },
+    {
+      "code": "0910",
+      "name_en": "NEW WORKERS SEEKING EMPLOYMENT"
+    },
+    {
+      "code": "092",
+      "name_en": "EXPERIENCED WORKERS SEEKING REEMPLOYMENT"
+    },
+    {
+      "code": "0920",
+      "name_en": "EXPERIENCED WORKERS SEEKING REEMPLOYMENT"
+    },
+    {
+      "code": "093",
+      "name_en": "DEFINED"
+    },
+    {
+      "code": "0930",
+      "name_en": "DEFINED"
+    },
+    {
+      "code": "094",
+      "name_en": "WORKERS NOT REPORTING ANY OCCUPATION"
+    },
+    {
+      "code": "0940",
+      "name_en": "WORKERS NOT REPORTING ANY OCCUPATION"
+    },
+    {
+      "code": "111",
+      "name_en": "GOVERNMENT ADMINISTRATORS (INCLUDING CAREER EXECUTIVE SERVICE OFFICERS)"
+    },
+    {
+      "code": "1110",
+      "name_en": "GOVERNMENT ADMINISTRATORS (INCLUDING CAREER EXECUTIVE SERVICE OFFICERS)"
+    },
+    {
+      "code": "112",
+      "name_en": "LEGISLATIVE OFFICIALS"
+    },
+    {
+      "code": "1120",
+      "name_en": "LEGISLATIVE OFFICIALS"
+    },
+    {
+      "code": "113",
+      "name_en": "TRADITIONAL CHIEFS AND HEADS OF VILLAGES"
+    },
+    {
+      "code": "1130",
+      "name_en": "TRADITIONAL CHIEFS AND HEADS OF VILLAGES"
+    },
+    {
+      "code": "114",
+      "name_en": "SENIOR OFFICIALS OF SPECIAL-INTEREST ORGANIZATIONS"
+    },
+    {
+      "code": "1141",
+      "name_en": "SENIOR OFFICIALS OF POLITICAL-PARTY ORGANIZATIONS"
+    },
+    {
+      "code": "1142",
+      "name_en": "SENIOR OFFICIALS OF EMPLOYERS' AND OTHER ECONOMIC-INTEREST ORGANIZATIONS"
+    },
+    {
+      "code": "1143",
+      "name_en": "SENIOR OFFICIALS OF WORKERS' AND LABOR ORGANIZATIONS"
+    },
+    {
+      "code": "1144",
+      "name_en": "SENIOR OFFICIALS OF HUMANITARIAN AND OTHER SPECIAL-INTEREST ORGANIZATIONS"
+    },
+    {
+      "code": "121",
+      "name_en": "DIRECTORS AND CHIEF EXECUTIVES OF CORPORATIONS"
+    },
+    {
+      "code": "1210",
+      "name_en": "DIRECTORS AND CHIEF EXECUTIVES OF CORPORATIONS"
+    },
+    {
+      "code": "122",
+      "name_en": "PRODUCTION AND OPERATIONS MANAGERS"
+    },
+    {
+      "code": "1221",
+      "name_en": "FISHERY"
+    },
+    {
+      "code": "1222",
+      "name_en": "PRODUCTION AND OPERATIONS MANAGERS IN MANUFACTURING"
+    },
+    {
+      "code": "1223",
+      "name_en": "PRODUCTION AND OPERATIONS MANAGERS IN CONSTRUCTION"
+    },
+    {
+      "code": "1224",
+      "name_en": "PRODUCTION AND OPERATIONS MANAGERS IN WHOLESALE AND RETAIL TRADE"
+    },
+    {
+      "code": "1225",
+      "name_en": "PRODUCTION AND OPERATIONS MANAGERS IN RESTAURANT AND HOTELS"
+    },
+    {
+      "code": "1226",
+      "name_en": "PRODUCTION AND OPERATIONS MANAGERS IN TRANSPORT, STORAGE AND COMMUNICATIONS"
+    },
+    {
+      "code": "1227",
+      "name_en": "PRODUCTION AND OPERATIONS MANAGERS IN BUSINESS SERVICES"
+    },
+    {
+      "code": "1228",
+      "name_en": "SERVICES"
+    },
+    {
+      "code": "1229",
+      "name_en": "PRODUCTION AND OPERATIONS MANAGERS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "123",
+      "name_en": "SPECIALIZED MANAGERS"
+    },
+    {
+      "code": "1231",
+      "name_en": "FINANCE AND ADMINISTRATION MANAGERS"
+    },
+    {
+      "code": "1232",
+      "name_en": "PERSONNEL AND INDUSTRIAL RELATIONS MANAGERS"
+    },
+    {
+      "code": "1233",
+      "name_en": "SALES AND MARKETING MANAGERS"
+    },
+    {
+      "code": "1234",
+      "name_en": "ADVERTISING AND PUBLIC RELATIONS MANAGERS"
+    },
+    {
+      "code": "1235",
+      "name_en": "SUPPLY AND DISTRIBUTION MANAGERS"
+    },
+    {
+      "code": "1236",
+      "name_en": "COMPUTING SERVICES MANAGERS"
+    },
+    {
+      "code": "1237",
+      "name_en": "RESEARCH AND DEVELOPMENT MANAGERS"
+    },
+    {
+      "code": "1239",
+      "name_en": "OTHER SPECIALIZED MANAGERS"
+    },
+    {
+      "code": "131",
+      "name_en": "GENERAL MANAGERS/MANAGING-PROPRIETORS"
+    },
+    {
+      "code": "1311",
+      "name_en": "GENERAL MANAGERS/MANAGING-PROPRIETORS IN AGRICULTURE,"
+    },
+    {
+      "code": "1312",
+      "name_en": "GENERAL MANAGERS/MANAGING-PROPRIETORS IN MANUFACTURING"
+    },
+    {
+      "code": "1313",
+      "name_en": "GENERAL MANAGERS/MANAGING-PROPRIETORS IN CONSTRUCTION"
+    },
+    {
+      "code": "1314",
+      "name_en": "GENERAL MANAGERS/MANAGING-PROPRIETORS IN WHOLESALE"
+    },
+    {
+      "code": "1315",
+      "name_en": "GENERAL MANAGERS/MANAGING-PROPRIETORS OF RESTAURANTS"
+    },
+    {
+      "code": "1316",
+      "name_en": "GENERAL MANAGERS/MANAGING-PROPRIETORS IN TRANSPORT, STORAGE"
+    },
+    {
+      "code": "1317",
+      "name_en": "GENERAL MANAGERS/MANAGING-PROPRIETORS OF BUSINESS SERVICES"
+    },
+    {
+      "code": "1318",
+      "name_en": "GENERAL MANAGERS/MANAGING-PROPRIETORS IN PERSONAL CARE, CLEANING"
+    },
+    {
+      "code": "1319",
+      "name_en": "GENERAL MANAGERS/MANAGING-PROPRIETORS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "141",
+      "name_en": "SCHOOL SUPERVISORS AND PRINCIPALS"
+    },
+    {
+      "code": "1411",
+      "name_en": "SCHOOL SUPERVISORS"
+    },
+    {
+      "code": "1412",
+      "name_en": "SCHOOL PRINCIPALS"
+    },
+    {
+      "code": "142",
+      "name_en": "TRANSPORT AND COMMUNICATIONS SERVICE SUPERVISORS"
+    },
+    {
+      "code": "1421",
+      "name_en": "ROAD TRANSPORT SERVICE SUPERVISORS"
+    },
+    {
+      "code": "1422",
+      "name_en": "AIR TRANSPORT SERVICE SUPERVISORS"
+    },
+    {
+      "code": "1423",
+      "name_en": "MARITIME TRANSPORT SERVICE SUPERVISORS"
+    },
+    {
+      "code": "1424",
+      "name_en": "RAILWAYS TRANSPORT SERVICE SUPERVISORS"
+    },
+    {
+      "code": "1425",
+      "name_en": "POSTAL SERVICE SUPERVISORS"
+    },
+    {
+      "code": "1429",
+      "name_en": "TRANSPORT AND COMMUNICATIONS SERVICE SUPERVISORS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "143",
+      "name_en": "PRODUCTION SUPERVISORS AND GENERAL FOREMEN"
+    },
+    {
+      "code": "1430",
+      "name_en": "PRODUCTION SUPERVISORS AND GENERAL FOREMEN"
+    },
+    {
+      "code": "144",
+      "name_en": "SALES SUPERVISORS IN WHOLESALE AND RETAIL TRADE"
+    },
+    {
+      "code": "1441",
+      "name_en": "SALES SUPERVISORS IN WHOLESALE TRADE"
+    },
+    {
+      "code": "1442",
+      "name_en": "SALES SUPERVISORS IN RETAIL TRADE"
+    },
+    {
+      "code": "1449",
+      "name_en": "OTHER SALES SUPERVISORS"
+    },
+    {
+      "code": "149",
+      "name_en": "OTHER SUPERVISORS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "1490",
+      "name_en": "OTHER SUPERVISORS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "211",
+      "name_en": "PHYSICISTS, CHEMISTS AND RELATED PROFESSIONALS"
+    },
+    {
+      "code": "2111",
+      "name_en": "PHYSICISTS AND ASTRONOMERS"
+    },
+    {
+      "code": "2112",
+      "name_en": "METEOROLOGISTS"
+    },
+    {
+      "code": "2113",
+      "name_en": "CHEMISTS"
+    },
+    {
+      "code": "2114",
+      "name_en": "GEOLOGISTS AND GEOPHYSICISTS"
+    },
+    {
+      "code": "212",
+      "name_en": "MATHEMATICIANS, STATISTICIANS AND RELATED PROFESSIONALS"
+    },
+    {
+      "code": "2121",
+      "name_en": "MATHEMATICIANS AND ACTUARIES"
+    },
+    {
+      "code": "2122",
+      "name_en": "STATISTICIANS"
+    },
+    {
+      "code": "213",
+      "name_en": "COMPUTER PROFESSIONALS"
+    },
+    {
+      "code": "2131",
+      "name_en": "SYSTEMS ANALYSTS AND DESIGNERS"
+    },
+    {
+      "code": "2132",
+      "name_en": "COMPUTER PROGRAMMERS"
+    },
+    {
+      "code": "2139",
+      "name_en": "OTHER COMPUTER PROFESSIONALS"
+    },
+    {
+      "code": "214",
+      "name_en": "ARCHITECTS AND RELATED PROFESSIONALS"
+    },
+    {
+      "code": "2141",
+      "name_en": "ARCHITECTS"
+    },
+    {
+      "code": "2142",
+      "name_en": "TOWN PLANNERS AND RELATED PROFESSIONALS"
+    },
+    {
+      "code": "215",
+      "name_en": "ENGINEERS AND RELATED PROFESSIONALS"
+    },
+    {
+      "code": "2151",
+      "name_en": "CIVIL ENGINEERS"
+    },
+    {
+      "code": "2152",
+      "name_en": "ELECTRICAL ENGINEERS"
+    },
+    {
+      "code": "2153",
+      "name_en": "ELECTRONICS AND COMMUNICATIONS ENGINEERS"
+    },
+    {
+      "code": "2154",
+      "name_en": "MECHANICAL ENGINEERS"
+    },
+    {
+      "code": "2155",
+      "name_en": "CHEMICAL ENGINEERS"
+    },
+    {
+      "code": "2156",
+      "name_en": "GEODETIC AND RELATED PROFESSIONALS"
+    },
+    {
+      "code": "2157",
+      "name_en": "COMPUTER ENGINEERS AND RELATED PROFESSIONALS"
+    },
+    {
+      "code": "2158",
+      "name_en": "INDUSTRIAL ENGINEERS"
+    },
+    {
+      "code": "2159",
+      "name_en": "OTHER ENGINEERS AND RELATED PROFESSIONALS"
+    },
+    {
+      "code": "221",
+      "name_en": "LIFE SCIENCE PROFESSIONALS"
+    },
+    {
+      "code": "2211",
+      "name_en": "BIOLOGISTS, BOTANISTS, ZOOLOGISTS AND RELATED SCIENTISTS"
+    },
+    {
+      "code": "2212",
+      "name_en": "BACTERIOLOGISTS, PHARMACOLOGISTS, PATHOLOGISTS AND RELATED"
+    },
+    {
+      "code": "2213",
+      "name_en": "AGRONOMISTS AND RELATED SCIENTISTS"
+    },
+    {
+      "code": "2214",
+      "name_en": "FORESTERS AND RELATED SCIENTISTS"
+    },
+    {
+      "code": "222",
+      "name_en": "HEALTH PROFESSIONALS (EXCEPT NURSING)"
+    },
+    {
+      "code": "2221",
+      "name_en": "MEDICAL DOCTORS"
+    },
+    {
+      "code": "2222",
+      "name_en": "DENTISTS"
+    },
+    {
+      "code": "2223",
+      "name_en": "VETERINARIANS"
+    },
+    {
+      "code": "2224",
+      "name_en": "PHARMACISTS"
+    },
+    {
+      "code": "2225",
+      "name_en": "NUTRITIONISTS-DIETITIANS"
+    },
+    {
+      "code": "2226",
+      "name_en": "OPTOMETRISTS AND OPTICIANS"
+    },
+    {
+      "code": "2227",
+      "name_en": "MEDICAL TECHNOLOGISTS"
+    },
+    {
+      "code": "2228",
+      "name_en": "PHYSIOTHERAPIST"
+    },
+    {
+      "code": "2229",
+      "name_en": "OTHER HEALTH PROFESSIONALS (EXCEPT NURSING)"
+    },
+    {
+      "code": "223",
+      "name_en": "NURSING AND MIDWIFERY PROFESSIONALS"
+    },
+    {
+      "code": "2231",
+      "name_en": "PROFESSIONAL NURSES"
+    },
+    {
+      "code": "2232",
+      "name_en": "PROFESSIONAL MIDWIVES"
+    },
+    {
+      "code": "231",
+      "name_en": "COLLEGE, UNIVERSITY AND HIGHER EDUCATION TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "2310",
+      "name_en": "COLLEGE, UNIVERSITY AND HIGHER EDUCATION TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "232",
+      "name_en": "TECHNICAL, VOCATIONAL AND RELATED INSTRUCTORS AND TRAINORS"
+    },
+    {
+      "code": "2320",
+      "name_en": "TECHNICAL AND VOCATIONAL INSTRUCTORS/TRAINORS"
+    },
+    {
+      "code": "233",
+      "name_en": "SECONDARY EDUCATION TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "2331",
+      "name_en": "GENERAL SECONDARY EDUCATION TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "2332",
+      "name_en": "SCIENCE AND MATHEMATICS TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "2333",
+      "name_en": "VOCATIONAL EDUCATION TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "234",
+      "name_en": "ELEMENTARY EDUCATION TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "2341",
+      "name_en": "GENERAL ELEMENTARY EDUCATION TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "2342",
+      "name_en": "SCIENCE AND MATHEMATICS ELEMENTARY EDUCATION TEACHING PROFESSIONAL"
+    },
+    {
+      "code": "235",
+      "name_en": "SPECIAL EDUCATION TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "2351",
+      "name_en": "PRE-ELEMENTARY EDUCATION TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "2352",
+      "name_en": "NON-FORMAL EDUCATION TEACHING PROFESSIONALS OTHER THAN TECHNICAL"
+    },
+    {
+      "code": "2353",
+      "name_en": "TEACHING PROFESSIONALS FOR THE HANDICAPPED AND DISABLED"
+    },
+    {
+      "code": "239",
+      "name_en": "TEACHING PROFESSIONALS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "2391",
+      "name_en": "EDUCATION METHODS SPECIALISTS"
+    },
+    {
+      "code": "2399",
+      "name_en": "OTHER TEACHING PROFESSIONALS"
+    },
+    {
+      "code": "241",
+      "name_en": "BUSINESS PROFESSIONALS"
+    },
+    {
+      "code": "2411",
+      "name_en": "ACCOUNTANTS AND AUDITORS"
+    },
+    {
+      "code": "2412",
+      "name_en": "PERSONNEL AND HUMAN RESOURCE DEVELOPMENT PROFESSIONALS"
+    },
+    {
+      "code": "2419",
+      "name_en": "OTHER BUSINESS PROFESSIONALS"
+    },
+    {
+      "code": "242",
+      "name_en": "LEGAL PROFESSIONALS"
+    },
+    {
+      "code": "2421",
+      "name_en": "LAWYERS"
+    },
+    {
+      "code": "2422",
+      "name_en": "JUDGES"
+    },
+    {
+      "code": "2423",
+      "name_en": "JUSTICES"
+    },
+    {
+      "code": "243",
+      "name_en": "LIBRARIANS, ARCHIVISTS AND CURATORS"
+    },
+    {
+      "code": "2430",
+      "name_en": "LIBRARIANS, ARCHIVISTS AND CURATORS"
+    },
+    {
+      "code": "244",
+      "name_en": "SOCIAL AND RELATED SCIENCE PROFESSIONALS"
+    },
+    {
+      "code": "2441",
+      "name_en": "ECONOMISTS"
+    },
+    {
+      "code": "2442",
+      "name_en": "SOCIOLOGISTS, ANTHROPOLOGISTS AND RELATED PROFESSIONALS"
+    },
+    {
+      "code": "2443",
+      "name_en": "PHILOSOPHERS, HISTORIANS AND POLITICAL SCIENTISTS"
+    },
+    {
+      "code": "2444",
+      "name_en": "PHILOLOGISTS, TRANSLATORS AND INTERPRETERS"
+    },
+    {
+      "code": "2445",
+      "name_en": "PSYCHOLOGISTS"
+    },
+    {
+      "code": "2446",
+      "name_en": "SOCIAL WORK PROFESSIONALS"
+    },
+    {
+      "code": "2449",
+      "name_en": "OTHER SOCIAL SCIENCE PROFESSIONALS"
+    },
+    {
+      "code": "245",
+      "name_en": "WRITERS AND CREATIVE OR PERFORMING ARTISTS"
+    },
+    {
+      "code": "2451",
+      "name_en": "AUTHORS, JOURNALISTS AND OTHER WRITERS"
+    },
+    {
+      "code": "2452",
+      "name_en": "SCULPTORS, PAINTERS AND RELATED ARTISTS"
+    },
+    {
+      "code": "2453",
+      "name_en": "COMPOSERS, MUSICIANS AND SINGERS"
+    },
+    {
+      "code": "2454",
+      "name_en": "CHOREOGRAPHERS AND DANCERS"
+    },
+    {
+      "code": "2455",
+      "name_en": "ACTORS AND STAGE DIRECTORS"
+    },
+    {
+      "code": "2459",
+      "name_en": "OTHER CREATIVE OR PERFORMING ARTISTS"
+    },
+    {
+      "code": "246",
+      "name_en": "RELIGIOUS PROFESSIONALS"
+    },
+    {
+      "code": "2460",
+      "name_en": "RELIGIOUS PROFESSIONALS"
+    },
+    {
+      "code": "311",
+      "name_en": "PHYSICAL SCIENCE AND ENGINEERING TECHNICIANS"
+    },
+    {
+      "code": "3111",
+      "name_en": "CHEMICAL AND PHYSICAL SCIENCE TECHNICIANS"
+    },
+    {
+      "code": "3112",
+      "name_en": "CIVIL ENGINEERING TECHNICIANS"
+    },
+    {
+      "code": "3113",
+      "name_en": "ELECTRICAL ENGINEERING TECHNICIANS"
+    },
+    {
+      "code": "3114",
+      "name_en": "ELECTRONICS AND COMMUNICATIONS ENGINEERING TECHNICIANS"
+    },
+    {
+      "code": "3115",
+      "name_en": "MECHANICAL ENGINEERING TECHNICIANS"
+    },
+    {
+      "code": "3116",
+      "name_en": "CHEMICAL ENGINEERING TECHNICIANS"
+    },
+    {
+      "code": "3117",
+      "name_en": "MINING AND METALLURGICAL ENGINEERING TECHNICIANS"
+    },
+    {
+      "code": "3118",
+      "name_en": "DRAFTSMEN"
+    },
+    {
+      "code": "3119",
+      "name_en": "OTHER PHYSICAL SCIENCE AND ENGINEERING TECHNICIANS"
+    },
+    {
+      "code": "312",
+      "name_en": "COMPUTER ASSISTANTS AND COMPUTER EQUIPMENT CONTROLLERS"
+    },
+    {
+      "code": "3121",
+      "name_en": "COMPUTER ASSISTANTS"
+    },
+    {
+      "code": "3122",
+      "name_en": "COMPUTER EQUIPMENT OPERATORS"
+    },
+    {
+      "code": "3123",
+      "name_en": "INDUSTRIAL ROBOT CONTROLLERS"
+    },
+    {
+      "code": "313",
+      "name_en": "OPTICAL AND ELECTRONIC EQUIPMENT CONTROLLERS"
+    },
+    {
+      "code": "3131",
+      "name_en": "PHOTOGRAPHERS AND IMAGE AND SOUND RECORDING EQUIPMENTOPERATORS"
+    },
+    {
+      "code": "3132",
+      "name_en": "BROADCASTING AND TELECOMMUNICATIONS EQUIPMENT OPERATORS"
+    },
+    {
+      "code": "3133",
+      "name_en": "MEDICAL EQUIPMENT OPERATORS"
+    },
+    {
+      "code": "3139",
+      "name_en": "CLASSIFIED"
+    },
+    {
+      "code": "3141",
+      "name_en": "SHIP AND AIRCRAFT CONTROLLERS AND TECHNICIANS"
+    },
+    {
+      "code": "3142",
+      "name_en": "SHIPS' DECK OFFICERS AND PILOTS"
+    },
+    {
+      "code": "3143",
+      "name_en": "AIRCRAFT PILOTS, NAVIGATORS AND FLIGHT ENGINEERS"
+    },
+    {
+      "code": "3144",
+      "name_en": "AIR TRAFFIC CONTROLLERS"
+    },
+    {
+      "code": "3145",
+      "name_en": "AIR TRAFFIC SAFETY TECHNICIAN"
+    },
+    {
+      "code": "315",
+      "name_en": "BUILDING, SAFETY, HEALTH AND QUALITY INSPECTORS"
+    },
+    {
+      "code": "3151",
+      "name_en": "BUILDING AND FIRE INSPECTORS"
+    },
+    {
+      "code": "3152",
+      "name_en": "SAFETY, HEALTH AND QUALITY INSPECTORS (VEHICLES, PROCESSES"
+    },
+    {
+      "code": "321",
+      "name_en": "LIFE SCIENCE TECHNICIANS AND RELATED ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "3211",
+      "name_en": "LIFE SCIENCE TECHNICIANS"
+    },
+    {
+      "code": "3212",
+      "name_en": "FARM TECHNICIANS"
+    },
+    {
+      "code": "3219",
+      "name_en": "OTHER LIFE SCIENCE TECHNICIANS"
+    },
+    {
+      "code": "322",
+      "name_en": "HEALTH ASSOCIATE PROFESSIONALS (EXCEPT NURSING)"
+    },
+    {
+      "code": "3221",
+      "name_en": "MEDICAL ASSISTANTS"
+    },
+    {
+      "code": "3222",
+      "name_en": "DENTAL ASSISTANTS"
+    },
+    {
+      "code": "3223",
+      "name_en": "VETERINARY ASSISTANTS"
+    },
+    {
+      "code": "3224",
+      "name_en": "PHARMACEUTICAL ASSISTANTS"
+    },
+    {
+      "code": "3229",
+      "name_en": "OTHER HEALTH ASSOCIATE PROFESSIONALS (EXCEPT NURSING)"
+    },
+    {
+      "code": "323",
+      "name_en": "NURSING AND MIDWIFERY ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "3231",
+      "name_en": "NURSING ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "3232",
+      "name_en": "MIDWIFERY ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "324",
+      "name_en": "TRADITIONAL MEDICINE PRACTITIONERS AND FAITH HEALERS"
+    },
+    {
+      "code": "3241",
+      "name_en": "TRADITIONAL MEDICINE PRACTITIONERS"
+    },
+    {
+      "code": "3242",
+      "name_en": "FAITH HEALERS"
+    },
+    {
+      "code": "330",
+      "name_en": "TEACHING ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "3300",
+      "name_en": "TEACHING ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "341",
+      "name_en": "FINANCE AND SALES ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "3411",
+      "name_en": "SECURITIES AND FINANCE DEALERS AND BROKERS"
+    },
+    {
+      "code": "3412",
+      "name_en": "INSURANCE REPRESENTATIVES"
+    },
+    {
+      "code": "3413",
+      "name_en": "ESTATE AGENTS"
+    },
+    {
+      "code": "3414",
+      "name_en": "TRAVEL CONSULTANTS AND ORGANIZERS"
+    },
+    {
+      "code": "3415",
+      "name_en": "TECHNICAL AND COMMERCIAL SALES REPRESENTATIVES"
+    },
+    {
+      "code": "3416",
+      "name_en": "BUYERS"
+    },
+    {
+      "code": "3417",
+      "name_en": "APPRAISERS AND VALUERS"
+    },
+    {
+      "code": "3418",
+      "name_en": "AUCTIONEERS"
+    },
+    {
+      "code": "3419",
+      "name_en": "OTHER FINANCE AND SALES ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "342",
+      "name_en": "BUSINESS SERVICES AGENTS AND TRADE BROKERS"
+    },
+    {
+      "code": "3421",
+      "name_en": "TRADE BROKERS"
+    },
+    {
+      "code": "3422",
+      "name_en": "CLEARING AND FORWARDING AGENTS"
+    },
+    {
+      "code": "3423",
+      "name_en": "LABOR CONTRACTORS AND EMPLOYMENT AGENTS"
+    },
+    {
+      "code": "3429",
+      "name_en": "OTHER BUSINESS SERVICES AGENTS AND TRADE BROKERS"
+    },
+    {
+      "code": "343",
+      "name_en": "ADMINISTRATIVE ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "3431",
+      "name_en": "ADMINISTRATIVE SECRETARIES AND RELATED ASSOCIATEPROFESSIONALS"
+    },
+    {
+      "code": "3432",
+      "name_en": "LEGAL AND RELATED BUSINESS ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "3433",
+      "name_en": "BOOKKEEPERS"
+    },
+    {
+      "code": "3434",
+      "name_en": "STATISTICAL, MATHEMATICAL AND RELATED ASSOCIATEPROFESSIONALS"
+    },
+    {
+      "code": "3439",
+      "name_en": "OTHER ADMINISTRATIVE ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "344",
+      "name_en": "CUSTOMS, TAXATION, LICENSING, WELFARE AND RELATED ASSOCIATE"
+    },
+    {
+      "code": "3441",
+      "name_en": "CUSTOMS AND IMMIGRATION INSPECTORS"
+    },
+    {
+      "code": "3442",
+      "name_en": "GOVERNMENT TAX AND EXCISE OFFICIALS"
+    },
+    {
+      "code": "3443",
+      "name_en": "GOVERNMENT SOCIAL BENEFITS OFFICIALS"
+    },
+    {
+      "code": "3444",
+      "name_en": "GOVERNMENT LICENSING OFFICIALS"
+    },
+    {
+      "code": "3449",
+      "name_en": "OTHER GOVERNMENT ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "345",
+      "name_en": "POLICE INSPECTORS AND DETECTIVES"
+    },
+    {
+      "code": "3450",
+      "name_en": "POLICE INSPECTORS AND DETECTIVES"
+    },
+    {
+      "code": "346",
+      "name_en": "SOCIAL WORK ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "3460",
+      "name_en": "SOCIAL WORK ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "347",
+      "name_en": "ARTISTIC, ENTERTAINMENT AND SPORTS ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "3471",
+      "name_en": "DECORATORS AND COMMERCIAL DESIGNERS"
+    },
+    {
+      "code": "3472",
+      "name_en": "RADIO, TELEVISION AND OTHER ANNOUNCERS"
+    },
+    {
+      "code": "3473",
+      "name_en": "STREET, NIGHTCLUB AND RELATED MUSICIANS, SINGERS AND DANCERS"
+    },
+    {
+      "code": "3474",
+      "name_en": "CLOWNS, MAGICIANS, ACROBATS AND RELATED WORKERS"
+    },
+    {
+      "code": "3475",
+      "name_en": "ATHLETES AND RELATED WORKERS"
+    },
+    {
+      "code": "348",
+      "name_en": "NON-ORDAINED RELIGIOUS ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "3480",
+      "name_en": "NON-ORDAINED RELIGIOUS ASSOCIATE PROFESSIONALS"
+    },
+    {
+      "code": "411",
+      "name_en": "SECRETARIES AND KEYBOARD-OPERATING CLERKS"
+    },
+    {
+      "code": "4111",
+      "name_en": "STENOGRAPHERS AND TYPISTS"
+    },
+    {
+      "code": "4112",
+      "name_en": "WORD PROCESSOR AND RELATED OPERATORS"
+    },
+    {
+      "code": "4113",
+      "name_en": "DATA ENTRY OPERATORS"
+    },
+    {
+      "code": "4114",
+      "name_en": "CALCULATING MACHINE OPERATORS"
+    },
+    {
+      "code": "4115",
+      "name_en": "SECRETARIES"
+    },
+    {
+      "code": "412",
+      "name_en": "NUMERICAL CLERKS"
+    },
+    {
+      "code": "4121",
+      "name_en": "ACCOUNTING AND BOOKKEEPING CLERKS"
+    },
+    {
+      "code": "4122",
+      "name_en": "STATISTICAL AND FINANCE CLERKS"
+    },
+    {
+      "code": "413",
+      "name_en": "MATERIAL RECORDING AND TRANSPORT CLERKS"
+    },
+    {
+      "code": "4131",
+      "name_en": "STOCK CLERKS"
+    },
+    {
+      "code": "4132",
+      "name_en": "PRODUCTION CLERKS"
+    },
+    {
+      "code": "4133",
+      "name_en": "TRANSPORT CLERKS"
+    },
+    {
+      "code": "414",
+      "name_en": "LIBRARY, MAIL AND RELATED CLERKS"
+    },
+    {
+      "code": "4141",
+      "name_en": "LIBRARY AND FILING CLERKS"
+    },
+    {
+      "code": "4142",
+      "name_en": "MAIL CARRIERS AND SORTING CLERKS"
+    },
+    {
+      "code": "4143",
+      "name_en": "CODING, PROOF-READING AND RELATED CLERKS"
+    },
+    {
+      "code": "4144",
+      "name_en": "SCRIBES AND RELATED WORKERS"
+    },
+    {
+      "code": "419",
+      "name_en": "OTHER OFFICE CLERKS"
+    },
+    {
+      "code": "4190",
+      "name_en": "OTHER OFFICE CLERKS"
+    },
+    {
+      "code": "421",
+      "name_en": "CASHIERS, TELLERS AND RELATED CLERKS"
+    },
+    {
+      "code": "4211",
+      "name_en": "CASHIERS AND TICKET CLERKS"
+    },
+    {
+      "code": "4212",
+      "name_en": "TELLERS AND OTHER COUNTER CLERKS"
+    },
+    {
+      "code": "4213",
+      "name_en": "BET BOOKMAKERS AND CROUPIERS"
+    },
+    {
+      "code": "4214",
+      "name_en": "PAWNBROKERS AND MONEY LENDERS"
+    },
+    {
+      "code": "4215",
+      "name_en": "DEBT COLLECTORS AND RELATED WORKERS"
+    },
+    {
+      "code": "422",
+      "name_en": "CLIENT INFORMATION CLERKS"
+    },
+    {
+      "code": "4221",
+      "name_en": "TRAVEL AGENCY CLERKS AND RELATED WORKERS"
+    },
+    {
+      "code": "4222",
+      "name_en": "RECEPTIONISTS AND INFORMATION CLERKS"
+    },
+    {
+      "code": "4223",
+      "name_en": "TELEPHONE SWITCHBOARD OPERATORS"
+    },
+    {
+      "code": "511",
+      "name_en": "TRAVEL ATTENDANTS AND RELATED WORKERS"
+    },
+    {
+      "code": "5111",
+      "name_en": "TRAVEL ATTENDANTS AND TRAVEL STEWARDS"
+    },
+    {
+      "code": "5112",
+      "name_en": "TRANSPORT CONDUCTORS"
+    },
+    {
+      "code": "5113",
+      "name_en": "TRAVEL GUIDES"
+    },
+    {
+      "code": "512",
+      "name_en": "HOUSEKEEPING AND RESTAURANT SERVICES WORKERS"
+    },
+    {
+      "code": "5121",
+      "name_en": "HOUSEKEEPERS AND RELATED WORKERS"
+    },
+    {
+      "code": "5122",
+      "name_en": "COOKS"
+    },
+    {
+      "code": "5123",
+      "name_en": "WAITERS, WAITRESSES AND BARTENDERS"
+    },
+    {
+      "code": "513",
+      "name_en": "PERSONAL CARE AND RELATED WORKERS"
+    },
+    {
+      "code": "5131",
+      "name_en": "CHILD-CARE WORKERS"
+    },
+    {
+      "code": "5132",
+      "name_en": "INSTITUTION-BASED PERSONAL CARE WORKERS"
+    },
+    {
+      "code": "5133",
+      "name_en": "HOME-BASED PERSONAL CARE WORKERS"
+    },
+    {
+      "code": "5139",
+      "name_en": "PERSONAL CARE AND RELATED WORKERS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "513",
+      "name_en": "-Personal Care and Related Workers."
+    },
+    {
+      "code": "514",
+      "name_en": "ASTROLOGERS, FORTUNE-TELLERS AND RELATED WORKERS"
+    },
+    {
+      "code": "5141",
+      "name_en": "ASTROLOGERS AND RELATED WORKERS"
+    },
+    {
+      "code": "5142",
+      "name_en": "FORTUNE-TELLERS, PALMISTS AND RELATED WORKERS"
+    },
+    {
+      "code": "515",
+      "name_en": "OTHER PERSONAL SERVICES WORKERS"
+    },
+    {
+      "code": "5151",
+      "name_en": "HAIRDRESSERS, BARBERS, BEAUTICIANS AND RELATED WORKERS"
+    },
+    {
+      "code": "5152",
+      "name_en": "COMPANIONS AND VALETS"
+    },
+    {
+      "code": "5153",
+      "name_en": "UNDERTAKERS AND EMBALMERS"
+    },
+    {
+      "code": "5159",
+      "name_en": "OTHER PERSONAL SERVICES WORKERS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "516",
+      "name_en": "PROTECTIVE SERVICES WORKERS"
+    },
+    {
+      "code": "5161",
+      "name_en": "FIRE-FIGHTERS"
+    },
+    {
+      "code": "5162",
+      "name_en": "POLICE OFFICERS"
+    },
+    {
+      "code": "5163",
+      "name_en": "PRISON GUARDS"
+    },
+    {
+      "code": "5169",
+      "name_en": "PROTECTIVE SERVICES WORKERS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "521",
+      "name_en": "FASHION AND OTHER MODELS"
+    },
+    {
+      "code": "5210",
+      "name_en": "FASHION AND OTHER MODELS"
+    },
+    {
+      "code": "522",
+      "name_en": "SHOP SALEPERSONS AND DEMONSTRATORS"
+    },
+    {
+      "code": "5220",
+      "name_en": "SHOP SALESPERSONS AND DEMONSTRATORS"
+    },
+    {
+      "code": "523",
+      "name_en": "STALL AND MARKET SALESPERSONS"
+    },
+    {
+      "code": "5230",
+      "name_en": "STALL AND MARKET SALESPERSONS"
+    },
+    {
+      "code": "611",
+      "name_en": "FIELD CROP FARMERS"
+    },
+    {
+      "code": "6111",
+      "name_en": "RICE FARMERS"
+    },
+    {
+      "code": "6112",
+      "name_en": "CORN FARMERS"
+    },
+    {
+      "code": "6113",
+      "name_en": "SUGARCANE FARMERS"
+    },
+    {
+      "code": "6114",
+      "name_en": "VEGETABLE FARMERS"
+    },
+    {
+      "code": "6115",
+      "name_en": "COTTON AND FIBER CROPS FARMERS"
+    },
+    {
+      "code": "6116",
+      "name_en": "ROOT CROPS FARMERS"
+    },
+    {
+      "code": "6117",
+      "name_en": "FIELD LEGUMES FARMERS"
+    },
+    {
+      "code": "6119",
+      "name_en": "OTHER FIELD CROP FARMERS"
+    },
+    {
+      "code": "612",
+      "name_en": "ORCHARD FARMERS"
+    },
+    {
+      "code": "6121",
+      "name_en": "COCONUT FARMERS"
+    },
+    {
+      "code": "6122",
+      "name_en": "FRUIT TREE FARMERS"
+    },
+    {
+      "code": "6123",
+      "name_en": "TREE NUT FARMERS"
+    },
+    {
+      "code": "6124",
+      "name_en": "COFFEE AND CACAO FARMERS"
+    },
+    {
+      "code": "6129",
+      "name_en": "OTHER ORCHARD FARMERS"
+    },
+    {
+      "code": "613",
+      "name_en": "ORNAMENTAL AND OTHER PLANT GROWERS"
+    },
+    {
+      "code": "6131",
+      "name_en": "ORNAMENTAL PLANT GROWERS"
+    },
+    {
+      "code": "6139",
+      "name_en": "OTHER PLANT GROWERS"
+    },
+    {
+      "code": "621",
+      "name_en": "LIVESTOCK AND DAIRY FARMERS"
+    },
+    {
+      "code": "6211",
+      "name_en": "CATTLE AND DAIRY FARMERS"
+    },
+    {
+      "code": "6212",
+      "name_en": "HOG RAISING FARMERS"
+    },
+    {
+      "code": "6219",
+      "name_en": "OTHER LIVESTOCK FARMERS"
+    },
+    {
+      "code": "622",
+      "name_en": "POULTRY FARMERS"
+    },
+    {
+      "code": "6221",
+      "name_en": "CHICKEN FARMERS"
+    },
+    {
+      "code": "6222",
+      "name_en": "DUCK RAISERS"
+    },
+    {
+      "code": "6229",
+      "name_en": "OTHER POULTRY FARMERS"
+    },
+    {
+      "code": "629",
+      "name_en": "OTHER ANIMAL RAISERS"
+    },
+    {
+      "code": "6290",
+      "name_en": "OTHER ANIMAL RAISERS"
+    },
+    {
+      "code": "631",
+      "name_en": "FOREST TREE PLANTERS"
+    },
+    {
+      "code": "6310",
+      "name_en": "FOREST TREE PLANTERS"
+    },
+    {
+      "code": "632",
+      "name_en": "CONCESSIONAIRES AND LOGGERS"
+    },
+    {
+      "code": "6320",
+      "name_en": "CONCESSIONAIRES AND LOGGERS"
+    },
+    {
+      "code": "633",
+      "name_en": "CHARCOAL MAKERS AND RELATED WORKERS"
+    },
+    {
+      "code": "6330",
+      "name_en": "CHARCOAL MAKERS AND RELATED WORKERS"
+    },
+    {
+      "code": "634",
+      "name_en": "MINOR FOREST PRODUCT GATHERERS"
+    },
+    {
+      "code": "6340",
+      "name_en": "MINOR FOREST PRODUCT GATHERERS"
+    },
+    {
+      "code": "641",
+      "name_en": "AQUA-FARM CULTIVATORS"
+    },
+    {
+      "code": "6411",
+      "name_en": "FISH FARM CULTIVATORS (Excluding Prawns)"
+    },
+    {
+      "code": "6412",
+      "name_en": "PRAWN FARM CULTIVATORS"
+    },
+    {
+      "code": "6413",
+      "name_en": "OYSTERS AND MUSSELS FARM CULTIVATORS"
+    },
+    {
+      "code": "6414",
+      "name_en": "SEAWEEDS CULTIVATORS"
+    },
+    {
+      "code": "6419",
+      "name_en": "OTHER AQUA PRODUCTS CULTIVATORS"
+    },
+    {
+      "code": "642",
+      "name_en": "INLAND AND COASTAL WATERS FISHERMEN"
+    },
+    {
+      "code": "6420",
+      "name_en": "INLAND AND COASTAL WATERS FISHERMEN"
+    },
+    {
+      "code": "643",
+      "name_en": "DEEP-SEA FISHERMEN"
+    },
+    {
+      "code": "6430",
+      "name_en": "DEEP-SEA FISHERMEN"
+    },
+    {
+      "code": "649",
+      "name_en": "FISHERMEN NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "6490",
+      "name_en": "FISHERMEN NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "651",
+      "name_en": "HUNTERS AND TRAPPERS"
+    },
+    {
+      "code": "6510",
+      "name_en": "HUNTERS AND TRAPPERS"
+    },
+    {
+      "code": "659",
+      "name_en": "HUNTERS AND TRAPPERS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "6590",
+      "name_en": "HUNTERS AND TRAPPERS NOT ELSEWHERE CLASSIFIED"
+    },
+    {
+      "code": "711",
+      "name_en": "MINERS, SHOTFIRERS, STONE CUTTERS AND CARVERS"
+    },
+    {
+      "code": "7111",
+      "name_en": "MINERS AND QUARRY WORKERS"
+    },
+    {
+      "code": "7112",
+      "name_en": "SHOTFIRERS AND BLASTERS"
+    },
+    {
+      "code": "7113",
+      "name_en": "STONE SPLITTERS, CUTTERS AND CARVERS"
+    },
+    {
+      "code": "712",
+      "name_en": "BUILDING FRAME CONSTRUCTION AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7121",
+      "name_en": "BUILDERS (Traditional Materials)"
+    },
+    {
+      "code": "7122",
+      "name_en": "MASONS AND RELATED CONCRETE FINISHERS"
+    },
+    {
+      "code": "7123",
+      "name_en": "CARPENTERS AND JOINERS"
+    },
+    {
+      "code": "721",
+      "name_en": "PREPARERS AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "713",
+      "name_en": "BUILDING CONSTRUCTION FINISHERS AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7131",
+      "name_en": "ROOFERS"
+    },
+    {
+      "code": "7132",
+      "name_en": "FLOOR LAYERS AND TILE SETTERS"
+    },
+    {
+      "code": "7133",
+      "name_en": "SANDBLASTERS AND RELATED CLEANERS"
+    },
+    {
+      "code": "7134",
+      "name_en": "INSULATION WORKERS"
+    },
+    {
+      "code": "7135",
+      "name_en": "GLAZIERS"
+    },
+    {
+      "code": "7136",
+      "name_en": "PLUMBERS, PIPE FITTERS AND OTHER RELATED WORKERS"
+    },
+    {
+      "code": "714",
+      "name_en": "PAINTERS AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7141",
+      "name_en": "PAINTERS AND RELATED WORKERS"
+    },
+    {
+      "code": "7142",
+      "name_en": "VARNISHERS AND RELATED PAINTERS"
+    },
+    {
+      "code": "7211",
+      "name_en": "METAL MOLDERS AND COREMAKERS"
+    },
+    {
+      "code": "7212",
+      "name_en": "WELDERS AND FLAMECUTTERS"
+    },
+    {
+      "code": "7213",
+      "name_en": "SHEET-METAL WORKERS"
+    },
+    {
+      "code": "7214",
+      "name_en": "STRUCTURAL-METAL PREPARERS, ERECTORS AND RELATED WORKERS"
+    },
+    {
+      "code": "7215",
+      "name_en": "RIGGERS AND CABLE SPLICERS"
+    },
+    {
+      "code": "722",
+      "name_en": "BLACKSMITHS, TOOL-MAKERS AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7221",
+      "name_en": "BLACKSMITHS, HAMMER-SMITHS AND FORGING-PRESS WORKERS"
+    },
+    {
+      "code": "7222",
+      "name_en": "TOOL-MAKERS AND RELATED WORKERS"
+    },
+    {
+      "code": "7223",
+      "name_en": "MACHINE-TOOL SETTERS AND SETTER-OPERATORS"
+    },
+    {
+      "code": "7224",
+      "name_en": "METAL-WHEEL GRINDERS, POLISHERS AND TOOL SHARPENERS"
+    },
+    {
+      "code": "723",
+      "name_en": "MACHINERY MECHANICS, FITTERS AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7231",
+      "name_en": "MOTOR VEHICLE MECHANICS AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7232",
+      "name_en": "AIRCRAFT ENGINE MECHANICS AND FITTERS"
+    },
+    {
+      "code": "7233",
+      "name_en": "MARINE CRAFT MECHANICS"
+    },
+    {
+      "code": "7234",
+      "name_en": "AGRICULTURAL OR INDUSTRIAL-MACHINERY MECHANICS AND FITTERS                                     7234"
+    },
+    {
+      "code": "7235",
+      "name_en": "BUSINESS MACHINES MECHANICS AND REPAIRERS*"
+    },
+    {
+      "code": "724",
+      "name_en": "FITTERS"
+    },
+    {
+      "code": "7241",
+      "name_en": "BUILDING AND RELATED ELECTRICIANS"
+    },
+    {
+      "code": "7242",
+      "name_en": "ELECTRICAL MECHANICS AND FITTERS"
+    },
+    {
+      "code": "7243",
+      "name_en": "ELECTRONICS FITTERS"
+    },
+    {
+      "code": "7244",
+      "name_en": "ELECTRONICS MECHANICS AND SERVICERS"
+    },
+    {
+      "code": "7245",
+      "name_en": "TELECOMMUNICATION EQUIPMENT INSTALLERS AND REPAIRERS*"
+    },
+    {
+      "code": "7246",
+      "name_en": "LINEMAN, LINE INSTALLERS AND CABLE SPLICERS"
+    },
+    {
+      "code": "731",
+      "name_en": "PRECISION WORKERS IN METAL AND RELATED MATERIALS"
+    },
+    {
+      "code": "7311",
+      "name_en": "PRECISION INSTRUMENT MAKERS AND REPAIRERS"
+    },
+    {
+      "code": "7312",
+      "name_en": "MUSICAL INSTRUMENT MAKERS AND TUNERS"
+    },
+    {
+      "code": "7313",
+      "name_en": "JEWELRY AND PRECIOUS-METAL WORKERS"
+    },
+    {
+      "code": "732",
+      "name_en": "POTTERS, GLASS-MAKERS AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7321",
+      "name_en": "POTTERS AND RELATED CLAY AND ABRASIVE FORMERS"
+    },
+    {
+      "code": "7322",
+      "name_en": "GLASS-MAKERS, CUTTERS, GRINDERS AND FINISHERS"
+    },
+    {
+      "code": "7323",
+      "name_en": "GLASS ENGRAVERS AND ETCHERS"
+    },
+    {
+      "code": "7324",
+      "name_en": "GLASS, CERAMICS AND RELATED DECORATIVE PAINTERS"
+    },
+    {
+      "code": "733",
+      "name_en": "RELATED WORKERS"
+    },
+    {
+      "code": "7331",
+      "name_en": "HANDICRAFT WORKERS IN WOOD AND RELATED MATERIALS"
+    },
+    {
+      "code": "7332",
+      "name_en": "HANDICRAFT WORKERS IN TEXTILE, LEATHER AND RELATED MATERIALS"
+    },
+    {
+      "code": "7333",
+      "name_en": "HANDICRAFT WORKERS IN CHEMICALS AND RELATED MATERIALS"
+    },
+    {
+      "code": "734",
+      "name_en": "PRINTING BINDING AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7341",
+      "name_en": "COMPOSITORS, TYPESETTERS AND RELATED WORKERS"
+    },
+    {
+      "code": "7342",
+      "name_en": "STEREOTYPERS AND ELECTROTYPERS"
+    },
+    {
+      "code": "7343",
+      "name_en": "PRINTING ENGRAVERS AND ETCHERS"
+    },
+    {
+      "code": "7344",
+      "name_en": "PHOTOGRAPHIC AND RELATED WORKERS"
+    },
+    {
+      "code": "7345",
+      "name_en": "BOOKBINDERS AND RELATED WORKERS"
+    },
+    {
+      "code": "7346",
+      "name_en": "SILK-SCREEN, BLOCK AND TEXTILE PRINTERS"
+    },
+    {
+      "code": "7347",
+      "name_en": "PRESSMAN LETTERPRESS AND RELATED WORKERS"
+    },
+    {
+      "code": "741",
+      "name_en": "FOOD PROCESSING AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7411",
+      "name_en": "BUTCHERS, FISHMONGERS AND RELATED FOOD PREPARERS"
+    },
+    {
+      "code": "7412",
+      "name_en": "BAKERS, PASTRY COOKS AND CONFECTIONERY MAKERS"
+    },
+    {
+      "code": "7413",
+      "name_en": "DAIRY PRODUCTS MAKERS"
+    },
+    {
+      "code": "7414",
+      "name_en": "FOOD PRESERVERS"
+    },
+    {
+      "code": "7415",
+      "name_en": "FOOD AND BEVERAGE TASTERS AND GRADERS"
+    },
+    {
+      "code": "7416",
+      "name_en": "TOBACCO PREPARERS AND TOBACCO PRODUCTS MAKERS"
+    },
+    {
+      "code": "742",
+      "name_en": "WOOD TREATERS, CABINET MAKERS AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7421",
+      "name_en": "WOOD TREATERS"
+    },
+    {
+      "code": "7422",
+      "name_en": "CABINET/FURNITURE MAKERS AND RELATED WORKERS"
+    },
+    {
+      "code": "7423",
+      "name_en": "WOODWORKING-MACHINE SETTERS AND SETTER-OPERATORS"
+    },
+    {
+      "code": "7424",
+      "name_en": "RATTAN, BAMBOO AND OTHER WICKER FURNITURE MAKERS"
+    },
+    {
+      "code": "7425",
+      "name_en": "BASKETRY WEAVERS, BRUSH MAKERS AND RELATED WORKERS"
+    },
+    {
+      "code": "743",
+      "name_en": "TEXTILE, GARMENT AND RELATED TRADES WORKERS"
+    },
+    {
+      "code": "7431",
+      "name_en": "FIBER PREPARERS"
+    },
+    {
+      "code": "7432",
+      "name_en": "WEAVERS, KNITTERS AND RELATED WORKERS"
+    },
+    {
+      "code": "7433",
+      "name_en": "TAILORS, DRESSMAKERS AND HATTERS"
+    },
+    {
+      "code": "7434",
+      "name_en": "TEXTILE, LEATHER AND RELATED PATTERN MAKERS AND CUTTERS"
+    },
+    {
+      "code": "7435",
+      "name_en": "SEWERS, EMBROIDERERS AND RELATED WORKERS"
+    },
+    {
+      "code": "7436",
+      "name_en": "UPHOLSTERERS AND RELATED WORKERS"
+    },
+    {
+      "code": "744",
+      "name_en": "LEATHER AND SHOEMAKING TRADES WORKERS"
+    },
+    {
+      "code": "7441",
+      "name_en": "TANNERS"
+    },
+    {
+      "code": "7442",
+      "name_en": "SHOEMAKERS AND RELATED WORKERS"
+    },
+    {
+      "code": "811",
+      "name_en": "MINING- AND MINERAL-PROCESSING PLANT OPERATORS"
+    },
+    {
+      "code": "8111",
+      "name_en": "MINING-PLANT OPERATORS"
+    },
+    {
+      "code": "8112",
+      "name_en": "MINERAL-ORE-AND STONE-PROCESSING-PLANT OPERATORS"
+    },
+    {
+      "code": "8113",
+      "name_en": "WELL DRILLERS AND BORERS AND RELATED WORKERS"
+    },
+    {
+      "code": "812",
+      "name_en": "METAL-PROCESSING-PLANT OPERATORS"
+    },
+    {
+      "code": "8121",
+      "name_en": "ORE AND METAL FURNACE OPERATORS"
+    },
+    {
+      "code": "8122",
+      "name_en": "METAL MELTERS, CASTERS AND ROLLING-MILL OPERATORS"
+    },
+    {
+      "code": "8123",
+      "name_en": "METAL HEAT-TREATING-PLANT OPERATORS"
+    },
+    {
+      "code": "8124",
+      "name_en": "METAL DRAWERS AND EXTRUDERS"
+    },
+    {
+      "code": "813",
+      "name_en": "GLASS, CERAMICS AND RELATED PLANT OPERATORS"
+    },
+    {
+      "code": "8131",
+      "name_en": "GLASS AND CERAMICS KILN AND RELATED MACHINE OPERATORS"
+    },
+    {
+      "code": "8139",
+      "name_en": "ELSEWHERECLASSIFIED"
+    },
+    {
+      "code": "814",
+      "name_en": "WOOD-PROCESSING AND PAPERMAKING-PLANT OPERATORS"
+    },
+    {
+      "code": "8142",
+      "name_en": "PAPER PULP PLANT OPERATORS"
+    },
+    {
+      "code": "8143",
+      "name_en": "PAPERMAKING-PLANT OPERATORS"
+    },
+    {
+      "code": "815",
+      "name_en": "CHEMICAL-PROCESSING-PLANT OPERATORS"
+    },
+    {
+      "code": "8151",
+      "name_en": "CRUSHING, GRINDING AND CHEMICAL-MIXING MACHINERY OPERATORS"
+    },
+    {
+      "code": "8152",
+      "name_en": "CHEMICAL HEAT-TREATING PLANT OPERATORS"
+    },
+    {
+      "code": "8153",
+      "name_en": "CHEMICAL-FILTERING AND SEPARATING EQUIPMENT OPERATORS"
+    },
+    {
+      "code": "8154",
+      "name_en": "CHEMICAL-STILL AND REACTOR OPERATORS (Except Petroleum andNatural G"
+    },
+    {
+      "code": "8155",
+      "name_en": "PETROLEUM AND NATURAL GAS REFINING PLANT OPERATORS"
+    },
+    {
+      "code": "8159",
+      "name_en": "CHEMICAL-PROCESSING PLANT OPERATORS NOT ELSEWHERECLASSIFIED"
+    },
+    {
+      "code": "816",
+      "name_en": "POWER-PRODUCTION AND RELATED PLANT OPERATORS"
+    },
+    {
+      "code": "8161",
+      "name_en": "POWER-PRODUCTION PLANT OPERATORS"
+    },
+    {
+      "code": "8162",
+      "name_en": "STEAM ENGINE AND BOILER OPERATORS"
+    },
+    {
+      "code": "8163",
+      "name_en": "INCINERATOR, WATER-TREATMENT AND RELATED PLANT OPERATORS"
+    },
+    {
+      "code": "817",
+      "name_en": "AUTOMATED ASSEMBLY-LINE AND INDUSTRIAL ROBOT OPERATORS"
+    },
+    {
+      "code": "8171",
+      "name_en": "AUTOMATED ASSEMBLY-LINE OPERATORS"
+    },
+    {
+      "code": "8172",
+      "name_en": "INDUSTRIAL-ROBOT OPERATORS"
+    },
+    {
+      "code": "821",
+      "name_en": "METAL- AND MINERAL-PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8211",
+      "name_en": "MACHINE-TOOL OPERATORS"
+    },
+    {
+      "code": "8212",
+      "name_en": "CEMENT AND OTHER MINERAL PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "822",
+      "name_en": "CHEMICAL PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8221",
+      "name_en": "PHARMACEUTICAL AND TOILETRY PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8222",
+      "name_en": "AMMUNITION AND EXPLOSIVE PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8223",
+      "name_en": "METAL FINISHING-, PLATING- AND COATING-MACHINE OPERATORS"
+    },
+    {
+      "code": "8224",
+      "name_en": "PHOTOGRAPHIC-PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8229",
+      "name_en": "CHEMICAL-PRODUCTS MACHINE OPERATORS NOT ELSEWHERECLASSIFIED"
+    },
+    {
+      "code": "823",
+      "name_en": "RUBBER AND PLASTIC PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8231",
+      "name_en": "RUBBER PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8232",
+      "name_en": "PLASTIC PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "824",
+      "name_en": "WOOD PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8240",
+      "name_en": "WOOD PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "825",
+      "name_en": "TEXTILE AND LEATHER PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8251",
+      "name_en": "FIBER-PREPARING, SPINNING AND WINDING MACHINE OPERATORS"
+    },
+    {
+      "code": "8252",
+      "name_en": "WEAVING AND KNITTING MACHINE OPERATORS"
+    },
+    {
+      "code": "8253",
+      "name_en": "SEWING MACHINE OPERATORS"
+    },
+    {
+      "code": "8254",
+      "name_en": "BLEACHING-, DYEING- AND CLEANING-MACHINE OPERATORS"
+    },
+    {
+      "code": "8255",
+      "name_en": "LEATHER-PREPARING MACHINE OPERATORS"
+    },
+    {
+      "code": "8256",
+      "name_en": "SHOEMAKING AND RELATED MACHINE OPERATORS"
+    },
+    {
+      "code": "8259",
+      "name_en": "CLASSIFIED"
+    },
+    {
+      "code": "826",
+      "name_en": "FOOD AND RELATED PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8261",
+      "name_en": "MEAT AND FISH PROCESSING MACHINE OPERATORS"
+    },
+    {
+      "code": "8262",
+      "name_en": "DAIRY PRODUCTS MACHINE OPERATORS"
+    },
+    {
+      "code": "8263",
+      "name_en": "GRAIN- AND SPICE-MILLING MACHINE OPERATORS"
+    },
+    {
+      "code": "8264",
+      "name_en": "MACHINEOPERATORS"
+    },
+    {
+      "code": "8265",
+      "name_en": "FRUIT, VEGETABLE AND NUT PROCESSING MACHINE OPERATORS"
+    },
+    {
+      "code": "8266",
+      "name_en": "SUGAR PRODUCTION MACHINE OPERATORS"
+    },
+    {
+      "code": "8267",
+      "name_en": "TEA, COFFEE AND COCOA PROCESSING MACHINE OPERATORS"
+    },
+    {
+      "code": "8268",
+      "name_en": "BREWERS, WINE AND OTHER BEVERAGE MACHINE OPERATORS"
+    },
+    {
+      "code": "8269",
+      "name_en": "TOBACCO PRODUCTION MACHINE OPERATORS"
+    },
+    {
+      "code": "827",
+      "name_en": "ASSEMBLERS"
+    },
+    {
+      "code": "8271",
+      "name_en": "MECHANICAL MACHINERY ASSEMBLERS"
+    },
+    {
+      "code": "8272",
+      "name_en": "ELECTRICAL EQUIPMENT ASSEMBLERS"
+    },
+    {
+      "code": "8273",
+      "name_en": "ELECTRONIC EQUIPMENT ASSEMBLERS"
+    },
+    {
+      "code": "8274",
+      "name_en": "METAL, RUBBER AND PLASTIC PRODUCTS ASSEMBLERS"
+    },
+    {
+      "code": "8275",
+      "name_en": "WOOD AND RELATED PRODUCTS ASSEMBLERS"
+    },
+    {
+      "code": "8276",
+      "name_en": "PAPERBOARD, TEXTILE AND RELATED PRODUCTS ASSEMBLERS"
+    },
+    {
+      "code": "829",
+      "name_en": "OTHER MACHINE OPERATORS AND ASSEMBLERS"
+    },
+    {
+      "code": "8290",
+      "name_en": "OTHER MACHINE OPERATORS AND ASSEMBLERS"
+    },
+    {
+      "code": "831",
+      "name_en": "LOCOMOTIVE-ENGINE DRIVERS AND RELATED WORKERS"
+    },
+    {
+      "code": "8311",
+      "name_en": "LOCOMOTIVE-ENGINE DRIVERS"
+    },
+    {
+      "code": "8312",
+      "name_en": "RAILWAY BRAKERS, SIGNALLERS AND SHUNTERS"
+    },
+    {
+      "code": "832",
+      "name_en": "MOTOR VEHICLE DRIVERS"
+    },
+    {
+      "code": "8321",
+      "name_en": "MOTORCYCLE DRIVERS"
+    },
+    {
+      "code": "8322",
+      "name_en": "CAR, TAXI AND VAN DRIVERS"
+    },
+    {
+      "code": "8323",
+      "name_en": "BUS DRIVERS"
+    },
+    {
+      "code": "8324",
+      "name_en": "HEAVY TRUCK AND LORRY DRIVERS"
+    },
+    {
+      "code": "833",
+      "name_en": "AGRICULTURAL AND OTHER MOBILE-PLANT OPERATORS"
+    },
+    {
+      "code": "8331",
+      "name_en": "MOTORIZED FARM AND FORESTRY PLANT OPERATORS"
+    },
+    {
+      "code": "8332",
+      "name_en": "EARTH-MOVING AND RELATED PLANT OPERATORS"
+    },
+    {
+      "code": "8333",
+      "name_en": "CRANE, HOIST AND RELATED PLANT OPERATORS"
+    },
+    {
+      "code": "8334",
+      "name_en": "LIFTING-TRUCK OPERATORS"
+    },
+    {
+      "code": "834",
+      "name_en": "SHIP'S DECK CREWS AND RELATED WORKERS"
+    },
+    {
+      "code": "8340",
+      "name_en": "SHIP'S DECK CREWS AND RELATED WORKERS"
+    },
+    {
+      "code": "911",
+      "name_en": "MARKET STALL VENDORS, STREET VENDORS AND RELATED WORKERS"
+    },
+    {
+      "code": "9111",
+      "name_en": "MARKET AND SIDEWALK STALL VENDORS"
+    },
+    {
+      "code": "9112",
+      "name_en": "STREET AMBULANT VENDORS"
+    },
+    {
+      "code": "9113",
+      "name_en": "DOOR-TO-DOOR AND TELEPHONE SALESPERSONS"
+    },
+    {
+      "code": "912",
+      "name_en": "SHOE CLEANING AND OTHER STREET SERVICES ELEMENTARY OCCUPATIONS"
+    },
+    {
+      "code": "9120",
+      "name_en": "SHOE CLEANING AND OTHER STREET SERVICES ELEMENTARY OCCUPATIONS"
+    },
+    {
+      "code": "913",
+      "name_en": "DOMESTIC HELPERS ,CLEANERS, LAUNDERERS AND RELATED WORKERS"
+    },
+    {
+      "code": "9131",
+      "name_en": "DOMESTIC HELPERS AND CLEANERS"
+    },
+    {
+      "code": "9132",
+      "name_en": "HELPERS AND CLEANERS IN OFFICES, HOTELS AND OTHER ESTABLISHMENTS"
+    },
+    {
+      "code": "9133",
+      "name_en": "HAND LAUNDERERS AND PRESSERS"
+    },
+    {
+      "code": "914",
+      "name_en": "BUILDING CARETAKERS, WINDOW AND RELATED CLEANERS"
+    },
+    {
+      "code": "9141",
+      "name_en": "BUILDING CARETAKERS"
+    },
+    {
+      "code": "9142",
+      "name_en": "VEHICLE, WINDOW AND RELATED CLEANERS"
+    },
+    {
+      "code": "915",
+      "name_en": "MESSENGERS, PORTERS, DOORKEEPERS AND RELATED WORKERS"
+    },
+    {
+      "code": "9151",
+      "name_en": "MESSENGERS, PACKAGE AND LUGGAGE PORTERS AND DELIVERERS"
+    },
+    {
+      "code": "9152",
+      "name_en": "DOORKEEPERS, WATCHPERSONS AND RELATED WORKERS"
+    },
+    {
+      "code": "916",
+      "name_en": "GARBAGE COLLECTORS AND RELATED LABORERS"
+    },
+    {
+      "code": "9161",
+      "name_en": "GARBAGE COLLECTORS"
+    },
+    {
+      "code": "9162",
+      "name_en": "SWEEPERS AND RELATED LABORERS"
+    },
+    {
+      "code": "921",
+      "name_en": "AGRICULTURAL, FORESTRY AND FISHERY LABORERS"
+    },
+    {
+      "code": "9211",
+      "name_en": "FARMHANDS AND LABORERS"
+    },
+    {
+      "code": "9212",
+      "name_en": "FORESTRY LABORERS"
+    },
+    {
+      "code": "9213",
+      "name_en": "FISHERY LABORERS AND HELPERS"
+    },
+    {
+      "code": "9214",
+      "name_en": "HUNTING AND TRAPPING LABORERS"
+    },
+    {
+      "code": "931",
+      "name_en": "MINING AND CONSTRUCTION LABORERS"
+    },
+    {
+      "code": "9311",
+      "name_en": "MINING AND QUARRYING LABORERS"
+    },
+    {
+      "code": "9312",
+      "name_en": "CONSTRUCTIONS"
+    },
+    {
+      "code": "9313",
+      "name_en": "BUILDING CONSTRUCTION LABORERS"
+    },
+    {
+      "code": "932",
+      "name_en": "MANUFACTURING LABORERS"
+    },
+    {
+      "code": "9321",
+      "name_en": "ASSEMBLING LABORERS"
+    },
+    {
+      "code": "9322",
+      "name_en": "HAND PACKERS AND OTHER MANUFACTURING LABORERS"
+    },
+    {
+      "code": "933",
+      "name_en": "TRANSPORT LABORERS AND FREIGHT HANDLERS"
+    },
+    {
+      "code": "9331",
+      "name_en": "HAND OR PEDAL VEHICLE DRIVERS"
+    },
+    {
+      "code": "9332",
+      "name_en": "DRIVERS OF ANIMAL-DRAWN VEHICLES AND MACHINERY"
+    },
+    {
+      "code": "9333",
+      "name_en": "FREIGHT HANDLERS"
+    }
+  ]
+}

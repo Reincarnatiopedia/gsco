@@ -1,0 +1,2280 @@
+{
+  "metadata": {
+    "source": "NKZ 2010",
+    "country": "Croatia",
+    "language": "hr",
+    "isco_version": "ISCO-08",
+    "count": 567,
+    "date_parsed": "2026-04-22"
+  },
+  "entries": [
+    {
+      "code": "011",
+      "name_hr": "Časnici/časnice"
+    },
+    {
+      "code": "0110",
+      "name_hr": "Časnici/časnice"
+    },
+    {
+      "code": "021",
+      "name_hr": "Dočasnici/dočasnice"
+    },
+    {
+      "code": "0210",
+      "name_hr": "Dočasnici/dočasnice"
+    },
+    {
+      "code": "031",
+      "name_hr": "Vojna zanimanja, ostali činovi"
+    },
+    {
+      "code": "0310",
+      "name_hr": "Vojna zanimanja, ostali činovi"
+    },
+    {
+      "code": "111",
+      "name_hr": "Zakonodavci/zakonodavke i dužnosnici/dužnosnice"
+    },
+    {
+      "code": "1111",
+      "name_hr": "Zakonodavci/zakonodavke"
+    },
+    {
+      "code": "1112",
+      "name_hr": "Dužnosnici/dužnosnice tijela državne vlasti"
+    },
+    {
+      "code": "1113",
+      "name_hr": "Plemenski i seoski poglavari/plemenske i seoske poglavarke"
+    },
+    {
+      "code": "1114",
+      "name_hr": "Čelnici i dužnosnici interesnih organizacija/čelnice i dužnosnice interesnih organizacija"
+    },
+    {
+      "code": "1115",
+      "name_hr": "Dužnosnici/dužnosnice izvršne vlasti"
+    },
+    {
+      "code": "112",
+      "name_hr": "Glavni i izvršni direktori/glavne i izvršne direktorice"
+    },
+    {
+      "code": "1120",
+      "name_hr": "Glavni i izvršni direktori/glavne i izvršne direktorice"
+    },
+    {
+      "code": "121",
+      "name_hr": "Direktori/direktorice poslovnih i administrativnih jedinica"
+    },
+    {
+      "code": "1211",
+      "name_hr": "Financijski direktori/financijske direktorice"
+    },
+    {
+      "code": "1212",
+      "name_hr": "Direktori/direktorice ljudskih potencijala"
+    },
+    {
+      "code": "1213",
+      "name_hr": "Direktori/direktorice programske politike i planiranja"
+    },
+    {
+      "code": "1219",
+      "name_hr": "Poslovni i administrativni direktori/direktorice d. n."
+    },
+    {
+      "code": "122",
+      "name_hr": "Direktori/direktorice prodaje, marketinga i razvoja"
+    },
+    {
+      "code": "1221",
+      "name_hr": "Direktori/direktorice prodaje i marketinga"
+    },
+    {
+      "code": "1222",
+      "name_hr": "Direktori/direktorice promidžbe i odnosa s javnošću"
+    },
+    {
+      "code": "1223",
+      "name_hr": "Direktori/direktorice istraživanja i razvoja"
+    },
+    {
+      "code": "131",
+      "name_hr": "Direktori/direktorice proizvodnje u poljoprivredi, šumarstvu i ribarstvu"
+    },
+    {
+      "code": "1311",
+      "name_hr": "Direktori/direktorice proizvodnje u poljoprivredi i šumarstvu"
+    },
+    {
+      "code": "1312",
+      "name_hr": "Direktori/direktorice proizvodnje u ribarstvu i ribogojstvu"
+    },
+    {
+      "code": "132",
+      "name_hr": "Direktori/direktorice proizvodnje u prerađivačkoj industriji, rudarstvu, građevinarstvu i"
+    },
+    {
+      "code": "1321",
+      "name_hr": "Direktori/direktorice proizvodnje u prerađivačkoj industriji"
+    },
+    {
+      "code": "1322",
+      "name_hr": "Direktori/direktorice proizvodnje u rudarstvu"
+    },
+    {
+      "code": "1323",
+      "name_hr": "Direktori/direktorice proizvodnje u građevinarstvu"
+    },
+    {
+      "code": "1324",
+      "name_hr": "Direktori/direktorice za nabavu i distribuciju"
+    },
+    {
+      "code": "133",
+      "name_hr": "Direktori/direktorice u području informacijsko komunikacijskih tehnologija"
+    },
+    {
+      "code": "1330",
+      "name_hr": "Direktori/direktorice u području informacijsko komunikacijskih tehnologija"
+    },
+    {
+      "code": "134",
+      "name_hr": "Ravnatelji/ravnateljice; direktori/direktorice za pružanje stručnih usluga u zdravstvu,"
+    },
+    {
+      "code": "1341",
+      "name_hr": "Ravnatelji/ravnateljice u području predškolskog odgoja"
+    },
+    {
+      "code": "1342",
+      "name_hr": "Ravnatelji/ravnateljice zdravstvenih ustanova"
+    },
+    {
+      "code": "1343",
+      "name_hr": "Ravnatelji/ravnateljice ustanova za pružanje usluga njege starijim osobama"
+    },
+    {
+      "code": "1344",
+      "name_hr": "Ravnatelji/ravnateljice ustanova za socijalnu skrb"
+    },
+    {
+      "code": "1345",
+      "name_hr": "Ravnatelji/ravnateljice osnovnih škola i srednjoškolskih ustanova te dekani/dekanice i"
+    },
+    {
+      "code": "1346",
+      "name_hr": "Direktori/direktorice financijskih institucija i osiguravajućih društava"
+    },
+    {
+      "code": "1349",
+      "name_hr": "Ravnatelji/ravnateljice ustanova za pružanje stručnih usluga d. n."
+    },
+    {
+      "code": "141",
+      "name_hr": "Direktori/direktorice hotela, kampova i restorana"
+    },
+    {
+      "code": "1411",
+      "name_hr": "Direktori/direktorice hotela i kampova"
+    },
+    {
+      "code": "1412",
+      "name_hr": "Direktori/direktorice restorana i srodnih ugostiteljskih objekata"
+    },
+    {
+      "code": "142",
+      "name_hr": "Direktori/direktorice u trgovini na malo i veliko"
+    },
+    {
+      "code": "1420",
+      "name_hr": "Direktori/direktorice u trgovini na malo i veliko"
+    },
+    {
+      "code": "143",
+      "name_hr": "Direktori/direktorice u području ostalih uslužnih djelatnosti"
+    },
+    {
+      "code": "1431",
+      "name_hr": "Direktori/direktorice športskih, rekreacijskih i kulturnih centara"
+    },
+    {
+      "code": "1439",
+      "name_hr": "Direktori/direktorice uslužnih djelatnosti d. n."
+    },
+    {
+      "code": "211",
+      "name_hr": "Stručnjaci/stručnjakinje fizikalnih znanosti i geoznanosti"
+    },
+    {
+      "code": "2111",
+      "name_hr": "Fizičari/fizičarke i astronomi/astronomke"
+    },
+    {
+      "code": "2112",
+      "name_hr": "Meteorolozi/meteorologinje"
+    },
+    {
+      "code": "2113",
+      "name_hr": "Kemičari/kemičarke"
+    },
+    {
+      "code": "2114",
+      "name_hr": "Geolozi/geologinje i geofizičari/geofizičarke"
+    },
+    {
+      "code": "212",
+      "name_hr": "Matematičari/matematičarke, aktuari/aktuarke i statističari/statističarke"
+    },
+    {
+      "code": "2120",
+      "name_hr": "Matematičari/matematičarke, aktuari/aktuarke i statističari/statističarke"
+    },
+    {
+      "code": "213",
+      "name_hr": "Stručnjaci/stručnjakinje bioloških i srodnih znanosti"
+    },
+    {
+      "code": "2131",
+      "name_hr": "Biolozi/biologinje, botaničari/botaničarke, zoolozi/zoologinje i srodni stručnjaci/stručnjakinje"
+    },
+    {
+      "code": "2132",
+      "name_hr": "Savjetnici/savjetnice u poljoprivredi, šumarstvu i ribarstvu"
+    },
+    {
+      "code": "2133",
+      "name_hr": "Stručnjaci/stručnjakinje za zaštitu okoliša"
+    },
+    {
+      "code": "214",
+      "name_hr": "Stručnjaci/stručnjakinje tehničko-tehnoloških znanosti (osim elektrotehnike)"
+    },
+    {
+      "code": "2141",
+      "name_hr": "Inženjeri/inženjerke industrijskog inženjerstva i proizvodnje"
+    },
+    {
+      "code": "2142",
+      "name_hr": "Inženjeri/inženjerke građevinarstva"
+    },
+    {
+      "code": "2143",
+      "name_hr": "Inženjeri/inženjerke za okoliš"
+    },
+    {
+      "code": "2144",
+      "name_hr": "Inženjeri/inženjerke strojarstva"
+    },
+    {
+      "code": "2145",
+      "name_hr": "Inženjeri/inženjerke kemijske tehnologije"
+    },
+    {
+      "code": "2146",
+      "name_hr": "Inženjeri/inženjerke rudarstva, metalurgije i srodni stručnjaci/stručnjakinje"
+    },
+    {
+      "code": "2149",
+      "name_hr": "Stručnjaci/stručnjakinje tehničko-tehnoloških znanosti (osim elektrotehnike) d. n."
+    },
+    {
+      "code": "215",
+      "name_hr": "Inženjeri/inženjerke elektrotehnike"
+    },
+    {
+      "code": "2151",
+      "name_hr": "Inženjeri/inženjerke elektroenergetike"
+    },
+    {
+      "code": "2152",
+      "name_hr": "Inženjeri/inženjerke elektronike"
+    },
+    {
+      "code": "2153",
+      "name_hr": "Inženjeri/inženjerke telekomunikacija"
+    },
+    {
+      "code": "216",
+      "name_hr": "Arhitekti/arhitektice, urbanisti/urbanistice, geodeti/geodetkinje i projektanti/projektantice"
+    },
+    {
+      "code": "2161",
+      "name_hr": "Arhitekti/arhitektice"
+    },
+    {
+      "code": "2162",
+      "name_hr": "Krajobrazni arhitekti/krajobrazne arhitektice"
+    },
+    {
+      "code": "2163",
+      "name_hr": "Industrijski i modni dizajneri/industrijske i modne dizajnerice"
+    },
+    {
+      "code": "2164",
+      "name_hr": "Inženjeri/inženjerke urbanizma i prometa"
+    },
+    {
+      "code": "2165",
+      "name_hr": "Kartografi/kartografkinje i geodeti/geodetkinje"
+    },
+    {
+      "code": "2166",
+      "name_hr": "Grafički dizajneri/grafičke dizajnerice i dizajneri/dizajnerice multimedijskih sadržaja"
+    },
+    {
+      "code": "221",
+      "name_hr": "Doktori/doktorice medicine"
+    },
+    {
+      "code": "2211",
+      "name_hr": "Liječnici/liječnice opće prakse"
+    },
+    {
+      "code": "2212",
+      "name_hr": "Liječnici specijalisti/liječnice specijalistice"
+    },
+    {
+      "code": "222",
+      "name_hr": "Stručnjaci/stručnjakinje za zdravstvenu njegu i primaljstvo"
+    },
+    {
+      "code": "2221",
+      "name_hr": "Glavni medicinski tehničari/glavne medicinske sestre opće njege"
+    },
+    {
+      "code": "2222",
+      "name_hr": "Glavne primalje"
+    },
+    {
+      "code": "223",
+      "name_hr": "Stručnjaci/stručnjakinje za tradicionalnu i komplementarnu medicinu"
+    },
+    {
+      "code": "2230",
+      "name_hr": "Stručnjaci/stručnjakinje za tradicionalnu i komplementarnu medicinu"
+    },
+    {
+      "code": "224",
+      "name_hr": "Paramedicinsko osoblje"
+    },
+    {
+      "code": "2240",
+      "name_hr": "Paramedicinsko osoblje"
+    },
+    {
+      "code": "225",
+      "name_hr": "Veterinari/veterinarke"
+    },
+    {
+      "code": "2250",
+      "name_hr": "Veterinari/veterinarke"
+    },
+    {
+      "code": "226",
+      "name_hr": "Ostali zdravstveni radnici/ostale zdravstvene radnice"
+    },
+    {
+      "code": "2261",
+      "name_hr": "Doktori/doktorice dentalne medicine"
+    },
+    {
+      "code": "2262",
+      "name_hr": "Farmaceuti/farmaceutkinje"
+    },
+    {
+      "code": "2263",
+      "name_hr": "Stručnjaci/stručnjakinje zaštite okoliša i zdravlja na radu"
+    },
+    {
+      "code": "2264",
+      "name_hr": "Fizioterapeuti/fizioterapeutkinje"
+    },
+    {
+      "code": "2265",
+      "name_hr": "Dijetetičari/dijetetičarke i nutricionisti/nutricionistice"
+    },
+    {
+      "code": "2266",
+      "name_hr": "Audiolozi/audiologinje i logopedi/logopedinje"
+    },
+    {
+      "code": "2267",
+      "name_hr": "Optometristi/optometristice i očni optičari/očne optičarke"
+    },
+    {
+      "code": "2269",
+      "name_hr": "Zdravstveni stručnjaci/zdravstvene stručnjakinje d. n."
+    },
+    {
+      "code": "231",
+      "name_hr": "Sveučilišni i visokoškolski nastavnici/sveučilišne i visokoškolske nastavnice"
+    },
+    {
+      "code": "2310",
+      "name_hr": "Sveučilišni i visokoškolski nastavnici/ sveučilišne i visokoškolske nastavnice"
+    },
+    {
+      "code": "232",
+      "name_hr": "Strukovni nastavnici/strukovne nastavnice"
+    },
+    {
+      "code": "2320",
+      "name_hr": "Strukovni nastavnici/strukovne nastavnice"
+    },
+    {
+      "code": "233",
+      "name_hr": "Nastavnici/nastavnice u srednjim školama"
+    },
+    {
+      "code": "2330",
+      "name_hr": "Nastavnici/nastavnice u srednjim školama"
+    },
+    {
+      "code": "234",
+      "name_hr": "Učitelji/učiteljice u osnovnim školama i predškolski odgajatelji/predškolske odgajateljice"
+    },
+    {
+      "code": "2341",
+      "name_hr": "Učitelji/učiteljice razredne/predmetne nastave u osnovnim školama"
+    },
+    {
+      "code": "2342",
+      "name_hr": "Predškolski odgajatelji/predškolske odgajateljice"
+    },
+    {
+      "code": "235",
+      "name_hr": "Ostali stručnjaci/ostale stručnjakinje za odgoj i obrazovanje"
+    },
+    {
+      "code": "2351",
+      "name_hr": "Stručnjaci/stručnjakinje za obrazovne metode"
+    },
+    {
+      "code": "2352",
+      "name_hr": "Stručnjaci/stručnjakinje edukacijsko-rehabilitacijskog profila"
+    },
+    {
+      "code": "2353",
+      "name_hr": "Nastavnici/nastavnice izvanškolskoga jezičnog obrazovanja"
+    },
+    {
+      "code": "2354",
+      "name_hr": "Nastavnici/nastavnice izvanškolskoga glazbenog obrazovanja"
+    },
+    {
+      "code": "2355",
+      "name_hr": "Nastavnici/nastavnice izvanškolskoga umjetničkog obrazovanja"
+    },
+    {
+      "code": "2356",
+      "name_hr": "Nastavnici/nastavnice izvanškolskoga informatičkog obrazovanja"
+    },
+    {
+      "code": "2359",
+      "name_hr": "Stručnjaci/stručnjakinje za odgoj i obrazovanje, d. n."
+    },
+    {
+      "code": "241",
+      "name_hr": "Stručnjaci/stručnjakinje za financijsko poslovanje"
+    },
+    {
+      "code": "2411",
+      "name_hr": "Računovodstveni stručnjaci/računovodstvene stručnjakinje"
+    },
+    {
+      "code": "2412",
+      "name_hr": "Financijski i investicijski savjetnici/financijske i investicijske savjetnice"
+    },
+    {
+      "code": "2413",
+      "name_hr": "Financijski analitičari/financijske analitičarke"
+    },
+    {
+      "code": "242",
+      "name_hr": "Stručnjaci/stručnjakinje za upravljanje"
+    },
+    {
+      "code": "2421",
+      "name_hr": "Poslovni i organizacijski analitičari/poslovne i organizacijske analitičarke"
+    },
+    {
+      "code": "2422",
+      "name_hr": "Stručnjaci/stručnjakinje za strateško planiranje"
+    },
+    {
+      "code": "2423",
+      "name_hr": "Stručnjaci/stručnjakinje za ljudske potencijale i upravljanje karijerom"
+    },
+    {
+      "code": "2424",
+      "name_hr": "Stručnjaci/stručnjakinje za osposobljavanje i razvoj zaposlenika"
+    },
+    {
+      "code": "243",
+      "name_hr": "Stručnjaci/stručnjakinje za prodaju, marketing i odnose s javnošću"
+    },
+    {
+      "code": "2431",
+      "name_hr": "Stručnjaci/stručnjakinje za promidžbu i marketing"
+    },
+    {
+      "code": "2432",
+      "name_hr": "Stručnjaci/stručnjakinje za odnose s javnošću"
+    },
+    {
+      "code": "2433",
+      "name_hr": "Stručnjaci/stručnjakinje za prodaju tehničke i medicinske opreme (osim opreme"
+    },
+    {
+      "code": "2434",
+      "name_hr": "Stručnjaci/stručnjakinje za prodaju informacijsko-komunikacijske tehnologije"
+    },
+    {
+      "code": "251",
+      "name_hr": "Stručnjaci/stručnjakinje za razvoj i analizu programske podrške i aplikacija"
+    },
+    {
+      "code": "2511",
+      "name_hr": "Analitičari/analitičarke sustava"
+    },
+    {
+      "code": "2512",
+      "name_hr": "Razvojni inženjeri/razvojne inženjerke za programsku podršku"
+    },
+    {
+      "code": "2513",
+      "name_hr": "Razvojni inženjeri/razvojne inženjerke internetskih i multimedijskih aplikacija"
+    },
+    {
+      "code": "2514",
+      "name_hr": "Programeri/programerke za razvoj aplikacija"
+    },
+    {
+      "code": "2519",
+      "name_hr": "Razvojni inženjeri i analitičari/razvojne inženjerke i analitičarke za razvoj programske"
+    },
+    {
+      "code": "252",
+      "name_hr": "Stručnjaci/stručnjakinje za baze podataka i računalne mreže"
+    },
+    {
+      "code": "2521",
+      "name_hr": "Stručnjaci/stručnjakinje za razvoj baza podataka"
+    },
+    {
+      "code": "2522",
+      "name_hr": "Administratori sustava/administratorice sustava"
+    },
+    {
+      "code": "2523",
+      "name_hr": "Stručnjaci/stručnjakinje za razvoj računalnih mreža"
+    },
+    {
+      "code": "2529",
+      "name_hr": "Stručnjaci/stručnjakinje za baze podataka i računalne mreže, d. n."
+    },
+    {
+      "code": "261",
+      "name_hr": "Pravni stručnjaci/pravne stručnjakinje"
+    },
+    {
+      "code": "2611",
+      "name_hr": "Pravni zastupnici/pravne zastupnice"
+    },
+    {
+      "code": "2612",
+      "name_hr": "Suci/sutkinje"
+    },
+    {
+      "code": "2619",
+      "name_hr": "Pravni stručnjaci/pravne stručnjakinje d. n."
+    },
+    {
+      "code": "262",
+      "name_hr": "Knjižničari/knjižničarke, arhivisti/arhivistice i stručno muzejsko osoblje"
+    },
+    {
+      "code": "2621",
+      "name_hr": "Arhivisti/arhivistice i stručno muzejsko osoblje"
+    },
+    {
+      "code": "2622",
+      "name_hr": "Knjižničari/knjižničarke i informacijski stručnjaci/informacijske stručnjakinje"
+    },
+    {
+      "code": "263",
+      "name_hr": "Stručnjaci/stručnjakinje za društvene i humanističke znanosti i vjerski stručnjaci/vjerske"
+    },
+    {
+      "code": "2631",
+      "name_hr": "Ekonomski stručnjaci/ekonomske stručnjakinje"
+    },
+    {
+      "code": "2632",
+      "name_hr": "Sociolozi/sociologinje, antropolozi/antropologinje i srodni stručnjaci/srodne stručnjakinje"
+    },
+    {
+      "code": "2633",
+      "name_hr": "Filozofi/filozofkinje, povjesničari/povjesničarke i politolozi/politologinje"
+    },
+    {
+      "code": "2634",
+      "name_hr": "Psiholozi/psihologinje"
+    },
+    {
+      "code": "2635",
+      "name_hr": "Stručnjaci/stručnjakinje za socijalni rad i savjetovanje"
+    },
+    {
+      "code": "2636",
+      "name_hr": "Vjerski stručnjaci/vjerske stručnjakinje"
+    },
+    {
+      "code": "264",
+      "name_hr": "Književnici/književnice, novinari/novinarke i jezikoslovci/jezikoslovke"
+    },
+    {
+      "code": "2641",
+      "name_hr": "Književnici/književnice i srodna zanimanja"
+    },
+    {
+      "code": "2642",
+      "name_hr": "Novinari/novinarke"
+    },
+    {
+      "code": "2643",
+      "name_hr": "Prevoditelji/prevoditeljice, tumači/tumačiteljice i drugi jezikoslovci/druge jezikoslovke"
+    },
+    {
+      "code": "265",
+      "name_hr": "Umjetnici/umjetnice i srodni stručnjaci/stručnjakinje d. n."
+    },
+    {
+      "code": "2651",
+      "name_hr": "Likovni umjetnici/likovne umjetnice"
+    },
+    {
+      "code": "2652",
+      "name_hr": "Glazbeni umjetnici/glazbene umjetnice, pjevači/pjevačice i skladatelji/skladateljice"
+    },
+    {
+      "code": "2653",
+      "name_hr": "Plesači/plesačice i koreografi/koreografkinje"
+    },
+    {
+      "code": "2654",
+      "name_hr": "Filmski i kazališni redatelji i producenti/filmske i kazališne redateljice i producentice i"
+    },
+    {
+      "code": "2655",
+      "name_hr": "Dramski umjetnici/dramske umjetnice"
+    },
+    {
+      "code": "2656",
+      "name_hr": "Spikeri/spikerice na radiju, televiziji i u drugim medijima"
+    },
+    {
+      "code": "2659",
+      "name_hr": "Produktivni i reproduktivni umjetnici d. n."
+    },
+    {
+      "code": "311",
+      "name_hr": "Tehničko-tehnološki tehničari/tehničko-tehnološke tehničarke"
+    },
+    {
+      "code": "3111",
+      "name_hr": "Tehničari/tehničarke za fiziku, kemiju i srodna zanimanja"
+    },
+    {
+      "code": "3112",
+      "name_hr": "Tehničari/tehničarke za arhitekturu, građevinarstvo, geodeziju i srodna zanimanja"
+    },
+    {
+      "code": "3113",
+      "name_hr": "Tehničari/tehničarke za elektrotehniku i srodna zanimanja"
+    },
+    {
+      "code": "3114",
+      "name_hr": "Tehničari/tehničarke za elektroniku"
+    },
+    {
+      "code": "3115",
+      "name_hr": "Tehničari/tehničarke strojarstva, brodogradnje i srodna zanimanja"
+    },
+    {
+      "code": "3116",
+      "name_hr": "Tehničari/tehničarke za kemijsku i prehrambenu tehnologiju i biotehnologiju"
+    },
+    {
+      "code": "3117",
+      "name_hr": "Tehničari/tehničarke za rudarstvo, metalurgiju i srodna zanimanja"
+    },
+    {
+      "code": "3118",
+      "name_hr": "Tehnički crtači/tehničke crtačice"
+    },
+    {
+      "code": "3119",
+      "name_hr": "Tehničko-tehnološki tehničari/tehničko-tehnološke tehničarke d. n."
+    },
+    {
+      "code": "312",
+      "name_hr": "Rudarski nadzornici/rudarske nadzornice, nadzornici/nadzornice u proizvodnim"
+    },
+    {
+      "code": "3121",
+      "name_hr": "Rudarski nadzornici/rudarske nadzornice"
+    },
+    {
+      "code": "3122",
+      "name_hr": "Nadzornici/nadzornice u proizvodnim djelatnostima"
+    },
+    {
+      "code": "3123",
+      "name_hr": "Građevinski nadzornici/građevinske nadzornice"
+    },
+    {
+      "code": "313",
+      "name_hr": "Tehničari/tehničarke za nadzor proizvodnje"
+    },
+    {
+      "code": "3131",
+      "name_hr": "Rukovoditelji/rukovoditeljice energetskim i srodnim postrojenjima"
+    },
+    {
+      "code": "3132",
+      "name_hr": "Rukovoditelji/rukovoditeljice spalionica, pogona za pročišćavanje vode i srodna zanimanja"
+    },
+    {
+      "code": "3133",
+      "name_hr": "Kemijsko-procesni tehničari/kemijsko-procesne tehničarke"
+    },
+    {
+      "code": "3134",
+      "name_hr": "Rukovoditelji/rukovoditeljice postrojenjima u rafinerijama nafte i prirodnog plina"
+    },
+    {
+      "code": "3135",
+      "name_hr": "Metalurški procesni tehničari/metalurške procesne tehničarke"
+    },
+    {
+      "code": "3139",
+      "name_hr": "Procesni tehničari/procesne tehničarke d. n."
+    },
+    {
+      "code": "314",
+      "name_hr": "Laboratorijski tehničari/laboratorijske tehničarke u biomedicini, biologiji, farmakologiji i"
+    },
+    {
+      "code": "3141",
+      "name_hr": "Laboratorijski tehničari/laboratorijske tehničarke u biomedicini, biologiji, farmakologiji (osim"
+    },
+    {
+      "code": "3142",
+      "name_hr": "Poljoprivredni tehničari/poljoprivredne tehničarke"
+    },
+    {
+      "code": "3143",
+      "name_hr": "Šumarski tehničari/šumarske tehničarke"
+    },
+    {
+      "code": "315",
+      "name_hr": "Kapetani/kapetanice plovila, piloti/pilotkinje zrakoplova, kontrolori/kontrolorke zračnog"
+    },
+    {
+      "code": "3151",
+      "name_hr": "Časnici stroja/časnice stroja i srodna zanimanja"
+    },
+    {
+      "code": "3152",
+      "name_hr": "Kapetani/kapetanice plovila i srodna zanimanja"
+    },
+    {
+      "code": "3153",
+      "name_hr": "Piloti/pilotkinje zrakoplova i srodni zrakoplovni stručnjaci/srodne zrakoplovne stručnjakinje"
+    },
+    {
+      "code": "3154",
+      "name_hr": "Kontrolori/kontrolorke leta"
+    },
+    {
+      "code": "3155",
+      "name_hr": "Tehničari/tehničarke za sigurnost zračnog prometa"
+    },
+    {
+      "code": "321",
+      "name_hr": "Medicinski i farmaceutski tehničari/medicinske i farmaceutske tehničarke"
+    },
+    {
+      "code": "3211",
+      "name_hr": "Tehničari/tehničarke medicinskih uređaja"
+    },
+    {
+      "code": "3212",
+      "name_hr": "Zdravstveno laboratorijski i patološki tehničari/zdravstveno laboratorijske i patološke"
+    },
+    {
+      "code": "3213",
+      "name_hr": "Farmaceutski tehničari/farmaceutske tehničarke"
+    },
+    {
+      "code": "3214",
+      "name_hr": "Dentalni i ortopedski tehničari/dentalne i ortopedske tehničarke"
+    },
+    {
+      "code": "322",
+      "name_hr": "Medicinske sestre/medicinski tehničari"
+    },
+    {
+      "code": "3221",
+      "name_hr": "Medicinske sestre/medicinski tehničari"
+    },
+    {
+      "code": "3222",
+      "name_hr": "Medicinske sestre-primalje"
+    },
+    {
+      "code": "323",
+      "name_hr": "Zanimanja srodna stručnjacima za tradicionalnu i komplementarnu medicinu"
+    },
+    {
+      "code": "3230",
+      "name_hr": "Zanimanja srodna stručnjacima za tradicionalnu i komplementarnu medicinu"
+    },
+    {
+      "code": "324",
+      "name_hr": "Veterinarski tehničari, asistenti/ veterinarske tehničarke, asistentice"
+    },
+    {
+      "code": "3240",
+      "name_hr": "Veterinarski tehničari, asistenti/ veterinarske tehničarke, asistentice"
+    },
+    {
+      "code": "325",
+      "name_hr": "Ostali tehničari i asistenti/ostale tehničarke i asistentice u zdravstvu"
+    },
+    {
+      "code": "3251",
+      "name_hr": "Dentalni asistenti i terapeuti/dentalne asistentice i terapeutkinje"
+    },
+    {
+      "code": "3252",
+      "name_hr": "Tehničari/tehničarke za vođenje zdravstvenih kartoteka i informacija"
+    },
+    {
+      "code": "3253",
+      "name_hr": "Patronažni zdravstveni djelatnici/patronažne zdravstvene djelatnice"
+    },
+    {
+      "code": "3254",
+      "name_hr": "Optičari/optičarke"
+    },
+    {
+      "code": "3255",
+      "name_hr": "Fizioterapeutski tehničari/fizioterapeutske tehničarke"
+    },
+    {
+      "code": "3256",
+      "name_hr": "Asistenti/asistentice zdravstvene njege"
+    },
+    {
+      "code": "3257",
+      "name_hr": "Inspektori/inspektorice za zaštitu okoliša, higijenu i medicinu rada i srodna zanimanja"
+    },
+    {
+      "code": "3258",
+      "name_hr": "Osoblje vozila hitne medicinske pomoći"
+    },
+    {
+      "code": "3259",
+      "name_hr": "Zdravstveni radnici/zdravstvene radnice d. n."
+    },
+    {
+      "code": "331",
+      "name_hr": "Financijski, matematički i ekonomski stručni suradnici/financijske matematičke i"
+    },
+    {
+      "code": "3311",
+      "name_hr": "Burzovni posrednici/burzovne posrednice"
+    },
+    {
+      "code": "3312",
+      "name_hr": "Stručni suradnici/stručne suradnice za kredite i zajmove"
+    },
+    {
+      "code": "3313",
+      "name_hr": "Ekonomisti/ekonomistice i voditelji/voditeljice dijelova računovodstva"
+    },
+    {
+      "code": "3314",
+      "name_hr": "Statističko-matematički stručnjaci/statističko-matematičke stručnjakinje i srodna zanimanja"
+    },
+    {
+      "code": "3315",
+      "name_hr": "Procjenitelji/procjeniteljice vrijednosti i štete"
+    },
+    {
+      "code": "332",
+      "name_hr": "Posrednici/posrednice i zastupnici/zastupnice za prodaju i nabavu"
+    },
+    {
+      "code": "3321",
+      "name_hr": "Zastupnici osiguranja/zastupnice osiguranja"
+    },
+    {
+      "code": "3322",
+      "name_hr": "Komercijalisti/komercijalistice u prodaji"
+    },
+    {
+      "code": "3323",
+      "name_hr": "Referenti/referentice nabave"
+    },
+    {
+      "code": "3324",
+      "name_hr": "Posrednici/posrednice za prijevoz, trgovinu i srodna zanimanja"
+    },
+    {
+      "code": "333",
+      "name_hr": "Posrednici/posrednice za poslovne usluge i srodna zanimanja"
+    },
+    {
+      "code": "3331",
+      "name_hr": "Špediteri/špediterke i srodna zanimanja"
+    },
+    {
+      "code": "3332",
+      "name_hr": "Organizatori/organizatorice konferencija i događaja"
+    },
+    {
+      "code": "3333",
+      "name_hr": "Posrednici/posrednice pri zapošljavanju i srodna zanimanja"
+    },
+    {
+      "code": "3334",
+      "name_hr": "Agenti/agentice posredovanja u prometu nekretnina"
+    },
+    {
+      "code": "3339",
+      "name_hr": "Poslovni posrednici/poslovne posrednice d. n."
+    },
+    {
+      "code": "334",
+      "name_hr": "Opći i specijalizirani poslovni tajnici/opće i specijalizirane poslovne tajnice"
+    },
+    {
+      "code": "3341",
+      "name_hr": "Voditelji/voditeljice ureda"
+    },
+    {
+      "code": "3342",
+      "name_hr": "Pravni tajnici/pravne tajnice"
+    },
+    {
+      "code": "3343",
+      "name_hr": "Poslovni tajnici/poslovne tajnice u upravi i poslovanju"
+    },
+    {
+      "code": "3344",
+      "name_hr": "Poslovni tajnici/poslovne tajnice u zdravstvu"
+    },
+    {
+      "code": "335",
+      "name_hr": "Stručni suradnici/stručne suradnice na poslovima državne regulative"
+    },
+    {
+      "code": "3351",
+      "name_hr": "Carinski inspektori/carinske inspektorice i granični inspektori/granične inspektorice"
+    },
+    {
+      "code": "3352",
+      "name_hr": "Poreznici/poreznice"
+    },
+    {
+      "code": "3353",
+      "name_hr": "Referenti/referentice za socijalnu skrb i srodna zanimanja"
+    },
+    {
+      "code": "3354",
+      "name_hr": "Referenti/referentice za koncesije, dozvole i srodna zanimanja"
+    },
+    {
+      "code": "3355",
+      "name_hr": "Kriminalisti/kriminalistkinje i srodna zanimanja"
+    },
+    {
+      "code": "3359",
+      "name_hr": "Stručni suradnici/stručne suradnice na poslovima državne regulative d. n."
+    },
+    {
+      "code": "341",
+      "name_hr": "Stručni suradnici/stručne suradnice za pravna, društvena i vjerska pitanja"
+    },
+    {
+      "code": "3411",
+      "name_hr": "Pravni asistenti/pravne asistentice i srodna zanimanja"
+    },
+    {
+      "code": "3412",
+      "name_hr": "Socijalni radnici/socijalne radnice"
+    },
+    {
+      "code": "3413",
+      "name_hr": "Stručnjaci/stručnjakinje za vjerska pitanja"
+    },
+    {
+      "code": "342",
+      "name_hr": "Stručni suradnici/stručne suradnice za šport i fitnes"
+    },
+    {
+      "code": "3421",
+      "name_hr": "Športaši/športašice i srodna zanimanja"
+    },
+    {
+      "code": "3422",
+      "name_hr": "Športski treneri/trenerice; športski instruktori/instruktorice"
+    },
+    {
+      "code": "3423",
+      "name_hr": "Instruktori/instruktorice fitnesa i rekreacije i voditelji športskih programa"
+    },
+    {
+      "code": "343",
+      "name_hr": "Stručni suradnici/stručne suradnice za djelatnosti u umjetnosti, kulturi i kulinarstvu"
+    },
+    {
+      "code": "3431",
+      "name_hr": "Fotografi/fotografkinje"
+    },
+    {
+      "code": "3432",
+      "name_hr": "Dizajneri, dekorateri i aranžeri/dizajnerice, dekoraterke i aranžerke"
+    },
+    {
+      "code": "3433",
+      "name_hr": "Galerijski i muzejski tehničari i knjižničari/galerijske i muzejske tehničarke i knjižničarke"
+    },
+    {
+      "code": "3434",
+      "name_hr": "Glavni kuhari/glavne kuharice"
+    },
+    {
+      "code": "3435",
+      "name_hr": "Stručni suradnici/stručne suradnice za djelatnosti u umjetnosti i kulturi d. n."
+    },
+    {
+      "code": "351",
+      "name_hr": "Tehničari/tehničarke informacijske i komunikacijske tehnologije za podršku radu i"
+    },
+    {
+      "code": "3511",
+      "name_hr": "Tehničari/tehničarke informacijske i komunikacijske tehnologije za podršku radu"
+    },
+    {
+      "code": "3512",
+      "name_hr": "Tehničari/tehničarke informacijske i komunikacijske tehnologije za podršku korisnicima"
+    },
+    {
+      "code": "3513",
+      "name_hr": "Tehničari/tehničarke za razvoj računalnih mreža i sustava"
+    },
+    {
+      "code": "3514",
+      "name_hr": "Tehničari/tehničarke za mrežne aplikacije"
+    },
+    {
+      "code": "352",
+      "name_hr": "Tehničari/tehničarke za telekomunikacije i emitiranje"
+    },
+    {
+      "code": "3521",
+      "name_hr": "Tehničari/tehničarke za emitiranje i audio-vizualne sustave"
+    },
+    {
+      "code": "3522",
+      "name_hr": "Tehničari/tehničarke za telekomunikacije"
+    },
+    {
+      "code": "411",
+      "name_hr": "Uredski službenici/uredske službenice za opće poslove"
+    },
+    {
+      "code": "4110",
+      "name_hr": "Uredski službenici/uredske službenice za opće poslove"
+    },
+    {
+      "code": "412",
+      "name_hr": "Tajnici/tajnice"
+    },
+    {
+      "code": "4120",
+      "name_hr": "Tajnici/tajnice i srodna zanimanja"
+    },
+    {
+      "code": "413",
+      "name_hr": "Daktilografi/daktilografkinje i službenici/službenice unosa podataka"
+    },
+    {
+      "code": "4131",
+      "name_hr": "Daktilografi/daktilografkinje i operatori/operaterke za uređivanje teksta na računalu"
+    },
+    {
+      "code": "4132",
+      "name_hr": "Službenici/službenice za unos podataka"
+    },
+    {
+      "code": "421",
+      "name_hr": "Službenici/službenice za šaltersko novčano poslovanje"
+    },
+    {
+      "code": "4211",
+      "name_hr": "Bankarski službenici/bankarske službenice za šaltersko novčano poslovanje i srodna"
+    },
+    {
+      "code": "4212",
+      "name_hr": "Službenici/službenice u kladionici, kasinu i srodna zanimanja"
+    },
+    {
+      "code": "4213",
+      "name_hr": "Šalterski službenici/šalterske službenice u zalagaonicama"
+    },
+    {
+      "code": "4214",
+      "name_hr": "Sakupljači/sakupljačice dugova i srodna zanimanja"
+    },
+    {
+      "code": "422",
+      "name_hr": "Službenici/službenice za pružanje informacija strankama"
+    },
+    {
+      "code": "4221",
+      "name_hr": "Organizatori/organizatorice putovanja i službenici/službenice u turističkim agencijama"
+    },
+    {
+      "code": "4222",
+      "name_hr": "Službenici/službenice za pružanje informacija u kontakt centru"
+    },
+    {
+      "code": "4223",
+      "name_hr": "Operatori/operatorice na telefonskoj centrali"
+    },
+    {
+      "code": "4224",
+      "name_hr": "Hotelski recepcionari/hotelske recepcionarke"
+    },
+    {
+      "code": "4225",
+      "name_hr": "Službenici/službenice za pružanje informacija"
+    },
+    {
+      "code": "4226",
+      "name_hr": "Recepcionari/recepcionarke (općenito)"
+    },
+    {
+      "code": "4227",
+      "name_hr": "Anketari/anketarke za istraživanje tržišta"
+    },
+    {
+      "code": "4229",
+      "name_hr": "Službenici/službenice za šalterske informacije d. n."
+    },
+    {
+      "code": "431",
+      "name_hr": "Službenici/službenice u knjigovodstvu, statistici, financijama, osiguranju i srodnim"
+    },
+    {
+      "code": "4311",
+      "name_hr": "Službenici/službenice u knjigovodstvu"
+    },
+    {
+      "code": "4312",
+      "name_hr": "Službenici/službenice u statistici, financijama i osiguranju"
+    },
+    {
+      "code": "4313",
+      "name_hr": "Službenici/službenice za obračun plaća"
+    },
+    {
+      "code": "432",
+      "name_hr": "Službenici/službenice u skladištu, proizvodnji, prometu i srodnim djelatnostima"
+    },
+    {
+      "code": "4321",
+      "name_hr": "Skladišni službenici/skladišne službenice"
+    },
+    {
+      "code": "4322",
+      "name_hr": "Uredski službenici/uredske službenice u proizvodnji"
+    },
+    {
+      "code": "4323",
+      "name_hr": "Prometni uredski službenici/prometne uredske službenice"
+    },
+    {
+      "code": "441",
+      "name_hr": "Ostali administrativni službenici/ostale administrativne službenice"
+    },
+    {
+      "code": "4411",
+      "name_hr": "Službenici/službenice knjižnica i muzeja"
+    },
+    {
+      "code": "4412",
+      "name_hr": "Poštari/poštarice"
+    },
+    {
+      "code": "4413",
+      "name_hr": "Šifranti i korektori/šifrantice i korektorice"
+    },
+    {
+      "code": "4414",
+      "name_hr": "Pisari/pisarke i srodna zanimanja"
+    },
+    {
+      "code": "4415",
+      "name_hr": "Arhivski i kopirni službenici/arhivske i kopirne službenice"
+    },
+    {
+      "code": "4416",
+      "name_hr": "Službenici/službenice za ljudske potencijale"
+    },
+    {
+      "code": "4419",
+      "name_hr": "Administrativni službenici/administrativne službenice d. n."
+    },
+    {
+      "code": "511",
+      "name_hr": "Članovi/članice kabinske posade, kondukteri/kondukterke i vodiči/vodičice"
+    },
+    {
+      "code": "5111",
+      "name_hr": "Članovi/članice kabinske posade"
+    },
+    {
+      "code": "5112",
+      "name_hr": "Kondukteri/kondukterke"
+    },
+    {
+      "code": "5113",
+      "name_hr": "Vodiči/vodičice"
+    },
+    {
+      "code": "512",
+      "name_hr": "Kuhari/kuharice"
+    },
+    {
+      "code": "5120",
+      "name_hr": "Kuhari/kuharice"
+    },
+    {
+      "code": "513",
+      "name_hr": "Konobari/konobarice i barmeni/barmenice"
+    },
+    {
+      "code": "5131",
+      "name_hr": "Konobari/konobarice"
+    },
+    {
+      "code": "5132",
+      "name_hr": "Barmeni/barmenice"
+    },
+    {
+      "code": "514",
+      "name_hr": "Frizeri/frizerke, kozmetičari/kozmetičarke i srodna zanimanja"
+    },
+    {
+      "code": "5141",
+      "name_hr": "Frizeri/frizerke"
+    },
+    {
+      "code": "5142",
+      "name_hr": "Kozmetičari/kozmetičarke, pedikeri/pedikerke i srodna zanimanja"
+    },
+    {
+      "code": "515",
+      "name_hr": "Kućanska zanimanja, kućepazitelji/kućepaziteljice"
+    },
+    {
+      "code": "5151",
+      "name_hr": "Djelatnici/djelatnice za čišćenje i održavanje u uredima, hotelima i drugim objektima"
+    },
+    {
+      "code": "5152",
+      "name_hr": "Domaćini/domaćice"
+    },
+    {
+      "code": "5153",
+      "name_hr": "Kućepazitelji/kućepaziteljice"
+    },
+    {
+      "code": "516",
+      "name_hr": "Ostala uslužna zanimanja"
+    },
+    {
+      "code": "5161",
+      "name_hr": "Astrolozi/astrologinje i srodna zanimanja"
+    },
+    {
+      "code": "5162",
+      "name_hr": "Pratitelj/pratiteljice i posluga"
+    },
+    {
+      "code": "5163",
+      "name_hr": "Grobari/grobarke, pogrebnici/pogrebnice i srodna zanimanja"
+    },
+    {
+      "code": "5164",
+      "name_hr": "Njegovatelji/njegovateljice, radnici/radnice koje skrbe o životinjama"
+    },
+    {
+      "code": "5165",
+      "name_hr": "Instruktori /instruktorice vožnje"
+    },
+    {
+      "code": "5169",
+      "name_hr": "Uslužna zanimanja, d. n."
+    },
+    {
+      "code": "521",
+      "name_hr": "Ulični prodavači/ulične prodavačice, prodavači/prodavačice na štandovima"
+    },
+    {
+      "code": "5211",
+      "name_hr": "Prodavači/prodavačice na štandovima"
+    },
+    {
+      "code": "5212",
+      "name_hr": "Ulični prodavači/ulične prodavačice hrane"
+    },
+    {
+      "code": "522",
+      "name_hr": "Prodavači/prodavačice u trgovinama"
+    },
+    {
+      "code": "5221",
+      "name_hr": "Trgovci/trgovke u vlastitim trgovinama"
+    },
+    {
+      "code": "5222",
+      "name_hr": "Poslovođe/poslovotkinje u trgovinama"
+    },
+    {
+      "code": "5223",
+      "name_hr": "Prodavači/prodavačice u trgovinama"
+    },
+    {
+      "code": "523",
+      "name_hr": "Blagajnici/blagajnice, prodavači/prodavačice ulaznica i srodna zanimanja"
+    },
+    {
+      "code": "5230",
+      "name_hr": "Blagajnici/blagajnice, prodavači/prodavačice ulaznica i srodna zanimanja"
+    },
+    {
+      "code": "524",
+      "name_hr": "Ostali prodavači/ostale prodavačice"
+    },
+    {
+      "code": "5241",
+      "name_hr": "Manekeni/manekenke, modeli i srodna zanimanja"
+    },
+    {
+      "code": "5242",
+      "name_hr": "Demonstratori/demonstratorice za prodaju"
+    },
+    {
+      "code": "5243",
+      "name_hr": "Zastupnici/zastupnice direktne prodaje"
+    },
+    {
+      "code": "5244",
+      "name_hr": "Prodavači/prodavačice u kontakt centru"
+    },
+    {
+      "code": "5245",
+      "name_hr": "Prodavači/prodavačice na benzinskim postajama"
+    },
+    {
+      "code": "5246",
+      "name_hr": "Prodavači/prodavačice brze hrane"
+    },
+    {
+      "code": "5249",
+      "name_hr": "Prodavači/prodavačice, d. n."
+    },
+    {
+      "code": "531",
+      "name_hr": "Njegovatelji/njegovateljice djece i pomoćnici /pomoćnice učitelja"
+    },
+    {
+      "code": "5311",
+      "name_hr": "Njegovatelji/njegovateljice djece"
+    },
+    {
+      "code": "5312",
+      "name_hr": "Pomoćnici učitelja/pomoćnice učitelja"
+    },
+    {
+      "code": "532",
+      "name_hr": "Djelatnici/djelatnice za zdravstvenu skrb, i srodna zanimanja"
+    },
+    {
+      "code": "5321",
+      "name_hr": "Djelatnici/djelatnice za zdravstvenu i socijalnu skrb u ustanovama"
+    },
+    {
+      "code": "5322",
+      "name_hr": "Djelatnici/djelatnice za zdravstvenu i socijalnu skrb u kući"
+    },
+    {
+      "code": "5329",
+      "name_hr": "Djelatnici/djelatnice za zdravstvenu i socijalnu skrb, d.n."
+    },
+    {
+      "code": "541",
+      "name_hr": "Djelatnici/djelatnice za zaštitu osoba i imovine"
+    },
+    {
+      "code": "5411",
+      "name_hr": "Vatrogasci/vatrogaskinje"
+    },
+    {
+      "code": "5412",
+      "name_hr": "Policajci/policajke"
+    },
+    {
+      "code": "5413",
+      "name_hr": "Zatvorski policajci/zatvorske policajke"
+    },
+    {
+      "code": "5414",
+      "name_hr": "Zaštitari/zaštitarke"
+    },
+    {
+      "code": "5419",
+      "name_hr": "Djelatnici/djelatnice za zaštitu osoba i imovine, d. n."
+    },
+    {
+      "code": "611",
+      "name_hr": "Ratari/ratarke, voćari/voćarke, vinogradari/vinogradarke i povrtlari/povrtlarke usmjereni na"
+    },
+    {
+      "code": "6111",
+      "name_hr": "Ratari/ratarke i povrtlari/povrtlarke"
+    },
+    {
+      "code": "6112",
+      "name_hr": "Voćari/voćarke, vinogradari/vinogradarke i srodna zanimanja"
+    },
+    {
+      "code": "6113",
+      "name_hr": "Vrtlari/vrtlarke, hortikulturni djelatnici/hortikulturne djelatnice i srodna zanimanja"
+    },
+    {
+      "code": "6114",
+      "name_hr": "Ratari/ratarke mješovite biljne proizvodnje"
+    },
+    {
+      "code": "612",
+      "name_hr": "Uzgajivači/uzgajivačice životinja"
+    },
+    {
+      "code": "6121",
+      "name_hr": "Stočari/stočarice"
+    },
+    {
+      "code": "6122",
+      "name_hr": "Peradari/peradarice"
+    },
+    {
+      "code": "6123",
+      "name_hr": "Pčelari/pčelarke i svilari/svilarke"
+    },
+    {
+      "code": "6129",
+      "name_hr": "Uzgajivači/uzgajivačice životinja d. n."
+    },
+    {
+      "code": "613",
+      "name_hr": "Poljoprivrednici/poljoprivrednice mješovite poljoprivredne proizvodnje (biljna i stočarska)"
+    },
+    {
+      "code": "6130",
+      "name_hr": "Poljoprivrednici/poljoprivrednice mješovite poljoprivredne proizvodnje (biljna i stočarska)"
+    },
+    {
+      "code": "621",
+      "name_hr": "Šumari/šumarke i srodna zanimanja"
+    },
+    {
+      "code": "6210",
+      "name_hr": "Šumari/šumarke i srodna zanimanja"
+    },
+    {
+      "code": "622",
+      "name_hr": "Ribari/ribarke, lovci/lovkinje, stupičari/stupičarke i srodna zanimanja"
+    },
+    {
+      "code": "6221",
+      "name_hr": "Uzgajivači/uzgajivačice riba i školjki"
+    },
+    {
+      "code": "6222",
+      "name_hr": "Obalni ribari/obalne ribarke i srodna zanimanja"
+    },
+    {
+      "code": "6223",
+      "name_hr": "Ribari/ribarke na otvorenom moru"
+    },
+    {
+      "code": "6224",
+      "name_hr": "Lovci/lovkinje, stupičari/stupičarke i srodna zanimanja"
+    },
+    {
+      "code": "631",
+      "name_hr": "Ratari/ratarke za osobne potrebe"
+    },
+    {
+      "code": "6310",
+      "name_hr": "Ratari/ratarke za osobne potrebe"
+    },
+    {
+      "code": "632",
+      "name_hr": "Stočari/stočarice za osobne potrebe"
+    },
+    {
+      "code": "6320",
+      "name_hr": "Stočari/stočarice za osobne potrebe"
+    },
+    {
+      "code": "633",
+      "name_hr": "Poljoprivrednici/poljoprivrednice proizvodnje (biljne i stočarske)"
+    },
+    {
+      "code": "6330",
+      "name_hr": "Poljoprivrednici/poljoprivrednice proizvodnje (biljne i stočarske)"
+    },
+    {
+      "code": "634",
+      "name_hr": "Ribari/ribarke, lovci/lovkinje, stupičari/stupičarke, skupljači plodova/skupljačice plodova za"
+    },
+    {
+      "code": "6340",
+      "name_hr": "Ribari/ribarke, lovci/lovkinje, stupičari/stupičarke, skupljači plodova/skupljačice plodova za"
+    },
+    {
+      "code": "711",
+      "name_hr": "Zidari/zidarke i srodna građevinska zanimanja"
+    },
+    {
+      "code": "7111",
+      "name_hr": "Graditelji/graditeljice kuća"
+    },
+    {
+      "code": "7112",
+      "name_hr": "Zidari/zidarke i srodna zanimanja"
+    },
+    {
+      "code": "7113",
+      "name_hr": "Kamenoresci/kamenoreskinje, klesari/klesarice i srodna zanimanja"
+    },
+    {
+      "code": "7114",
+      "name_hr": "Armirači i betonirci/armiračice i betonirke"
+    },
+    {
+      "code": "7115",
+      "name_hr": "Tesari i građevinski stolari/tesarice i građevinske stolarice"
+    },
+    {
+      "code": "7119",
+      "name_hr": "Zidari/zidarice i srodna građevinska zanimanja d.n."
+    },
+    {
+      "code": "712",
+      "name_hr": "Građevinari/građevinarke završnih radova i srodna zanimanja"
+    },
+    {
+      "code": "7121",
+      "name_hr": "Krovopokrivači/krovopokrivačice"
+    },
+    {
+      "code": "7122",
+      "name_hr": "Podopolagači/podopolagačice i srodna zanimanja"
+    },
+    {
+      "code": "7123",
+      "name_hr": "Fasaderi i gipsari/fasaderke i gipsarice"
+    },
+    {
+      "code": "7124",
+      "name_hr": "Izolateri/izolaterke"
+    },
+    {
+      "code": "7125",
+      "name_hr": "Ostakljivači/ostakljivačice"
+    },
+    {
+      "code": "7126",
+      "name_hr": "Instalateri/instalaterke i monteri/monterke cjevovoda"
+    },
+    {
+      "code": "7127",
+      "name_hr": "Instalateri/instalaterke i serviseri/serviserke klimatizacijskih uređaja"
+    },
+    {
+      "code": "713",
+      "name_hr": "Soboslikari/soboslikarice, ličioci/ličiteljice, perači /peračice fasada i srodna zanimanja"
+    },
+    {
+      "code": "7131",
+      "name_hr": "Soboslikari/soboslikarice, ličioci/ličiteljice i srodna zanimanja"
+    },
+    {
+      "code": "7132",
+      "name_hr": "Lakireri/lakirerice i srodna zanimanja"
+    },
+    {
+      "code": "7133",
+      "name_hr": "Dimnjačari/dimnjačarke, perači/peračice fasada"
+    },
+    {
+      "code": "721",
+      "name_hr": "Ljevači metala/ljevačice metala, zavarivači/zavarivačice, limari/limarice i srodna zanimanja"
+    },
+    {
+      "code": "7211",
+      "name_hr": "Ljevači/ljevačice metala i srodna zanimanja"
+    },
+    {
+      "code": "7212",
+      "name_hr": "Zavarivači/zavarivačice i srodna zanimanja"
+    },
+    {
+      "code": "7213",
+      "name_hr": "Limari/limarice i srodna zanimanja"
+    },
+    {
+      "code": "7214",
+      "name_hr": "Monteri/monterke metalnih konstrukcija i srodna zanimanja"
+    },
+    {
+      "code": "7215",
+      "name_hr": "Monteri/monterke čelične užadi i žica"
+    },
+    {
+      "code": "722",
+      "name_hr": "Kovači/kovačice, alatničari/alatničarke i srodna zanimanja"
+    },
+    {
+      "code": "7221",
+      "name_hr": "Kovači/kovačice"
+    },
+    {
+      "code": "7222",
+      "name_hr": "Alatničari/alatničarke i srodna zanimanja"
+    },
+    {
+      "code": "7223",
+      "name_hr": "Kovinoglodači/kovinoglodačice i srodna zanimanja"
+    },
+    {
+      "code": "7224",
+      "name_hr": "Polirači/poliračice, brusači/brusačice, oštrači/oštračice"
+    },
+    {
+      "code": "723",
+      "name_hr": "Mehaničari/mehaničarke, monteri/monterke strojeva i vozila"
+    },
+    {
+      "code": "7231",
+      "name_hr": "Mehaničari/mehaničarke i monteri/monterke motornih vozila"
+    },
+    {
+      "code": "7232",
+      "name_hr": "Mehaničari/mehaničarke i monteri/monterke zrakoplova"
+    },
+    {
+      "code": "7233",
+      "name_hr": "Mehaničari/mehaničarke i monteri/monterke industrijskih i ostalih strojeva i srodna"
+    },
+    {
+      "code": "7234",
+      "name_hr": "Mehaničari/mehaničarke bicikala"
+    },
+    {
+      "code": "731",
+      "name_hr": "Zanatski radnici/zanatske radnice"
+    },
+    {
+      "code": "7311",
+      "name_hr": "Precizni mehaničari/precizne mehaničarke"
+    },
+    {
+      "code": "7312",
+      "name_hr": "Glazbalari/glazbalarke i ugađači/ugađačice glazbala"
+    },
+    {
+      "code": "7313",
+      "name_hr": "Zlatari/zlatarice, draguljari/draguljarke i srodna zanimanja"
+    },
+    {
+      "code": "7314",
+      "name_hr": "Keramičari/keramičarke, lončari/lončarke i srodna zanimanja"
+    },
+    {
+      "code": "7315",
+      "name_hr": "Staklari/staklarke i srodna zanimanja"
+    },
+    {
+      "code": "7316",
+      "name_hr": "Izrađivači/izrađivačice tiskarskih formi i klišeja, dekorateri/dekoraterke, graveri/graverke,"
+    },
+    {
+      "code": "7317",
+      "name_hr": "Izrađivači/izrađivačice tradicijskih proizvoda od drva i srodnih materijala, pletači/pletačice"
+    },
+    {
+      "code": "7318",
+      "name_hr": "Izrađivači/izrađivačice tradicijskih proizvoda od tekstila, kože i srodnih materijala"
+    },
+    {
+      "code": "7319",
+      "name_hr": "Zanatski radnici/zanatske radnice, d. n."
+    },
+    {
+      "code": "732",
+      "name_hr": "Tiskari/tiskarice i srodna zanimanja"
+    },
+    {
+      "code": "7321",
+      "name_hr": "Slagari/slagarke"
+    },
+    {
+      "code": "7322",
+      "name_hr": "Tiskari/tiskarice"
+    },
+    {
+      "code": "7323",
+      "name_hr": "Rukovatelji/rukovateljice tiskarskim, knjigoveškim i sličnim strojevima"
+    },
+    {
+      "code": "741",
+      "name_hr": "Mehaničari/mehaničarke i monteri/monterke električnih naprava i opreme"
+    },
+    {
+      "code": "7411",
+      "name_hr": "Elektroinstalateri/elektroinstalaterke i srodna zanimanja"
+    },
+    {
+      "code": "7412",
+      "name_hr": "Elektromehaničari/elektromehaničarke"
+    },
+    {
+      "code": "7413",
+      "name_hr": "Monteri/monterke električnih vodova"
+    },
+    {
+      "code": "742",
+      "name_hr": "Monteri/monterke, serviseri/serviserke elektroničkih i telekomunikacijskih uređaja"
+    },
+    {
+      "code": "7421",
+      "name_hr": "Mehaničari/mehaničarke i serviseri/serviserke elektronike"
+    },
+    {
+      "code": "7422",
+      "name_hr": "Monteri/monterke, serviseri/serviserke informacijsko-komunikacijskih uređaja"
+    },
+    {
+      "code": "751",
+      "name_hr": "Prerađivači/prerađivačice hrane i srodna zanimanja"
+    },
+    {
+      "code": "7511",
+      "name_hr": "Mesari/mesarice i srodna zanimanja"
+    },
+    {
+      "code": "7512",
+      "name_hr": "Pekari/pekarice, slastičari/slastičarke i srodna zanimanja"
+    },
+    {
+      "code": "7513",
+      "name_hr": "Prerađivači/prerađivačice mlijeka"
+    },
+    {
+      "code": "7514",
+      "name_hr": "Prerađivači/prerađivačice voća, povrća i srodna zanimanja"
+    },
+    {
+      "code": "7515",
+      "name_hr": "Kušači i ocjenjivači/kušateljice i ocjenjivačice namirnica"
+    },
+    {
+      "code": "7516",
+      "name_hr": "Prerađivači/prerađivačice duhana i srodna zanimanja"
+    },
+    {
+      "code": "752",
+      "name_hr": "Prerađivači/prerađivačice drva, stolari/stolarice i srodna zanimanja"
+    },
+    {
+      "code": "7521",
+      "name_hr": "Prerađivači/prerađivačice drva"
+    },
+    {
+      "code": "7522",
+      "name_hr": "Stolari/stolarice i srodna zanimanja"
+    },
+    {
+      "code": "7523",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za preradu drva i srodna zanimanja"
+    },
+    {
+      "code": "753",
+      "name_hr": "Zanimanja u proizvodnji i preradi tekstila"
+    },
+    {
+      "code": "7531",
+      "name_hr": "Krojači/krojačice, krznari/krznarice i klobučari/klobučarke"
+    },
+    {
+      "code": "7532",
+      "name_hr": "Krojitelji/kroljiteljice tekstila i srodna zanimanja"
+    },
+    {
+      "code": "7533",
+      "name_hr": "Šivači/šivačice, vezilje i srodna zanimanja"
+    },
+    {
+      "code": "7534",
+      "name_hr": "Tapetari/tapetarke i srodna zanimanja"
+    },
+    {
+      "code": "7535",
+      "name_hr": "Kožari/kožarice"
+    },
+    {
+      "code": "7536",
+      "name_hr": "Obućari/obućarke, kožni galanteristi/kožne galanteristice i srodna zanimanja"
+    },
+    {
+      "code": "754",
+      "name_hr": "Ostala zanimanja u obrtu i srodna zanimanja"
+    },
+    {
+      "code": "7541",
+      "name_hr": "Ronioci/roniteljice"
+    },
+    {
+      "code": "7542",
+      "name_hr": "Mineri/minerice, pirotehničar/pirotehničarke i srodna zanimanja"
+    },
+    {
+      "code": "7543",
+      "name_hr": "Ocjenjivači/ocjenjivačice proizvoda (osim namirnica)"
+    },
+    {
+      "code": "7544",
+      "name_hr": "Raskužitelji/raskužiteljice i srodna zanimanja"
+    },
+    {
+      "code": "7549",
+      "name_hr": "Zanimanja u obrtu i srodna zanimanja, d. n."
+    },
+    {
+      "code": "811",
+      "name_hr": "Rukovatelji/rukovateljice rudarskim i sličnim postrojenjima"
+    },
+    {
+      "code": "8111",
+      "name_hr": "Rudari/rudarke, kamenolomci/kamenolomke"
+    },
+    {
+      "code": "8112",
+      "name_hr": "Rukovatelji/rukovateljice postrojenjima i strojevima za obradu rude i kamena"
+    },
+    {
+      "code": "8113",
+      "name_hr": "Bušači/bušačice bušotina i srodna zanimanja"
+    },
+    {
+      "code": "8114",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za proizvodnju cementnih, mineralnih proizvoda i"
+    },
+    {
+      "code": "812",
+      "name_hr": "Rukovatelji/rukovateljice postrojenjima za proizvodnju metala i legura"
+    },
+    {
+      "code": "8121",
+      "name_hr": "Rukovatelji/rukovateljice postrojenjima za proizvodnju metala"
+    },
+    {
+      "code": "8122",
+      "name_hr": "Rukovatelji/rukovateljice postrojenjima za proizvodnju legura"
+    },
+    {
+      "code": "813",
+      "name_hr": "Rukovatelji/rukovateljice kemijskih postrojenja i srodna zanimanja"
+    },
+    {
+      "code": "8131",
+      "name_hr": "Rukovatelji/rukovateljice postrojenjima i strojevima za kemijsku preradu i proizvodnju"
+    },
+    {
+      "code": "8132",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za izradu fotografskih proizvoda"
+    },
+    {
+      "code": "814",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za proizvodnju gumenih, plastičnih i papirnatih"
+    },
+    {
+      "code": "8141",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za proizvodnju gumenih proizvoda"
+    },
+    {
+      "code": "8142",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za proizvodnju plastičnih proizvoda"
+    },
+    {
+      "code": "8143",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za proizvodnju papirnatih proizvoda"
+    },
+    {
+      "code": "815",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za proizvodnju tekstilnih, krznenih i kožnih proizvoda"
+    },
+    {
+      "code": "8151",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za predenje, sukanje i premotavanje"
+    },
+    {
+      "code": "8152",
+      "name_hr": "Rukovatelji/rukovateljice tkalačkim, pletačkim i sličnim strojevima"
+    },
+    {
+      "code": "8153",
+      "name_hr": "Rukovatelji/rukovateljice šivaćim strojevima"
+    },
+    {
+      "code": "8154",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za bijeljenje, bojenje, čišćenje tekstila, kože i krzna"
+    },
+    {
+      "code": "8155",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za preradu krzna i kože"
+    },
+    {
+      "code": "8156",
+      "name_hr": "Rukovatelji/rukovateljice obućarskim i sličnim strojevima"
+    },
+    {
+      "code": "8157",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za pranje"
+    },
+    {
+      "code": "8159",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za proizvodnju tekstilnih, krznenih i kožnih proizvoda,"
+    },
+    {
+      "code": "816",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za proizvodnju prehrambenih i sličnih proizvoda"
+    },
+    {
+      "code": "8160",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za proizvodnju prehrambenih i sličnih proizvoda"
+    },
+    {
+      "code": "817",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za preradu drva i izradu papira"
+    },
+    {
+      "code": "8171",
+      "name_hr": "Rukovatelji/rukovateljice postrojenjima za pripremu papirne mase i proizvodnju papira"
+    },
+    {
+      "code": "8172",
+      "name_hr": "Rukovatelji/rukovateljice postrojenjima i strojevima za preradu drva"
+    },
+    {
+      "code": "818",
+      "name_hr": "Ostali rukovatelji/ostale rukovateljice strojevima i uređajima"
+    },
+    {
+      "code": "8181",
+      "name_hr": "Rukovatelji/rukovateljice staklarskim i keramičarskim strojevima i uređajima"
+    },
+    {
+      "code": "8182",
+      "name_hr": "Strojari/strojarke kotlovnica i srodna zanimanja"
+    },
+    {
+      "code": "8183",
+      "name_hr": "Rukovatelji/rukovateljice strojevima za pakiranje, obilježavanje i sličnim strojevima"
+    },
+    {
+      "code": "8189",
+      "name_hr": "Rukovatelji/rukovateljice strojevima i uređajima, d. n."
+    },
+    {
+      "code": "821",
+      "name_hr": "Sastavljači/sastavljačice"
+    },
+    {
+      "code": "8211",
+      "name_hr": "Sastavljači/sastavljačice strojeva i uređaja"
+    },
+    {
+      "code": "8212",
+      "name_hr": "Sastavljači/sastavljačice električne i elektroničke opreme"
+    },
+    {
+      "code": "8219",
+      "name_hr": "Sastavljači/sastavljačice strojeva, uređaja i opreme, d. n."
+    },
+    {
+      "code": "831",
+      "name_hr": "Strojovođe/strojovotkinje i srodna zanimanja"
+    },
+    {
+      "code": "8311",
+      "name_hr": "Strojovođe/strojovotkinje"
+    },
+    {
+      "code": "8312",
+      "name_hr": "Željeznička prometno-prijevozna zanimanja"
+    },
+    {
+      "code": "832",
+      "name_hr": "Vozači/vozačice osobnih vozila, lakih dostavnih vozila i motocikala"
+    },
+    {
+      "code": "8321",
+      "name_hr": "Vozači/vozačice motocikala"
+    },
+    {
+      "code": "8322",
+      "name_hr": "Vozači/vozačice osobnih vozila, taksija i lakih dostavnih vozila"
+    },
+    {
+      "code": "833",
+      "name_hr": "Vozači/vozačice teških teretnih vozila i autobusa"
+    },
+    {
+      "code": "8331",
+      "name_hr": "Vozači/vozačice autobusa i tramvaja"
+    },
+    {
+      "code": "8332",
+      "name_hr": "Vozači/vozačice teretnih vozila i kamiona"
+    },
+    {
+      "code": "834",
+      "name_hr": "Rukovatelji/rukovateljice pokretnim radnim strojevima"
+    },
+    {
+      "code": "8341",
+      "name_hr": "Rukovatelji/rukovateljice pokretnim poljoprivrednim i šumarskim strojevima"
+    },
+    {
+      "code": "8342",
+      "name_hr": "Rukovatelji/rukovateljice građevinskim i sličnim strojevima"
+    },
+    {
+      "code": "8343",
+      "name_hr": "Rukovatelji/rukovateljice dizalicama i sličnim uređajima"
+    },
+    {
+      "code": "8344",
+      "name_hr": "Rukovatelji/rukovateljice teškim kamionima s dizalicom"
+    },
+    {
+      "code": "835",
+      "name_hr": "Kormilari/kormilarice, brodske strojovođe/brodske strojovotkinje i mornari/mornarke"
+    },
+    {
+      "code": "8350",
+      "name_hr": "Kormilari/kormilarice, brodske strojovođe/brodske strojovotkinje i mornari/mornarke"
+    },
+    {
+      "code": "911",
+      "name_hr": "Čistači/čistačice, perači/peračice, kućne pomoćnice i srodna zanimanja"
+    },
+    {
+      "code": "9111",
+      "name_hr": "Čistači/čistačice i kućne pomoćnice i srodna zanimanja"
+    },
+    {
+      "code": "9112",
+      "name_hr": "Domaćinska zanimanja u uredima, hotelima i ostalim objektima"
+    },
+    {
+      "code": "912",
+      "name_hr": "Ručni perači/ručne peračice automobila, prozora, pralje i srodna zanimanja"
+    },
+    {
+      "code": "9121",
+      "name_hr": "Pralje i glačarice"
+    },
+    {
+      "code": "9122",
+      "name_hr": "Ručni perači/ručne peračice automobila"
+    },
+    {
+      "code": "9123",
+      "name_hr": "Ručni perači/ručne peračice prozora"
+    },
+    {
+      "code": "9129",
+      "name_hr": "Ostali čistači/ostale čistačice"
+    },
+    {
+      "code": "921",
+      "name_hr": "Jednostavna poljoprivredna, šumarska i ribarska zanimanja"
+    },
+    {
+      "code": "9211",
+      "name_hr": "Radnici/radnice na ratarskoj farmi"
+    },
+    {
+      "code": "9212",
+      "name_hr": "Radnici/radnice na stočarskoj farmi"
+    },
+    {
+      "code": "9213",
+      "name_hr": "Radnici/radnice na poljoprivrednom gospodarstvu mješovite proizvodnje (biljne i stočarske)"
+    },
+    {
+      "code": "9214",
+      "name_hr": "Radnici/radnice za jednostavne vrtlarske i hortikulturne radove"
+    },
+    {
+      "code": "9215",
+      "name_hr": "Radnici/radnice za jednostavne šumarske radove"
+    },
+    {
+      "code": "9216",
+      "name_hr": "Radnici/radnice u ribarstvu i akvakulturi"
+    },
+    {
+      "code": "931",
+      "name_hr": "Jednostavna zanimanja u rudarstvu i građevinarstvu"
+    },
+    {
+      "code": "9311",
+      "name_hr": "Radnici/radnice u rudnicima i kamenolomima"
+    },
+    {
+      "code": "9312",
+      "name_hr": "Radnici/radnice u niskogradnji"
+    },
+    {
+      "code": "9313",
+      "name_hr": "Radnici/radnice u visokogradnji"
+    },
+    {
+      "code": "932",
+      "name_hr": "Jednostavna zanimanja u prerađivačkoj industriji"
+    },
+    {
+      "code": "9321",
+      "name_hr": "Ručni pakiratelji/ručne pakirateljice"
+    },
+    {
+      "code": "9329",
+      "name_hr": "Jednostavna zanimanja u prerađivačkoj industriji, d. n."
+    },
+    {
+      "code": "933",
+      "name_hr": "Radnici/radnice za jednostavne poslove u prometu i skladištenju"
+    },
+    {
+      "code": "9331",
+      "name_hr": "Rukovatelji/rukovateljice ručnih vozila i vozila na pedale"
+    },
+    {
+      "code": "9332",
+      "name_hr": "Vozači/vozačice zaprežnih vozila i strojeva"
+    },
+    {
+      "code": "9333",
+      "name_hr": "Rukovatelji/rukovateljice teretom"
+    },
+    {
+      "code": "9334",
+      "name_hr": "Punjači/punjačice polica"
+    },
+    {
+      "code": "941",
+      "name_hr": "Pomagači/pomagačice u pripremi hrane"
+    },
+    {
+      "code": "9411",
+      "name_hr": "Priprematelji/pripremateljice brze hrane"
+    },
+    {
+      "code": "9412",
+      "name_hr": "Kuhinjski pomoćnik/kuhinjske pomoćnice"
+    },
+    {
+      "code": "951",
+      "name_hr": "Ulični prodavači/ulične prodavačice i srodna uslužna zanimanja"
+    },
+    {
+      "code": "9510",
+      "name_hr": "Ulični prodavači/ulične prodavačice i srodna uslužna zanimanja"
+    },
+    {
+      "code": "952",
+      "name_hr": "Ulični prodavači/ulične prodavačice (osim hrane)"
+    },
+    {
+      "code": "9520",
+      "name_hr": "Ulični prodavači/ulične prodavačice (osim hrane)"
+    },
+    {
+      "code": "961",
+      "name_hr": "Čistači/čistačice ulica i srodna zanimanja"
+    },
+    {
+      "code": "9611",
+      "name_hr": "Radnici/radnice na odvoženju otpada"
+    },
+    {
+      "code": "9612",
+      "name_hr": "Radnici/radnice na razvrstavanju otpada"
+    },
+    {
+      "code": "9613",
+      "name_hr": "Čistači/čistačice ulica i srodna zanimanja"
+    },
+    {
+      "code": "962",
+      "name_hr": "Ostala jednostavna zanimanja"
+    },
+    {
+      "code": "9621",
+      "name_hr": "Dostavljači, nosači/dostavljačice, nosačice i srodna zanimanja"
+    },
+    {
+      "code": "9622",
+      "name_hr": "Radnici/radnice za jednostavne poslove"
+    },
+    {
+      "code": "9623",
+      "name_hr": "Praznitelji/prazniteljice prodajnih automata, parkirališnih satova i sl."
+    },
+    {
+      "code": "9624",
+      "name_hr": "Sakupljači/sakupljačice vode i drva za ogrjev"
+    },
+    {
+      "code": "9629",
+      "name_hr": "Djelatnici/djelatnice jednostavnih zanimanja, d. n."
+    }
+  ]
+}

@@ -1,0 +1,8088 @@
+{
+  "metadata": {
+    "source": "COPM 1997",
+    "country": "Macau",
+    "language": "pt",
+    "isco_version": "ISCO-08",
+    "count": 2019,
+    "date_parsed": "2026-04-22"
+  },
+  "entries": [
+    {
+      "code": "111",
+      "name_pt": "- Membros dos Órgãos Legislativos"
+    },
+    {
+      "code": "112",
+      "name_pt": "- Quadros Superiores da Administração Pública"
+    },
+    {
+      "code": "114",
+      "name_pt": "- Quadros Superiores de Organizações Políticas, Patronais, Sindicais e Associativas"
+    },
+    {
+      "code": "1110",
+      "name_pt": "- Membros dos Órgãos Legislativos"
+    },
+    {
+      "code": "111005",
+      "name_pt": "Governador"
+    },
+    {
+      "code": "111010",
+      "name_pt": "Deputado da Assembleia Legislativa"
+    },
+    {
+      "code": "111015",
+      "name_pt": "Vogal do Conselho Consultivo"
+    },
+    {
+      "code": "111020",
+      "name_pt": "Membro das Assembleias Municipais"
+    },
+    {
+      "code": "1120",
+      "name_pt": "- Quadros Superiores da Administração Pública"
+    },
+    {
+      "code": "112005",
+      "name_pt": "Secretário-Adjunto"
+    },
+    {
+      "code": "112010",
+      "name_pt": "Chefe do gabinete do Governador"
+    },
+    {
+      "code": "112015",
+      "name_pt": "Chefe do gabinete de Secretário-Adjunto"
+    },
+    {
+      "code": "112020",
+      "name_pt": "Secretário geral da Assembleia Legislativa"
+    },
+    {
+      "code": "112025",
+      "name_pt": "Comissário do Alto Comissariado Contra a Corrupção e Ilegalidade Administrativa"
+    },
+    {
+      "code": "112030",
+      "name_pt": "Diplomata ou equiparado"
+    },
+    {
+      "code": "112035",
+      "name_pt": "Director/Subdirector de órgãos e serviços da administração pública, ou equiparado"
+    },
+    {
+      "code": "112040",
+      "name_pt": "Chefe de departamento de órgãos e serviços da administração pública, ou equiparado"
+    },
+    {
+      "code": "112045",
+      "name_pt": "Chefe de divisão de órgãos e serviços da administração públicas, ou equiparado"
+    },
+    {
+      "code": "112050",
+      "name_pt": "Chefe de sector de órgãos e serviços da administração pública, ou equiparado"
+    },
+    {
+      "code": "112055",
+      "name_pt": "Adjunto - Administração Pública"
+    },
+    {
+      "code": "112099",
+      "name_pt": "Quadro superior da Administração Pública não classificado em outra parte"
+    },
+    {
+      "code": "1141",
+      "name_pt": "- Dirigentes de Organizações Políticas"
+    },
+    {
+      "code": "1142",
+      "name_pt": "- Dirigentes de Organizações Patronais e Sindicais"
+    },
+    {
+      "code": "1143",
+      "name_pt": "- Dirigentes de Organizações Humanitárias e de Outros Interesses Especiais"
+    },
+    {
+      "code": "114105",
+      "name_pt": "Dirigente de organização política"
+    },
+    {
+      "code": "114205",
+      "name_pt": "Dirigente de organização patronal"
+    },
+    {
+      "code": "114210",
+      "name_pt": "Dirigente de organizaço sindical"
+    },
+    {
+      "code": "114305",
+      "name_pt": "Dirigente de organização humanitária"
+    },
+    {
+      "code": "114310",
+      "name_pt": "Dirigente de associação de interesses cívicos, culturais e desportivos"
+    },
+    {
+      "code": "114315",
+      "name_pt": "Dirigente de associação de interesses profissionais"
+    },
+    {
+      "code": "121",
+      "name_pt": "- Directores Gerais e Administradores"
+    },
+    {
+      "code": "122",
+      "name_pt": "- Directores de Produção e Exploração"
+    },
+    {
+      "code": "123",
+      "name_pt": "- Outros Directores de Empresas (excepto os de produção e exploração)"
+    },
+    {
+      "code": "1210",
+      "name_pt": "- Directores Gerais e Administradores"
+    },
+    {
+      "code": "121005",
+      "name_pt": "Director geral/administrador/presidente ou equiparado de empresas"
+    },
+    {
+      "code": "121010",
+      "name_pt": "Membro do conselho da administração de fundações"
+    },
+    {
+      "code": "121015",
+      "name_pt": "Administrador hospitalar"
+    },
+    {
+      "code": "121020",
+      "name_pt": "Reitor/presidente/administrador ou equiparado de estabelecimento do ensino superior"
+    },
+    {
+      "code": "121099",
+      "name_pt": "Director geral/administrador não classificado em outra parte"
+    },
+    {
+      "code": "1221",
+      "name_pt": "- Directores de Produção e Exploração - Agricultura, Silvicultura e Pesca"
+    },
+    {
+      "code": "1222",
+      "name_pt": "- Directores de Produção e Exploração - Indústrias Extractiva e Transformadoras"
+    },
+    {
+      "code": "1223",
+      "name_pt": "- Directores de Produção e Exploração - Electricidade, Gás e Água"
+    },
+    {
+      "code": "1224",
+      "name_pt": "- Directores de Produção e Exploração - Construção Civil e Obras Públicas"
+    },
+    {
+      "code": "1225",
+      "name_pt": "- Directores de Produção e Exploração - Comércio por Grosso e a Retalho, Restaurantes e Hotéis"
+    },
+    {
+      "code": "1226",
+      "name_pt": "- Directores de Produção e Exploração - Transportes, Viagens, Armazenagem e Comunicações"
+    },
+    {
+      "code": "1227",
+      "name_pt": "- Directores de Produção e Exploração - Bancos e Outras Instituições Financeiras, Seguros,"
+    },
+    {
+      "code": "1228",
+      "name_pt": "- Directores de Produção e Exploração - Serviços Sociais e Pessoais"
+    },
+    {
+      "code": "122105",
+      "name_pt": "Director de produção e exploração - agricultura e silvicultura"
+    },
+    {
+      "code": "122110",
+      "name_pt": "Director de produção e exploração - pesca"
+    },
+    {
+      "code": "122205",
+      "name_pt": "Director de produção e exploração - indústria extractiva"
+    },
+    {
+      "code": "122210",
+      "name_pt": "Director de produção e exploração - indústrias de alimentação, bebidas e tabaco"
+    },
+    {
+      "code": "122215",
+      "name_pt": "Director de produção e exploração - indústrias têxteis, do vestuário e do couro"
+    },
+    {
+      "code": "122220",
+      "name_pt": "Director de produção e exploração - indústrias da madeira e da cortiça"
+    },
+    {
+      "code": "122225",
+      "name_pt": "Director de produção e exploração - indústrias do papel, artes gráficas e edição de"
+    },
+    {
+      "code": "122230",
+      "name_pt": "Director de produção e exploração - indústrias químicas dos derivados do petróleo e do"
+    },
+    {
+      "code": "122235",
+      "name_pt": "Director de produção e exploração - indústrias dos produtos minerais não metálicos, com"
+    },
+    {
+      "code": "122240",
+      "name_pt": "Director de produção e exploração - indústrias metalúrgicas de base"
+    },
+    {
+      "code": "122245",
+      "name_pt": "Director de produção e exploração - fabricação de produtos metálicos e de máquinas,"
+    },
+    {
+      "code": "122299",
+      "name_pt": "Director de produção e exploração - indústrias transformadoras, não classificado em outra"
+    },
+    {
+      "code": "122305",
+      "name_pt": "Director de produção/distribuição - electricidade"
+    },
+    {
+      "code": "122310",
+      "name_pt": "Director de produção e exploração - gás"
+    },
+    {
+      "code": "122315",
+      "name_pt": "Director de produção e exploração - água"
+    },
+    {
+      "code": "122405",
+      "name_pt": "Director de produção e exploração - construção civil e obras públicas"
+    },
+    {
+      "code": "122505",
+      "name_pt": "Director de produção e exploração - comércio por grosso"
+    },
+    {
+      "code": "122510",
+      "name_pt": "Director de produção e exploração - comércio a retalho"
+    },
+    {
+      "code": "122515",
+      "name_pt": "Director de produção e exploração - restaurantes, café e actividades similares de comidas e"
+    },
+    {
+      "code": "122520",
+      "name_pt": "Director de produção e exploração - hotéis, pensões e outros locais de alojamento"
+    },
+    {
+      "code": "122605",
+      "name_pt": "Director de produção e exploração - transportes terrestres"
+    },
+    {
+      "code": "122610",
+      "name_pt": "Director de produção e exploração - transportes por água"
+    },
+    {
+      "code": "122615",
+      "name_pt": "Director de produção e exploração - transportes aéreos"
+    },
+    {
+      "code": "122620",
+      "name_pt": "Director de produção e exploração - serviços relacionados com transportes (incluindo"
+    },
+    {
+      "code": "122625",
+      "name_pt": "Director de produção e exploração - comunicações"
+    },
+    {
+      "code": "122705",
+      "name_pt": "Director de produção e exploração - bancos e outras instituições monetárias e financeiras"
+    },
+    {
+      "code": "122710",
+      "name_pt": "Director de produção e exploração - seguros"
+    },
+    {
+      "code": "122715",
+      "name_pt": "Director de produção e exploração - operações sobre imóveis"
+    },
+    {
+      "code": "122720",
+      "name_pt": "Directores de produção e exploração - serviços prestados às empresas"
+    },
+    {
+      "code": "122805",
+      "name_pt": "Director de produção e exploração - serviços de saneamento e limpeza"
+    },
+    {
+      "code": "122810",
+      "name_pt": "Director de produção e exploração - serviços de educação/institutos científicos e de"
+    },
+    {
+      "code": "122815",
+      "name_pt": "Director de produção e exploração - serviços de saúde e serviços veterinários"
+    },
+    {
+      "code": "122820",
+      "name_pt": "Director de produção e exploração - serviços recreativos e culturais (e.g. produtor de filme,"
+    },
+    {
+      "code": "122825",
+      "name_pt": "Director de produção e exploração - serviços de divertimentos e jogos de fortuna e azar"
+    },
+    {
+      "code": "122830",
+      "name_pt": "Director de produção e exploração - serviços pessoais e domésticos"
+    },
+    {
+      "code": "122899",
+      "name_pt": "Director de produção e exploração - serviços sociais e pessoais, não classificado em outra"
+    },
+    {
+      "code": "1231",
+      "name_pt": "- Directores de Serviços Administrativos e Financeiros"
+    },
+    {
+      "code": "1232",
+      "name_pt": "- Directores de Recursos Humanos"
+    },
+    {
+      "code": "1233",
+      "name_pt": "- Directores de Vendas e \"Marketing\""
+    },
+    {
+      "code": "1234",
+      "name_pt": "- Directores de Publicidade e Relações Públicas"
+    },
+    {
+      "code": "1235",
+      "name_pt": "- Directores de Compras e Aprovisionamento"
+    },
+    {
+      "code": "1236",
+      "name_pt": "- Directores de Serviços de Informática"
+    },
+    {
+      "code": "1237",
+      "name_pt": "- Directores de Serviços de Investigação e Desenvolvimento"
+    },
+    {
+      "code": "1239",
+      "name_pt": "- Directores de empresas (excepto os de produção e exploração) não classificados em outra parte"
+    },
+    {
+      "code": "123105",
+      "name_pt": "Director administrativo"
+    },
+    {
+      "code": "123110",
+      "name_pt": "Director financeiro e de contabilidade"
+    },
+    {
+      "code": "123115",
+      "name_pt": "Director de auditoria"
+    },
+    {
+      "code": "123120",
+      "name_pt": "Director do serviço de apoio jurídico"
+    },
+    {
+      "code": "123205",
+      "name_pt": "Director de recursos humanos"
+    },
+    {
+      "code": "123210",
+      "name_pt": "Director de formação"
+    },
+    {
+      "code": "123305",
+      "name_pt": "Director de vendas"
+    },
+    {
+      "code": "123310",
+      "name_pt": "Director de \"marketing\""
+    },
+    {
+      "code": "123405",
+      "name_pt": "Director de publicidade"
+    },
+    {
+      "code": "123410",
+      "name_pt": "Director artístico e criativo"
+    },
+    {
+      "code": "123415",
+      "name_pt": "Director de relações públicas"
+    },
+    {
+      "code": "123420",
+      "name_pt": "Director de serviços de consumidores"
+    },
+    {
+      "code": "123505",
+      "name_pt": "Director de compras"
+    },
+    {
+      "code": "123510",
+      "name_pt": "Director de aprovisionamento"
+    },
+    {
+      "code": "123605",
+      "name_pt": "Director de informática"
+    },
+    {
+      "code": "123705",
+      "name_pt": "Director de investigação e desenvolvimento"
+    },
+    {
+      "code": "123710",
+      "name_pt": "Director de controlo de qualidade"
+    },
+    {
+      "code": "123999",
+      "name_pt": "Director de empresas não classificado em outra parte"
+    },
+    {
+      "code": "131",
+      "name_pt": "- Directores (Gerentes) de Pequenas Empresas"
+    },
+    {
+      "code": "1311",
+      "name_pt": "- Directores (Gerentes) de Pequenas Empresas - Agricultura, Silvicultura e Pesca"
+    },
+    {
+      "code": "1312",
+      "name_pt": "- Directores (Gerentes) de Pequenas Empresas - Indústrias Extractivas e Transformadoras"
+    },
+    {
+      "code": "1314",
+      "name_pt": "- Directores (Gerentes) de Pequena Empresa - Construção Civil e Obras Públicas"
+    },
+    {
+      "code": "1315",
+      "name_pt": "- Directores (Gerentes) de Pequena Empresa - Comércio por Grosso e a Retalho, Restaurantes e"
+    },
+    {
+      "code": "1316",
+      "name_pt": "- Directores (Gerentes) de Pequenas Empresas - Transportes, Viagens, Armazenagem e"
+    },
+    {
+      "code": "1317",
+      "name_pt": "- Directores (Gerentes) de Pequena Empresa - Bancos e Outras Instituições Financeiras, Seguros,"
+    },
+    {
+      "code": "1318",
+      "name_pt": "- Directores (Gerentes) de Pequena Empresa - Serviços Sociais e Pessoais"
+    },
+    {
+      "code": "131105",
+      "name_pt": "Director (gerente) de pequena empresa - agricultura e silvicultura"
+    },
+    {
+      "code": "131110",
+      "name_pt": "Director (gerente) de pequena empresa - pesca"
+    },
+    {
+      "code": "131205",
+      "name_pt": "Director (gerente) de pequena empresa - indústria extractiva"
+    },
+    {
+      "code": "131210",
+      "name_pt": "Director (gerente) de pequena empresa - indústrias de alimentação, bebidas e tabaco"
+    },
+    {
+      "code": "131215",
+      "name_pt": "Director (gerente) de pequena empresa - indústrias têxteis, do vestuário e do couro"
+    },
+    {
+      "code": "131220",
+      "name_pt": "Director (gerente) de pequena empresa - indústrias da madeira e da cortiça"
+    },
+    {
+      "code": "131225",
+      "name_pt": "Director (gerente) de pequena empresa - indústrias do papel, artes gráficas e edição de"
+    },
+    {
+      "code": "131230",
+      "name_pt": "Director (gerente) de pequena empresa - indústrias químicas dos derivados do petróleo e do"
+    },
+    {
+      "code": "131235",
+      "name_pt": "Director (gerente) de pequena empresa - indústrias dos produtos minerais não metálicos,"
+    },
+    {
+      "code": "131240",
+      "name_pt": "Director (gerente) de pequena empresa - indústrias metalúrgicas de base"
+    },
+    {
+      "code": "131245",
+      "name_pt": "Director (gerente) de pequena empresa - fabricação de produtos metálicos e de máquinas,"
+    },
+    {
+      "code": "131299",
+      "name_pt": "Director (gerente) de pequena empresa - indústrias transformadoras, não classificado em"
+    },
+    {
+      "code": "131405",
+      "name_pt": "Director (gerente) de pequena empresa - construção civil e obras públicas"
+    },
+    {
+      "code": "131505",
+      "name_pt": "Director (gerente) de pequena empresa - comércio por grosso"
+    },
+    {
+      "code": "131510",
+      "name_pt": "Director (gerente) de pequena empresa - comércio a retalho"
+    },
+    {
+      "code": "131515",
+      "name_pt": "Director (gerente) de pequena empresa - restaurantes, café e actividades similares de"
+    },
+    {
+      "code": "131520",
+      "name_pt": "Director (gerente) de pequena empresa - hotéis, pensões e outros locais de alojamento"
+    },
+    {
+      "code": "131605",
+      "name_pt": "Director (gerente) de pequena empresa - transportes"
+    },
+    {
+      "code": "131610",
+      "name_pt": "Director (gerente) de pequena empresa - serviços relacionados com transportes (incluindo"
+    },
+    {
+      "code": "131615",
+      "name_pt": "Director (gerente) de pequena empresa - comunicações"
+    },
+    {
+      "code": "131705",
+      "name_pt": "Director (gerente) de pequena empresa - instituições monetárias e financeiras"
+    },
+    {
+      "code": "131710",
+      "name_pt": "Director (gerente) de pequena empresa - seguros"
+    },
+    {
+      "code": "131715",
+      "name_pt": "Director (gerente) de pequena empresa - operações sobre imóveis"
+    },
+    {
+      "code": "131720",
+      "name_pt": "Directores (gerentes) de pequena empresa - serviços prestados às empresas"
+    },
+    {
+      "code": "131805",
+      "name_pt": "Director (gerente) de pequena empresa - serviços de saneamento e limpeza"
+    },
+    {
+      "code": "131810",
+      "name_pt": "Director (gerente) de pequena empresa - serviços de educação/institutos científicos e de"
+    },
+    {
+      "code": "131815",
+      "name_pt": "Director (gerente) de pequena empresa - serviços de saúde e serviços veterinários"
+    },
+    {
+      "code": "131820",
+      "name_pt": "Director (gerente) de pequena empresa - serviços recreativos e culturais"
+    },
+    {
+      "code": "131825",
+      "name_pt": "Director (gerente) de pequena empresa - serviços de divertimentos e jogos de fortuna e"
+    },
+    {
+      "code": "131830",
+      "name_pt": "Director (gerente) de pequena empresa - serviços pessoais e domésticos"
+    },
+    {
+      "code": "131899",
+      "name_pt": "Director (gerente) de pequena empresa - serviços sociais e pessoais, não classificado em"
+    },
+    {
+      "code": "211",
+      "name_pt": "- Físicos, Químicos e Especialistas Similares"
+    },
+    {
+      "code": "212",
+      "name_pt": "- Matemáticos, Estatísticos e Especialistas Similares"
+    },
+    {
+      "code": "213",
+      "name_pt": "- Especialistas da Informática"
+    },
+    {
+      "code": "214",
+      "name_pt": "- Arquitectos, Engenheiros e Especialistas Similares"
+    },
+    {
+      "code": "2111",
+      "name_pt": "- Físicos e Astrónomos"
+    },
+    {
+      "code": "2112",
+      "name_pt": "- Meteorologistas"
+    },
+    {
+      "code": "2113",
+      "name_pt": "- Químicos"
+    },
+    {
+      "code": "2114",
+      "name_pt": "- Geofísicos, Geólogos e Oceanógrafos"
+    },
+    {
+      "code": "211105",
+      "name_pt": "Físico - geral"
+    },
+    {
+      "code": "211110",
+      "name_pt": "Físico - especialista das partículas elementares"
+    },
+    {
+      "code": "211115",
+      "name_pt": "Físico - especialista em acústica"
+    },
+    {
+      "code": "211120",
+      "name_pt": "Físico - especialista em electricidade e magnetismo"
+    },
+    {
+      "code": "211125",
+      "name_pt": "Físico - especialista em estado sólido"
+    },
+    {
+      "code": "211130",
+      "name_pt": "Físico - especialista em física atómica e molecular"
+    },
+    {
+      "code": "211135",
+      "name_pt": "Físico - especialista em física dos fluidos"
+    },
+    {
+      "code": "211140",
+      "name_pt": "Físico - especialista em física dos plasmas"
+    },
+    {
+      "code": "211145",
+      "name_pt": "Físico - especialista em física nuclear"
+    },
+    {
+      "code": "211150",
+      "name_pt": "Físico - especialista em matéria condensada"
+    },
+    {
+      "code": "211155",
+      "name_pt": "Físico - especialista em mecânica"
+    },
+    {
+      "code": "211160",
+      "name_pt": "Físico - especialista em termodinâmica"
+    },
+    {
+      "code": "211165",
+      "name_pt": "Físico - especialista em óptica"
+    },
+    {
+      "code": "211170",
+      "name_pt": "Astrónomo"
+    },
+    {
+      "code": "211199",
+      "name_pt": "Físico/astrónomo não classificado em outra parte"
+    },
+    {
+      "code": "211205",
+      "name_pt": "Meteorologista"
+    },
+    {
+      "code": "211305",
+      "name_pt": "Químico - geral"
+    },
+    {
+      "code": "211310",
+      "name_pt": "Químico - especialista em química analítica"
+    },
+    {
+      "code": "211315",
+      "name_pt": "Químico - especialista em química farmacêutica"
+    },
+    {
+      "code": "211320",
+      "name_pt": "Químico - especialista em química física"
+    },
+    {
+      "code": "211325",
+      "name_pt": "Químico - especialista em química inorgânica"
+    },
+    {
+      "code": "211330",
+      "name_pt": "Químico - especialista em química orgânica"
+    },
+    {
+      "code": "211399",
+      "name_pt": "Químico não classificado em outra parte"
+    },
+    {
+      "code": "211405",
+      "name_pt": "Geofísico"
+    },
+    {
+      "code": "211410",
+      "name_pt": "Geólogo"
+    },
+    {
+      "code": "211415",
+      "name_pt": "Oceanógrafo"
+    },
+    {
+      "code": "2121",
+      "name_pt": "- Matemáticos e Especialistas Similares"
+    },
+    {
+      "code": "2122",
+      "name_pt": "- Estaticistas"
+    },
+    {
+      "code": "212105",
+      "name_pt": "Matemático - geral"
+    },
+    {
+      "code": "212110",
+      "name_pt": "Matemático - especialista em matemática aplicada"
+    },
+    {
+      "code": "212115",
+      "name_pt": "Matemático - especialista em investigação operacional"
+    },
+    {
+      "code": "212120",
+      "name_pt": "Matemático - especialista em matemática pura"
+    },
+    {
+      "code": "212125",
+      "name_pt": "Actuário"
+    },
+    {
+      "code": "212199",
+      "name_pt": "Matemático/estatístico/especialista similar não classificado em outra parte"
+    },
+    {
+      "code": "212205",
+      "name_pt": "Estaticista"
+    },
+    {
+      "code": "212210",
+      "name_pt": "Demógrafo"
+    },
+    {
+      "code": "2131",
+      "name_pt": "- Analista de sistemas e outros especialistas de informática"
+    },
+    {
+      "code": "213105",
+      "name_pt": "Analista de sistema - informática"
+    },
+    {
+      "code": "213110",
+      "name_pt": "Engenheiro de sistema - informática"
+    },
+    {
+      "code": "213115",
+      "name_pt": "Engenheiro de informática - \"software\""
+    },
+    {
+      "code": "213120",
+      "name_pt": "Engenheiro de informática - \"hardware\""
+    },
+    {
+      "code": "213125",
+      "name_pt": "Gestor de projecto - informática"
+    },
+    {
+      "code": "213130",
+      "name_pt": "Técnico superior de informática - administração pública"
+    },
+    {
+      "code": "213199",
+      "name_pt": "Especialista de informática não classificado em outra parte"
+    },
+    {
+      "code": "2141",
+      "name_pt": "- Arquitectos e urbanistas"
+    },
+    {
+      "code": "2142",
+      "name_pt": "- Engenheiros civis"
+    },
+    {
+      "code": "2143",
+      "name_pt": "- Engenheiros electrotécnicos"
+    },
+    {
+      "code": "2144",
+      "name_pt": "- Engenheiros electrónicos e telecomunicações"
+    },
+    {
+      "code": "2145",
+      "name_pt": "- Engenheiros mecânicos"
+    },
+    {
+      "code": "2146",
+      "name_pt": "- Engenheiros químicos"
+    },
+    {
+      "code": "2147",
+      "name_pt": "- Engenheiros de metalurgia e minas"
+    },
+    {
+      "code": "2148",
+      "name_pt": "- Engenheiros geógrafos e cartógrafos"
+    },
+    {
+      "code": "2149",
+      "name_pt": "- Arquitectos, engenheiros e especialistas similares não classificados em outra parte"
+    },
+    {
+      "code": "214105",
+      "name_pt": "Arquitecto"
+    },
+    {
+      "code": "214110",
+      "name_pt": "Arquitecto paisagista"
+    },
+    {
+      "code": "214115",
+      "name_pt": "Arquitecto urbanista"
+    },
+    {
+      "code": "214205",
+      "name_pt": "Engenheiro civil urbanista"
+    },
+    {
+      "code": "214210",
+      "name_pt": "Engenheiro civil de estruturas"
+    },
+    {
+      "code": "214215",
+      "name_pt": "Engenheiro civil de infraestruturas"
+    },
+    {
+      "code": "214220",
+      "name_pt": "Engenheiro civil hidráulico"
+    },
+    {
+      "code": "214299",
+      "name_pt": "Engenheiro civil não classificado em outra parte"
+    },
+    {
+      "code": "214305",
+      "name_pt": "Engenheiro electrotécnico - geral"
+    },
+    {
+      "code": "214310",
+      "name_pt": "Engenheiro electrotécnico - sistemas de energia"
+    },
+    {
+      "code": "214315",
+      "name_pt": "Engenheiro electrotécnico - telecomunicações"
+    },
+    {
+      "code": "214320",
+      "name_pt": "Engenheiro electrotécnico - radiocomunicações"
+    },
+    {
+      "code": "214399",
+      "name_pt": "Engenheiro electrotécnico não classificado em outra parte"
+    },
+    {
+      "code": "214405",
+      "name_pt": "Engenheiro electrónico"
+    },
+    {
+      "code": "214410",
+      "name_pt": "Engenheiro electrónico - telecomunicações"
+    },
+    {
+      "code": "214415",
+      "name_pt": "Engenheiro electrónico - radiocomunicações"
+    },
+    {
+      "code": "214499",
+      "name_pt": "Engenheiro electrónico não classificado em outra parte"
+    },
+    {
+      "code": "214505",
+      "name_pt": "Engenheiro mecânico - geral"
+    },
+    {
+      "code": "214510",
+      "name_pt": "Engenheiro mecânico - naval"
+    },
+    {
+      "code": "214515",
+      "name_pt": "Engenheiro mecânico - aeronáutico"
+    },
+    {
+      "code": "214520",
+      "name_pt": "Engenheiro mecânico - produção"
+    },
+    {
+      "code": "214599",
+      "name_pt": "Engenheiro mecânico não classificado em outra parte"
+    },
+    {
+      "code": "214605",
+      "name_pt": "Engenheiro químico - geral"
+    },
+    {
+      "code": "214610",
+      "name_pt": "Engenheiro químico - processo"
+    },
+    {
+      "code": "214615",
+      "name_pt": "Engenheiro químico - petróleo e gás natural"
+    },
+    {
+      "code": "214620",
+      "name_pt": "Engenheiro químico - alimentação e bebida"
+    },
+    {
+      "code": "214699",
+      "name_pt": "Engenheiro químico não classificado em outra parte"
+    },
+    {
+      "code": "214705",
+      "name_pt": "Engenheiro de minas"
+    },
+    {
+      "code": "214710",
+      "name_pt": "Engenheiro metalúrgico"
+    },
+    {
+      "code": "214805",
+      "name_pt": "Engenheiro geógrafo"
+    },
+    {
+      "code": "214810",
+      "name_pt": "Engenheiro cartógrafo"
+    },
+    {
+      "code": "214815",
+      "name_pt": "Engenheiro hidrógrafo"
+    },
+    {
+      "code": "214905",
+      "name_pt": "Engenheiro de produção"
+    },
+    {
+      "code": "214999",
+      "name_pt": "Arquitecto/engenheiro/especialista similar não classificado em outra parte"
+    },
+    {
+      "code": "221",
+      "name_pt": "- Especialistas das Ciências da Vida"
+    },
+    {
+      "code": "222",
+      "name_pt": "- Médicos e Trabalhadores Similares"
+    },
+    {
+      "code": "2211",
+      "name_pt": "- Biólogos, botânicos, zoólogos e especialistas similares"
+    },
+    {
+      "code": "2212",
+      "name_pt": "- Farmacologistas, patologistas e especialistas similares"
+    },
+    {
+      "code": "2213",
+      "name_pt": "- Engenheiros agrónomos e especialistas similares"
+    },
+    {
+      "code": "221105",
+      "name_pt": "Biólogo"
+    },
+    {
+      "code": "221110",
+      "name_pt": "Botânico"
+    },
+    {
+      "code": "221115",
+      "name_pt": "Zoólogo"
+    },
+    {
+      "code": "221120",
+      "name_pt": "Microbiologista"
+    },
+    {
+      "code": "221125",
+      "name_pt": "Bacteriologista"
+    },
+    {
+      "code": "221130",
+      "name_pt": "Ecologista"
+    },
+    {
+      "code": "221135",
+      "name_pt": "Genetista"
+    },
+    {
+      "code": "221140",
+      "name_pt": "Virologista"
+    },
+    {
+      "code": "221199",
+      "name_pt": "Biólogo/botânico/zoólogo/especialista similar não classificado em outra parte"
+    },
+    {
+      "code": "221205",
+      "name_pt": "Farmacologista"
+    },
+    {
+      "code": "221210",
+      "name_pt": "Fisiologista"
+    },
+    {
+      "code": "221215",
+      "name_pt": "Anatomista"
+    },
+    {
+      "code": "221220",
+      "name_pt": "Bioquímico"
+    },
+    {
+      "code": "221225",
+      "name_pt": "Biofísico"
+    },
+    {
+      "code": "221230",
+      "name_pt": "Patologista"
+    },
+    {
+      "code": "221235",
+      "name_pt": "Imunologista"
+    },
+    {
+      "code": "221299",
+      "name_pt": "Farmacologista/patologista/especialista similar não classificado em outra parte"
+    },
+    {
+      "code": "221305",
+      "name_pt": "Engenheiro agrónomo"
+    },
+    {
+      "code": "221310",
+      "name_pt": "Engenheiro silvicultor"
+    },
+    {
+      "code": "221315",
+      "name_pt": "Cientista de solo"
+    },
+    {
+      "code": "221399",
+      "name_pt": "Engenheiro agrónomo não classificado em outra parte"
+    },
+    {
+      "code": "2221",
+      "name_pt": "- Médicos"
+    },
+    {
+      "code": "2222",
+      "name_pt": "- Médicos dentistas"
+    },
+    {
+      "code": "2223",
+      "name_pt": "- Veterinários"
+    },
+    {
+      "code": "2224",
+      "name_pt": "- Farmacêuticos"
+    },
+    {
+      "code": "222102",
+      "name_pt": "Médico não diferenciado"
+    },
+    {
+      "code": "222104",
+      "name_pt": "Médico - clínica geral"
+    },
+    {
+      "code": "222106",
+      "name_pt": "Médico - anatomia patológica"
+    },
+    {
+      "code": "222108",
+      "name_pt": "Médico - anestesiologia"
+    },
+    {
+      "code": "222110",
+      "name_pt": "Médico - cardiologia"
+    },
+    {
+      "code": "222112",
+      "name_pt": "Médico - cirurgia cardio-toráxica"
+    },
+    {
+      "code": "222114",
+      "name_pt": "Médico - cirurgia geral"
+    },
+    {
+      "code": "222116",
+      "name_pt": "Médico - cirurgia maxio-facial"
+    },
+    {
+      "code": "222118",
+      "name_pt": "Médico - cirurgia pediátrica"
+    },
+    {
+      "code": "222120",
+      "name_pt": "Médico - cirurgia plástica e reconstrutiva"
+    },
+    {
+      "code": "222122",
+      "name_pt": "Médico - cirurgia vascular"
+    },
+    {
+      "code": "222124",
+      "name_pt": "Médico - dermatologia"
+    },
+    {
+      "code": "222126",
+      "name_pt": "Médico - endocrinologia"
+    },
+    {
+      "code": "222128",
+      "name_pt": "Médico - estomatologia"
+    },
+    {
+      "code": "222130",
+      "name_pt": "Médico - gastroenterologia"
+    },
+    {
+      "code": "222132",
+      "name_pt": "Médico - ginecologia e obstetrícia"
+    },
+    {
+      "code": "222134",
+      "name_pt": "Médico - hematologia clínica"
+    },
+    {
+      "code": "222136",
+      "name_pt": "Médico - imuno-hemoterapia"
+    },
+    {
+      "code": "222138",
+      "name_pt": "Médico - legal"
+    },
+    {
+      "code": "222140",
+      "name_pt": "Médico - medicina desportiva"
+    },
+    {
+      "code": "222142",
+      "name_pt": "Médico - medicina física e reabilitação"
+    },
+    {
+      "code": "222144",
+      "name_pt": "Médico - medicina interna"
+    },
+    {
+      "code": "222146",
+      "name_pt": "Médico - nefrologia"
+    },
+    {
+      "code": "222148",
+      "name_pt": "Médico - neurocardiologia"
+    },
+    {
+      "code": "222150",
+      "name_pt": "Médico - neurocirurgia"
+    },
+    {
+      "code": "222152",
+      "name_pt": "Médico - neurologia"
+    },
+    {
+      "code": "222154",
+      "name_pt": "Médico - oftalmologia"
+    },
+    {
+      "code": "222156",
+      "name_pt": "Médico - oncologia"
+    },
+    {
+      "code": "222158",
+      "name_pt": "Médico - ortopedia e traumatologia"
+    },
+    {
+      "code": "222160",
+      "name_pt": "Médico - otorrinolaringologia"
+    },
+    {
+      "code": "222162",
+      "name_pt": "Médico - patologia clínica"
+    },
+    {
+      "code": "222164",
+      "name_pt": "Médico - pediatria"
+    },
+    {
+      "code": "222166",
+      "name_pt": "Médico - pneumologia"
+    },
+    {
+      "code": "222168",
+      "name_pt": "Médico - psiquiatria"
+    },
+    {
+      "code": "222170",
+      "name_pt": "Médico - radiologia e imagiologia"
+    },
+    {
+      "code": "222172",
+      "name_pt": "Médico - radioterapia"
+    },
+    {
+      "code": "222174",
+      "name_pt": "Médico - saúde publica"
+    },
+    {
+      "code": "222176",
+      "name_pt": "Médico - urologia"
+    },
+    {
+      "code": "222178",
+      "name_pt": "Médico - medicina tradicional chinesa (com um curso superior de medicina chinesa)"
+    },
+    {
+      "code": "222199",
+      "name_pt": "Médico não classificado em outra parte"
+    },
+    {
+      "code": "222205",
+      "name_pt": "Médico dentista"
+    },
+    {
+      "code": "222305",
+      "name_pt": "Veterinário"
+    },
+    {
+      "code": "222405",
+      "name_pt": "Farmacêutico"
+    },
+    {
+      "code": "231",
+      "name_pt": "- Docentes do Ensino Universitário e de Outros Estabelecimentos do Ensino Superior"
+    },
+    {
+      "code": "232",
+      "name_pt": "- Docentes do Ensino Secundário"
+    },
+    {
+      "code": "235",
+      "name_pt": "- Outros Docentes do Ensino Superior, Secundário e Trabalhadores Similares"
+    },
+    {
+      "code": "2310",
+      "name_pt": "- Docentes do ensino universitário e de outros estabelecimentos do ensino superior"
+    },
+    {
+      "code": "231005",
+      "name_pt": "Professor do ensino superior"
+    },
+    {
+      "code": "231010",
+      "name_pt": "Assistente do ensino superior"
+    },
+    {
+      "code": "2320",
+      "name_pt": "- Docentes do ensino secundário"
+    },
+    {
+      "code": "232005",
+      "name_pt": "Professor do ensino secundário"
+    },
+    {
+      "code": "2351",
+      "name_pt": "- Especialistas de metodologia educativa e pedagógica"
+    },
+    {
+      "code": "2352",
+      "name_pt": "- Inspectores de educação"
+    },
+    {
+      "code": "2359",
+      "name_pt": "- Docentes do ensino superior e secundário e trabalhadores similares não classificados em outra"
+    },
+    {
+      "code": "235105",
+      "name_pt": "Investigador de metodologia educativa e pedagógica"
+    },
+    {
+      "code": "235110",
+      "name_pt": "Especialista de formação"
+    },
+    {
+      "code": "235205",
+      "name_pt": "Inspector de educação"
+    },
+    {
+      "code": "235905",
+      "name_pt": "Formador - formação profissional (cujo requisito mínimo de admissão é de 9 anos de"
+    },
+    {
+      "code": "235910",
+      "name_pt": "Formador - ensino técnico - profissional (corresponde ao ensino secundário complementar)"
+    },
+    {
+      "code": "235915",
+      "name_pt": "Professor de língua portuguesa (difusão da língua portuguesa)"
+    },
+    {
+      "code": "235920",
+      "name_pt": "Professor de dança de arte"
+    },
+    {
+      "code": "235999",
+      "name_pt": "Outro docente do ensino superior e secundário/trabalhador similar não classificado em"
+    },
+    {
+      "code": "241",
+      "name_pt": "- Especialistas da Administração e Comércio"
+    },
+    {
+      "code": "242",
+      "name_pt": "- Especialistas Jurídicos"
+    },
+    {
+      "code": "243",
+      "name_pt": "- Arquivistas, Bibliotecários e Trabalhadores Similares"
+    },
+    {
+      "code": "244",
+      "name_pt": "- Especialistas das Ciências Sociais e Humanas"
+    },
+    {
+      "code": "245",
+      "name_pt": "- Escritores e Artistas Criadores"
+    },
+    {
+      "code": "246",
+      "name_pt": "- Ministros de Cultos Religiosos e Similares"
+    },
+    {
+      "code": "247",
+      "name_pt": "- Técnicos Superiores da Administração Pública não Classificados em Outra Parte"
+    },
+    {
+      "code": "2411",
+      "name_pt": "- Contabilistas"
+    },
+    {
+      "code": "2412",
+      "name_pt": "- Especialistas na área de gestão dos recursos humanos"
+    },
+    {
+      "code": "2419",
+      "name_pt": "- Especialistas da administração e comércio não classificados em outra parte"
+    },
+    {
+      "code": "241105",
+      "name_pt": "Contabilista"
+    },
+    {
+      "code": "241110",
+      "name_pt": "Auditor"
+    },
+    {
+      "code": "241205",
+      "name_pt": "Especialista de recursos humanos"
+    },
+    {
+      "code": "241210",
+      "name_pt": "Conselheiro de orientação profissional"
+    },
+    {
+      "code": "241905",
+      "name_pt": "Especialista de “marketing”"
+    },
+    {
+      "code": "241910",
+      "name_pt": "Especialista de publicidade"
+    },
+    {
+      "code": "241915",
+      "name_pt": "Especialista de relações públicas"
+    },
+    {
+      "code": "241920",
+      "name_pt": "Especialista financeiro"
+    },
+    {
+      "code": "241925",
+      "name_pt": "Conselheiro de comércio"
+    },
+    {
+      "code": "241930",
+      "name_pt": "Conselheiro de gestão"
+    },
+    {
+      "code": "241935",
+      "name_pt": "Analista de investimento"
+    },
+    {
+      "code": "241999",
+      "name_pt": "Outro especialista da administração e comércio não classificado em outra parte"
+    },
+    {
+      "code": "2421",
+      "name_pt": "- Advogados e consultores jurídicos"
+    },
+    {
+      "code": "2422",
+      "name_pt": "- Magistrados"
+    },
+    {
+      "code": "2429",
+      "name_pt": "- Especialistas jurídicos não classificados em outra parte"
+    },
+    {
+      "code": "242105",
+      "name_pt": "Advogado"
+    },
+    {
+      "code": "242110",
+      "name_pt": "Consultor jurídico"
+    },
+    {
+      "code": "242205",
+      "name_pt": "Juiz"
+    },
+    {
+      "code": "242210",
+      "name_pt": "Delegado do Ministério Público"
+    },
+    {
+      "code": "242905",
+      "name_pt": "Auditor judicial"
+    },
+    {
+      "code": "242910",
+      "name_pt": "Conservador do registo civil"
+    },
+    {
+      "code": "242915",
+      "name_pt": "Conservador do registo predial, comercial e automóvel"
+    },
+    {
+      "code": "242920",
+      "name_pt": "Notário"
+    },
+    {
+      "code": "242999",
+      "name_pt": "Especialista jurídico não classificado em outra parte"
+    },
+    {
+      "code": "2431",
+      "name_pt": "- Arquivistas e conservadores de museus"
+    },
+    {
+      "code": "2432",
+      "name_pt": "- Bibliotecários e documentalistas"
+    },
+    {
+      "code": "243105",
+      "name_pt": "Arquivista"
+    },
+    {
+      "code": "243110",
+      "name_pt": "Conservador de museus"
+    },
+    {
+      "code": "243205",
+      "name_pt": "Bibliotecário"
+    },
+    {
+      "code": "243210",
+      "name_pt": "Documentalista"
+    },
+    {
+      "code": "2441",
+      "name_pt": "- Economistas"
+    },
+    {
+      "code": "2442",
+      "name_pt": "- Antropólogos, sociólogos e similares"
+    },
+    {
+      "code": "2443",
+      "name_pt": "- Filósofos, historiadores e especialistas das ciências políticas"
+    },
+    {
+      "code": "2444",
+      "name_pt": "- Filólogos, tradutores e intérpretes"
+    },
+    {
+      "code": "2445",
+      "name_pt": "- Psicólogos"
+    },
+    {
+      "code": "2446",
+      "name_pt": "- Especialistas dos serviços sociais"
+    },
+    {
+      "code": "244105",
+      "name_pt": "Economista"
+    },
+    {
+      "code": "244110",
+      "name_pt": "Analista económico"
+    },
+    {
+      "code": "244205",
+      "name_pt": "Antropólogo"
+    },
+    {
+      "code": "244210",
+      "name_pt": "Arqueólogo"
+    },
+    {
+      "code": "244215",
+      "name_pt": "Etnógrafo"
+    },
+    {
+      "code": "244220",
+      "name_pt": "Geógrafo"
+    },
+    {
+      "code": "244225",
+      "name_pt": "Sociólogo"
+    },
+    {
+      "code": "244305",
+      "name_pt": "Filósofo"
+    },
+    {
+      "code": "244310",
+      "name_pt": "Historiador"
+    },
+    {
+      "code": "244315",
+      "name_pt": "Especialista das ciências políticas"
+    },
+    {
+      "code": "244320",
+      "name_pt": "Analista político"
+    },
+    {
+      "code": "244405",
+      "name_pt": "Filólogo"
+    },
+    {
+      "code": "244410",
+      "name_pt": "Tradutor"
+    },
+    {
+      "code": "244415",
+      "name_pt": "Intérprete"
+    },
+    {
+      "code": "244420",
+      "name_pt": "Intérprete-tradutor"
+    },
+    {
+      "code": "244425",
+      "name_pt": "Intérprete de língua gestual"
+    },
+    {
+      "code": "244430",
+      "name_pt": "Letrado"
+    },
+    {
+      "code": "244505",
+      "name_pt": "Psicólogo"
+    },
+    {
+      "code": "244605",
+      "name_pt": "Especialista dos serviços sociais"
+    },
+    {
+      "code": "2451",
+      "name_pt": "- Escritores, jornalistas e similares"
+    },
+    {
+      "code": "2452",
+      "name_pt": "- Escultores, pintores e outros artistas similares"
+    },
+    {
+      "code": "2453",
+      "name_pt": "- Compositores, músicos e cantores"
+    },
+    {
+      "code": "2454",
+      "name_pt": "- Coreógrafos e dançarinos de arte"
+    },
+    {
+      "code": "2455",
+      "name_pt": "- Especialistas de artes de filme e teatro"
+    },
+    {
+      "code": "245105",
+      "name_pt": "Escritor"
+    },
+    {
+      "code": "245110",
+      "name_pt": "Crítico"
+    },
+    {
+      "code": "245115",
+      "name_pt": "Editor geral"
+    },
+    {
+      "code": "245120",
+      "name_pt": "Chefe de Redacção"
+    },
+    {
+      "code": "245125",
+      "name_pt": "Editor (redactor)"
+    },
+    {
+      "code": "245130",
+      "name_pt": "Jornalista - rádio e televisão"
+    },
+    {
+      "code": "245135",
+      "name_pt": "Jornalista - jornais e revistas"
+    },
+    {
+      "code": "245199",
+      "name_pt": "Escritor/jornalista/especialista similar não classificado em outra parte"
+    },
+    {
+      "code": "245205",
+      "name_pt": "Escultor"
+    },
+    {
+      "code": "245210",
+      "name_pt": "Pintor de arte"
+    },
+    {
+      "code": "245215",
+      "name_pt": "Desenhador humorístico"
+    },
+    {
+      "code": "245220",
+      "name_pt": "Desenhador ilustrador"
+    },
+    {
+      "code": "245225",
+      "name_pt": "Calígrafo chinês"
+    },
+    {
+      "code": "245230",
+      "name_pt": "Restaurador - trabalho de arte"
+    },
+    {
+      "code": "245235",
+      "name_pt": "Desenhador criador industrial"
+    },
+    {
+      "code": "245305",
+      "name_pt": "Compositor musical"
+    },
+    {
+      "code": "245310",
+      "name_pt": "Maestro de orquestra (chefe ou regente de orquestra)"
+    },
+    {
+      "code": "245315",
+      "name_pt": "Regente de coro"
+    },
+    {
+      "code": "245320",
+      "name_pt": "Instrumentista"
+    },
+    {
+      "code": "245325",
+      "name_pt": "Cantor de arte"
+    },
+    {
+      "code": "245405",
+      "name_pt": "Coreógrafo"
+    },
+    {
+      "code": "245410",
+      "name_pt": "Dançarino de arte"
+    },
+    {
+      "code": "245505",
+      "name_pt": "Realizador de filme"
+    },
+    {
+      "code": "245510",
+      "name_pt": "Realizador de televisão"
+    },
+    {
+      "code": "245515",
+      "name_pt": "Realizador de rádio"
+    },
+    {
+      "code": "245520",
+      "name_pt": "Director de fotografia - cinema"
+    },
+    {
+      "code": "245525",
+      "name_pt": "Director de som - cinema"
+    },
+    {
+      "code": "245530",
+      "name_pt": "Director de arte - cinema e televisão"
+    },
+    {
+      "code": "245535",
+      "name_pt": "Director de dobragem - cinema e televisão"
+    },
+    {
+      "code": "245540",
+      "name_pt": "Director de efeitos especiais - cinema e televisão"
+    },
+    {
+      "code": "245545",
+      "name_pt": "Encenador"
+    },
+    {
+      "code": "245550",
+      "name_pt": "Dramaturgista"
+    },
+    {
+      "code": "245599",
+      "name_pt": "Especialista de artes de filme e teatro não classificado em outra parte"
+    },
+    {
+      "code": "2460",
+      "name_pt": "- Ministros de cultos religiosos e similares"
+    },
+    {
+      "code": "246005",
+      "name_pt": "Ministro de culto"
+    },
+    {
+      "code": "246010",
+      "name_pt": "Padre"
+    },
+    {
+      "code": "246015",
+      "name_pt": "Missionário"
+    },
+    {
+      "code": "2470",
+      "name_pt": "- Técnicos superiores de administração pública não classificados em outra parte"
+    },
+    {
+      "code": "247005",
+      "name_pt": "Inspector/subinspector de investigação criminal"
+    },
+    {
+      "code": "311",
+      "name_pt": "- Técnicos das Ciências Físicas e Químicas, da Engenharia e do Fabrico Industrial"
+    },
+    {
+      "code": "312",
+      "name_pt": "- Técnicos de Informática e Trabalhadores Similares"
+    },
+    {
+      "code": "313",
+      "name_pt": "- Operadores de Equipamentos Ópticos e Electrónicos"
+    },
+    {
+      "code": "314",
+      "name_pt": "- Controladores e Técnicos dos Transportes Marítimos e Aéreos"
+    },
+    {
+      "code": "315",
+      "name_pt": "- Inspectores de Normas de Segurança, Saúde e Qualidade"
+    },
+    {
+      "code": "3111",
+      "name_pt": "- Técnicos das Ciências Físicas e Químicas e Trabalhadores Similares"
+    },
+    {
+      "code": "3112",
+      "name_pt": "- Técnicos de Engenharia Civil"
+    },
+    {
+      "code": "3113",
+      "name_pt": "- Técnicos de Electrotécnica"
+    },
+    {
+      "code": "3114",
+      "name_pt": "- Técnicos de Electrónica e Telecomunicações"
+    },
+    {
+      "code": "3115",
+      "name_pt": "- Técnicos de Mecânica"
+    },
+    {
+      "code": "3116",
+      "name_pt": "- Técnicos de Engenharia Química"
+    },
+    {
+      "code": "3117",
+      "name_pt": "- Técnico de Metalurgia e Minas"
+    },
+    {
+      "code": "3118",
+      "name_pt": "- Desenhadores e Trabalhadores Similares"
+    },
+    {
+      "code": "3119",
+      "name_pt": "- Técnicos das Ciências Físicas e Químicas, da Engenharia, do Fabrico Industrial e Trabalhadores"
+    },
+    {
+      "code": "311105",
+      "name_pt": "Técnico de laboratório - análises físicas"
+    },
+    {
+      "code": "311110",
+      "name_pt": "Técnico de laboratório - análises químicas"
+    },
+    {
+      "code": "311115",
+      "name_pt": "Técnico das ciências físicas"
+    },
+    {
+      "code": "311120",
+      "name_pt": "Técnico das ciências químicas"
+    },
+    {
+      "code": "311125",
+      "name_pt": "Técnico da astronomia"
+    },
+    {
+      "code": "311130",
+      "name_pt": "Técnico da meteorologia (meteorologista operacional)"
+    },
+    {
+      "code": "311135",
+      "name_pt": "Técnico da geologia"
+    },
+    {
+      "code": "311140",
+      "name_pt": "Técnico da geofísica (geofísico operacional)"
+    },
+    {
+      "code": "311145",
+      "name_pt": "Técnico da oceanografia"
+    },
+    {
+      "code": "311150",
+      "name_pt": "Observador meteorológico"
+    },
+    {
+      "code": "311155",
+      "name_pt": "Observador geofísico"
+    },
+    {
+      "code": "311160",
+      "name_pt": "Técnico auxiliar de laboratório"
+    },
+    {
+      "code": "311199",
+      "name_pt": "Técnico das ciências físicas e similares não classificado em outra parte"
+    },
+    {
+      "code": "311205",
+      "name_pt": "Engenheiro técnico civil urbanista"
+    },
+    {
+      "code": "311210",
+      "name_pt": "Engenheiro técnico civil de estruturas"
+    },
+    {
+      "code": "311215",
+      "name_pt": "Engenheiro técnico civil de infraestruturas"
+    },
+    {
+      "code": "311220",
+      "name_pt": "Engenheiro técnico civil hidráulica"
+    },
+    {
+      "code": "311225",
+      "name_pt": "Medidor orçamentista - construção civil"
+    },
+    {
+      "code": "311230",
+      "name_pt": "Mestre - construção civil"
+    },
+    {
+      "code": "311299",
+      "name_pt": "Técnico de engenharia civil não classificado em outra parte"
+    },
+    {
+      "code": "311305",
+      "name_pt": "Técnico de electrotécnica - manutenção de sistemas eléctricos"
+    },
+    {
+      "code": "311310",
+      "name_pt": "Engenheiro técnico de electrotécnica"
+    },
+    {
+      "code": "311315",
+      "name_pt": "Técnico de refrigeração e climatização"
+    },
+    {
+      "code": "311399",
+      "name_pt": "Técnico de electrotécnica não classificado em outra parte"
+    },
+    {
+      "code": "311405",
+      "name_pt": "Técnico de electrónica"
+    },
+    {
+      "code": "311410",
+      "name_pt": "Técnico de telecomunicações"
+    },
+    {
+      "code": "311415",
+      "name_pt": "Técnico de radioelectrónica"
+    },
+    {
+      "code": "311420",
+      "name_pt": "Engenheiro técnico de electrónica e telecomunicações"
+    },
+    {
+      "code": "311499",
+      "name_pt": "Técnico de electrónica e telecomunicações não classificado em outra parte"
+    },
+    {
+      "code": "311505",
+      "name_pt": "Técnico de mecânica"
+    },
+    {
+      "code": "311510",
+      "name_pt": "Engenheiro técnico de mecânica"
+    },
+    {
+      "code": "311515",
+      "name_pt": "Chefe / encarregado de oficinas"
+    },
+    {
+      "code": "311520",
+      "name_pt": "Técnico de manutenção de instrumentos de precisão"
+    },
+    {
+      "code": "311599",
+      "name_pt": "Técnico de mecânica não classificado em outra parte"
+    },
+    {
+      "code": "311605",
+      "name_pt": "Técnico de engenharia química - geral"
+    },
+    {
+      "code": "311610",
+      "name_pt": "Técnico de engenharia química - processo"
+    },
+    {
+      "code": "311615",
+      "name_pt": "Técnico de engenharia química - petróleo e gás natural"
+    },
+    {
+      "code": "311620",
+      "name_pt": "Técnico de engenharia química - alimentação e bebida"
+    },
+    {
+      "code": "311699",
+      "name_pt": "Técnico de engenharia química não classificado em outra parte"
+    },
+    {
+      "code": "311705",
+      "name_pt": "Técnico de metalurgia"
+    },
+    {
+      "code": "311710",
+      "name_pt": "Técnico de minas"
+    },
+    {
+      "code": "311805",
+      "name_pt": "Desenhador - construção civil e arquitectura"
+    },
+    {
+      "code": "311810",
+      "name_pt": "Desenhador - artes gráficas"
+    },
+    {
+      "code": "311815",
+      "name_pt": "Desenhador - electrotécnico e máquinas"
+    },
+    {
+      "code": "311820",
+      "name_pt": "Desenhador - cartógrafo"
+    },
+    {
+      "code": "311825",
+      "name_pt": "Desenhador - modelos"
+    },
+    {
+      "code": "311830",
+      "name_pt": "Topógrafo"
+    },
+    {
+      "code": "311835",
+      "name_pt": "Hidrógrafo"
+    },
+    {
+      "code": "311899",
+      "name_pt": "Desenhador/trabalhador similar não classificado em outra parte"
+    },
+    {
+      "code": "311905",
+      "name_pt": "Técnico / coordenador de produção"
+    },
+    {
+      "code": "311910",
+      "name_pt": "Técnico de segurança industrial"
+    },
+    {
+      "code": "311915",
+      "name_pt": "Técnico de investigação e desenvolvimento - produção industrial"
+    },
+    {
+      "code": "311920",
+      "name_pt": "Técnico de manutenção"
+    },
+    {
+      "code": "311925",
+      "name_pt": "Chefe de secção de produção"
+    },
+    {
+      "code": "311999",
+      "name_pt": "Outro técnico das ciências físicas e químicas, da engenharia e do fabrico industrial não"
+    },
+    {
+      "code": "3121",
+      "name_pt": "- Técnico de Informática e Trabalhadores Similares"
+    },
+    {
+      "code": "3122",
+      "name_pt": "- Supervisores de Equipamento Informático"
+    },
+    {
+      "code": "3123",
+      "name_pt": "- Técnicos de Robots Industriais"
+    },
+    {
+      "code": "312105",
+      "name_pt": "Técnico de informática"
+    },
+    {
+      "code": "312110",
+      "name_pt": "Assistente de informática"
+    },
+    {
+      "code": "312115",
+      "name_pt": "Programador"
+    },
+    {
+      "code": "312120",
+      "name_pt": "Técnico de manutenção - informática"
+    },
+    {
+      "code": "312199",
+      "name_pt": "Técnico de informática/trabalhador similar não classificado em outra parte"
+    },
+    {
+      "code": "312205",
+      "name_pt": "Supervisores de equipamento informático"
+    },
+    {
+      "code": "312305",
+      "name_pt": "Técnico de robots industriais"
+    },
+    {
+      "code": "3131",
+      "name_pt": "- Fotógrafos e Operadores de Equipamentos de Registo de Imagem e de Som"
+    },
+    {
+      "code": "3132",
+      "name_pt": "- Operadores de Equipamento de Emissões de Rádio, Televisão e Telecomunicações"
+    },
+    {
+      "code": "3133",
+      "name_pt": "- Técnicos de Equipamento Médico"
+    },
+    {
+      "code": "3139",
+      "name_pt": "- Operadores de Equipamentos Ópticos e Electrónicos não Classificados em Outra Parte"
+    },
+    {
+      "code": "313105",
+      "name_pt": "Fotógrafo"
+    },
+    {
+      "code": "313110",
+      "name_pt": "Repórter fotográfico"
+    },
+    {
+      "code": "313115",
+      "name_pt": "Operador de imagem - cinema e televisão"
+    },
+    {
+      "code": "313120",
+      "name_pt": "Operador de tratamento de imagem"
+    },
+    {
+      "code": "313125",
+      "name_pt": "Operador de iluminação - cinema e televisão"
+    },
+    {
+      "code": "313130",
+      "name_pt": "Operador de som - cinema, televisão e rádio"
+    },
+    {
+      "code": "313135",
+      "name_pt": "Operador de meios audiovisuais"
+    },
+    {
+      "code": "313199",
+      "name_pt": "Fotógrafo/operador de equipamentos de registo de imagem e de som não classificado em"
+    },
+    {
+      "code": "313205",
+      "name_pt": "Telegrafista"
+    },
+    {
+      "code": "313210",
+      "name_pt": "Radiotelegrafista"
+    },
+    {
+      "code": "313215",
+      "name_pt": "Radiotelegrafista - navegação aérea"
+    },
+    {
+      "code": "313220",
+      "name_pt": "Radiotelegrafista - navegação marítima"
+    },
+    {
+      "code": "313225",
+      "name_pt": "Operador de equipamento de emissão radiofónica"
+    },
+    {
+      "code": "313230",
+      "name_pt": "Operador de equipamento de emissão de televisão"
+    },
+    {
+      "code": "313235",
+      "name_pt": "Operador de equipamento de emissão de telecomunicações"
+    },
+    {
+      "code": "313240",
+      "name_pt": "Projeccionista de cinema"
+    },
+    {
+      "code": "313245",
+      "name_pt": "Operador de radar"
+    },
+    {
+      "code": "313299",
+      "name_pt": "Operador de equipamento de emissões de rádio, televisão e telecomunicações não"
+    },
+    {
+      "code": "313305",
+      "name_pt": "Técnico de cardiopneumografia"
+    },
+    {
+      "code": "313310",
+      "name_pt": "Técnico de radiologia"
+    },
+    {
+      "code": "313315",
+      "name_pt": "Técnico de radioterapia"
+    },
+    {
+      "code": "313320",
+      "name_pt": "Técnico de ultrassom"
+    },
+    {
+      "code": "313325",
+      "name_pt": "Técnico de tomografia axial computarizada"
+    },
+    {
+      "code": "313330",
+      "name_pt": "Técnico de electroencefalografia"
+    },
+    {
+      "code": "313335",
+      "name_pt": "Técnico de neurofisiografia"
+    },
+    {
+      "code": "313399",
+      "name_pt": "Técnico de equipamento médico não classificado em outra parte"
+    },
+    {
+      "code": "313999",
+      "name_pt": "Operadores de equipamentos ópticos e electrónicos não classificados em outra parte"
+    },
+    {
+      "code": "3141",
+      "name_pt": "- Oficiais Maquinistas Navais"
+    },
+    {
+      "code": "3142",
+      "name_pt": "- Oficiais de Convés, Pilotos de Navios e Trabalhadores Similares"
+    },
+    {
+      "code": "3143",
+      "name_pt": "- Pilotos de Aviões e Trabalhadores Similares"
+    },
+    {
+      "code": "3144",
+      "name_pt": "- Controladores de Tráfego Aéreo e Marítimo"
+    },
+    {
+      "code": "3145",
+      "name_pt": "- Técnicos de Segurança Aérea"
+    },
+    {
+      "code": "314105",
+      "name_pt": "Oficial maquinista naval"
+    },
+    {
+      "code": "314110",
+      "name_pt": "Chefe/subchefe - mecânico da Polícia Marítima e Fiscalização"
+    },
+    {
+      "code": "314205",
+      "name_pt": "Comandante de navio/patrão"
+    },
+    {
+      "code": "314210",
+      "name_pt": "Imediato/sota-patrão"
+    },
+    {
+      "code": "314215",
+      "name_pt": "Oficial de convés"
+    },
+    {
+      "code": "314220",
+      "name_pt": "Piloto de barra"
+    },
+    {
+      "code": "314225",
+      "name_pt": "Superintendente de navio"
+    },
+    {
+      "code": "314230",
+      "name_pt": "Mestre - serviços marítimos, manobra e dragagem"
+    },
+    {
+      "code": "314299",
+      "name_pt": "Oficial de convés/piloto de navios não classificado em outra parte"
+    },
+    {
+      "code": "314305",
+      "name_pt": "Comandante de aeronave - transportes aéreos"
+    },
+    {
+      "code": "314310",
+      "name_pt": "Piloto de avião"
+    },
+    {
+      "code": "314315",
+      "name_pt": "Piloto de helicóptero"
+    },
+    {
+      "code": "314320",
+      "name_pt": "Engenheiro de voo"
+    },
+    {
+      "code": "314399",
+      "name_pt": "Piloto de avião/trabalhador similar não classificado em outra parte"
+    },
+    {
+      "code": "314405",
+      "name_pt": "Controlador de tráfego aéreo"
+    },
+    {
+      "code": "314410",
+      "name_pt": "Controlador de tráfego marítimo"
+    },
+    {
+      "code": "314505",
+      "name_pt": "Técnico de segurança aérea"
+    },
+    {
+      "code": "3151",
+      "name_pt": "- Técnicos de Prevenção de Incêndios, Fiscais de Obras e Trabalhadores Similares"
+    },
+    {
+      "code": "3152",
+      "name_pt": "- Técnicos e Inspectores de Segurança do Trabalho, Higiene, Controlo de Qualidade e"
+    },
+    {
+      "code": "315105",
+      "name_pt": "Técnico de prevenção de incêndio"
+    },
+    {
+      "code": "315110",
+      "name_pt": "Fiscal técnico de obras de construção"
+    },
+    {
+      "code": "315205",
+      "name_pt": "Inspector (fiscal técnico) de saúde"
+    },
+    {
+      "code": "315210",
+      "name_pt": "Inspector (fiscal técnico) do ambiente"
+    },
+    {
+      "code": "315215",
+      "name_pt": "Inspector (fiscal técnico) das actividades económicas"
+    },
+    {
+      "code": "315220",
+      "name_pt": "Inspector de turismo"
+    },
+    {
+      "code": "315225",
+      "name_pt": "Inspector do trabalho"
+    },
+    {
+      "code": "315230",
+      "name_pt": "Inspector de jogos de fortuna e azar"
+    },
+    {
+      "code": "315235",
+      "name_pt": "Fiscal técnico de câmara municipal"
+    },
+    {
+      "code": "315240",
+      "name_pt": "Técnico de controlo de qualidade"
+    },
+    {
+      "code": "315245",
+      "name_pt": "Agente de segurança do trabalho"
+    },
+    {
+      "code": "321",
+      "name_pt": "- Técnicos e Profissionais de Nível Intermédio das Ciências da Vida"
+    },
+    {
+      "code": "322",
+      "name_pt": "- Técnicos e Profissionais de Nível Intermédio da Medicina - à excepção dos enfermeiros"
+    },
+    {
+      "code": "323",
+      "name_pt": "- Enfermeiros e Parteiras"
+    },
+    {
+      "code": "324",
+      "name_pt": "- Especialistas da Medicina Tradicional Chinesa"
+    },
+    {
+      "code": "3211",
+      "name_pt": "- Técnicos das Ciências Biológicas e da Vida"
+    },
+    {
+      "code": "3212",
+      "name_pt": "- Técnicos Agrários e Florestais e Trabalhadores Similares"
+    },
+    {
+      "code": "321105",
+      "name_pt": "Técnico da biologia"
+    },
+    {
+      "code": "321110",
+      "name_pt": "Técnico do ambiente"
+    },
+    {
+      "code": "321115",
+      "name_pt": "Técnico da bacteriologia"
+    },
+    {
+      "code": "321120",
+      "name_pt": "Técnico da bioquímica"
+    },
+    {
+      "code": "321125",
+      "name_pt": "Técnico de banco de sangue"
+    },
+    {
+      "code": "321130",
+      "name_pt": "Técnico de farmacologia"
+    },
+    {
+      "code": "321135",
+      "name_pt": "Técnico da serologia"
+    },
+    {
+      "code": "321140",
+      "name_pt": "Técnico do laboratório médico"
+    },
+    {
+      "code": "321145",
+      "name_pt": "Técnico de análises clínicas de saúde pública"
+    },
+    {
+      "code": "321150",
+      "name_pt": "Técnico da zoologia"
+    },
+    {
+      "code": "321155",
+      "name_pt": "Técnico de medicina nuclear"
+    },
+    {
+      "code": "321160",
+      "name_pt": "Técnico de anatomia patológica, citológica e tanatológica"
+    },
+    {
+      "code": "321199",
+      "name_pt": "Técnico das ciências biológicas e da vida não classificado em outra parte"
+    },
+    {
+      "code": "321205",
+      "name_pt": "Técnico agrário"
+    },
+    {
+      "code": "321210",
+      "name_pt": "Técnico florestal"
+    },
+    {
+      "code": "321215",
+      "name_pt": "Engenheiro técnico agrário"
+    },
+    {
+      "code": "321299",
+      "name_pt": "Técnico agrário e florestal/trabalhador similar não classificado em outra parte"
+    },
+    {
+      "code": "3222",
+      "name_pt": "- Agentes Sanitários e Trabalhadores Similares"
+    },
+    {
+      "code": "3223",
+      "name_pt": "- Dietistas e Nutricionistas"
+    },
+    {
+      "code": "3224",
+      "name_pt": "- Optometristas e Ópticos"
+    },
+    {
+      "code": "3225",
+      "name_pt": "- Odontologistas e Assistentes de Medicina Dentária"
+    },
+    {
+      "code": "3226",
+      "name_pt": "- Fisioterapeutas e Profissionais Similares"
+    },
+    {
+      "code": "3227",
+      "name_pt": "- Assistentes Veterinários"
+    },
+    {
+      "code": "3228",
+      "name_pt": "- Técnicos de Farmácia e Trabalhadores Similares"
+    },
+    {
+      "code": "3229",
+      "name_pt": "- Profissionais Técnicos da Medicina - á Excepção dos Enfermeiros - não Classificados em Outra"
+    },
+    {
+      "code": "322205",
+      "name_pt": "Agente sanitário"
+    },
+    {
+      "code": "322305",
+      "name_pt": "Dietista"
+    },
+    {
+      "code": "322310",
+      "name_pt": "Nutricionista"
+    },
+    {
+      "code": "322405",
+      "name_pt": "Óptico - optometrista"
+    },
+    {
+      "code": "322410",
+      "name_pt": "Técnico de óptica ocular"
+    },
+    {
+      "code": "322415",
+      "name_pt": "Técnico de contactologia"
+    },
+    {
+      "code": "322505",
+      "name_pt": "Odontologista"
+    },
+    {
+      "code": "322510",
+      "name_pt": "Técnico de próteses dentárias"
+    },
+    {
+      "code": "322515",
+      "name_pt": "Assistente de medicina dentária"
+    },
+    {
+      "code": "322605",
+      "name_pt": "Fisioterapeuta"
+    },
+    {
+      "code": "322610",
+      "name_pt": "Terapeuta quiroprático"
+    },
+    {
+      "code": "322615",
+      "name_pt": "Técnico de ortopróteses"
+    },
+    {
+      "code": "322705",
+      "name_pt": "Assistente veterinário"
+    },
+    {
+      "code": "322805",
+      "name_pt": "Técnico de farmácia"
+    },
+    {
+      "code": "322810",
+      "name_pt": "Técnico de farmácia tradicional chinesa"
+    },
+    {
+      "code": "322905",
+      "name_pt": "Homeopata"
+    },
+    {
+      "code": "322910",
+      "name_pt": "Terapeuta ocupacional"
+    },
+    {
+      "code": "322915",
+      "name_pt": "Terapeuta da fala"
+    },
+    {
+      "code": "322920",
+      "name_pt": "Técnico de ortóptica"
+    },
+    {
+      "code": "322925",
+      "name_pt": "Técnico de audiometria"
+    },
+    {
+      "code": "322999",
+      "name_pt": "Outro profissional técnico da medicina - á excepção do enfermeiro - não classificado em"
+    },
+    {
+      "code": "3231",
+      "name_pt": "- Enfermeiros"
+    },
+    {
+      "code": "3232",
+      "name_pt": "- Parteiras"
+    },
+    {
+      "code": "323105",
+      "name_pt": "Enfermeiro - geral"
+    },
+    {
+      "code": "323110",
+      "name_pt": "Enfermeiro - medicina interna"
+    },
+    {
+      "code": "323115",
+      "name_pt": "Enfermeiro - cirurgia geral"
+    },
+    {
+      "code": "323120",
+      "name_pt": "Enfermeiro - saúde materna e obstétrica"
+    },
+    {
+      "code": "323199",
+      "name_pt": "Enfermeiro não classificado em outra parte"
+    },
+    {
+      "code": "323205",
+      "name_pt": "Parteira"
+    },
+    {
+      "code": "3240",
+      "name_pt": "- Mestres da Medicina Tradicional Chinesa"
+    },
+    {
+      "code": "324005",
+      "name_pt": "Mestre da medicina tradicional chinesa"
+    },
+    {
+      "code": "324010",
+      "name_pt": "Curandeiro"
+    },
+    {
+      "code": "324015",
+      "name_pt": "Acupuncturista"
+    },
+    {
+      "code": "324020",
+      "name_pt": "Massagista - reabilitação/terapêutica"
+    },
+    {
+      "code": "324099",
+      "name_pt": "Mestre da medicina tradicional chinesa não classificado em outra parte"
+    },
+    {
+      "code": "331",
+      "name_pt": "- Docentes do Ensino Primário"
+    },
+    {
+      "code": "332",
+      "name_pt": "- Docentes do Ensino Pré - Primário"
+    },
+    {
+      "code": "333",
+      "name_pt": "- Docentes de Educação Especial"
+    },
+    {
+      "code": "334",
+      "name_pt": "- Outros Profissionais de Ensino de Nível Intermédio"
+    },
+    {
+      "code": "3310",
+      "name_pt": "- Docentes do Ensino Primário"
+    },
+    {
+      "code": "331005",
+      "name_pt": "Docente do ensino primário"
+    },
+    {
+      "code": "3320",
+      "name_pt": "- Docentes do Ensino Pré-Primário"
+    },
+    {
+      "code": "332005",
+      "name_pt": "Educador de infância"
+    },
+    {
+      "code": "332010",
+      "name_pt": "Educador de creche"
+    },
+    {
+      "code": "332099",
+      "name_pt": "Docente do ensino pré-primário não classificado em outra parte"
+    },
+    {
+      "code": "3330",
+      "name_pt": "- Docentes de Educação Especial"
+    },
+    {
+      "code": "333005",
+      "name_pt": "Professor de educação especial - Área da deficiência visual"
+    },
+    {
+      "code": "333010",
+      "name_pt": "Professor de educação especial - Área da deficiência auditiva"
+    },
+    {
+      "code": "333015",
+      "name_pt": "Professor de educação especial - Área da deficiência mental"
+    },
+    {
+      "code": "333020",
+      "name_pt": "Professor de educação especial - Área da deficiências físicas"
+    },
+    {
+      "code": "333099",
+      "name_pt": "Professor de educação especial não classificado em outra parte"
+    },
+    {
+      "code": "3340",
+      "name_pt": "- Outros Profissionais de Ensino de Nível Intermédio"
+    },
+    {
+      "code": "334005",
+      "name_pt": "Educador particular"
+    },
+    {
+      "code": "334010",
+      "name_pt": "Instrutor de voo"
+    },
+    {
+      "code": "334015",
+      "name_pt": "Instrutor de condução de veículos automóveis"
+    },
+    {
+      "code": "334020",
+      "name_pt": "Instrutor de condução de autocarros"
+    },
+    {
+      "code": "334025",
+      "name_pt": "Formador - curso de formação profissional corresponde ao ensino secundário geral"
+    },
+    {
+      "code": "334030",
+      "name_pt": "Formador - formação profissional (com o requisito de admissão não superior a 8º ano de"
+    },
+    {
+      "code": "334035",
+      "name_pt": "Treinador desportivo"
+    },
+    {
+      "code": "334040",
+      "name_pt": "Treinador de \"Wu Shu\""
+    },
+    {
+      "code": "334045",
+      "name_pt": "Monitor da Escola de Turismo e Indústria Hoteleira"
+    },
+    {
+      "code": "334099",
+      "name_pt": "Profissional de ensino de nível intermédio não classificado em outra parte"
+    },
+    {
+      "code": "341",
+      "name_pt": "- Técnicos de Finanças e Serviços Comerciais"
+    },
+    {
+      "code": "342",
+      "name_pt": "- Corretores e Agentes Comerciais"
+    },
+    {
+      "code": "343",
+      "name_pt": "- Técnicos de Gestão, Administração e Jurídicos"
+    },
+    {
+      "code": "344",
+      "name_pt": "- Outros Técnicos e Profissionais de Nível Intermédio da Administração Pública"
+    },
+    {
+      "code": "345",
+      "name_pt": "- Investigadores da Polícia Judiciária e Detectives"
+    },
+    {
+      "code": "346",
+      "name_pt": "- Trabalhadores Sociais"
+    },
+    {
+      "code": "347",
+      "name_pt": "- Técnicos e Profissionais de Nível Intermédio das Artes, Espectáculos e Desportos"
+    },
+    {
+      "code": "348",
+      "name_pt": "- Assistentes Laicos e de Culto"
+    },
+    {
+      "code": "349",
+      "name_pt": "- Técnicos e Profissionais de Nível Intermédio não Classificados em Outra Parte"
+    },
+    {
+      "code": "3411",
+      "name_pt": "- Corretores de Bolsa, Cambistas e de Outros Serviços Financeiros"
+    },
+    {
+      "code": "3412",
+      "name_pt": "- Agentes de Seguros"
+    },
+    {
+      "code": "3413",
+      "name_pt": "- Mediadores de Propriedades"
+    },
+    {
+      "code": "3414",
+      "name_pt": "- Técnicos de Turismo"
+    },
+    {
+      "code": "3415",
+      "name_pt": "- Representantes Comerciais e Técnicos de Vendas"
+    },
+    {
+      "code": "3416",
+      "name_pt": "- Compradores"
+    },
+    {
+      "code": "3417",
+      "name_pt": "- Avaliadores e Leiloeiros"
+    },
+    {
+      "code": "341105",
+      "name_pt": "Corretor de bolsa"
+    },
+    {
+      "code": "341110",
+      "name_pt": "Operador de bolsa"
+    },
+    {
+      "code": "341115",
+      "name_pt": "Cambista (\"dealer\")"
+    },
+    {
+      "code": "341120",
+      "name_pt": "Técnico de operações bancárias e financeiras"
+    },
+    {
+      "code": "341125",
+      "name_pt": "Técnico de estudos económicos"
+    },
+    {
+      "code": "341205",
+      "name_pt": "Corretor de seguros"
+    },
+    {
+      "code": "341210",
+      "name_pt": "Mediador de seguros"
+    },
+    {
+      "code": "341215",
+      "name_pt": "Técnico de seguros"
+    },
+    {
+      "code": "341305",
+      "name_pt": "Mediador de propriedades"
+    },
+    {
+      "code": "341310",
+      "name_pt": "Técnico de operações de imobiliário"
+    },
+    {
+      "code": "341405",
+      "name_pt": "Técnico de turismo"
+    },
+    {
+      "code": "341505",
+      "name_pt": "Prospector de vendas"
+    },
+    {
+      "code": "341510",
+      "name_pt": "Delegado de informação médica"
+    },
+    {
+      "code": "341515",
+      "name_pt": "Representante comercial de serviços"
+    },
+    {
+      "code": "341520",
+      "name_pt": "Representante comercial de bens (à excepção de medicina)"
+    },
+    {
+      "code": "341525",
+      "name_pt": "Chefe de vendas"
+    },
+    {
+      "code": "341530",
+      "name_pt": "Técnico de \"marketing\" e promoção"
+    },
+    {
+      "code": "341605",
+      "name_pt": "Comprador"
+    },
+    {
+      "code": "341610",
+      "name_pt": "Chefe de compras"
+    },
+    {
+      "code": "341705",
+      "name_pt": "Avaliador - imóveis"
+    },
+    {
+      "code": "341710",
+      "name_pt": "Avaliador - ourivesaria e joalharia"
+    },
+    {
+      "code": "341715",
+      "name_pt": "Avaliador - seguros"
+    },
+    {
+      "code": "341720",
+      "name_pt": "Leiloeiro"
+    },
+    {
+      "code": "341725",
+      "name_pt": "Pregoeiro"
+    },
+    {
+      "code": "341799",
+      "name_pt": "Avaliador/leiloeiro não classificado em outra parte"
+    },
+    {
+      "code": "3421",
+      "name_pt": "- Corretores de Mercadorias"
+    },
+    {
+      "code": "3422",
+      "name_pt": "- Agentes Expedidores e de Despachante"
+    },
+    {
+      "code": "3423",
+      "name_pt": "- Técnico da Área do Emprego"
+    },
+    {
+      "code": "3429",
+      "name_pt": "- Corretores e Agentes Comerciais não Classificados em Outra Parte"
+    },
+    {
+      "code": "342105",
+      "name_pt": "Corretor de \"trading\""
+    },
+    {
+      "code": "342110",
+      "name_pt": "Corretor de navios"
+    },
+    {
+      "code": "342199",
+      "name_pt": "Corretor de mercadorias não classificado em outra parte"
+    },
+    {
+      "code": "342205",
+      "name_pt": "Agente de navegação"
+    },
+    {
+      "code": "342210",
+      "name_pt": "Agente despachante"
+    },
+    {
+      "code": "342215",
+      "name_pt": "Agente transitário"
+    },
+    {
+      "code": "342305",
+      "name_pt": "Técnico de emprego"
+    },
+    {
+      "code": "342310",
+      "name_pt": "Analista de profissões"
+    },
+    {
+      "code": "342905",
+      "name_pt": "Agente desportivo"
+    },
+    {
+      "code": "342910",
+      "name_pt": "Agente literário"
+    },
+    {
+      "code": "342915",
+      "name_pt": "Agente musical"
+    },
+    {
+      "code": "342920",
+      "name_pt": "Agente teatral"
+    },
+    {
+      "code": "342925",
+      "name_pt": "Agente publicitário"
+    },
+    {
+      "code": "3431",
+      "name_pt": "- Técnicos dos Serviços Administrativos e de Gestão"
+    },
+    {
+      "code": "3432",
+      "name_pt": "- Técnicos dos Serviços Jurídicos"
+    },
+    {
+      "code": "3433",
+      "name_pt": "- Técnicos de Contabilidade e Trabalhadores Similares"
+    },
+    {
+      "code": "3434",
+      "name_pt": "- Técnicos dos Serviços Estatísticos, Matemáticos e Trabalhadores Similares"
+    },
+    {
+      "code": "3439",
+      "name_pt": "- Técnicos de Gestão e Administração e Jurídicos não Classificados em Outra Parte"
+    },
+    {
+      "code": "343105",
+      "name_pt": "Chefe de secção - Administração Pública"
+    },
+    {
+      "code": "343110",
+      "name_pt": "Chefe de secretaria - Administração Pública"
+    },
+    {
+      "code": "343115",
+      "name_pt": "Secretário de administração"
+    },
+    {
+      "code": "343120",
+      "name_pt": "Técnico de administração em geral"
+    },
+    {
+      "code": "343125",
+      "name_pt": "Técnico de planeamento e organização"
+    },
+    {
+      "code": "343130",
+      "name_pt": "Assistente de produção cinematográfica"
+    },
+    {
+      "code": "343135",
+      "name_pt": "Assistente de realização - cinema, televisão e rádio"
+    },
+    {
+      "code": "343205",
+      "name_pt": "Secretário judicial"
+    },
+    {
+      "code": "343210",
+      "name_pt": "Escrivão de justiça"
+    },
+    {
+      "code": "343215",
+      "name_pt": "Ajudante de conservatória de registo e notariado"
+    },
+    {
+      "code": "343220",
+      "name_pt": "Contador-verificador - Tribunal de Contas"
+    },
+    {
+      "code": "343225",
+      "name_pt": "Solicitador"
+    },
+    {
+      "code": "343305",
+      "name_pt": "Técnico de contas"
+    },
+    {
+      "code": "343310",
+      "name_pt": "Tesoureiro"
+    },
+    {
+      "code": "343315",
+      "name_pt": "Técnico de finanças"
+    },
+    {
+      "code": "343320",
+      "name_pt": "Técnico de auditoria"
+    },
+    {
+      "code": "343325",
+      "name_pt": "Técnico de análise financeira"
+    },
+    {
+      "code": "343405",
+      "name_pt": "Técnico de estatística"
+    },
+    {
+      "code": "343905",
+      "name_pt": "Técnico de recursos humanos"
+    },
+    {
+      "code": "343910",
+      "name_pt": "Técnico de relações públicas"
+    },
+    {
+      "code": "343999",
+      "name_pt": "Técnico de gestão e administração e jurídicos não classificado em outra parte"
+    },
+    {
+      "code": "3441",
+      "name_pt": "- Chefias Intermédias das Forças de Segurança de Macau"
+    },
+    {
+      "code": "3442",
+      "name_pt": "- Inspectores das Finanças"
+    },
+    {
+      "code": "3443",
+      "name_pt": "- Técnicos fiscais da Segurança Social"
+    },
+    {
+      "code": "3444",
+      "name_pt": "- Técnicos de Emissão de Licença"
+    },
+    {
+      "code": "3449",
+      "name_pt": "- Técnicos da Administração Pública não Classificados em Outra Parte"
+    },
+    {
+      "code": "344105",
+      "name_pt": "Chefia intermédia do Corpo de Polícia de Segurança Pública (chefe, subchefe)"
+    },
+    {
+      "code": "344110",
+      "name_pt": "Chefia intermédia da Polícia Marítima e Fiscal (chefe, subchefe)"
+    },
+    {
+      "code": "344115",
+      "name_pt": "Chefia intermédia do Corpo dos Bombeiros (chefe, subchefe)"
+    },
+    {
+      "code": "344120",
+      "name_pt": "Subchefe da Polícia Municipal"
+    },
+    {
+      "code": "344205",
+      "name_pt": "Inspector das finanças"
+    },
+    {
+      "code": "344305",
+      "name_pt": "Técnico fiscal da segurança social"
+    },
+    {
+      "code": "344405",
+      "name_pt": "Técnico de emissão de licença"
+    },
+    {
+      "code": "344410",
+      "name_pt": "Técnico de emissão de passaporte ou documentos similares"
+    },
+    {
+      "code": "344905",
+      "name_pt": "Técnico postal"
+    },
+    {
+      "code": "344910",
+      "name_pt": "Técnico-adjunto postal"
+    },
+    {
+      "code": "344999",
+      "name_pt": "Técnico da Administração Pública não classificado em outra parte"
+    },
+    {
+      "code": "3450",
+      "name_pt": "- Investigadores da Polícia Judiciária e Detectives"
+    },
+    {
+      "code": "345005",
+      "name_pt": "Investigador de investigação criminal"
+    },
+    {
+      "code": "345010",
+      "name_pt": "Perito criminalístico"
+    },
+    {
+      "code": "345015",
+      "name_pt": "Adjunto-técnico de criminalística"
+    },
+    {
+      "code": "345020",
+      "name_pt": "Detective particular"
+    },
+    {
+      "code": "3460",
+      "name_pt": "- Trabalhadores Sociais"
+    },
+    {
+      "code": "346005",
+      "name_pt": "Trabalhador social"
+    },
+    {
+      "code": "346010",
+      "name_pt": "Técnico auxiliar de serviço social"
+    },
+    {
+      "code": "3471",
+      "name_pt": "- Decoradores e Desenhadores Modelistas de Produtos Industriais e Comerciais"
+    },
+    {
+      "code": "3472",
+      "name_pt": "- Locutores e Apresentadores de Rádio, de Televisão e de Espectáculos e Similares"
+    },
+    {
+      "code": "3473",
+      "name_pt": "- Músicos, Cantores e Bailarinos de Espectáculos de Variedades e Artistas Similares - Clubes"
+    },
+    {
+      "code": "3474",
+      "name_pt": "- Artistas de Circo e Trabalhadores Similares"
+    },
+    {
+      "code": "3475",
+      "name_pt": "- Atletas, Desportistas e Trabalhadores Similares"
+    },
+    {
+      "code": "347105",
+      "name_pt": "Decorador de interiores"
+    },
+    {
+      "code": "347110",
+      "name_pt": "Decorador de espaços comerciais"
+    },
+    {
+      "code": "347115",
+      "name_pt": "Modelista - vestuário"
+    },
+    {
+      "code": "347120",
+      "name_pt": "Desenhador modelista industrial"
+    },
+    {
+      "code": "347125",
+      "name_pt": "Desenhador gráfico \"cenógrafo\""
+    },
+    {
+      "code": "347130",
+      "name_pt": "Figurinista"
+    },
+    {
+      "code": "347135",
+      "name_pt": "Debuxador"
+    },
+    {
+      "code": "347140",
+      "name_pt": "Traçador de moldes"
+    },
+    {
+      "code": "347199",
+      "name_pt": "Decorador/desenhador modelista de produtos industriais e comerciais não classificado em"
+    },
+    {
+      "code": "347205",
+      "name_pt": "Locutor"
+    },
+    {
+      "code": "347210",
+      "name_pt": "Apresentador de programas e de espectáculos"
+    },
+    {
+      "code": "347215",
+      "name_pt": "Actor - cinema e televisão"
+    },
+    {
+      "code": "347220",
+      "name_pt": "Actor - efeitos especiais"
+    },
+    {
+      "code": "347225",
+      "name_pt": "Actor - teatro"
+    },
+    {
+      "code": "347299",
+      "name_pt": "Locutor/apresentador de rádio, de televisão e de espectáculos e similar não classificado em"
+    },
+    {
+      "code": "347305",
+      "name_pt": "Chefe de banda - clubes nocturnos, variedades e locais similares"
+    },
+    {
+      "code": "347310",
+      "name_pt": "Instrumentista de banda - clubes nocturnos, variedades e locais similares"
+    },
+    {
+      "code": "347315",
+      "name_pt": "Cantor - música popular"
+    },
+    {
+      "code": "347320",
+      "name_pt": "Dançarino - clube nocturno, variedades e locais similares"
+    },
+    {
+      "code": "347405",
+      "name_pt": "Palhaço"
+    },
+    {
+      "code": "347410",
+      "name_pt": "Ilusionista"
+    },
+    {
+      "code": "347415",
+      "name_pt": "Acrobata"
+    },
+    {
+      "code": "347420",
+      "name_pt": "Trapezista"
+    },
+    {
+      "code": "347425",
+      "name_pt": "Amestrador de animais - circo"
+    },
+    {
+      "code": "347505",
+      "name_pt": "Atleta profissional"
+    },
+    {
+      "code": "347510",
+      "name_pt": "Jogador profissional de futebol"
+    },
+    {
+      "code": "347515",
+      "name_pt": "Ciclista profissional"
+    },
+    {
+      "code": "347520",
+      "name_pt": "Jogador profissional de ténis"
+    },
+    {
+      "code": "347525",
+      "name_pt": "Jogador profissional de basquetebol"
+    },
+    {
+      "code": "347530",
+      "name_pt": "Cavaleiro profissional - corridas de cavalo"
+    },
+    {
+      "code": "347535",
+      "name_pt": "Árbitro desportivo"
+    },
+    {
+      "code": "347599",
+      "name_pt": "Atleta/desportista/trabalhador similar não classificado em outra parte"
+    },
+    {
+      "code": "3480",
+      "name_pt": "- Assistentes Laicos e de Culto"
+    },
+    {
+      "code": "348005",
+      "name_pt": "Monge/monja"
+    },
+    {
+      "code": "348010",
+      "name_pt": "Freira"
+    },
+    {
+      "code": "348015",
+      "name_pt": "Taoista"
+    },
+    {
+      "code": "348099",
+      "name_pt": "Assistente laico/assistente de culto não classificado em outra parte"
+    },
+    {
+      "code": "3490",
+      "name_pt": "- Técnicos e Profissionais de Nível Intermédio não Classificados em Outra Parte"
+    },
+    {
+      "code": "349005",
+      "name_pt": "Chefe de cozinha"
+    },
+    {
+      "code": "349099",
+      "name_pt": "Técnico/profissional de nível intermédio não classificado em outra parte"
+    },
+    {
+      "code": "411",
+      "name_pt": "- Secretários e Operadores de Equipamento de Tratamento de Informação"
+    },
+    {
+      "code": "412",
+      "name_pt": "- Empregados Administrativos dos Serviços Financeiros e de Contabilidade"
+    },
+    {
+      "code": "413",
+      "name_pt": "- Empregados de Gestão de \"Stocks\" e Agentes Administrativos dos Transportes"
+    },
+    {
+      "code": "414",
+      "name_pt": "- Empregados de Documentação, Carteiros e Trabalhadores Similares"
+    },
+    {
+      "code": "419",
+      "name_pt": "- Empregados de Escritório não Classificados em Outra Parte"
+    },
+    {
+      "code": "4111",
+      "name_pt": "- Estenógrafos e Dactilógrafos"
+    },
+    {
+      "code": "4112",
+      "name_pt": "- Operadores de Equipamento de Teleinformação e Trabalhadores Similares"
+    },
+    {
+      "code": "4113",
+      "name_pt": "- Operadores de Registo de Dados"
+    },
+    {
+      "code": "4114",
+      "name_pt": "- Operadores de Máquinas de Contabilidade"
+    },
+    {
+      "code": "4115",
+      "name_pt": "- Secretários"
+    },
+    {
+      "code": "411105",
+      "name_pt": "Dactilógrafo"
+    },
+    {
+      "code": "411110",
+      "name_pt": "Estenodactilógrafo"
+    },
+    {
+      "code": "411115",
+      "name_pt": "Estenógrafo"
+    },
+    {
+      "code": "411120",
+      "name_pt": "Escriturário - dactilógrafo"
+    },
+    {
+      "code": "411125",
+      "name_pt": "Teclista-legendas"
+    },
+    {
+      "code": "411130",
+      "name_pt": "Escrivão de capitania"
+    },
+    {
+      "code": "411135",
+      "name_pt": "Escriturário/oficial judicial"
+    },
+    {
+      "code": "411140",
+      "name_pt": "Escriturário de registos e notariado"
+    },
+    {
+      "code": "411205",
+      "name_pt": "Processador de texto"
+    },
+    {
+      "code": "411210",
+      "name_pt": "Operadores de equipamento de teleinformação"
+    },
+    {
+      "code": "411305",
+      "name_pt": "Operador de registo de dados"
+    },
+    {
+      "code": "411310",
+      "name_pt": "Técnico auxiliar de informática"
+    },
+    {
+      "code": "411405",
+      "name_pt": "Operador de máquinas de contabilidade"
+    },
+    {
+      "code": "411505",
+      "name_pt": "Secretário"
+    },
+    {
+      "code": "4121",
+      "name_pt": "- Empregados Administrativos de Contabilidade e Trabalhadores Similares"
+    },
+    {
+      "code": "4122",
+      "name_pt": "- Empregados Administrativos dos Serviços Estatísticos e Financeiros e Trabalhadores Similares"
+    },
+    {
+      "code": "412105",
+      "name_pt": "Empregado administrativo de contabilidade / guarda-livro"
+    },
+    {
+      "code": "412110",
+      "name_pt": "Empregado administrativo de auditoria"
+    },
+    {
+      "code": "412115",
+      "name_pt": "Empregado administrativo de cálculo de custos"
+    },
+    {
+      "code": "412120",
+      "name_pt": "Empregado administrativo de cálculo e processamento de remunerações"
+    },
+    {
+      "code": "412205",
+      "name_pt": "Empregado administrativo - em geral"
+    },
+    {
+      "code": "412210",
+      "name_pt": "Empregado administrativo - instituições financeiras e monetárias"
+    },
+    {
+      "code": "412215",
+      "name_pt": "Empregado administrativo de seguros"
+    },
+    {
+      "code": "412220",
+      "name_pt": "Gestor de sinistros - seguros"
+    },
+    {
+      "code": "412225",
+      "name_pt": "Empregado administrativo de estatística"
+    },
+    {
+      "code": "412230",
+      "name_pt": "Agente de censos e inquéritos"
+    },
+    {
+      "code": "412235",
+      "name_pt": "Empregado administrativo de exportação e importação"
+    },
+    {
+      "code": "4131",
+      "name_pt": "- Empregados de Aprovisionamento e Armazém"
+    },
+    {
+      "code": "4132",
+      "name_pt": "- Empregados do Planeamento e Apoio à Produção"
+    },
+    {
+      "code": "4133",
+      "name_pt": "- Empregados de Administração dos Transportes"
+    },
+    {
+      "code": "413105",
+      "name_pt": "Empregado de serviços das expedição e recepção de mercadorias"
+    },
+    {
+      "code": "413110",
+      "name_pt": "Empregado de serviços de pesagem"
+    },
+    {
+      "code": "413115",
+      "name_pt": "Ecónomo"
+    },
+    {
+      "code": "413120",
+      "name_pt": "Fiel de armazém"
+    },
+    {
+      "code": "413205",
+      "name_pt": "Escriturário - serviços de planeamento e produção"
+    },
+    {
+      "code": "413210",
+      "name_pt": "Anotador - cinema e televisão"
+    },
+    {
+      "code": "413305",
+      "name_pt": "Conferente marítimo"
+    },
+    {
+      "code": "413310",
+      "name_pt": "Chefe de estação - transportes rodoviários"
+    },
+    {
+      "code": "413315",
+      "name_pt": "Fiscal - transportes rodoviários"
+    },
+    {
+      "code": "413320",
+      "name_pt": "Chefe de estação - caminhos de ferro"
+    },
+    {
+      "code": "413325",
+      "name_pt": "Inspector de movimento - caminhos de ferro"
+    },
+    {
+      "code": "413330",
+      "name_pt": "Oficial de tráfego - transportes aéreos"
+    },
+    {
+      "code": "413335",
+      "name_pt": "Inspector - examinador"
+    },
+    {
+      "code": "4141",
+      "name_pt": "- Empregados de Biblioteca e Classificadores Arquivistas"
+    },
+    {
+      "code": "4142",
+      "name_pt": "- Carteiros e Trabalhadores Similares"
+    },
+    {
+      "code": "4143",
+      "name_pt": "- Codificadores, Revisores de Provas e Similares"
+    },
+    {
+      "code": "4144",
+      "name_pt": "- Escreventes e Trabalhadores Similares"
+    },
+    {
+      "code": "414105",
+      "name_pt": "Empregado de biblioteca"
+    },
+    {
+      "code": "414110",
+      "name_pt": "Classificador arquivista"
+    },
+    {
+      "code": "414205",
+      "name_pt": "Chefe de estação - correios"
+    },
+    {
+      "code": "414210",
+      "name_pt": "Distribuidor postal"
+    },
+    {
+      "code": "414215",
+      "name_pt": "Classificador postal"
+    },
+    {
+      "code": "414220",
+      "name_pt": "Carteiro"
+    },
+    {
+      "code": "414305",
+      "name_pt": "Codificador"
+    },
+    {
+      "code": "414310",
+      "name_pt": "Codificador do comércio externo"
+    },
+    {
+      "code": "414315",
+      "name_pt": "Redactor - Administração Pública"
+    },
+    {
+      "code": "414320",
+      "name_pt": "Revisor de provas tipográficas"
+    },
+    {
+      "code": "414405",
+      "name_pt": "Escrevente"
+    },
+    {
+      "code": "414410",
+      "name_pt": "Escrevente de chinês"
+    },
+    {
+      "code": "4190",
+      "name_pt": "- Empregados de Escritório não Classificados em Outra Parte"
+    },
+    {
+      "code": "419005",
+      "name_pt": "Escriturário do serviço de pessoal"
+    },
+    {
+      "code": "419010",
+      "name_pt": "Empregado administrativo - preparação de relação de endereços"
+    },
+    {
+      "code": "421",
+      "name_pt": "- Caixa, Bilheteiros e Trabalhadores Similares"
+    },
+    {
+      "code": "422",
+      "name_pt": "- Empregados de Recepção, de Informação e Telefonistas"
+    },
+    {
+      "code": "4211",
+      "name_pt": "- Caixa e Bilheteiros"
+    },
+    {
+      "code": "4212",
+      "name_pt": "- Caixa de Balcão de Bancos e Trabalhadores Similares"
+    },
+    {
+      "code": "4213",
+      "name_pt": "- Empregados da Banca de Casinos e Similares"
+    },
+    {
+      "code": "4214",
+      "name_pt": "- Penhoristas e Trabalhadores Similares"
+    },
+    {
+      "code": "4215",
+      "name_pt": "- Cobradores e Trabalhadores Similares"
+    },
+    {
+      "code": "421105",
+      "name_pt": "Caixa"
+    },
+    {
+      "code": "421110",
+      "name_pt": "Caixa de comércio"
+    },
+    {
+      "code": "421115",
+      "name_pt": "Bilheteiro"
+    },
+    {
+      "code": "421120",
+      "name_pt": "Caixa de parques de estacionamento"
+    },
+    {
+      "code": "421205",
+      "name_pt": "Empregado de balcão - instituições financeiras"
+    },
+    {
+      "code": "421210",
+      "name_pt": "Empregado de balcão - correio"
+    },
+    {
+      "code": "421305",
+      "name_pt": "Chefe de partida (director de partida) - casinos"
+    },
+    {
+      "code": "421310",
+      "name_pt": "Chefe de banca - casinos"
+    },
+    {
+      "code": "421315",
+      "name_pt": "Fiscal de banca - casinos"
+    },
+    {
+      "code": "421320",
+      "name_pt": "Pagador - casinos"
+    },
+    {
+      "code": "421325",
+      "name_pt": "Auxiliar de banca - casinos"
+    },
+    {
+      "code": "421330",
+      "name_pt": "Ficheiro fixo - casinos"
+    },
+    {
+      "code": "421335",
+      "name_pt": "Ficheiro volante - casinos"
+    },
+    {
+      "code": "421340",
+      "name_pt": "\"Croupiers\" - Corridas de Cavalos, de Cães e lotarias"
+    },
+    {
+      "code": "421345",
+      "name_pt": "Supervisor de \"Croupier\" - Corridas de Cavalos, de Cães e lotarias"
+    },
+    {
+      "code": "421399",
+      "name_pt": "Empregado da banca de casinos/trabalhador similar não classificado em outra parte"
+    },
+    {
+      "code": "421405",
+      "name_pt": "Penhorista"
+    },
+    {
+      "code": "421410",
+      "name_pt": "Prestamista e trabalhadores similiares"
+    },
+    {
+      "code": "421505",
+      "name_pt": "Cobrador"
+    },
+    {
+      "code": "4221",
+      "name_pt": "- Empregados de Agências de Viagem"
+    },
+    {
+      "code": "4222",
+      "name_pt": "- Recepcionistas e Agentes de Informação"
+    },
+    {
+      "code": "4223",
+      "name_pt": "- Operadores de Exploração de Telecomunicações e Telefonistas"
+    },
+    {
+      "code": "422105",
+      "name_pt": "Empregado - agência de viagens"
+    },
+    {
+      "code": "422110",
+      "name_pt": "Assistente de passageiros - balcão aeroporto"
+    },
+    {
+      "code": "422205",
+      "name_pt": "Assistente de relações públicas - Administração Pública"
+    },
+    {
+      "code": "422210",
+      "name_pt": "Assistente de turismo - Serviços de Turismo"
+    },
+    {
+      "code": "422215",
+      "name_pt": "Agente de informação / Funcionário de acolhimento ao público"
+    },
+    {
+      "code": "422220",
+      "name_pt": "Recepcionista - em geral"
+    },
+    {
+      "code": "422225",
+      "name_pt": "Recepcionista - hotel"
+    },
+    {
+      "code": "422230",
+      "name_pt": "Recepcionista - consultório"
+    },
+    {
+      "code": "422235",
+      "name_pt": "Recepcionista - restaurantes, clubes nocturnos e locais similares"
+    },
+    {
+      "code": "422305",
+      "name_pt": "Telefonista"
+    },
+    {
+      "code": "422310",
+      "name_pt": "Telegrafista"
+    },
+    {
+      "code": "422315",
+      "name_pt": "Telefonista - serviços de \"paging\""
+    },
+    {
+      "code": "511",
+      "name_pt": "- Agentes de Acompanhamento nos Transportes, Cobradores, Guias Turísticos e Trabalhadores"
+    },
+    {
+      "code": "512",
+      "name_pt": "- Ecónomos e Empregados dos Serviços de Restaurantes"
+    },
+    {
+      "code": "513",
+      "name_pt": "- Vigilantes de Crianças, Assistentes Médicos e Trabalhadores Similares"
+    },
+    {
+      "code": "514",
+      "name_pt": "- Outros Empregados dos Serviços Pessoais e Domésticos"
+    },
+    {
+      "code": "515",
+      "name_pt": "- Astrólogos, Adivinhos e Trabalhadores Similares"
+    },
+    {
+      "code": "516",
+      "name_pt": "- Pessoal dos Serviços de Protecção e Segurança"
+    },
+    {
+      "code": "5111",
+      "name_pt": "- Assistentes, Comissários e Trabalhadores Similares"
+    },
+    {
+      "code": "5112",
+      "name_pt": "- Cobradores, Revisores de Bilhetes e Trabalhadores Similares - Transportes"
+    },
+    {
+      "code": "5113",
+      "name_pt": "- Guias-intérpretes e Trabalhadores Similares"
+    },
+    {
+      "code": "511105",
+      "name_pt": "Comissário de bordo (assistente de bordo)"
+    },
+    {
+      "code": "511110",
+      "name_pt": "Assistente de bordo - transportes fluviais e terrestres"
+    },
+    {
+      "code": "511205",
+      "name_pt": "Revisor/cobrador de bilhetes - transporte"
+    },
+    {
+      "code": "511305",
+      "name_pt": "Correio turístico (Acompanhante - turismo)"
+    },
+    {
+      "code": "511310",
+      "name_pt": "Guia - intérprete"
+    },
+    {
+      "code": "511315",
+      "name_pt": "Transferista - turismo"
+    },
+    {
+      "code": "5121",
+      "name_pt": "- Ecónomos, Governantas e Trabalhadores Similares"
+    },
+    {
+      "code": "5122",
+      "name_pt": "- Cozinheiros e Trabalhadores Similares"
+    },
+    {
+      "code": "5123",
+      "name_pt": "- Empregados de Mesa e Trabalhadores Similares"
+    },
+    {
+      "code": "512105",
+      "name_pt": "Ecónomo - indústria hoteleira"
+    },
+    {
+      "code": "512110",
+      "name_pt": "Governanta - em geral (colégios, asilos de órfãos, lares, etc.)"
+    },
+    {
+      "code": "512115",
+      "name_pt": "Governanta - casas particulares"
+    },
+    {
+      "code": "512120",
+      "name_pt": "Encarregado de refeitório"
+    },
+    {
+      "code": "512125",
+      "name_pt": "Governanta de andares - indústria hoteleira"
+    },
+    {
+      "code": "512130",
+      "name_pt": "Despenseiro - indústria hoteleira"
+    },
+    {
+      "code": "512135",
+      "name_pt": "Despenseiro - marinha mercante"
+    },
+    {
+      "code": "512205",
+      "name_pt": "Cozinheiro - em geral"
+    },
+    {
+      "code": "512210",
+      "name_pt": "Cozinheiro - cozinha chinesa"
+    },
+    {
+      "code": "512215",
+      "name_pt": "Cozinheiro - acepipes cantonenses"
+    },
+    {
+      "code": "512220",
+      "name_pt": "Cozinheiro - cozinha ocidental"
+    },
+    {
+      "code": "512225",
+      "name_pt": "Cozinheiro - outros tipos de cozinhas"
+    },
+    {
+      "code": "512305",
+      "name_pt": "Chefe de mesa"
+    },
+    {
+      "code": "512310",
+      "name_pt": "Escanção (chefe de vinhos, \"sommelier\")"
+    },
+    {
+      "code": "512315",
+      "name_pt": "Empregado de mesa"
+    },
+    {
+      "code": "512320",
+      "name_pt": "\"Barman\" (empregado do serviço de bebidas)"
+    },
+    {
+      "code": "512325",
+      "name_pt": "Empregado de balcão de \"self-service\""
+    },
+    {
+      "code": "5131",
+      "name_pt": "- Vigilantes de Crianças"
+    },
+    {
+      "code": "5132",
+      "name_pt": "- Assistentes Dentários e Trabalhadores Similares"
+    },
+    {
+      "code": "5133",
+      "name_pt": "- Ajudantes Familiares"
+    },
+    {
+      "code": "5139",
+      "name_pt": "- Assistentes Médicos e Trabalhadores Similares não Classificados em Outra Parte"
+    },
+    {
+      "code": "513105",
+      "name_pt": "Vigilante de crianças"
+    },
+    {
+      "code": "513205",
+      "name_pt": "Assistente dentários"
+    },
+    {
+      "code": "513210",
+      "name_pt": "Ajudante de enfermeiro - clínica"
+    },
+    {
+      "code": "513215",
+      "name_pt": "Ajudante de enfermeiro - hospital"
+    },
+    {
+      "code": "513220",
+      "name_pt": "Auxiliar dos serviços de Saúde"
+    },
+    {
+      "code": "513305",
+      "name_pt": "Ajudante familiar"
+    },
+    {
+      "code": "513310",
+      "name_pt": "Dama de companhia - instituições"
+    },
+    {
+      "code": "513905",
+      "name_pt": "Ajudante de farmácia"
+    },
+    {
+      "code": "513910",
+      "name_pt": "Ajudante de farmácia tradicional chinesa"
+    },
+    {
+      "code": "513915",
+      "name_pt": "Auxiliar de veterinário"
+    },
+    {
+      "code": "513920",
+      "name_pt": "Irmã hospitaleira"
+    },
+    {
+      "code": "5141",
+      "name_pt": "- Cabeleireiros, Esteticistas e Trabalhadores Similares"
+    },
+    {
+      "code": "5143",
+      "name_pt": "- Agentes Funerários e Trabalhadores Similares"
+    },
+    {
+      "code": "5149",
+      "name_pt": "- Trabalhadores dos Serviços Pessoais e Domésticos não Classificados em Outra Parte"
+    },
+    {
+      "code": "514105",
+      "name_pt": "Cabeleireiro/barbeiro"
+    },
+    {
+      "code": "514110",
+      "name_pt": "Esteticista"
+    },
+    {
+      "code": "514115",
+      "name_pt": "Manicura"
+    },
+    {
+      "code": "514120",
+      "name_pt": "Calista"
+    },
+    {
+      "code": "514125",
+      "name_pt": "Caracterizador"
+    },
+    {
+      "code": "514130",
+      "name_pt": "Massagista - banheira"
+    },
+    {
+      "code": "514135",
+      "name_pt": "Tatuador"
+    },
+    {
+      "code": "514305",
+      "name_pt": "Agente funerário"
+    },
+    {
+      "code": "514310",
+      "name_pt": "Embalsamador"
+    },
+    {
+      "code": "514315",
+      "name_pt": "Caracterizador - serviço funerário"
+    },
+    {
+      "code": "514399",
+      "name_pt": "Agente funerário/trabalhador similar não classificado em outra parte"
+    },
+    {
+      "code": "514905",
+      "name_pt": "\"Escort\""
+    },
+    {
+      "code": "514910",
+      "name_pt": "Assistente de relações públicas - clubes nocturnos e locais similares"
+    },
+    {
+      "code": "514915",
+      "name_pt": "Companheiro de dança"
+    },
+    {
+      "code": "514920",
+      "name_pt": "Desinfectador"
+    },
+    {
+      "code": "514925",
+      "name_pt": "\"Disk-jockey\""
+    },
+    {
+      "code": "514999",
+      "name_pt": "Trabalhador dos serviços pessoais e domésticos não classificado em outra parte"
+    },
+    {
+      "code": "5151",
+      "name_pt": "- Astrólogos e Trabalhadores Similares"
+    },
+    {
+      "code": "5152",
+      "name_pt": "- Adivinhos e Trabalhadores Similares"
+    },
+    {
+      "code": "515105",
+      "name_pt": "Astrólogo"
+    },
+    {
+      "code": "515205",
+      "name_pt": "Adivinho"
+    },
+    {
+      "code": "515210",
+      "name_pt": "Cartomante"
+    },
+    {
+      "code": "515215",
+      "name_pt": "Quiromante"
+    },
+    {
+      "code": "515220",
+      "name_pt": "Mestre de \"Fengshui\""
+    },
+    {
+      "code": "5161",
+      "name_pt": "- Bombeiros"
+    },
+    {
+      "code": "5162",
+      "name_pt": "- Agentes de Polícia"
+    },
+    {
+      "code": "5163",
+      "name_pt": "- Guardas Prisionais"
+    },
+    {
+      "code": "5169",
+      "name_pt": "- Pessoal dos Serviços de Protecção e Segurança não Classificados em Outra Parte"
+    },
+    {
+      "code": "516105",
+      "name_pt": "Bombeiro - em geral"
+    },
+    {
+      "code": "516110",
+      "name_pt": "Bombeiro - aeroportos"
+    },
+    {
+      "code": "516205",
+      "name_pt": "Agente da Polícia de Segurança Pública"
+    },
+    {
+      "code": "516210",
+      "name_pt": "Agente da Polícia Marítima e Fiscal"
+    },
+    {
+      "code": "516215",
+      "name_pt": "Auxiliar de investigação criminal"
+    },
+    {
+      "code": "516220",
+      "name_pt": "Agente da Polícia Municipal"
+    },
+    {
+      "code": "516305",
+      "name_pt": "Guarda prisional"
+    },
+    {
+      "code": "516905",
+      "name_pt": "Nadador - salvador"
+    },
+    {
+      "code": "516910",
+      "name_pt": "Maqueiro"
+    },
+    {
+      "code": "516915",
+      "name_pt": "Socorrista"
+    },
+    {
+      "code": "516920",
+      "name_pt": "Guarda - costas"
+    },
+    {
+      "code": "516925",
+      "name_pt": "Guarda de transporte de valores"
+    },
+    {
+      "code": "516930",
+      "name_pt": "Guarda - estabelecimentos comerciais, escritórios e locais similares"
+    },
+    {
+      "code": "521",
+      "name_pt": "- Manequins e outros Modelos"
+    },
+    {
+      "code": "522",
+      "name_pt": "- Vendedores e Demonstradores"
+    },
+    {
+      "code": "523",
+      "name_pt": "- Vendedores de Quiosque e de Mercados"
+    },
+    {
+      "code": "5210",
+      "name_pt": "- Manequins e Outros Modelos"
+    },
+    {
+      "code": "521005",
+      "name_pt": "Manequim"
+    },
+    {
+      "code": "521010",
+      "name_pt": "Modelo publicitário"
+    },
+    {
+      "code": "521015",
+      "name_pt": "Modelo artístico"
+    },
+    {
+      "code": "5220",
+      "name_pt": "- Vendedores e Demonstradores"
+    },
+    {
+      "code": "522005",
+      "name_pt": "Caixeiro - estabelecimentos do comércio por grosso"
+    },
+    {
+      "code": "522010",
+      "name_pt": "Lojista - estabelecimentos do comércio a retalho"
+    },
+    {
+      "code": "522015",
+      "name_pt": "Operador de supermercado"
+    },
+    {
+      "code": "522020",
+      "name_pt": "Demonstrador"
+    },
+    {
+      "code": "522025",
+      "name_pt": "Expositor de montras"
+    },
+    {
+      "code": "522030",
+      "name_pt": "Empregado de posto de gasolina"
+    },
+    {
+      "code": "5230",
+      "name_pt": "- Vendedores de Quiosque e de Mercados"
+    },
+    {
+      "code": "523005",
+      "name_pt": "Vendedor de quiosque"
+    },
+    {
+      "code": "523010",
+      "name_pt": "Vendedor de mercados"
+    },
+    {
+      "code": "611",
+      "name_pt": "- Trabalhadores Qualificados da Agricultura e Jardineiros"
+    },
+    {
+      "code": "612",
+      "name_pt": "- Criadores e Trabalhadores Qualificados do Tratamento de Animais"
+    },
+    {
+      "code": "615",
+      "name_pt": "- Trabalhadores Qualificados da Pesca e Trabalhadores Similares"
+    },
+    {
+      "code": "6111",
+      "name_pt": "- Agricultores e Arboricultores"
+    },
+    {
+      "code": "6113",
+      "name_pt": "- Floricultores, Horticultores, Viveiristas e Trabalhadores Similares"
+    },
+    {
+      "code": "611105",
+      "name_pt": "Agricultor - culturas cerealíferas"
+    },
+    {
+      "code": "611110",
+      "name_pt": "Cultivador de fruteiras"
+    },
+    {
+      "code": "611115",
+      "name_pt": "Podador"
+    },
+    {
+      "code": "611305",
+      "name_pt": "Agricultor - horticultura (horticultor)"
+    },
+    {
+      "code": "611310",
+      "name_pt": "Agricultor - floricultura (floricultor)"
+    },
+    {
+      "code": "611315",
+      "name_pt": "Viveirista"
+    },
+    {
+      "code": "611320",
+      "name_pt": "Jardineiro"
+    },
+    {
+      "code": "611325",
+      "name_pt": "Cultivador - árvores"
+    },
+    {
+      "code": "6121",
+      "name_pt": "- Criadores de Animais"
+    },
+    {
+      "code": "6122",
+      "name_pt": "- Produtores de Aves"
+    },
+    {
+      "code": "6129",
+      "name_pt": "- Criadores e Trabalhadores Qualificados do Tratamento de Animais não Classificados em Outra"
+    },
+    {
+      "code": "612105",
+      "name_pt": "Criador de animais"
+    },
+    {
+      "code": "612110",
+      "name_pt": "Tratador de gado bovino - leite (vaqueiro)"
+    },
+    {
+      "code": "612205",
+      "name_pt": "Avicultor"
+    },
+    {
+      "code": "612210",
+      "name_pt": "Trabalhador avícola"
+    },
+    {
+      "code": "612905",
+      "name_pt": "Treinador de animais"
+    },
+    {
+      "code": "612910",
+      "name_pt": "Treinador de galgos - jogos de fortuna e azar"
+    },
+    {
+      "code": "612915",
+      "name_pt": "Treinador de cavalos - jogos de fortuna e azar"
+    },
+    {
+      "code": "612920",
+      "name_pt": "Tratador de animais"
+    },
+    {
+      "code": "612925",
+      "name_pt": "Tratador de animais - investigação experimental e biológica"
+    },
+    {
+      "code": "612930",
+      "name_pt": "Tratador de cavalos - jogos de fortuna e azar"
+    },
+    {
+      "code": "612935",
+      "name_pt": "Moço de canis - jogos de fortuna e azar"
+    },
+    {
+      "code": "6151",
+      "name_pt": "- Aquacultores"
+    },
+    {
+      "code": "6152",
+      "name_pt": "- Pescadores"
+    },
+    {
+      "code": "615105",
+      "name_pt": "Aquacultor"
+    },
+    {
+      "code": "615110",
+      "name_pt": "Tratador de peixe, crustáceos e moluscos"
+    },
+    {
+      "code": "615205",
+      "name_pt": "Pescador - costeira"
+    },
+    {
+      "code": "615210",
+      "name_pt": "Pescador - pesca ao largo"
+    },
+    {
+      "code": "711",
+      "name_pt": "- Mineiros, Trabalhadores das Pedreiras e Trabalhadores Similares"
+    },
+    {
+      "code": "712",
+      "name_pt": "- Trabalhadores da Construção Civil de Tosco e Trabalhadores Similares"
+    },
+    {
+      "code": "713",
+      "name_pt": "- Trabalhadores da Construção Civil de Acabamentos e Trabalhadores Similares"
+    },
+    {
+      "code": "714",
+      "name_pt": "- Pintores, Limpadores de Fachadas e Trabalhadores Similares"
+    },
+    {
+      "code": "7111",
+      "name_pt": "- Mineiros, Trabalhadores de Pedreiras e Trabalhadores Similares"
+    },
+    {
+      "code": "7112",
+      "name_pt": "- Carregadores de Fogo"
+    },
+    {
+      "code": "7113",
+      "name_pt": "- Canteiros e Polidores de Pedra"
+    },
+    {
+      "code": "711105",
+      "name_pt": "Mineiro"
+    },
+    {
+      "code": "711110",
+      "name_pt": "Trabalhador de pedreiras"
+    },
+    {
+      "code": "711115",
+      "name_pt": "Encarregado de minas e pedreiras"
+    },
+    {
+      "code": "711205",
+      "name_pt": "Carregador de fogo"
+    },
+    {
+      "code": "711305",
+      "name_pt": "Canteiro"
+    },
+    {
+      "code": "711310",
+      "name_pt": "Polidor de pedra"
+    },
+    {
+      "code": "711315",
+      "name_pt": "Canteiro de escultura"
+    },
+    {
+      "code": "7121",
+      "name_pt": "- Trabalhadores da Construção de Materiais Tradicionais"
+    },
+    {
+      "code": "7122",
+      "name_pt": "- Calceteiros"
+    },
+    {
+      "code": "7123",
+      "name_pt": "- Trabalhadores da Construção Civil e Obras Públicas - Betão Armado"
+    },
+    {
+      "code": "7124",
+      "name_pt": "- Carpinteiros"
+    },
+    {
+      "code": "7129",
+      "name_pt": "- Trabalhadores da Construção Civil de Tosco e Trabalhadores Similares não Classificados em"
+    },
+    {
+      "code": "712105",
+      "name_pt": "Montador de andaimes de bambus"
+    },
+    {
+      "code": "712199",
+      "name_pt": "Trabalhador da construção de materiais tradicionais não classificado em outra parte"
+    },
+    {
+      "code": "712205",
+      "name_pt": "Calceteiro"
+    },
+    {
+      "code": "712305",
+      "name_pt": "Operário de betão"
+    },
+    {
+      "code": "712310",
+      "name_pt": "Armador de ferro"
+    },
+    {
+      "code": "712315",
+      "name_pt": "Vibradorista - construção civil"
+    },
+    {
+      "code": "712320",
+      "name_pt": "Enformador de \"pré - fabricados\" - alvenaria"
+    },
+    {
+      "code": "712325",
+      "name_pt": "Montador - alvenarias pré-fabricadas"
+    },
+    {
+      "code": "712330",
+      "name_pt": "Montador de pré - esforçados - betão"
+    },
+    {
+      "code": "712335",
+      "name_pt": "Encarregado - trabalhadores da construção civil e obras públicas"
+    },
+    {
+      "code": "712405",
+      "name_pt": "Carpinteiro de limpos"
+    },
+    {
+      "code": "712410",
+      "name_pt": "Carpinteiro de tosco"
+    },
+    {
+      "code": "712415",
+      "name_pt": "Carpinteiro de cena"
+    },
+    {
+      "code": "712420",
+      "name_pt": "Carpinteiro naval"
+    },
+    {
+      "code": "712905",
+      "name_pt": "Nívelador"
+    },
+    {
+      "code": "712910",
+      "name_pt": "Montador de andaimes"
+    },
+    {
+      "code": "712915",
+      "name_pt": "Espalhador de betuminosos"
+    },
+    {
+      "code": "712920",
+      "name_pt": "Demolidor de edifícios"
+    },
+    {
+      "code": "7131",
+      "name_pt": "- Telhadores"
+    },
+    {
+      "code": "7132",
+      "name_pt": "- Assentadores de Tacos e de Tijolos, Ladrilhadores, Estucadores e Trabalhadores Similares"
+    },
+    {
+      "code": "7134",
+      "name_pt": "- Montadores de Isolamentos"
+    },
+    {
+      "code": "7135",
+      "name_pt": "- Vidraceiros"
+    },
+    {
+      "code": "7136",
+      "name_pt": "- Canalizadores"
+    },
+    {
+      "code": "7137",
+      "name_pt": "- Electricistas da Construção Civil e Trabalhadores Similares"
+    },
+    {
+      "code": "713105",
+      "name_pt": "Assentador de telhas"
+    },
+    {
+      "code": "713110",
+      "name_pt": "Telhador - outros"
+    },
+    {
+      "code": "713205",
+      "name_pt": "Assentador de tijolos/ladrilhador/azulejador/estucador"
+    },
+    {
+      "code": "713210",
+      "name_pt": "Marmorista"
+    },
+    {
+      "code": "713215",
+      "name_pt": "Assentador de tacos"
+    },
+    {
+      "code": "713220",
+      "name_pt": "Colocador de tapetes"
+    },
+    {
+      "code": "713225",
+      "name_pt": "Afagador - madeiras"
+    },
+    {
+      "code": "713405",
+      "name_pt": "Impermeabilizador de construção"
+    },
+    {
+      "code": "713410",
+      "name_pt": "Montador de isolamento - frigorífico e ar - condicionado"
+    },
+    {
+      "code": "713415",
+      "name_pt": "Montador de isolamento - caldeira"
+    },
+    {
+      "code": "713420",
+      "name_pt": "Isolador acústico"
+    },
+    {
+      "code": "713505",
+      "name_pt": "Vidraceiro - colocador"
+    },
+    {
+      "code": "713510",
+      "name_pt": "Armador de vitrais"
+    },
+    {
+      "code": "713605",
+      "name_pt": "Canalizador"
+    },
+    {
+      "code": "713610",
+      "name_pt": "Montador de tubagens"
+    },
+    {
+      "code": "713615",
+      "name_pt": "Instalador de canos de esgoto"
+    },
+    {
+      "code": "713705",
+      "name_pt": "Electricista da construção civil"
+    },
+    {
+      "code": "7141",
+      "name_pt": "- Pintores da Construção Civil e Colocadores de Revestimentos"
+    },
+    {
+      "code": "7142",
+      "name_pt": "- Pintores de Superfícies Metálicas e Envernizadores"
+    },
+    {
+      "code": "7143",
+      "name_pt": "- Limpadores de Fachadas e Limpa - Chaminés"
+    },
+    {
+      "code": "714105",
+      "name_pt": "Pintor - construção civil"
+    },
+    {
+      "code": "714110",
+      "name_pt": "Pintor - decorador e mobília"
+    },
+    {
+      "code": "714115",
+      "name_pt": "Colocador de papel de paredes"
+    },
+    {
+      "code": "714120",
+      "name_pt": "Montador de estores"
+    },
+    {
+      "code": "714205",
+      "name_pt": "Pintor - veículo"
+    },
+    {
+      "code": "714210",
+      "name_pt": "Pintor - superfícies metálicas"
+    },
+    {
+      "code": "714215",
+      "name_pt": "Polidor de automóveis"
+    },
+    {
+      "code": "714305",
+      "name_pt": "Limpador de fachadas"
+    },
+    {
+      "code": "714310",
+      "name_pt": "Limpador de casco dos navios"
+    },
+    {
+      "code": "714315",
+      "name_pt": "Limpa - chaminés"
+    },
+    {
+      "code": "721",
+      "name_pt": "- Fundidores - Moldadores, Soldadores, Bate-Chapas, Caldeireiros, Montadores de Estruturas"
+    },
+    {
+      "code": "722",
+      "name_pt": "- Forjadores, Serralheiros, Ferramenteiros e Trabalhadores Similares"
+    },
+    {
+      "code": "723",
+      "name_pt": "- Ajustadores - Montadores e Mecânicos de Reparação"
+    },
+    {
+      "code": "724",
+      "name_pt": "- Electricistas, Electromecânicos e Reparadores de Electricidade e Electrónica"
+    },
+    {
+      "code": "7211",
+      "name_pt": "- Fundidores - Moldadores e Macheiros"
+    },
+    {
+      "code": "7212",
+      "name_pt": "- Soldadores e Maçariqueiros"
+    },
+    {
+      "code": "7213",
+      "name_pt": "- Caldeireiros, Latoeiros e Bate-Chapas"
+    },
+    {
+      "code": "7214",
+      "name_pt": "- Montadores de Estruturas Metálicas e Trabalhadores Similares"
+    },
+    {
+      "code": "7215",
+      "name_pt": "- Montadores de Cabos"
+    },
+    {
+      "code": "7216",
+      "name_pt": "- Mergulhadores"
+    },
+    {
+      "code": "721105",
+      "name_pt": "Fundidor-moldador"
+    },
+    {
+      "code": "721110",
+      "name_pt": "Macheiro"
+    },
+    {
+      "code": "721205",
+      "name_pt": "Maçariqueiro"
+    },
+    {
+      "code": "721210",
+      "name_pt": "Soldador por pontos"
+    },
+    {
+      "code": "721215",
+      "name_pt": "Soldador a arco eléctrico"
+    },
+    {
+      "code": "721220",
+      "name_pt": "Soldador a arco em atmosfera de gases inertes ou de anidrido carbónico"
+    },
+    {
+      "code": "721305",
+      "name_pt": "Funileiro - latoeiro"
+    },
+    {
+      "code": "721310",
+      "name_pt": "Operador de máquina de fabricar latas"
+    },
+    {
+      "code": "721315",
+      "name_pt": "Caldeireiro"
+    },
+    {
+      "code": "721320",
+      "name_pt": "Bate-chapas de veículos automóveis"
+    },
+    {
+      "code": "721325",
+      "name_pt": "Mecânico de estruturas de aviões"
+    },
+    {
+      "code": "721405",
+      "name_pt": "Serralheiro civil"
+    },
+    {
+      "code": "721410",
+      "name_pt": "Montador de construção navais - estaleiro"
+    },
+    {
+      "code": "721415",
+      "name_pt": "Operador de calandra"
+    },
+    {
+      "code": "721420",
+      "name_pt": "Operador de quinadeira"
+    },
+    {
+      "code": "721425",
+      "name_pt": "Fabricante de portão/janela de ferro"
+    },
+    {
+      "code": "721430",
+      "name_pt": "Fabricante de janela de alumínio"
+    },
+    {
+      "code": "721505",
+      "name_pt": "Montador de cabos"
+    },
+    {
+      "code": "721605",
+      "name_pt": "Mergulhador"
+    },
+    {
+      "code": "7221",
+      "name_pt": "- Forjadores, Estampadores e Operadores de Prensas de Forjar"
+    },
+    {
+      "code": "7222",
+      "name_pt": "- Serralheiros Mecânicos e Trabalhadores Similares"
+    },
+    {
+      "code": "7223",
+      "name_pt": "- Afinadores - Operadores de Máquinas Ferramentas"
+    },
+    {
+      "code": "7224",
+      "name_pt": "- Polidores de Metais e Afiadores de Ferramentas"
+    },
+    {
+      "code": "722105",
+      "name_pt": "Forjador manual (ferreiro)"
+    },
+    {
+      "code": "722110",
+      "name_pt": "Forjador"
+    },
+    {
+      "code": "722115",
+      "name_pt": "Laminador"
+    },
+    {
+      "code": "722120",
+      "name_pt": "Estampador"
+    },
+    {
+      "code": "722125",
+      "name_pt": "Operador de saca-bocados"
+    },
+    {
+      "code": "722130",
+      "name_pt": "Ferrador"
+    },
+    {
+      "code": "722135",
+      "name_pt": "Trefilador"
+    },
+    {
+      "code": "722140",
+      "name_pt": "Operador de pantógrafo - metais"
+    },
+    {
+      "code": "722145",
+      "name_pt": "Operador de prensa mecânica - metais"
+    },
+    {
+      "code": "722150",
+      "name_pt": "Gravador /cinzelador de metais não preciosos"
+    },
+    {
+      "code": "722205",
+      "name_pt": "Serralheiro mecânicos"
+    },
+    {
+      "code": "722210",
+      "name_pt": "Serralheiro de ferramentas, moldes e cunhos"
+    },
+    {
+      "code": "722215",
+      "name_pt": "Serralheiro de chaves e fechaduras"
+    },
+    {
+      "code": "722220",
+      "name_pt": "Armeiro"
+    },
+    {
+      "code": "722225",
+      "name_pt": "Traçador mecânico"
+    },
+    {
+      "code": "722305",
+      "name_pt": "Operador de engenho de furar"
+    },
+    {
+      "code": "722310",
+      "name_pt": "Aplainador"
+    },
+    {
+      "code": "722315",
+      "name_pt": "Torneiro mecânico"
+    },
+    {
+      "code": "722320",
+      "name_pt": "Mandrilador mecânico"
+    },
+    {
+      "code": "722325",
+      "name_pt": "Fresador mecânico"
+    },
+    {
+      "code": "722330",
+      "name_pt": "Rebarbador mecânico"
+    },
+    {
+      "code": "722335",
+      "name_pt": "Serrador mecânico"
+    },
+    {
+      "code": "722405",
+      "name_pt": "Esmerilador"
+    },
+    {
+      "code": "722410",
+      "name_pt": "Afiador de ferramentas"
+    },
+    {
+      "code": "722415",
+      "name_pt": "Amolador de cutelaria"
+    },
+    {
+      "code": "722420",
+      "name_pt": "Polidor de metais"
+    },
+    {
+      "code": "722425",
+      "name_pt": "Apontador de cardas"
+    },
+    {
+      "code": "722430",
+      "name_pt": "Limador mecânico"
+    },
+    {
+      "code": "7231",
+      "name_pt": "- Mecânicos e Ajustadores de Veículos a Motor e Trabalhadores Similares"
+    },
+    {
+      "code": "7232",
+      "name_pt": "- Mecânicos de Motores de Avião"
+    },
+    {
+      "code": "7233",
+      "name_pt": "- Mecânicos e Ajustadores de Máquinas Industriais e Trabalhadores Similares"
+    },
+    {
+      "code": "723105",
+      "name_pt": "Mecânico de automóveis"
+    },
+    {
+      "code": "723110",
+      "name_pt": "Mecânico - reparador de motociclos"
+    },
+    {
+      "code": "723115",
+      "name_pt": "Reparador de velocípedes"
+    },
+    {
+      "code": "723205",
+      "name_pt": "Mecânico de motores de avião"
+    },
+    {
+      "code": "723305",
+      "name_pt": "Ajustador/montador de máquinas industriais - geral"
+    },
+    {
+      "code": "723310",
+      "name_pt": "Mecânico de máquinas de construção"
+    },
+    {
+      "code": "723315",
+      "name_pt": "Mecânico de bordo"
+    },
+    {
+      "code": "723320",
+      "name_pt": "Lubrificador de máquinas"
+    },
+    {
+      "code": "723325",
+      "name_pt": "Lubrificador de automóveis"
+    },
+    {
+      "code": "723330",
+      "name_pt": "Ajustador/montador de máquinas de costura"
+    },
+    {
+      "code": "723335",
+      "name_pt": "Ajustador/montador de máquinas de tricotar"
+    },
+    {
+      "code": "7241",
+      "name_pt": "- Electromecânicos e Electricistas"
+    },
+    {
+      "code": "7242",
+      "name_pt": "- Montadores Electrónicos e Trabalhadores Similares"
+    },
+    {
+      "code": "7243",
+      "name_pt": "- Reparadores de Aparelhos Receptores de Rádio e TV"
+    },
+    {
+      "code": "7244",
+      "name_pt": "- Montadores e Reparadores de Instalações Telefónicas e Telegráficas"
+    },
+    {
+      "code": "7245",
+      "name_pt": "- Montadores e Reparadores de Linhas/Cabos Eléctricas"
+    },
+    {
+      "code": "724105",
+      "name_pt": "Electromecânico de máquinas eléctricas"
+    },
+    {
+      "code": "724110",
+      "name_pt": "Electromecânico da elevadores e aparelhos similares"
+    },
+    {
+      "code": "724115",
+      "name_pt": "Electromecânico de refrigeração e ar-condicionado"
+    },
+    {
+      "code": "724120",
+      "name_pt": "Electromecânico de electrodomésticos"
+    },
+    {
+      "code": "724125",
+      "name_pt": "Bobinador"
+    },
+    {
+      "code": "724130",
+      "name_pt": "Electricista - montador de instalação de alta tensão"
+    },
+    {
+      "code": "724135",
+      "name_pt": "Electricista - montador de instalação de baixa tensão"
+    },
+    {
+      "code": "724140",
+      "name_pt": "Electricista naval"
+    },
+    {
+      "code": "724145",
+      "name_pt": "Electricista auto"
+    },
+    {
+      "code": "724150",
+      "name_pt": "Electricista - montador de anúncios luminosos"
+    },
+    {
+      "code": "724155",
+      "name_pt": "Electricista de redes e de manutenção - produção e distribuição de energia eléctrica"
+    },
+    {
+      "code": "724160",
+      "name_pt": "Electricista de manutenção de equipamentos industriais"
+    },
+    {
+      "code": "724205",
+      "name_pt": "Montador/ajustador de equipamento informático"
+    },
+    {
+      "code": "724210",
+      "name_pt": "Montador/ajustador de equipamento de radar"
+    },
+    {
+      "code": "724215",
+      "name_pt": "Montador/ajustador de equipamento de emissão de imagens e som"
+    },
+    {
+      "code": "724220",
+      "name_pt": "Mecânico - electromedicina"
+    },
+    {
+      "code": "724305",
+      "name_pt": "Mecânico reparador de antenas de rádio e TV"
+    },
+    {
+      "code": "724310",
+      "name_pt": "Mecânico reparador de aparelhos receptores de rádio e TV e outros equipamentos"
+    },
+    {
+      "code": "724315",
+      "name_pt": "Radiotécnico"
+    },
+    {
+      "code": "724405",
+      "name_pt": "Montador/reparador de instalações telefónicas e telegráficas"
+    },
+    {
+      "code": "724505",
+      "name_pt": "Montador de linhas e cabos de transporte de energia"
+    },
+    {
+      "code": "724510",
+      "name_pt": "Montador de linhas telefónicas e telegráficas"
+    },
+    {
+      "code": "731",
+      "name_pt": "- Mecânicos de Precisão, Relojoeiros e Trabalhadores Similares"
+    },
+    {
+      "code": "732",
+      "name_pt": "- Oleiros, Vidreiros e Trabalhadores Similares"
+    },
+    {
+      "code": "733",
+      "name_pt": "- Artesãos e Trabalhadores Manuais em Madeira, Tecido e Outros Materiais"
+    },
+    {
+      "code": "734",
+      "name_pt": "- Compositores Tipográficos e Trabalhadores Similares das Artes Gráficas"
+    },
+    {
+      "code": "7311",
+      "name_pt": "- Mecânicos de Instrumentos de Precisão"
+    },
+    {
+      "code": "7312",
+      "name_pt": "- Trabalhadores do Fabrico e Reparação de Instrumentos de Música"
+    },
+    {
+      "code": "7313",
+      "name_pt": "- Joalheiros e Lapidadores"
+    },
+    {
+      "code": "731105",
+      "name_pt": "Relojoeiro - montador"
+    },
+    {
+      "code": "731110",
+      "name_pt": "Relojoeiro - reparador"
+    },
+    {
+      "code": "731115",
+      "name_pt": "Mecânico de instrumentos de óptica de precisão"
+    },
+    {
+      "code": "731120",
+      "name_pt": "Mecânico de equipamentos fotográficos"
+    },
+    {
+      "code": "731125",
+      "name_pt": "Fabricante de próteses dentárias"
+    },
+    {
+      "code": "731130",
+      "name_pt": "Mecânico ortopédico"
+    },
+    {
+      "code": "731135",
+      "name_pt": "Verificador - reparador de taxímetros e parquímetros"
+    },
+    {
+      "code": "731140",
+      "name_pt": "Aferidor de instrumentos de precisão"
+    },
+    {
+      "code": "731205",
+      "name_pt": "Trabalhador do fabrico e reparação de instrumentos de sopro em metal"
+    },
+    {
+      "code": "731210",
+      "name_pt": "Trabalhador do fabrico e reparação de instrumentos de sopro em bambu e outros"
+    },
+    {
+      "code": "731215",
+      "name_pt": "Trabalhador do fabrico e reparação de instrumentos musicais chineses de corda"
+    },
+    {
+      "code": "731220",
+      "name_pt": "Trabalhador do fabrico e reparação de instrumentos musicais ocidentais de corda"
+    },
+    {
+      "code": "731225",
+      "name_pt": "Trabalhador do fabrico e reparação de instrumentos de percussão"
+    },
+    {
+      "code": "731230",
+      "name_pt": "Trabalhador do fabrico, afinação e reparação de pianos"
+    },
+    {
+      "code": "731235",
+      "name_pt": "Trabalhador do fabrico, afinação e reparação de órgãos e acordeões"
+    },
+    {
+      "code": "731305",
+      "name_pt": "Ourives de ouro"
+    },
+    {
+      "code": "731310",
+      "name_pt": "Prateiro"
+    },
+    {
+      "code": "731315",
+      "name_pt": "Lapidador de pedras preciosas"
+    },
+    {
+      "code": "731320",
+      "name_pt": "Facetador de diamantes"
+    },
+    {
+      "code": "731325",
+      "name_pt": "Classificador - avaliador de diamantes"
+    },
+    {
+      "code": "731330",
+      "name_pt": "Classificador - avaliador de lapidado"
+    },
+    {
+      "code": "7321",
+      "name_pt": "- Oleiros, Moldadores de Barro e Trabalhadores Similares"
+    },
+    {
+      "code": "7322",
+      "name_pt": "- Vidreiros, Cortadores, Polidores de Vidro e Trabalhadores Similares"
+    },
+    {
+      "code": "7323",
+      "name_pt": "- Lapidadores e Gravadores de Vidro"
+    },
+    {
+      "code": "7324",
+      "name_pt": "- Pintores e Decoradores de Vidro, Cerâmica e Trabalhadores Similares"
+    },
+    {
+      "code": "732105",
+      "name_pt": "Oleiro"
+    },
+    {
+      "code": "732110",
+      "name_pt": "Modelador - tijolos e telha"
+    },
+    {
+      "code": "732115",
+      "name_pt": "Modelador - cerâmica"
+    },
+    {
+      "code": "732120",
+      "name_pt": "Fabricador de rebolo"
+    },
+    {
+      "code": "732125",
+      "name_pt": "Prensador - barro"
+    },
+    {
+      "code": "732130",
+      "name_pt": "Prensador de abrasivos"
+    },
+    {
+      "code": "732135",
+      "name_pt": "Esmaltador"
+    },
+    {
+      "code": "732205",
+      "name_pt": "Vidreiro"
+    },
+    {
+      "code": "732210",
+      "name_pt": "Vidreiro de arte"
+    },
+    {
+      "code": "732215",
+      "name_pt": "Soprador de artigos de vidro"
+    },
+    {
+      "code": "732220",
+      "name_pt": "Encurvador de tubos de vidro"
+    },
+    {
+      "code": "732225",
+      "name_pt": "Cortador de vidro"
+    },
+    {
+      "code": "732230",
+      "name_pt": "Fresador de lentes"
+    },
+    {
+      "code": "732305",
+      "name_pt": "Lapidador de vidro"
+    },
+    {
+      "code": "732310",
+      "name_pt": "Gravador de vidro"
+    },
+    {
+      "code": "732315",
+      "name_pt": "Gravador a ácido"
+    },
+    {
+      "code": "732405",
+      "name_pt": "Pintor/decorador de cerâmica"
+    },
+    {
+      "code": "732410",
+      "name_pt": "Pintor/decorador de vidro"
+    },
+    {
+      "code": "732415",
+      "name_pt": "Aplicador de decalcomanias para vidro e cerâmica"
+    },
+    {
+      "code": "732420",
+      "name_pt": "Pintor/decorador de artigos de madeira"
+    },
+    {
+      "code": "732425",
+      "name_pt": "Pintor/decorador de artigos de outros materiais"
+    },
+    {
+      "code": "7331",
+      "name_pt": "- Artesãos de Artigos em Madeiro e Materiais Similares"
+    },
+    {
+      "code": "7332",
+      "name_pt": "- Artesãos de Artigos em Tecido, Couro e Materiais Similares"
+    },
+    {
+      "code": "7333",
+      "name_pt": "- Artesãos Tradicionais Chineses"
+    },
+    {
+      "code": "733105",
+      "name_pt": "Entalhador"
+    },
+    {
+      "code": "733110",
+      "name_pt": "Oleiro - artesanato"
+    },
+    {
+      "code": "733115",
+      "name_pt": "Artesão de artigos em pedra, concha e materiais similares"
+    },
+    {
+      "code": "733120",
+      "name_pt": "Carimbador de pedra/marfim/cobre"
+    },
+    {
+      "code": "733125",
+      "name_pt": "Cesteiro - artesanato"
+    },
+    {
+      "code": "733205",
+      "name_pt": "Bordador"
+    },
+    {
+      "code": "733210",
+      "name_pt": "Tecelão de tapeçarias de arte"
+    },
+    {
+      "code": "733215",
+      "name_pt": "Artesão - artigos em couro"
+    },
+    {
+      "code": "733305",
+      "name_pt": "Artesão tradicional chinês - paus de incenso"
+    },
+    {
+      "code": "733310",
+      "name_pt": "Artesão tradicional chinês - figura de farinha"
+    },
+    {
+      "code": "733399",
+      "name_pt": "Artesão tradicional chinês não classificado em outra parte"
+    },
+    {
+      "code": "7341",
+      "name_pt": "- Compositores e Montadores de Artes Gráficas"
+    },
+    {
+      "code": "7342",
+      "name_pt": "- Estereotipadores e Electrotipias"
+    },
+    {
+      "code": "7343",
+      "name_pt": "- Gravadores de Artes Gráficas"
+    },
+    {
+      "code": "7344",
+      "name_pt": "- Reveladores e Impressores de Fotografias"
+    },
+    {
+      "code": "7345",
+      "name_pt": "- Encadernadores e Trabalhadores Similares"
+    },
+    {
+      "code": "7346",
+      "name_pt": "- Serígrafos e Trabalhadores Similares"
+    },
+    {
+      "code": "734105",
+      "name_pt": "Compositor manual"
+    },
+    {
+      "code": "734110",
+      "name_pt": "Operador de fotocompositora"
+    },
+    {
+      "code": "734115",
+      "name_pt": "Compositor monotipista"
+    },
+    {
+      "code": "734120",
+      "name_pt": "Fundidor de material tipográfico"
+    },
+    {
+      "code": "734205",
+      "name_pt": "Estereotipador"
+    },
+    {
+      "code": "734210",
+      "name_pt": "Electrotipiador"
+    },
+    {
+      "code": "734305",
+      "name_pt": "Gravador de fotogravura"
+    },
+    {
+      "code": "734310",
+      "name_pt": "Gravador sobre pedras litográficas"
+    },
+    {
+      "code": "734315",
+      "name_pt": "Gravador de chapas"
+    },
+    {
+      "code": "734320",
+      "name_pt": "Gravador manual sobre madeira, borracha ou linóleo"
+    },
+    {
+      "code": "734325",
+      "name_pt": "Fotógrafo de off-set"
+    },
+    {
+      "code": "734330",
+      "name_pt": "Retocador de off-set"
+    },
+    {
+      "code": "734335",
+      "name_pt": "Fotógrafo de fotolitografia"
+    },
+    {
+      "code": "734340",
+      "name_pt": "Montador de fotolitografia"
+    },
+    {
+      "code": "734345",
+      "name_pt": "Retocador de fotolitografia"
+    },
+    {
+      "code": "734350",
+      "name_pt": "Carimbador de borracha"
+    },
+    {
+      "code": "734405",
+      "name_pt": "Revelador/impressor de fotografias preto e branco"
+    },
+    {
+      "code": "734410",
+      "name_pt": "Revelador/impressor de fotografias de cor"
+    },
+    {
+      "code": "734505",
+      "name_pt": "Encadernador"
+    },
+    {
+      "code": "734510",
+      "name_pt": "Dourador"
+    },
+    {
+      "code": "734515",
+      "name_pt": "Gravador em relevo"
+    },
+    {
+      "code": "734520",
+      "name_pt": "Dobrador - encadernação"
+    },
+    {
+      "code": "734525",
+      "name_pt": "Costureira manual - encadernação"
+    },
+    {
+      "code": "734530",
+      "name_pt": "Decorador de pintura chinesa"
+    },
+    {
+      "code": "734605",
+      "name_pt": "Serígrafo"
+    },
+    {
+      "code": "734610",
+      "name_pt": "Impressor serígrafo"
+    },
+    {
+      "code": "734615",
+      "name_pt": "Estampador manual - têxteis"
+    },
+    {
+      "code": "734620",
+      "name_pt": "Estampador manual ao quadro"
+    },
+    {
+      "code": "741",
+      "name_pt": "- Trabalhadores da Preparação e Confecção de Alimentos e Bebidas"
+    },
+    {
+      "code": "742",
+      "name_pt": "- Marceneiros e Trabalhadores do Tratamento de Madeiras"
+    },
+    {
+      "code": "743",
+      "name_pt": "- Trabalhadores dos Têxteis e Confecções"
+    },
+    {
+      "code": "744",
+      "name_pt": "- Trabalhadores de Peles, Couro e Calçados"
+    },
+    {
+      "code": "749",
+      "name_pt": "- Trabalhadores da Produção Industrial e Artesãos não Classificados em outra Parte"
+    },
+    {
+      "code": "7411",
+      "name_pt": "- Magarefes, Cortadores de Carnes e Trabalhadores Similares da Preparação de Carne e Peixes"
+    },
+    {
+      "code": "7412",
+      "name_pt": "- Padeiros, Pasteleiros, Preparadores de Massas Alimentícias e Confeiteiros"
+    },
+    {
+      "code": "7413",
+      "name_pt": "- Trabalhadores do Fabrico de Produtos Lácteos"
+    },
+    {
+      "code": "7414",
+      "name_pt": "- Conserveiros de Frutas, Legumes e Similares"
+    },
+    {
+      "code": "7415",
+      "name_pt": "- Preparadores de Vinhos, Provadores e Graduadores de Produtos Alimentares e Bebidas"
+    },
+    {
+      "code": "7416",
+      "name_pt": "- Trabalhadores de Tabaco"
+    },
+    {
+      "code": "741105",
+      "name_pt": "Magarefe"
+    },
+    {
+      "code": "741110",
+      "name_pt": "Matador de criação"
+    },
+    {
+      "code": "741115",
+      "name_pt": "Salsicheiro"
+    },
+    {
+      "code": "741120",
+      "name_pt": "Tripeiro"
+    },
+    {
+      "code": "741125",
+      "name_pt": "Conserveiro de carne"
+    },
+    {
+      "code": "741130",
+      "name_pt": "Conserveiro de peixe"
+    },
+    {
+      "code": "741135",
+      "name_pt": "Salgador/defumador de carne"
+    },
+    {
+      "code": "741140",
+      "name_pt": "Salgador/defumador de peixe"
+    },
+    {
+      "code": "741145",
+      "name_pt": "Cortador de carnes verdes"
+    },
+    {
+      "code": "741205",
+      "name_pt": "Padeiro"
+    },
+    {
+      "code": "741210",
+      "name_pt": "Forneiro de panificação"
+    },
+    {
+      "code": "741215",
+      "name_pt": "Pasteleiro"
+    },
+    {
+      "code": "741220",
+      "name_pt": "Preparador de massas alimentícias"
+    },
+    {
+      "code": "741225",
+      "name_pt": "Confeiteiro"
+    },
+    {
+      "code": "741230",
+      "name_pt": "Chocolateiro"
+    },
+    {
+      "code": "741305",
+      "name_pt": "Trabalhador de recepção e pesagem - leite"
+    },
+    {
+      "code": "741310",
+      "name_pt": "Confeccionador - gelados"
+    },
+    {
+      "code": "741399",
+      "name_pt": "Trabalhador do fabrico de produtos lácteos não classificado em outra parte"
+    },
+    {
+      "code": "741405",
+      "name_pt": "Extractor - óleo"
+    },
+    {
+      "code": "741410",
+      "name_pt": "Conserveiro - condimentos"
+    },
+    {
+      "code": "741415",
+      "name_pt": "Conserveiro - frutas e legumes"
+    },
+    {
+      "code": "741505",
+      "name_pt": "Preparador de vinhos"
+    },
+    {
+      "code": "741510",
+      "name_pt": "Preparador de bebidas não-alcoólicas"
+    },
+    {
+      "code": "741515",
+      "name_pt": "Provador de vinhos"
+    },
+    {
+      "code": "741520",
+      "name_pt": "Controlador da qualidade - produtos alimentares e bebidas"
+    },
+    {
+      "code": "741605",
+      "name_pt": "Preparador de tabaco de tipo chinês"
+    },
+    {
+      "code": "7421",
+      "name_pt": "- Trabalhadores do Tratamento e Preparação de Madeiras"
+    },
+    {
+      "code": "7422",
+      "name_pt": "- Marceneiros e Trabalhadores Similares"
+    },
+    {
+      "code": "7423",
+      "name_pt": "- Operadores de Máquinas para Trabalhar Madeira"
+    },
+    {
+      "code": "7424",
+      "name_pt": "- Cesteiros, Pinceleiros e Trabalhadores Similares"
+    },
+    {
+      "code": "742105",
+      "name_pt": "Impregnador de madeira"
+    },
+    {
+      "code": "742110",
+      "name_pt": "Serrador de madeira"
+    },
+    {
+      "code": "742205",
+      "name_pt": "Marceneiro"
+    },
+    {
+      "code": "742210",
+      "name_pt": "Marceneiro - restaurador"
+    },
+    {
+      "code": "742215",
+      "name_pt": "Marceneiro - montador"
+    },
+    {
+      "code": "742220",
+      "name_pt": "Embutidor"
+    },
+    {
+      "code": "742225",
+      "name_pt": "Ebanista"
+    },
+    {
+      "code": "742230",
+      "name_pt": "Gravador manual"
+    },
+    {
+      "code": "742235",
+      "name_pt": "Polidor/Envernizador"
+    },
+    {
+      "code": "742240",
+      "name_pt": "Carpinteiro de moldes"
+    },
+    {
+      "code": "742245",
+      "name_pt": "Tanoeiro"
+    },
+    {
+      "code": "742305",
+      "name_pt": "Mecânico de madeira"
+    },
+    {
+      "code": "742310",
+      "name_pt": "Torneiro de madeira"
+    },
+    {
+      "code": "742315",
+      "name_pt": "Galopador de madeira"
+    },
+    {
+      "code": "742320",
+      "name_pt": "Tupiador"
+    },
+    {
+      "code": "742325",
+      "name_pt": "Furador de broca"
+    },
+    {
+      "code": "742330",
+      "name_pt": "Encurvador mecânico de madeira"
+    },
+    {
+      "code": "742405",
+      "name_pt": "Cesteiro"
+    },
+    {
+      "code": "742410",
+      "name_pt": "Pinceleiro"
+    },
+    {
+      "code": "742415",
+      "name_pt": "Preparador de móveis de verga"
+    },
+    {
+      "code": "742420",
+      "name_pt": "Preparador de esteiras"
+    },
+    {
+      "code": "7431",
+      "name_pt": "- Preparadores de Fibras"
+    },
+    {
+      "code": "7432",
+      "name_pt": "- Tecelões de Teares Manuais e Trabalhadores Similares"
+    },
+    {
+      "code": "7433",
+      "name_pt": "- Alfaiates, Costureiros e Chapeleiros"
+    },
+    {
+      "code": "7434",
+      "name_pt": "- Peleiros e Trabalhadores Similares"
+    },
+    {
+      "code": "7435",
+      "name_pt": "- Riscadores e Cortadores de Moldes"
+    },
+    {
+      "code": "7436",
+      "name_pt": "- Costureiras, Bordadeiras e Trabalhadores Similares"
+    },
+    {
+      "code": "7437",
+      "name_pt": "- Estofadores, Colchoeiros e Trabalhadores Similares"
+    },
+    {
+      "code": "7438",
+      "name_pt": "- Verificadores de Qualidade de Produtos Têxteis e Confecções"
+    },
+    {
+      "code": "743105",
+      "name_pt": "Classificador de fibras"
+    },
+    {
+      "code": "743110",
+      "name_pt": "Apartador de lã"
+    },
+    {
+      "code": "743115",
+      "name_pt": "Lavador de lã"
+    },
+    {
+      "code": "743120",
+      "name_pt": "Batedor de lã"
+    },
+    {
+      "code": "743125",
+      "name_pt": "Abridor de lã"
+    },
+    {
+      "code": "743130",
+      "name_pt": "Abridor de fardos de algodão"
+    },
+    {
+      "code": "743135",
+      "name_pt": "Ligador de juta"
+    },
+    {
+      "code": "743140",
+      "name_pt": "Cardador de juta"
+    },
+    {
+      "code": "743145",
+      "name_pt": "Preparador de penteação e fiação"
+    },
+    {
+      "code": "743150",
+      "name_pt": "Penteador de algodão"
+    },
+    {
+      "code": "743155",
+      "name_pt": "Penteador de lã"
+    },
+    {
+      "code": "743160",
+      "name_pt": "Escolhedor de linho"
+    },
+    {
+      "code": "743165",
+      "name_pt": "Preparador de cabelo artificial"
+    },
+    {
+      "code": "743205",
+      "name_pt": "Tecelão manual"
+    },
+    {
+      "code": "743210",
+      "name_pt": "Tecelão manual - tapeçarias"
+    },
+    {
+      "code": "743215",
+      "name_pt": "Restaurador de tapeçarias"
+    },
+    {
+      "code": "743220",
+      "name_pt": "Tecelão de malha"
+    },
+    {
+      "code": "743225",
+      "name_pt": "Tricotador"
+    },
+    {
+      "code": "743230",
+      "name_pt": "Tricotador manual"
+    },
+    {
+      "code": "743235",
+      "name_pt": "Cordoeiro manual"
+    },
+    {
+      "code": "743240",
+      "name_pt": "Redeiro"
+    },
+    {
+      "code": "743245",
+      "name_pt": "Passamaneiro manual"
+    },
+    {
+      "code": "743250",
+      "name_pt": "Capacheiro"
+    },
+    {
+      "code": "743305",
+      "name_pt": "Alfaiate"
+    },
+    {
+      "code": "743310",
+      "name_pt": "Costureiro - vestuário por medida"
+    },
+    {
+      "code": "743315",
+      "name_pt": "Chapeleiro"
+    },
+    {
+      "code": "743405",
+      "name_pt": "Cortador de peles - vestuário e luvas"
+    },
+    {
+      "code": "743410",
+      "name_pt": "Cortador de peles com pêlo"
+    },
+    {
+      "code": "743415",
+      "name_pt": "Peleiro - vestuário e luvas"
+    },
+    {
+      "code": "743420",
+      "name_pt": "Peleiro - peles com pêlo"
+    },
+    {
+      "code": "743505",
+      "name_pt": "Riscador"
+    },
+    {
+      "code": "743510",
+      "name_pt": "Estendedor"
+    },
+    {
+      "code": "743515",
+      "name_pt": "Talhador manual"
+    },
+    {
+      "code": "743520",
+      "name_pt": "Cortador de tecidos - máquina eléctrica"
+    },
+    {
+      "code": "743525",
+      "name_pt": "Cortador de plástico"
+    },
+    {
+      "code": "743530",
+      "name_pt": "Ajustador de máquina têxtil"
+    },
+    {
+      "code": "743605",
+      "name_pt": "Costureira - geral"
+    },
+    {
+      "code": "743610",
+      "name_pt": "Costureira de guarda-chuvas"
+    },
+    {
+      "code": "743615",
+      "name_pt": "Chefe de linha - confecção de vestuário"
+    },
+    {
+      "code": "743620",
+      "name_pt": "Bordador à mão"
+    },
+    {
+      "code": "743625",
+      "name_pt": "Bordador à máquina"
+    },
+    {
+      "code": "743630",
+      "name_pt": "Cortador de flores artificiais"
+    },
+    {
+      "code": "743635",
+      "name_pt": "Engomador de flores artificiais"
+    },
+    {
+      "code": "743640",
+      "name_pt": "Tintureiro de flores artificiais"
+    },
+    {
+      "code": "743645",
+      "name_pt": "Enchedor de bonecos de pano"
+    },
+    {
+      "code": "743705",
+      "name_pt": "Estofador de móveis"
+    },
+    {
+      "code": "743710",
+      "name_pt": "Estofador de viaturas"
+    },
+    {
+      "code": "743715",
+      "name_pt": "Colchoeiro"
+    },
+    {
+      "code": "743720",
+      "name_pt": "Operador de máquina de acolchoar"
+    },
+    {
+      "code": "743805",
+      "name_pt": "Verificador de qualidade de produtos têxteis e confecções"
+    },
+    {
+      "code": "7441",
+      "name_pt": "- Curtidores, Preparadores e Acabadores de Peles e Trabalhadores Similares"
+    },
+    {
+      "code": "7442",
+      "name_pt": "- Sapateiros, Trabalhadores de Calçado e do Couro"
+    },
+    {
+      "code": "744105",
+      "name_pt": "Lavador de peles"
+    },
+    {
+      "code": "744110",
+      "name_pt": "Descarnador mecânico"
+    },
+    {
+      "code": "744115",
+      "name_pt": "Curtidor"
+    },
+    {
+      "code": "744120",
+      "name_pt": "Abridor de palhetos - peles"
+    },
+    {
+      "code": "744125",
+      "name_pt": "Raspador mecânico"
+    },
+    {
+      "code": "744130",
+      "name_pt": "Tintureiro - peles"
+    },
+    {
+      "code": "744135",
+      "name_pt": "Secador de peles"
+    },
+    {
+      "code": "744140",
+      "name_pt": "Lixador mecânico - peles"
+    },
+    {
+      "code": "744145",
+      "name_pt": "Cardador - peles"
+    },
+    {
+      "code": "744150",
+      "name_pt": "Prensador/gravador - peles"
+    },
+    {
+      "code": "744155",
+      "name_pt": "Classificador/apartador - peles"
+    },
+    {
+      "code": "744160",
+      "name_pt": "Medidor - peles"
+    },
+    {
+      "code": "744205",
+      "name_pt": "Sapateiro"
+    },
+    {
+      "code": "744210",
+      "name_pt": "Sapateiro - calçado ortopédico"
+    },
+    {
+      "code": "744215",
+      "name_pt": "Sapateiro consertador"
+    },
+    {
+      "code": "744220",
+      "name_pt": "Modelador"
+    },
+    {
+      "code": "744225",
+      "name_pt": "Cortador de peles - calçado"
+    },
+    {
+      "code": "744230",
+      "name_pt": "Cortador de sola - calçado"
+    },
+    {
+      "code": "744235",
+      "name_pt": "Gaspeador (cravador)- calçado"
+    },
+    {
+      "code": "744240",
+      "name_pt": "Colador de calçado"
+    },
+    {
+      "code": "744245",
+      "name_pt": "Fresador de sola - calçado"
+    },
+    {
+      "code": "744250",
+      "name_pt": "Maleiro"
+    },
+    {
+      "code": "744255",
+      "name_pt": "Correeiro"
+    },
+    {
+      "code": "744260",
+      "name_pt": "Cortador de pelaria - malas e marroquinaria"
+    },
+    {
+      "code": "744265",
+      "name_pt": "Costureiro - malas e marroquinaria"
+    },
+    {
+      "code": "744270",
+      "name_pt": "Albardeiro"
+    },
+    {
+      "code": "7490",
+      "name_pt": "- Trabalhadores de Produção Industrial e Artesãos não Classificados em Outra Parte"
+    },
+    {
+      "code": "749099",
+      "name_pt": "Trabalhador de produção industrial e artesãos não classificado em outra parte"
+    },
+    {
+      "code": "811",
+      "name_pt": "- Operadores de Instalações de Extracção e Tratamento de Minérios"
+    },
+    {
+      "code": "812",
+      "name_pt": "- Operadores de Instalações de Transformação de Metais"
+    },
+    {
+      "code": "813",
+      "name_pt": "- Operadores de Instalações de Fabrico de Vidro e Cerâmica"
+    },
+    {
+      "code": "814",
+      "name_pt": "- Operadores de Instalações de Transformação da Madeira e Fabricação de Papel"
+    },
+    {
+      "code": "815",
+      "name_pt": "- Operadores de Instalações de Tratamentos Químicos"
+    },
+    {
+      "code": "816",
+      "name_pt": "- Operadores de Instalações de Produção de Energia e Trabalhadores Similares"
+    },
+    {
+      "code": "817",
+      "name_pt": "- Operadores de Cadeias de Montagem Automática e Operadores de Robots Industriais"
+    },
+    {
+      "code": "819",
+      "name_pt": "- Operadores de Instalações Industriais não Classificados em Outra Parte"
+    },
+    {
+      "code": "8111",
+      "name_pt": "- Condutores de Máquinas de Extracção - Minas e Pedreiras"
+    },
+    {
+      "code": "8112",
+      "name_pt": "- Operadores de Instalações de Preparação de Minério e Rocha"
+    },
+    {
+      "code": "8113",
+      "name_pt": "- Sondadores"
+    },
+    {
+      "code": "811105",
+      "name_pt": "Marteleiro"
+    },
+    {
+      "code": "811110",
+      "name_pt": "Operador de cortadora de rocha"
+    },
+    {
+      "code": "811199",
+      "name_pt": "Condutor de máquinas de extracção - minas e pedreiras não classificado em outra parte"
+    },
+    {
+      "code": "811205",
+      "name_pt": "Operador de britadeira"
+    },
+    {
+      "code": "811210",
+      "name_pt": "Operador de serragem-bloco e chapa de pedra"
+    },
+    {
+      "code": "811299",
+      "name_pt": "Operador de instalações de preparação de minério e rocha não classificado em outra parte"
+    },
+    {
+      "code": "811305",
+      "name_pt": "Sondador"
+    },
+    {
+      "code": "8121",
+      "name_pt": "- Operadores de Fornos de Minerais"
+    },
+    {
+      "code": "8122",
+      "name_pt": "- Operadores de Instalações de Fundição e Operadores de Laminagem"
+    },
+    {
+      "code": "8123",
+      "name_pt": "- Operadores de Tratamento Térmico de Metais"
+    },
+    {
+      "code": "8124",
+      "name_pt": "- Trefiladores e Estiradores"
+    },
+    {
+      "code": "812105",
+      "name_pt": "Operador de fornos de minerais"
+    },
+    {
+      "code": "812110",
+      "name_pt": "Operador de convertidor"
+    },
+    {
+      "code": "812205",
+      "name_pt": "Operador de instalações de fundição"
+    },
+    {
+      "code": "812210",
+      "name_pt": "Operador de instalações de reaquecimento"
+    },
+    {
+      "code": "812215",
+      "name_pt": "Operador de instalações de laminagem"
+    },
+    {
+      "code": "812305",
+      "name_pt": "Operador de tratamento térmico de metais"
+    },
+    {
+      "code": "812405",
+      "name_pt": "Trefilador à máquina"
+    },
+    {
+      "code": "812410",
+      "name_pt": "Operador de prensa de extrudar"
+    },
+    {
+      "code": "8131",
+      "name_pt": "- Forneiros, Fundidores e Trabalhadores Similares de Vidro e Cerâmica"
+    },
+    {
+      "code": "8139",
+      "name_pt": "- Operadores de Instalações de Vidro e Cerâmica não Classificados em Outra Parte"
+    },
+    {
+      "code": "813105",
+      "name_pt": "Operador de forno - cerâmica"
+    },
+    {
+      "code": "813110",
+      "name_pt": "Operador de forno - tijolos"
+    },
+    {
+      "code": "813115",
+      "name_pt": "Operador de forno de fusão - vidro"
+    },
+    {
+      "code": "813120",
+      "name_pt": "Enfornador/desenfornador - cerâmica e tijolos"
+    },
+    {
+      "code": "813125",
+      "name_pt": "Operador de instalação automática de moldagem - vidro"
+    },
+    {
+      "code": "813130",
+      "name_pt": "Operador de instalação automática de fabrico de ampolas - vidro"
+    },
+    {
+      "code": "813135",
+      "name_pt": "Operador de instalação automática de estriar vidro"
+    },
+    {
+      "code": "813140",
+      "name_pt": "Operador de instalação automática de tijolos"
+    },
+    {
+      "code": "813145",
+      "name_pt": "Operador de instalação de corte - vidro"
+    },
+    {
+      "code": "813150",
+      "name_pt": "Operador de instalação automática de pintar e espelhar - vidro e cerâmica"
+    },
+    {
+      "code": "813905",
+      "name_pt": "Operador de instalação automática de preparação de pasta - cerâmica"
+    },
+    {
+      "code": "813910",
+      "name_pt": "Operador de composição"
+    },
+    {
+      "code": "813915",
+      "name_pt": "Operador de atomizador"
+    },
+    {
+      "code": "813920",
+      "name_pt": "Alimentador de atomizador"
+    },
+    {
+      "code": "813925",
+      "name_pt": "Operador de máquina de amassar"
+    },
+    {
+      "code": "8141",
+      "name_pt": "- Operadores de Instalações para Trabalhar Madeiras"
+    },
+    {
+      "code": "8142",
+      "name_pt": "- Operadores de Instalações do Fabrico de Pasta para Papel"
+    },
+    {
+      "code": "8143",
+      "name_pt": "- Operadores de Instalações do Fabrico de Papel"
+    },
+    {
+      "code": "814105",
+      "name_pt": "Serrador mecânico - madeira"
+    },
+    {
+      "code": "814110",
+      "name_pt": "Secador de madeira"
+    },
+    {
+      "code": "814115",
+      "name_pt": "Seccionador de toros"
+    },
+    {
+      "code": "814120",
+      "name_pt": "Operador de lixadora"
+    },
+    {
+      "code": "814125",
+      "name_pt": "Operador de máquina de esquadriar"
+    },
+    {
+      "code": "814130",
+      "name_pt": "Operador de sistema de encolagem"
+    },
+    {
+      "code": "814135",
+      "name_pt": "Operador de instalação de formação e prensagem de placas"
+    },
+    {
+      "code": "814205",
+      "name_pt": "Operador de digestor e difusor - pasta para papel"
+    },
+    {
+      "code": "814210",
+      "name_pt": "Operador de crivagem e branqueamento - pasta para papel"
+    },
+    {
+      "code": "814215",
+      "name_pt": "Operador de instalações de depuração e secagem de pasta branca - pasta para papel"
+    },
+    {
+      "code": "814220",
+      "name_pt": "Operador de máquina de formatar - pasta para papel"
+    },
+    {
+      "code": "814225",
+      "name_pt": "Operador de instalação de desfibração e refinação - papel"
+    },
+    {
+      "code": "814305",
+      "name_pt": "Operador de máquina de fabricar papel ou cartão"
+    },
+    {
+      "code": "814310",
+      "name_pt": "Operador de máquina de fabricar papel ou cartão - secagem"
+    },
+    {
+      "code": "814315",
+      "name_pt": "Calandrador - papel"
+    },
+    {
+      "code": "814320",
+      "name_pt": "Gofrador - papel"
+    },
+    {
+      "code": "814325",
+      "name_pt": "Operador de máquina de revestimentos"
+    },
+    {
+      "code": "814330",
+      "name_pt": "Bobinador - papel ou cartão"
+    },
+    {
+      "code": "814335",
+      "name_pt": "Cortador papel ou cartão"
+    },
+    {
+      "code": "814340",
+      "name_pt": "Operador de máquina de rebobinar (rebobinador) - papel"
+    },
+    {
+      "code": "8151",
+      "name_pt": "- Operadores de Instalações de Moagem e Trabalhadores Similares"
+    },
+    {
+      "code": "8152",
+      "name_pt": "- Operadores de Fornos e de Aparelhos de Tratamento Térmico - Indústria Química"
+    },
+    {
+      "code": "8153",
+      "name_pt": "- Operadores de Instalações de Filtração e Separação Químicas"
+    },
+    {
+      "code": "8154",
+      "name_pt": "- Operadores de Aparelhos de Destilação, Reacção, Cristalização e Trabalhadores Similares"
+    },
+    {
+      "code": "8155",
+      "name_pt": "- Operadores de Instalações de Refinação e Armazenamento de Petróleo e Gás"
+    },
+    {
+      "code": "8159",
+      "name_pt": "- Operadores de Instalações de Tratamento Químico não Classificados em Outra Parte"
+    },
+    {
+      "code": "815105",
+      "name_pt": "Operador (de moinho) de triturador - indústria química"
+    },
+    {
+      "code": "815110",
+      "name_pt": "Operador de misturador - indústria química"
+    },
+    {
+      "code": "815205",
+      "name_pt": "Operador de forno e secador - indústria química"
+    },
+    {
+      "code": "815210",
+      "name_pt": "Forneiro - produção de cimento"
+    },
+    {
+      "code": "815305",
+      "name_pt": "Operador de filtro - indústria química"
+    },
+    {
+      "code": "815405",
+      "name_pt": "Operador de instalação de tratamento químico"
+    },
+    {
+      "code": "815505",
+      "name_pt": "Operador de instalações de refinação de petróleo e gás"
+    },
+    {
+      "code": "815510",
+      "name_pt": "Operador de centro e posto emissor de gás"
+    },
+    {
+      "code": "815905",
+      "name_pt": "Operador de instalação do fabrico de fibras sintéticas"
+    },
+    {
+      "code": "815910",
+      "name_pt": "Preparador de amostras - cimento"
+    },
+    {
+      "code": "815999",
+      "name_pt": "Operador de instalação de tratamento químico não classificado em outra parte"
+    },
+    {
+      "code": "8161",
+      "name_pt": "- Operadores de Instalações de Produção de Energia"
+    },
+    {
+      "code": "8162",
+      "name_pt": "- Operadores de Máquinas a Vapor e Caldeiras"
+    },
+    {
+      "code": "8163",
+      "name_pt": "- Operadores de Incineradores, Instalações de Tratamento de Água e Trabalhadores Similares"
+    },
+    {
+      "code": "816105",
+      "name_pt": "Operador de quadro - produção e distribuição de electricidade"
+    },
+    {
+      "code": "816110",
+      "name_pt": "Operador de central térmica"
+    },
+    {
+      "code": "816115",
+      "name_pt": "Operador (condutor) de instalações de extracção de cinzas"
+    },
+    {
+      "code": "816120",
+      "name_pt": "Operador de combustível"
+    },
+    {
+      "code": "816125",
+      "name_pt": "Operador de motor fixo - combustão interna"
+    },
+    {
+      "code": "816205",
+      "name_pt": "Operador de caldeiras a vapor (fogueiro de caldeiras a vapor)"
+    },
+    {
+      "code": "816210",
+      "name_pt": "Maquinista de turbina a vapor"
+    },
+    {
+      "code": "816305",
+      "name_pt": "Operador do incinerador"
+    },
+    {
+      "code": "816310",
+      "name_pt": "Operador de instalações de tratamento de água para consumo"
+    },
+    {
+      "code": "816315",
+      "name_pt": "Operador de instalações de tratamento de águas residuais"
+    },
+    {
+      "code": "816320",
+      "name_pt": "Manobrador de válvulas e comportas"
+    },
+    {
+      "code": "816325",
+      "name_pt": "Operador de compressor"
+    },
+    {
+      "code": "816330",
+      "name_pt": "Operador de instalações de bombagem"
+    },
+    {
+      "code": "816335",
+      "name_pt": "Operador de instalações frigoríficas"
+    },
+    {
+      "code": "816340",
+      "name_pt": "Operador de condicionamento de ar"
+    },
+    {
+      "code": "8171",
+      "name_pt": "- Operadores de Cadeias de Montagem Automatizadas"
+    },
+    {
+      "code": "8172",
+      "name_pt": "- Operadores de \"Robot\" Industriais"
+    },
+    {
+      "code": "817105",
+      "name_pt": "Operador de cadeias de montagem automatizadas"
+    },
+    {
+      "code": "817205",
+      "name_pt": "Operador de \"robot\" industrial"
+    },
+    {
+      "code": "8190",
+      "name_pt": "- Operadores de Instalações Industriais não Classificados em Outra Parte"
+    },
+    {
+      "code": "819099",
+      "name_pt": "Operador de instalações industriais não classificado em outra parte"
+    },
+    {
+      "code": "821",
+      "name_pt": "- Operadores de Máquinas para trabalhar metais e produtos minerais"
+    },
+    {
+      "code": "822",
+      "name_pt": "- Operadores de Máquinas da Fabricação de Produtos Químicos"
+    },
+    {
+      "code": "823",
+      "name_pt": "- Operadores de Máquinas do Fabrico de Artigos de Borracha e Materiais de Plástico"
+    },
+    {
+      "code": "824",
+      "name_pt": "- Operadores de Máquinas do Fabrico de Artigos de Madeira"
+    },
+    {
+      "code": "825",
+      "name_pt": "- Operadores de Máquinas de Impressão, Encadernação e Fabricação de Artigos de Papel"
+    },
+    {
+      "code": "826",
+      "name_pt": "- Operadores de Máquinas do Fabrico de Têxteis, Vestuário, Peles e Couro"
+    },
+    {
+      "code": "827",
+      "name_pt": "- Operadores de Máquinas do Fabrico de Produtos Alimentares"
+    },
+    {
+      "code": "828",
+      "name_pt": "- Montadores"
+    },
+    {
+      "code": "829",
+      "name_pt": "- Operadores de Máquinas Fixas não Classificados em Outra Parte"
+    },
+    {
+      "code": "8211",
+      "name_pt": "- Operadores de Máquinas-Ferramentas para o Trabalho em Série dos Metais"
+    },
+    {
+      "code": "8212",
+      "name_pt": "- Operadores de Máquinas do Fabrico de Cimento e Outro Produtos Minerais"
+    },
+    {
+      "code": "8219",
+      "name_pt": "- Operadores de Máquina para Trabalhar Metais e Produtos Minerais não Classificados em Outra"
+    },
+    {
+      "code": "821105",
+      "name_pt": "Operador de máquinas-ferramentas, em geral - trabalho em série dos metais"
+    },
+    {
+      "code": "821110",
+      "name_pt": "Rectificador - trabalho em série dos metais"
+    },
+    {
+      "code": "821115",
+      "name_pt": "Torneiro - trabalho em série dos metais"
+    },
+    {
+      "code": "821120",
+      "name_pt": "Fresador - trabalho em série dos metais"
+    },
+    {
+      "code": "821125",
+      "name_pt": "Mandrilador - trabalho em série dos metais"
+    },
+    {
+      "code": "821130",
+      "name_pt": "Aplainador - trabalho em série dos metais"
+    },
+    {
+      "code": "821135",
+      "name_pt": "Operador de máquina de furar - trabalho em série dos metais"
+    },
+    {
+      "code": "821140",
+      "name_pt": "Escatelador - trabalho em série dos metais"
+    },
+    {
+      "code": "821145",
+      "name_pt": "Atarraxador mecânico - trabalho em série dos metais"
+    },
+    {
+      "code": "821150",
+      "name_pt": "Operador de máquina de moldar (fundidor - moldador mecânico)"
+    },
+    {
+      "code": "821155",
+      "name_pt": "Operador de máquina para fabricar machos (macheiro mecânico)"
+    },
+    {
+      "code": "821205",
+      "name_pt": "Operador de instalação de betonagem"
+    },
+    {
+      "code": "821210",
+      "name_pt": "Betonador (operador de tambor - misturador)"
+    },
+    {
+      "code": "821215",
+      "name_pt": "Moldador (operador de máquina de moldar) - aglomerados de cimento"
+    },
+    {
+      "code": "821220",
+      "name_pt": "Prensador (operador de prensa automática) - aglomerados de cimento"
+    },
+    {
+      "code": "821225",
+      "name_pt": "Operador de máquina de betumar - aglomerados de cimento"
+    },
+    {
+      "code": "821230",
+      "name_pt": "Polidor (operador de máquina de polir) - aglomerados de cimento"
+    },
+    {
+      "code": "821235",
+      "name_pt": "Operador de instalações de produção de fibrocimento"
+    },
+    {
+      "code": "821240",
+      "name_pt": "Torneiro (operador de torno) - talhe de pedra"
+    },
+    {
+      "code": "821245",
+      "name_pt": "Operador de máquina automática de polir pedra"
+    },
+    {
+      "code": "821905",
+      "name_pt": "Operador de máquinas do fabrico de molas - estofos e colchões"
+    },
+    {
+      "code": "821910",
+      "name_pt": "Operador de máquinas de fazer rede metálica"
+    },
+    {
+      "code": "821915",
+      "name_pt": "Operador de máquinas de fabricar arame farpado"
+    },
+    {
+      "code": "821920",
+      "name_pt": "Operador de máquinas de fabrico de tubos"
+    },
+    {
+      "code": "8221",
+      "name_pt": "- Operadores de máquinas de fabricar produtos farmacêuticos e produtos de higiene"
+    },
+    {
+      "code": "8222",
+      "name_pt": "- Trabalhadores dos explosivos"
+    },
+    {
+      "code": "8223",
+      "name_pt": "- Operadores de máquinas do tratamento das superfícies dos metais"
+    },
+    {
+      "code": "8224",
+      "name_pt": "- Operadores de máquinas de produtos fotográficos"
+    },
+    {
+      "code": "8229",
+      "name_pt": "- Operadores de máquinas do fabrico de produtos químicos não classificados em outras parte"
+    },
+    {
+      "code": "822105",
+      "name_pt": "Operador de máquinas de fabricar produtos farmacêuticos"
+    },
+    {
+      "code": "822110",
+      "name_pt": "Operador de máquinas de fabricar produtos de higiene"
+    },
+    {
+      "code": "822205",
+      "name_pt": "Operador de linha de fabrico de pólvora"
+    },
+    {
+      "code": "822210",
+      "name_pt": "Operador de instalação do fabrico de fósforos"
+    },
+    {
+      "code": "822305",
+      "name_pt": "Operador de instalação de metalização de metais"
+    },
+    {
+      "code": "822310",
+      "name_pt": "Operador de instalação de metalização de fios metálicos"
+    },
+    {
+      "code": "822315",
+      "name_pt": "Operador de tanque de imersão"
+    },
+    {
+      "code": "822320",
+      "name_pt": "Plastificador"
+    },
+    {
+      "code": "822325",
+      "name_pt": "Decapador por processos químicos"
+    },
+    {
+      "code": "822330",
+      "name_pt": "Operador de instalação automática de pintar"
+    },
+    {
+      "code": "822335",
+      "name_pt": "Outro trabalhador de galvanoplastia/trabalhador similar"
+    },
+    {
+      "code": "822405",
+      "name_pt": "Operador de máquina de fabricação de películas/papéis fotográficos"
+    },
+    {
+      "code": "822410",
+      "name_pt": "Operador de máquina de revelar películas/imprimir fotografias"
+    },
+    {
+      "code": "822415",
+      "name_pt": "Operador de amplicopiadora"
+    },
+    {
+      "code": "822420",
+      "name_pt": "Operador de separador electrónico de cores"
+    },
+    {
+      "code": "822905",
+      "name_pt": "Operador de instalações do fabrico de linóleo"
+    },
+    {
+      "code": "822910",
+      "name_pt": "Operador de instalações do fabrico de velas"
+    },
+    {
+      "code": "822915",
+      "name_pt": "Operador de instalação do fabrico de lixas"
+    },
+    {
+      "code": "8231",
+      "name_pt": "- Operadores de Máquinas do Fabrico de Artigos de Borracha"
+    },
+    {
+      "code": "8232",
+      "name_pt": "- Operadores de Máquinas do Fabrico de Artigos de Plástico"
+    },
+    {
+      "code": "823105",
+      "name_pt": "Operador de máquinas de preparação/fabricação de pasta de borracha"
+    },
+    {
+      "code": "823110",
+      "name_pt": "Moldador - prensador de botas de borracha"
+    },
+    {
+      "code": "823115",
+      "name_pt": "Moldador - prensador - borracha"
+    },
+    {
+      "code": "823120",
+      "name_pt": "Operador de máquina de confeccionar artigos por imersão em látex - balões, luvas e outros"
+    },
+    {
+      "code": "823125",
+      "name_pt": "Operador de autoclave de vulcanização"
+    },
+    {
+      "code": "823130",
+      "name_pt": "Operador de máquina automática de cortar anilhas - borracha"
+    },
+    {
+      "code": "823135",
+      "name_pt": "Operador de prensa de compressão"
+    },
+    {
+      "code": "823140",
+      "name_pt": "Operador de máquina de injecção"
+    },
+    {
+      "code": "823145",
+      "name_pt": "Operador de máquina de insuflação"
+    },
+    {
+      "code": "823150",
+      "name_pt": "Construtor de pneus"
+    },
+    {
+      "code": "823155",
+      "name_pt": "Vulcanizador - pneus"
+    },
+    {
+      "code": "823160",
+      "name_pt": "Operador de revestidor de borracha"
+    },
+    {
+      "code": "823199",
+      "name_pt": "Operador de máquina do fabrico de artigos de borracha não classificado em outra parte"
+    },
+    {
+      "code": "823205",
+      "name_pt": "Enformador - prensador de calçado"
+    },
+    {
+      "code": "823210",
+      "name_pt": "Operador de calandra - matérias plásticas"
+    },
+    {
+      "code": "823215",
+      "name_pt": "Operador de máquina de extrusora"
+    },
+    {
+      "code": "823220",
+      "name_pt": "Operador de misturador - matérias plásticas"
+    },
+    {
+      "code": "823225",
+      "name_pt": "Operador de máquina de moldar - matérias plásticas"
+    },
+    {
+      "code": "823230",
+      "name_pt": "Laminador - prensador - matérias plásticos"
+    },
+    {
+      "code": "823235",
+      "name_pt": "Moldador de plásticos - processo rotativo"
+    },
+    {
+      "code": "823240",
+      "name_pt": "Moldador de plásticos por vazamento"
+    },
+    {
+      "code": "823245",
+      "name_pt": "Operador de instalação de moldagem de plásticos"
+    },
+    {
+      "code": "823250",
+      "name_pt": "Operador de instalação de fabrico de espuma"
+    },
+    {
+      "code": "823255",
+      "name_pt": "Operador de instalação de fabrico de placas acrílicas"
+    },
+    {
+      "code": "823260",
+      "name_pt": "Operador de máquina de manipular - matérias plásticas"
+    },
+    {
+      "code": "823265",
+      "name_pt": "Manufacturador - montador - matérias plásticas"
+    },
+    {
+      "code": "823270",
+      "name_pt": "Operador de máquina de termocolagem"
+    },
+    {
+      "code": "8240",
+      "name_pt": "- Operadores de Máquinas do Fabrico de Artigos em Madeira"
+    },
+    {
+      "code": "824005",
+      "name_pt": "Torneiro de madeira, trabalho em série"
+    },
+    {
+      "code": "824010",
+      "name_pt": "Operador de máquinas do fabrico de artigos - madeira"
+    },
+    {
+      "code": "824015",
+      "name_pt": "Operador de máquinas do fabrico de escovas, vassouras e pincéis"
+    },
+    {
+      "code": "8251",
+      "name_pt": "- Operadores de Máquinas de Imprimir - Artes Gráficas"
+    },
+    {
+      "code": "8252",
+      "name_pt": "- Operadores de Máquinas de Encadernação"
+    },
+    {
+      "code": "8253",
+      "name_pt": "- Operadores de Máquinas de Produtos de Papel"
+    },
+    {
+      "code": "825105",
+      "name_pt": "Impressor tipográfico"
+    },
+    {
+      "code": "825110",
+      "name_pt": "Impressor de flexografia"
+    },
+    {
+      "code": "825115",
+      "name_pt": "Impressor de \"offset\""
+    },
+    {
+      "code": "825120",
+      "name_pt": "Impressor em talhe-doce"
+    },
+    {
+      "code": "825125",
+      "name_pt": "Estampador mecânico"
+    },
+    {
+      "code": "825130",
+      "name_pt": "Impressor em rotogravura"
+    },
+    {
+      "code": "825135",
+      "name_pt": "Fotocopista/operador reprografia"
+    },
+    {
+      "code": "825205",
+      "name_pt": "Brochador mecânico"
+    },
+    {
+      "code": "825210",
+      "name_pt": "Dourador mecânico - encadernação"
+    },
+    {
+      "code": "825215",
+      "name_pt": "Operador de máquina de dobrar - encadernação"
+    },
+    {
+      "code": "825220",
+      "name_pt": "Operador de máquina de encadernação"
+    },
+    {
+      "code": "825225",
+      "name_pt": "Plastificador - artes gráficas"
+    },
+    {
+      "code": "825305",
+      "name_pt": "Operador de máquinas de fabrico de artigos em papel/cartão"
+    },
+    {
+      "code": "825310",
+      "name_pt": "Operador de máquina de fabricar tubos e cones de papel/cartão"
+    },
+    {
+      "code": "825315",
+      "name_pt": "Operador de máquina de canelar"
+    },
+    {
+      "code": "825320",
+      "name_pt": "Operador de maquinas de fabricar embalagens - cartão"
+    },
+    {
+      "code": "825325",
+      "name_pt": "Operador de máquina de parafinar - cartão canelado"
+    },
+    {
+      "code": "825330",
+      "name_pt": "Operador de desmoldadora - produtos de cartão canelado"
+    },
+    {
+      "code": "8261",
+      "name_pt": "- Operadores de Máquinas de Fiar, Torcer e Bobinar"
+    },
+    {
+      "code": "8262",
+      "name_pt": "- Afinadores, Preparadores e Operadores de Teares (Tecelões)"
+    },
+    {
+      "code": "8263",
+      "name_pt": "- Operadores de Máquinas para Confecção"
+    },
+    {
+      "code": "8264",
+      "name_pt": "- Operadores de Máquinas de Tratamento de Produtos Têxteis"
+    },
+    {
+      "code": "8265",
+      "name_pt": "- Operadores de Máquinas de Preparação de Peles e Couro"
+    },
+    {
+      "code": "8266",
+      "name_pt": "- Operadores de Máquinas do Fabrico de Calçado e Artigos de Couro"
+    },
+    {
+      "code": "8269",
+      "name_pt": "- Operadores de Máquinas para Fabricar Produtos Têxteis e Artigos em Pele e Couro não"
+    },
+    {
+      "code": "826105",
+      "name_pt": "Fiandeiro - algodão e lã"
+    },
+    {
+      "code": "826110",
+      "name_pt": "Fiandeiro - linho, cânhamo, juta e sisal"
+    },
+    {
+      "code": "826115",
+      "name_pt": "Ajuntador"
+    },
+    {
+      "code": "826120",
+      "name_pt": "Torcedor (retorcedor)"
+    },
+    {
+      "code": "826125",
+      "name_pt": "Operador de máquina de fabricar cordão"
+    },
+    {
+      "code": "826130",
+      "name_pt": "Operador de máquina de cochar corda"
+    },
+    {
+      "code": "826135",
+      "name_pt": "Vaporizador de fios (operador de máquina de vaporizar fios)"
+    },
+    {
+      "code": "826140",
+      "name_pt": "Gomador de fios (operador de máquina de gomar fios)"
+    },
+    {
+      "code": "826145",
+      "name_pt": "Bobinador - indústria têxtil"
+    },
+    {
+      "code": "826150",
+      "name_pt": "Meadeiro/Desmeadeiro"
+    },
+    {
+      "code": "826155",
+      "name_pt": "Novelador"
+    },
+    {
+      "code": "826160",
+      "name_pt": "Caneleiro"
+    },
+    {
+      "code": "826205",
+      "name_pt": "Afinador de teares"
+    },
+    {
+      "code": "826210",
+      "name_pt": "Afinador de máquina - malhas"
+    },
+    {
+      "code": "826215",
+      "name_pt": "Urdidor mecânico"
+    },
+    {
+      "code": "826220",
+      "name_pt": "Urdidor manual"
+    },
+    {
+      "code": "826225",
+      "name_pt": "Tecelão - tecidos e produtos similares"
+    },
+    {
+      "code": "826230",
+      "name_pt": "Tecelão - tapeçarias"
+    },
+    {
+      "code": "826235",
+      "name_pt": "Maquinista de malhas (máquina rectilínea)"
+    },
+    {
+      "code": "826240",
+      "name_pt": "Maquinista de malhas (máquina circular)"
+    },
+    {
+      "code": "826245",
+      "name_pt": "Maquinista de malhas (máquina circular de suspensão)"
+    },
+    {
+      "code": "826305",
+      "name_pt": "Operador de máquina de costura"
+    },
+    {
+      "code": "826310",
+      "name_pt": "Operador de máquina de costura especial"
+    },
+    {
+      "code": "826315",
+      "name_pt": "Operador de máquina de bordar"
+    },
+    {
+      "code": "826402",
+      "name_pt": "Branqueador de produtos têxteis"
+    },
+    {
+      "code": "826404",
+      "name_pt": "Tintureiro - Produtos têxteis"
+    },
+    {
+      "code": "826406",
+      "name_pt": "Lavador de tecidos"
+    },
+    {
+      "code": "826408",
+      "name_pt": "Desencolador de seda"
+    },
+    {
+      "code": "826410",
+      "name_pt": "Vaporizador de tecidos"
+    },
+    {
+      "code": "826412",
+      "name_pt": "Engomador (calandrador) de tecidos"
+    },
+    {
+      "code": "826414",
+      "name_pt": "Empilhador de tecidos"
+    },
+    {
+      "code": "826416",
+      "name_pt": "Enformador de peças de malha"
+    },
+    {
+      "code": "826418",
+      "name_pt": "Pisoeiro"
+    },
+    {
+      "code": "826420",
+      "name_pt": "Operador de rebarbadora"
+    },
+    {
+      "code": "826422",
+      "name_pt": "Operador de máquina de cortar pêlo - veludo"
+    },
+    {
+      "code": "826424",
+      "name_pt": "Cardador de tecidos"
+    },
+    {
+      "code": "826426",
+      "name_pt": "Enrolador de tecidos"
+    },
+    {
+      "code": "826428",
+      "name_pt": "Plissador mecânico"
+    },
+    {
+      "code": "826430",
+      "name_pt": "Engomador mecânico"
+    },
+    {
+      "code": "826432",
+      "name_pt": "Engomador - indústrias têxteis e vestuário"
+    },
+    {
+      "code": "826434",
+      "name_pt": "Operador de máquinas de lavar e limpar roupa a seco"
+    },
+    {
+      "code": "826505",
+      "name_pt": "Operador de máquina de preparação de peles"
+    },
+    {
+      "code": "826510",
+      "name_pt": "Operador de instalação de pintura - peles"
+    },
+    {
+      "code": "826605",
+      "name_pt": "Operador de máquina de fabricar saltos"
+    },
+    {
+      "code": "826610",
+      "name_pt": "Operador de fabrico de forros para saltos"
+    },
+    {
+      "code": "826615",
+      "name_pt": "Operador de máquina de pintura - calçado"
+    },
+    {
+      "code": "826620",
+      "name_pt": "Operador de máquina de colar peles/materiais similares"
+    },
+    {
+      "code": "826905",
+      "name_pt": "Enformador de chapéus"
+    },
+    {
+      "code": "826910",
+      "name_pt": "Gomador de chapéus"
+    },
+    {
+      "code": "826915",
+      "name_pt": "Afinador de chapéus"
+    },
+    {
+      "code": "826920",
+      "name_pt": "Operador de máquina automática de cortar tecidos"
+    },
+    {
+      "code": "826925",
+      "name_pt": "Operador de máquinas do fabrico de fechos de correr"
+    },
+    {
+      "code": "826930",
+      "name_pt": "Operador de máquinas do fabrico de marca/etiqueta"
+    },
+    {
+      "code": "8271",
+      "name_pt": "- Operadores de Máquinas de Preparação de Carne e Peixe"
+    },
+    {
+      "code": "8272",
+      "name_pt": "- Operadores de Máquinas de Fabrico de Produtos Lácteos"
+    },
+    {
+      "code": "8273",
+      "name_pt": "- Operadores de Máquinas de Moagem (Moleiro)"
+    },
+    {
+      "code": "8274",
+      "name_pt": "- Operadores de Máquinas de Fabrico de Produtos de Padaria, Pastelaria e Produtos à Base de"
+    },
+    {
+      "code": "8275",
+      "name_pt": "- Operadores de Máquinas de Tratamento de Frutas e Legumes"
+    },
+    {
+      "code": "8276",
+      "name_pt": "- Operadores de Máquinas da Produção e Refinação de Açúcar"
+    },
+    {
+      "code": "8277",
+      "name_pt": "- Operadores de Máquinas do Processamento de Chá, Café e Cacau"
+    },
+    {
+      "code": "8278",
+      "name_pt": "- Cervejeiros e Operadores de Máquinas da Preparação de Vinhos e de Outras Bebidas"
+    },
+    {
+      "code": "8279",
+      "name_pt": "- Operadores de Máquinas do Fabrico do Tabaco"
+    },
+    {
+      "code": "827105",
+      "name_pt": "Cortador de carnes (máquina)"
+    },
+    {
+      "code": "827110",
+      "name_pt": "Operador de linha de fabrico de produtos de carne e peixe"
+    },
+    {
+      "code": "827205",
+      "name_pt": "Operador de desnatagem e pasteurização - produtos lácteos"
+    },
+    {
+      "code": "827210",
+      "name_pt": "Operador de esterilização de leite"
+    },
+    {
+      "code": "827215",
+      "name_pt": "Operador de concentração de leite"
+    },
+    {
+      "code": "827220",
+      "name_pt": "Operador de misturador de leite"
+    },
+    {
+      "code": "827225",
+      "name_pt": "Operador de instalação de fabrico de leite em pó"
+    },
+    {
+      "code": "827230",
+      "name_pt": "Operador de instalação de preparação de iogurte"
+    },
+    {
+      "code": "827235",
+      "name_pt": "Operador de instalação de fabrico de manteiga"
+    },
+    {
+      "code": "827240",
+      "name_pt": "Operador de instalação de fabrico de queijo"
+    },
+    {
+      "code": "827245",
+      "name_pt": "Operador de instalação de fabrico de gelados"
+    },
+    {
+      "code": "827305",
+      "name_pt": "Operador de máquinas de moagem - cereais"
+    },
+    {
+      "code": "827310",
+      "name_pt": "Operador de máquinas de moagem - especiarias"
+    },
+    {
+      "code": "827399",
+      "name_pt": "Operador de máquinas de moagem não classificado em outra parte"
+    },
+    {
+      "code": "827405",
+      "name_pt": "Operador de máquinas e fornos de padaria"
+    },
+    {
+      "code": "827410",
+      "name_pt": "Operador de máquinas e fornos de massa alimentares"
+    },
+    {
+      "code": "827415",
+      "name_pt": "Operador de máquinas - produtos de pastelaria"
+    },
+    {
+      "code": "827420",
+      "name_pt": "Operador de máquinas - fabrico chocolate"
+    },
+    {
+      "code": "827425",
+      "name_pt": "Operador de máquinas - fabrico de produtos de confeitaria"
+    },
+    {
+      "code": "827505",
+      "name_pt": "Operador de instalação de fabrico - sumos de frutas"
+    },
+    {
+      "code": "827510",
+      "name_pt": "Operador de fabrico de concentrados"
+    },
+    {
+      "code": "827515",
+      "name_pt": "Operador de máquina de desidratação de frutos e legumes"
+    },
+    {
+      "code": "827520",
+      "name_pt": "Operador de fabrico - margarinas"
+    },
+    {
+      "code": "827525",
+      "name_pt": "Operador de máquina de prensagem - óleo alimentar"
+    },
+    {
+      "code": "827605",
+      "name_pt": "Operador de máquinas da produção e refinação de açúcar"
+    },
+    {
+      "code": "827705",
+      "name_pt": "Operador de máquinas do processamento de chá"
+    },
+    {
+      "code": "827710",
+      "name_pt": "Operador de máquinas do processamento de café e cacau"
+    },
+    {
+      "code": "827805",
+      "name_pt": "Operador de máquina - cerveja"
+    },
+    {
+      "code": "827810",
+      "name_pt": "Operador de máquina - vinho de arroz"
+    },
+    {
+      "code": "827815",
+      "name_pt": "Operador de máquina - bebidas não alcoólicas"
+    },
+    {
+      "code": "827820",
+      "name_pt": "Operador de destilação - bebidas"
+    },
+    {
+      "code": "827825",
+      "name_pt": "Operador de enchimento automático de gás carbónico"
+    },
+    {
+      "code": "827899",
+      "name_pt": "Cervejeiro/operador de máquinas da preparação de vinhos e de outras bebidas não"
+    },
+    {
+      "code": "827905",
+      "name_pt": "Operador de instalação de preparação - tabaco"
+    },
+    {
+      "code": "827910",
+      "name_pt": "Operador de máquina de corte - tabaco"
+    },
+    {
+      "code": "827915",
+      "name_pt": "Operador de secador e aromatizador - tabaco"
+    },
+    {
+      "code": "827920",
+      "name_pt": "Operador de máquina de fabricar cigarros"
+    },
+    {
+      "code": "8281",
+      "name_pt": "- Montadores de Construções Mecânicas"
+    },
+    {
+      "code": "8282",
+      "name_pt": "- Montadores de Aparelhagem Eléctrica e Electrónica"
+    },
+    {
+      "code": "8284",
+      "name_pt": "- Montadores de Artigos em Metal, Borracha e Materiais Plásticos"
+    },
+    {
+      "code": "8285",
+      "name_pt": "- Montadores de Artigos em Madeira"
+    },
+    {
+      "code": "8286",
+      "name_pt": "- Montadores de Artigos de Papel, Têxteis e Similares"
+    },
+    {
+      "code": "828105",
+      "name_pt": "Montador de peças ou órgãos mecânicos, em série"
+    },
+    {
+      "code": "828110",
+      "name_pt": "Montador da construção de veículos"
+    },
+    {
+      "code": "828205",
+      "name_pt": "Montador de baterias"
+    },
+    {
+      "code": "828210",
+      "name_pt": "Montador de aparelhos eléctricos e electrónicos"
+    },
+    {
+      "code": "828215",
+      "name_pt": "Montador de relógios electrónicos"
+    },
+    {
+      "code": "828220",
+      "name_pt": "Montador de instrumentos de precisão"
+    },
+    {
+      "code": "828225",
+      "name_pt": "Cablador"
+    },
+    {
+      "code": "828405",
+      "name_pt": "Montador de armações de óculos"
+    },
+    {
+      "code": "828410",
+      "name_pt": "Confeccionador de bonecas"
+    },
+    {
+      "code": "828499",
+      "name_pt": "Montador de artigos em metal, borracha e materiais plásticos não classificado em outra"
+    },
+    {
+      "code": "828505",
+      "name_pt": "Montador de artigos em madeira e matérias similares"
+    },
+    {
+      "code": "828605",
+      "name_pt": "Montador de artigos de papel"
+    },
+    {
+      "code": "828610",
+      "name_pt": "Montador de produtos de têxteis"
+    },
+    {
+      "code": "828615",
+      "name_pt": "Montador de produtos de cabedal"
+    },
+    {
+      "code": "8290",
+      "name_pt": "- Operadores de Máquinas Fixas não Classificados em Outra Parte"
+    },
+    {
+      "code": "829005",
+      "name_pt": "Operador de máquina de embalagem"
+    },
+    {
+      "code": "829010",
+      "name_pt": "Operador de máquina de rotulagem"
+    },
+    {
+      "code": "829015",
+      "name_pt": "Operador de máquina de lavagem de garrafas"
+    },
+    {
+      "code": "829020",
+      "name_pt": "Operador de máquina de ensacar"
+    },
+    {
+      "code": "829025",
+      "name_pt": "Operador de máquina automática de enchimento, capsulagem ou cravação-garrafas"
+    },
+    {
+      "code": "829030",
+      "name_pt": "Operador de linha de enchimento - bebidas em pacote"
+    },
+    {
+      "code": "829035",
+      "name_pt": "Operador de guilhotina"
+    },
+    {
+      "code": "829040",
+      "name_pt": "Operador de triturador"
+    },
+    {
+      "code": "831",
+      "name_pt": "- Maquinistas de Locomotivas e Trabalhadores Similares"
+    },
+    {
+      "code": "832",
+      "name_pt": "- Condutores de Veículos a Motor"
+    },
+    {
+      "code": "833",
+      "name_pt": "- Condutores de Máquinas Agrícolas, Escavação e Terraplanagem e Trabalhadores Similares"
+    },
+    {
+      "code": "834",
+      "name_pt": "- Marinheiros e Trabalhadores Similares"
+    },
+    {
+      "code": "839",
+      "name_pt": "- Condutores de Veículos e Embarcações e Operadores de Equipamentos Pesados Móveis não"
+    },
+    {
+      "code": "8311",
+      "name_pt": "- Maquinistas de Locomotivas"
+    },
+    {
+      "code": "8312",
+      "name_pt": "- Manobradores de Estação e Trabalhadores Similares"
+    },
+    {
+      "code": "831105",
+      "name_pt": "Maquinista de comboio"
+    },
+    {
+      "code": "831205",
+      "name_pt": "Manobrador de estação - caminhos de ferro"
+    },
+    {
+      "code": "831210",
+      "name_pt": "Agulheiro - caminhos de ferro"
+    },
+    {
+      "code": "8321",
+      "name_pt": "- Condutores de Motociclos e Veículos a Motor Similares"
+    },
+    {
+      "code": "8322",
+      "name_pt": "- Condutores de Veículos Ligeiros"
+    },
+    {
+      "code": "8323",
+      "name_pt": "- Condutores de Veículos Pesados de Passageiros"
+    },
+    {
+      "code": "8324",
+      "name_pt": "- Condutores de Veículos Pesados de Mercadorias"
+    },
+    {
+      "code": "832105",
+      "name_pt": "Condutor de motociclos"
+    },
+    {
+      "code": "832110",
+      "name_pt": "Condutor de triciclos a motor"
+    },
+    {
+      "code": "832205",
+      "name_pt": "Motorista de táxi"
+    },
+    {
+      "code": "832210",
+      "name_pt": "Motorista de carro particular/chauffeur"
+    },
+    {
+      "code": "832215",
+      "name_pt": "Motorista de automóveis ligeiros - outros"
+    },
+    {
+      "code": "832305",
+      "name_pt": "Motorista de veículos pesados de passageiros - autocarro"
+    },
+    {
+      "code": "832310",
+      "name_pt": "Motorista de veículos pesados de passageiros - outros"
+    },
+    {
+      "code": "832405",
+      "name_pt": "Motorista de veículos pesados - mercadorias"
+    },
+    {
+      "code": "8331",
+      "name_pt": "- Condutores de Máquinas Agrícolas e Florestais"
+    },
+    {
+      "code": "8332",
+      "name_pt": "- Condutores de Máquinas de Escavação e Terraplanagem"
+    },
+    {
+      "code": "8333",
+      "name_pt": "- Operadores de Gruas e de Outros Aparelhos de Elevação e Transporte"
+    },
+    {
+      "code": "8334",
+      "name_pt": "- Operadores de Veículos de Elevação"
+    },
+    {
+      "code": "833105",
+      "name_pt": "Tractorista agrícola"
+    },
+    {
+      "code": "833110",
+      "name_pt": "Condutor de máquinas florestais"
+    },
+    {
+      "code": "833205",
+      "name_pt": "Condutor de máquina de escavação"
+    },
+    {
+      "code": "833210",
+      "name_pt": "Condutor de máquina de nivelamento e terraplanagem"
+    },
+    {
+      "code": "833215",
+      "name_pt": "Condutor de máquina arrastadora \"dragline\""
+    },
+    {
+      "code": "833220",
+      "name_pt": "Operador de máquina de bate-estacas"
+    },
+    {
+      "code": "833225",
+      "name_pt": "Condutor de cilindro"
+    },
+    {
+      "code": "833230",
+      "name_pt": "Condutor de máquina \"espalhadora\""
+    },
+    {
+      "code": "833235",
+      "name_pt": "Condutor de draga"
+    },
+    {
+      "code": "833240",
+      "name_pt": "Operador de \"vibro-compactadora\""
+    },
+    {
+      "code": "833245",
+      "name_pt": "Condutor de \"angledozer\""
+    },
+    {
+      "code": "833305",
+      "name_pt": "Operador de grua - construção civil e obras públicas"
+    },
+    {
+      "code": "833310",
+      "name_pt": "Operador de pórtico rolante"
+    },
+    {
+      "code": "833315",
+      "name_pt": "Operador de equipamento de elevação portuário"
+    },
+    {
+      "code": "833405",
+      "name_pt": "Operador de empilhador"
+    },
+    {
+      "code": "8340",
+      "name_pt": "- Marinheiro, maquinistas marítimos e outros trabalhadores similares"
+    },
+    {
+      "code": "834005",
+      "name_pt": "Marinheiro de tráfego de alto mar"
+    },
+    {
+      "code": "834010",
+      "name_pt": "Marinheiro de tráfego local/regional"
+    },
+    {
+      "code": "834015",
+      "name_pt": "Guarda - mecânico da Polícia Marítima e Fiscal"
+    },
+    {
+      "code": "834020",
+      "name_pt": "Condutor mecânico marítimo"
+    },
+    {
+      "code": "834025",
+      "name_pt": "Marinheiro - pescado"
+    },
+    {
+      "code": "8390",
+      "name_pt": "- Condutores de Veículos e Embarcações e Operadores de Equipamentos Pesados Móveis não"
+    },
+    {
+      "code": "839005",
+      "name_pt": "Faroleiro"
+    },
+    {
+      "code": "839010",
+      "name_pt": "Operador de cortadores de relva"
+    },
+    {
+      "code": "839099",
+      "name_pt": "Outro condutor de veículos e embarcações/operador de equipamentos pesados móveis não"
+    },
+    {
+      "code": "911",
+      "name_pt": "- Vendedores Ambulantes e Trabalhadores Similares"
+    },
+    {
+      "code": "912",
+      "name_pt": "- Engraxadores e Trabalhadores Similares"
+    },
+    {
+      "code": "913",
+      "name_pt": "- Empregados Domésticos e Outro Pessoal de Limpeza"
+    },
+    {
+      "code": "914",
+      "name_pt": "- Porteiros de Igrejas/Templos, Lavadores de Veículos e Trabalhadores Similares"
+    },
+    {
+      "code": "915",
+      "name_pt": "- Estafetas, Bagageiros, Porteiros e Trabalhadores Similares"
+    },
+    {
+      "code": "916",
+      "name_pt": "- Trabalhadores da Recolha de Lixo"
+    },
+    {
+      "code": "919",
+      "name_pt": "- Trabalhadores não Qualificados do Comércio e Serviços não Classificados em Outra Parte"
+    },
+    {
+      "code": "9111",
+      "name_pt": "- Vendedores Ambulantes de Produtos Comestíveis"
+    },
+    {
+      "code": "9112",
+      "name_pt": "- Vendedores Ambulantes de Produtos não Comestíveis"
+    },
+    {
+      "code": "9113",
+      "name_pt": "- Vendedor por Telefone e ao Domicílio"
+    },
+    {
+      "code": "911105",
+      "name_pt": "Vendedor ambulante de produtos comestíveis"
+    },
+    {
+      "code": "911205",
+      "name_pt": "Vendedor ambulante de produtos não comestíveis"
+    },
+    {
+      "code": "911305",
+      "name_pt": "Vendedor por telefone"
+    },
+    {
+      "code": "911310",
+      "name_pt": "Vendedor ao domicílio"
+    },
+    {
+      "code": "9120",
+      "name_pt": "- Engraxadores e Trabalhadores Similares"
+    },
+    {
+      "code": "912005",
+      "name_pt": "Engraxador"
+    },
+    {
+      "code": "9131",
+      "name_pt": "- Pessoal de Limpeza de Casa Particulares e Trabalhadores Similares"
+    },
+    {
+      "code": "9132",
+      "name_pt": "- Pessoal de Limpeza de Escritórios, Hotéis e Trabalhadores Similares"
+    },
+    {
+      "code": "9133",
+      "name_pt": "- Lavadeiras e Engomadores de Roupa"
+    },
+    {
+      "code": "913105",
+      "name_pt": "Empregado doméstico - casas particulares"
+    },
+    {
+      "code": "913205",
+      "name_pt": "Auxiliar/servente de limpeza"
+    },
+    {
+      "code": "913210",
+      "name_pt": "Empregado de limpeza de quartos - indústria hotelaria"
+    },
+    {
+      "code": "913215",
+      "name_pt": "Copeiro"
+    },
+    {
+      "code": "913220",
+      "name_pt": "Encarregado de limpeza"
+    },
+    {
+      "code": "913299",
+      "name_pt": "Pessoal de limpeza de escritórios, hotéis e trabalhador similar não classificado em outra"
+    },
+    {
+      "code": "913305",
+      "name_pt": "Lavadeira/Engomador manual"
+    },
+    {
+      "code": "9141",
+      "name_pt": "- Porteiros de Igrejas/Templos"
+    },
+    {
+      "code": "9142",
+      "name_pt": "- Lavadores de Veículos e Colocadores de Anúncios"
+    },
+    {
+      "code": "914105",
+      "name_pt": "Sacristão"
+    },
+    {
+      "code": "914110",
+      "name_pt": "Porteiro de cemitério"
+    },
+    {
+      "code": "914205",
+      "name_pt": "Lavador de viaturas"
+    },
+    {
+      "code": "914210",
+      "name_pt": "Colocador de anúncios"
+    },
+    {
+      "code": "9151",
+      "name_pt": "- Estafetas, Distribuidores, Bagageiros e Trabalhadores Similares"
+    },
+    {
+      "code": "9152",
+      "name_pt": "- Porteiros e Trabalhadores Similares"
+    },
+    {
+      "code": "9153",
+      "name_pt": "- Cobradores de Dinheiro de Máquina de Venda, Leitor e Trabalhadores Similares"
+    },
+    {
+      "code": "915105",
+      "name_pt": "Estafeta (mensageiro)"
+    },
+    {
+      "code": "915110",
+      "name_pt": "Servente - Administração Pública"
+    },
+    {
+      "code": "915115",
+      "name_pt": "Distribuidor"
+    },
+    {
+      "code": "915120",
+      "name_pt": "Bagageiro"
+    },
+    {
+      "code": "915125",
+      "name_pt": "Boletineiro"
+    },
+    {
+      "code": "915205",
+      "name_pt": "Porteiro de prédios"
+    },
+    {
+      "code": "915210",
+      "name_pt": "Porteiro"
+    },
+    {
+      "code": "915215",
+      "name_pt": "Trintanário - hotéis, restaurantes e locais similares"
+    },
+    {
+      "code": "915220",
+      "name_pt": "Encarregado de elevador"
+    },
+    {
+      "code": "915225",
+      "name_pt": "Bengaleiro (Guarda de vestiário)"
+    },
+    {
+      "code": "915230",
+      "name_pt": "Arrumador/cobrador de bilhete - entrada de locais públicos"
+    },
+    {
+      "code": "915235",
+      "name_pt": "Assistente de parques de diversões e establecimentos similares"
+    },
+    {
+      "code": "915305",
+      "name_pt": "Leitor (água, electricidade ou gás)"
+    },
+    {
+      "code": "915310",
+      "name_pt": "Cobrador - caixas de moedas"
+    },
+    {
+      "code": "915315",
+      "name_pt": "Contador de moedas"
+    },
+    {
+      "code": "9161",
+      "name_pt": "- Trabalhadores da Recolha de Lixo"
+    },
+    {
+      "code": "9162",
+      "name_pt": "- Cantoneiros de Limpeza e Trabalhadores Similares"
+    },
+    {
+      "code": "916105",
+      "name_pt": "Trabalhador da recolha de lixo"
+    },
+    {
+      "code": "916205",
+      "name_pt": "Cantoneiro de limpeza"
+    },
+    {
+      "code": "916210",
+      "name_pt": "Empregado de lavabos"
+    },
+    {
+      "code": "916215",
+      "name_pt": "Coveiro"
+    },
+    {
+      "code": "9190",
+      "name_pt": "- Trabalhadores não Qualificados do Comércio e Serviços não Classificados em Outra Parte"
+    },
+    {
+      "code": "919099",
+      "name_pt": "Trabalhador não qualificado do comércio e serviços não classificado em outra parte"
+    },
+    {
+      "code": "921",
+      "name_pt": "- Trabalhadores não Qualificados da Agricultura e Pesca"
+    },
+    {
+      "code": "9211",
+      "name_pt": "- Trabalhadores Agrícolas não Qualificados"
+    },
+    {
+      "code": "9212",
+      "name_pt": "- Trabalhadores Florestais não Qualificados"
+    },
+    {
+      "code": "9213",
+      "name_pt": "- Trabalhadores das Pescas não Qualificados"
+    },
+    {
+      "code": "921105",
+      "name_pt": "Servente agrícola"
+    },
+    {
+      "code": "921205",
+      "name_pt": "Servente florestal"
+    },
+    {
+      "code": "921305",
+      "name_pt": "Servente das pescas"
+    },
+    {
+      "code": "931",
+      "name_pt": "- Trabalhadores não Qualificados da Indústria Extractiva e da Construção Civil"
+    },
+    {
+      "code": "932",
+      "name_pt": "- Trabalhadores não Qualificados das Indústrias Transformadoras"
+    },
+    {
+      "code": "933",
+      "name_pt": "- Trabalhadores não Qualificados dos Transportes"
+    },
+    {
+      "code": "9311",
+      "name_pt": "- Trabalhadores não Qualificados das Minas"
+    },
+    {
+      "code": "9312",
+      "name_pt": "- Serventes da Construção Civil e Obras Públicas e Trabalhadores Similares"
+    },
+    {
+      "code": "931105",
+      "name_pt": "Trabalhador auxiliar - minas"
+    },
+    {
+      "code": "931205",
+      "name_pt": "Servente - construção civil e obras públicas"
+    },
+    {
+      "code": "9321",
+      "name_pt": "- Ensaiadores e Outros Trabalhadores Similares"
+    },
+    {
+      "code": "9322",
+      "name_pt": "- Trabalhadores não Qualificados das Indústrias Transformadoras"
+    },
+    {
+      "code": "932105",
+      "name_pt": "Ensaiador (escolhedor)"
+    },
+    {
+      "code": "932110",
+      "name_pt": "Colador manual"
+    },
+    {
+      "code": "932115",
+      "name_pt": "Montador (montagem simples)"
+    },
+    {
+      "code": "932205",
+      "name_pt": "Empregado de serviços de pesagem (pesador)"
+    },
+    {
+      "code": "932210",
+      "name_pt": "Embalador (enfardador) manual"
+    },
+    {
+      "code": "932215",
+      "name_pt": "Servente - indústria transformadora"
+    },
+    {
+      "code": "932220",
+      "name_pt": "Encaixotador"
+    },
+    {
+      "code": "932225",
+      "name_pt": "Rotulador manual"
+    },
+    {
+      "code": "932230",
+      "name_pt": "Empregado de corta - linhas"
+    },
+    {
+      "code": "932235",
+      "name_pt": "Servente de oficina"
+    },
+    {
+      "code": "932299",
+      "name_pt": "Trabalhador não qualificado das indústrias transformadoras não classificado em outra parte"
+    },
+    {
+      "code": "9331",
+      "name_pt": "- Condutores de Veículos Accionados à Mão ou Pedal"
+    },
+    {
+      "code": "9333",
+      "name_pt": "- Carregadores e Descarregadores de Mercadorias"
+    },
+    {
+      "code": "933105",
+      "name_pt": "Condutor de riquexó"
+    },
+    {
+      "code": "933110",
+      "name_pt": "Condutor de veículos a pedal"
+    },
+    {
+      "code": "933305",
+      "name_pt": "Estivador"
+    },
+    {
+      "code": "933310",
+      "name_pt": "Trabalhador de terra ou cais (Carregador, Descarregador, \"Coolie\")"
+    },
+    {
+      "code": "933315",
+      "name_pt": "Operador de rampa"
+    }
+  ]
+}

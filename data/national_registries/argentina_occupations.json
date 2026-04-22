@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "source": "CNO 2017",
+    "country": "Argentina",
+    "language": "es",
+    "isco_version": "ISCO-08",
+    "count": 8,
+    "date_parsed": "2026-04-22"
+  },
+  "entries": [
+    {
+      "code": "100",
+      "name_es": "INDEC. Dirección Nacional de Metodología Estadística. Coordinación de Clasificadores y Nomenclaturas"
+    },
+    {
+      "code": "102",
+      "name_es": "INDEC. Dirección Nacional de Metodología Estadística. Coordinación de Clasificadores y Nomenclaturas"
+    },
+    {
+      "code": "104",
+      "name_es": "INDEC. Dirección Nacional de Metodología Estadística. Coordinación de Clasificadores y Nomenclaturas"
+    },
+    {
+      "code": "106",
+      "name_es": "INDEC. Dirección Nacional de Metodología Estadística. Coordinación de Clasificadores y Nomenclaturas"
+    },
+    {
+      "code": "108",
+      "name_es": "INDEC. Dirección Nacional de Metodología Estadística. Coordinación de Clasificadores y Nomenclaturas"
+    },
+    {
+      "code": "110",
+      "name_es": "INDEC. Dirección Nacional de Metodología Estadística. Coordinación de Clasificadores y Nomenclaturas"
+    },
+    {
+      "code": "112",
+      "name_es": "INDEC. Dirección Nacional de Metodología Estadística. Coordinación de Clasificadores y Nomenclaturas"
+    },
+    {
+      "code": "114",
+      "name_es": "INDEC. Dirección Nacional de Metodología Estadística. Coordinación de Clasificadores y Nomenclaturas"
+    }
+  ]
+}

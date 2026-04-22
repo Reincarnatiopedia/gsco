@@ -1,0 +1,559 @@
+{
+  "meta": {
+    "created": "2026-04-21",
+    "purpose": "Authoritative sources for verifying occupation names in multiple languages for Wikidata bot work",
+    "total_sources": 50,
+    "total_languages_covered": 85
+  },
+  "international": [
+    {
+      "name": "ISCO-08 (International Standard Classification of Occupations)",
+      "org": "International Labour Organization (ILO)",
+      "languages": ["en", "fr", "es", "ar"],
+      "url": "https://isco-ilo.netlify.app/en/isco-08/",
+      "url_alt": "https://www.ilo.org/publications/international-standard-classification-occupations-2008-isco-08-structure",
+      "format": "PDF, online browser",
+      "free": true,
+      "occupations_count": 436,
+      "notes": "Base standard for most national classifications. 10 major groups, 43 sub-major, 130 minor, 436 unit groups. Multilingual site at isco-ilo.netlify.app. Full volume PDF in English. French and Spanish versions available. Arabic forthcoming. ILOTERM database has terminology in 7 languages (en/fr/es/de/ru/ar/zh)."
+    },
+    {
+      "name": "ESCO (European Skills, Competences, Qualifications and Occupations)",
+      "org": "European Commission",
+      "languages": ["bg", "cs", "da", "de", "el", "en", "es", "et", "fi", "fr", "ga", "hr", "hu", "is", "it", "lt", "lv", "mt", "nl", "no", "pl", "pt", "ro", "sk", "sl", "sv", "uk", "ar"],
+      "url": "https://esco.ec.europa.eu/en/use-esco/download",
+      "url_api": "https://esco.ec.europa.eu/en/about-esco/escopedia/escopedia/esco-api",
+      "format": "CSV, JSON-LD, ODS, RDF, TTL, XML",
+      "free": true,
+      "occupations_count": 3008,
+      "notes": "BEST SOURCE for multilingual occupation names. 28 languages: 24 EU official + Icelandic, Norwegian, Ukrainian, Arabic. REST API available. v1.2.1 current. Maps to ISCO-08. Includes skills and competences. Local API installation available."
+    },
+    {
+      "name": "UNESCO Thesaurus",
+      "org": "UNESCO",
+      "languages": ["en", "fr", "es", "ru", "ar"],
+      "url": "https://vocabularies.unesco.org/browser/thesaurus/en/",
+      "url_download": "https://data.unesco.org/explore/dataset/voc001/",
+      "format": "SKOS/RDF, PDF, SPARQL endpoint",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Controlled vocabulary including occupation terms. 5 languages. SPARQL endpoint available. Covers education, culture, sciences. Not purely occupational but useful for academic/cultural professions."
+    },
+    {
+      "name": "ILOTERM Terminology Database",
+      "org": "International Labour Organization (ILO)",
+      "languages": ["en", "fr", "es", "de", "ru", "ar", "zh"],
+      "url": "https://www.ilo.org/media/252326/download",
+      "format": "Online database",
+      "free": true,
+      "occupations_count": null,
+      "notes": "ILO's multilingual terminology database. 7 languages. Contains occupation-related terms but not a full classification. Useful for verifying individual occupation names."
+    },
+    {
+      "name": "UNSD National Classifications Database",
+      "org": "United Nations Statistics Division",
+      "languages": ["en"],
+      "url": "https://unstats.un.org/unsd/classifications/nationalclassifications",
+      "url_pdf": "https://unstats.un.org/unsd/classifications/nationalclassifications/National_classifications_by_country_180413.pdf",
+      "format": "Online database, PDF index",
+      "free": true,
+      "occupations_count": null,
+      "notes": "META-REGISTRY: 474 classifications from 125 countries. Includes occupation, industry, education classifications. PDF index lists all national classifications by country. Essential for finding lesser-known national standards."
+    }
+  ],
+  "national": [
+    {
+      "name": "O*NET-SOC (Occupational Information Network)",
+      "country": "United States",
+      "languages": ["en"],
+      "url": "https://www.onetcenter.org/database.html",
+      "url_online": "https://www.onetonline.org/",
+      "url_soc": "https://www.bls.gov/soc/",
+      "format": "Database download, CSV, XML, Web Services API",
+      "free": true,
+      "occupations_count": 1016,
+      "notes": "Most detailed occupational database worldwide. 1016 occupations with skills, knowledge, abilities. REST API available. SOC 2018 has 867 detailed occupations. English only but extremely detailed descriptions."
+    },
+    {
+      "name": "SOC 2020 (Standard Occupational Classification)",
+      "country": "United Kingdom",
+      "languages": ["en"],
+      "url": "https://www.ons.gov.uk/methodology/classificationsandstandards/standardoccupationalclassificationsoc/soc2020",
+      "format": "PDF, CSV",
+      "free": true,
+      "occupations_count": 412,
+      "notes": "412 unit groups. 3 volumes: structure, coding index, NS-SEC. CSV downloads available. English only."
+    },
+    {
+      "name": "NOC 2021 (National Occupational Classification)",
+      "country": "Canada",
+      "languages": ["en", "fr"],
+      "url": "https://noc.esdc.gc.ca/",
+      "url_download": "https://open.canada.ca/data/en/dataset/1feee3b5-8068-4dbb-b361-180875837593",
+      "format": "HTML, PDF, CSV",
+      "free": true,
+      "occupations_count": 516,
+      "notes": "Bilingual English/French. 516 unit groups. French titles are native, not translations. Open data portal CSV. Based on ISCO-08."
+    },
+    {
+      "name": "ANZSCO 2022 (Australian and New Zealand Standard Classification of Occupations)",
+      "country": "Australia / New Zealand",
+      "languages": ["en"],
+      "url": "https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations/2022",
+      "format": "Download files, PDF",
+      "free": true,
+      "occupations_count": 1023,
+      "notes": "1023 occupations at 6-digit level. Joint AU/NZ standard. English only."
+    },
+    {
+      "name": "KldB 2010 (Klassifikation der Berufe)",
+      "country": "Germany",
+      "languages": ["de"],
+      "url": "https://statistik.arbeitsagentur.de/DE/Navigation/Grundlagen/Klassifikationen/Klassifikation-der-Berufe/KldB2010-Fassung2020/KldB2010-Nav.html",
+      "url_destatis": "https://www.destatis.de/DE/Methoden/Klassifikationen/Berufe/klassifikation-berufe-kldb-2010.html",
+      "format": "PDF, DKZ download portal (daily updates)",
+      "free": true,
+      "occupations_count": 1286,
+      "notes": "Revised 2020 version. 1286 occupational types at 5-digit level. German only. Crosswalk tables to ISCO-08. Maintained by Bundesagentur fur Arbeit."
+    },
+    {
+      "name": "ROME 4.0 (Repertoire Operationnel des Metiers et des Emplois)",
+      "country": "France",
+      "languages": ["fr"],
+      "url": "https://www.francetravail.org/opendata/repertoire-operationnel-des-meti.html",
+      "url_api": "https://api.gouv.fr/les-api/api-rome",
+      "url_datagouv": "https://www.data.gouv.fr/datasets/repertoire-operationnel-des-metiers-et-des-emplois-rome",
+      "format": "CSV, PDF, API (ROME 4.0)",
+      "free": true,
+      "occupations_count": 1584,
+      "notes": "1584 job cards (growing to ~2000 by 2026). API available via api.gouv.fr. Open data on data.gouv.fr. French only. Maintained by France Travail (ex-Pole Emploi)."
+    },
+    {
+      "name": "CP2021 (Classificazione delle Professioni)",
+      "country": "Italy",
+      "languages": ["it"],
+      "url": "https://cp2011.istat.it/",
+      "url_doc": "https://www.istat.it/en/classification/classification-of-occupations/",
+      "format": "Online navigator, PDF",
+      "free": true,
+      "occupations_count": 800,
+      "notes": "800 professional units at 5-digit level. CP2021 replaced CP2011. Online navigator with search. Italian only. Based on ISCO-08."
+    },
+    {
+      "name": "CNO-11 (Clasificacion Nacional de Ocupaciones)",
+      "country": "Spain",
+      "languages": ["es"],
+      "url": "https://www.ine.es/uc/ueISkDxL",
+      "url_opendata": "https://datos.gob.es/en/catalogo/a17002943-clasificacion-nacional-de-ocupaciones-cno-111",
+      "url_xls": "https://www.eustat.eus/documentos/datos/codigos/cno_clasificacion_nacional_ocupaciones_2011.xls",
+      "format": "PDF, XLS, open data",
+      "free": true,
+      "occupations_count": 502,
+      "notes": "502 primary groups. Based on ISCO-08. Excel download available from Eustat. Spanish only."
+    },
+    {
+      "name": "CPP/2010 (Classificacao Portuguesa das Profissoes)",
+      "country": "Portugal",
+      "languages": ["pt"],
+      "url": "https://www.ine.pt/xurl/pub/107961853",
+      "url_download": "https://smi.ine.pt/Versao/Download/41",
+      "format": "PDF",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Based on ISCO-08. Published by INE. Portuguese only. PDF download available."
+    },
+    {
+      "name": "CBO (Classificacao Brasileira de Ocupacoes)",
+      "country": "Brazil",
+      "languages": ["pt-BR"],
+      "url": "https://cbo.mte.gov.br/cbosite/pages/home.jsf",
+      "url_download": "http://www.mtecbo.gov.br/cbosite/pages/downloads.jsf",
+      "url_github": "https://github.com/datasets-br/cbo",
+      "format": "ZIP, DOC, online portal, GitHub CSV",
+      "free": true,
+      "occupations_count": 2422,
+      "notes": "2422 occupations. Brazilian Portuguese. GitHub mirror available in CSV. Updated annually. Maintained by Ministry of Labor."
+    },
+    {
+      "name": "SINCO 2019 (Sistema Nacional de Clasificacion de Ocupaciones)",
+      "country": "Mexico",
+      "languages": ["es"],
+      "url": "https://www.inegi.org.mx/app/biblioteca/ficha.html?upc=702825198411",
+      "format": "PDF",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Mexican national classification. Based on ISCO. Published by INEGI. Spanish only."
+    },
+    {
+      "name": "CUOC (Clasificacion Unica de Ocupaciones para Colombia)",
+      "country": "Colombia",
+      "languages": ["es"],
+      "url": "https://www.dane.gov.co/index.php/sistema-estadistico-nacional-sen/normas-y-estandares/nomenclaturas-y-clasificaciones/clasificaciones/clasificacion-unica-de-ocupaciones-para-colombia-cuoc",
+      "url_2023": "https://www.dane.gov.co/files/sen/nomenclatura/cuoc/documento-clasificacion-unica-ocupaciones-colombia-CUOC-2023.pdf",
+      "format": "PDF, online portal",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Based on CIUO-08 A.C. (ISCO adapted for Colombia). 5-digit codes. Published by DANE. Spanish only. 2023 version available."
+    },
+    {
+      "name": "CNO 2017 (Clasificador Nacional de Ocupaciones)",
+      "country": "Argentina",
+      "languages": ["es"],
+      "url": "https://www.indec.gob.ar/ftp/cuadros/menusuperior/clasificadores/CNO_2017.pdf",
+      "format": "PDF",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Published by INDEC. Spanish only. PDF download."
+    },
+    {
+      "name": "OKZ OK 010-2014 (Obscherossiyskiy klassifikator zanyatiy)",
+      "country": "Russia",
+      "languages": ["ru"],
+      "url": "https://www.consultant.ru/document/cons_doc_LAW_177953/",
+      "url_alt": "https://classifikators.ru/okz",
+      "url_moscow": "https://data.mos.ru/classifier/2295",
+      "format": "PDF, DOC, XLS, online",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Based on ISCO-08 (MSKZ-08). Russian only. Effective 2015. Multiple download formats. Available from ConsultantPlus, Moscow Open Data."
+    },
+    {
+      "name": "DK 003:2010 (Klasyfikator profesiy / Classifier of Professions)",
+      "country": "Ukraine",
+      "languages": ["uk"],
+      "url": "https://zakon.rada.gov.ua/rada/show/va327609-10",
+      "url_search": "https://me.gov.ua/Profession/List?lang=uk-UA",
+      "format": "XLS, online search, legal database",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Ukrainian only. Based on ISCO-08. Searchable online at Ministry of Economy. XLS download available."
+    },
+    {
+      "name": "KZiS (Klasyfikacja Zawodow i Specjalnosci)",
+      "country": "Poland",
+      "languages": ["pl"],
+      "url": "https://klasyfikacje.stat.gov.pl/Kzis",
+      "url_ministry": "https://psz.praca.gov.pl/rynek-pracy/bazy-danych/klasyfikacja-zawodow-i-specjalnosci",
+      "format": "PDF, XLSX, online search",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Polish only. Maintained by GUS and Ministry of Family/Labor. Crosswalk to ISCO-08 available. Updated 2025."
+    },
+    {
+      "name": "CZ-ISCO (Czech Classification of Occupations)",
+      "country": "Czech Republic",
+      "languages": ["cs", "en"],
+      "url": "https://apl2.czso.cz/iSMS/en/klasstru.jsp?kodcis=80112",
+      "url_opendata": "https://data.gov.cz/dataset?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00216208%2Ffc285ece46ecc3daab802a86e6589c7d",
+      "format": "Online navigator, open data",
+      "free": true,
+      "occupations_count": 3500,
+      "notes": "~3500 occupations at 5-digit level. Czech and English versions. National open data catalog. Published by Czech Statistical Office."
+    },
+    {
+      "name": "FEOR-08 (Hungarian Standard Classification of Occupations)",
+      "country": "Hungary",
+      "languages": ["hu", "en"],
+      "url": "https://www.ksh.hu/feor_eng_menu",
+      "url_pdf_en": "https://www.ksh.hu/docs/szolgaltatasok/eng/feor08/efeor08.pdf",
+      "format": "PDF, online search",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Hungarian and English versions. Published by KSH. Web search interface for FEOR-08 job codes. Effective since 2011."
+    },
+    {
+      "name": "COR (Clasificarea Ocupatiilor din Romania)",
+      "country": "Romania",
+      "languages": ["ro"],
+      "url": "https://mmuncii.ro/j33/index.php/ro/2014-domenii/munca/c-o-r",
+      "url_opendata": "https://data.gov.ro/dataset/clasificarea-ocupatiilor-din-romania",
+      "format": "XML, online",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Romanian only. 6-digit codes. Open data in XML format. Published by Ministry of Labour. Based on ISCO-08."
+    },
+    {
+      "name": "SBC 2010 / BRC 2014 (Standaard Beroepenclassificatie)",
+      "country": "Netherlands",
+      "languages": ["nl"],
+      "url": "https://www.cbs.nl/nl-nl/onze-diensten/methoden/classificaties/onderwijs-en-beroepen/beroepenclassificatie--isco-en-sbc--",
+      "format": "Downloadable application, PDF",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Dutch only. SBC replaced by ISCO-08/BRC 2014 since 2013. Application download with search. Published by CBS."
+    },
+    {
+      "name": "SSYK 2012 (Standard for svensk yrkesklassificering)",
+      "country": "Sweden",
+      "languages": ["sv"],
+      "url": "https://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/",
+      "url_search": "https://ssyksok.scb.se/SsykSok/SSYK2012",
+      "format": "PDF, online search",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Swedish only. Online search tool (SSYK-Sok). Published by SCB. Based on ISCO-08."
+    },
+    {
+      "name": "STYRK-08 (Standard for yrkesklassifisering)",
+      "country": "Norway",
+      "languages": ["no"],
+      "url": "https://www.ssb.no/arbeid-og-lonn/artikler-og-publikasjoner/standard-for-yrkesklassifisering-styrk-08",
+      "url_api": "https://data.ssb.no/api/klass/v1/classifications/145",
+      "url_opendata": "https://data.norge.no/en/datasets/8e6818fe-52fd-4bb3-a7d8-45d0bf12c78b",
+      "format": "JSON, XML, CSV, PDF",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Norwegian only. API available (JSON/XML/CSV). Open data portal. Published by SSB. Based on ISCO-08."
+    },
+    {
+      "name": "DISCO-08 (Danish ISCO)",
+      "country": "Denmark",
+      "languages": ["da"],
+      "url": "https://www.dst.dk/en/Statistik/dokumentation/nomenklaturer/disco",
+      "format": "Online, download files",
+      "free": true,
+      "occupations_count": 563,
+      "notes": "563 occupations at 6-digit level. Danish adaptation of ISCO-08. Published by Statistics Denmark."
+    },
+    {
+      "name": "TK10 / Ammattiluokitus 2010 (Classification of Occupations)",
+      "country": "Finland",
+      "languages": ["fi", "en"],
+      "url": "https://stat.fi/fi/luokitukset/ammatti/",
+      "url_en": "https://stat.fi/en/luokitukset/ammatti/ammatti_17_20210101",
+      "format": "CSV, JSON, API, online",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Finnish and English. Open API available. CSV and JSON downloads. Published by Statistics Finland. Based on ISCO-08."
+    },
+    {
+      "name": "STEP-92 / ISCO-08 Greek adaptation",
+      "country": "Greece",
+      "languages": ["el", "en"],
+      "url": "https://www.statistics.gr/en/occupation",
+      "format": "Online, publications",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Greek and English. STEP-92 used until 2011, now ISCO-08 at 4-digit level since 2021. Published by ELSTAT."
+    },
+    {
+      "name": "ISCO-TR (Turkish Occupation Classification)",
+      "country": "Turkey",
+      "languages": ["tr"],
+      "url": "https://www.tuik.gov.tr/en/",
+      "format": "Word, Excel, PDF, XML",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Turkish adaptation of ISCO-08. Multiple download formats. Published by TUIK."
+    },
+    {
+      "name": "SSCO (Saudi Standard Classification of Occupations)",
+      "country": "Saudi Arabia",
+      "languages": ["ar", "en"],
+      "url": "https://www.stats.gov.sa/en/classifications",
+      "url_detail": "https://www.stats.gov.sa/en/w/saudi-standard-classification-of-occupations",
+      "format": "Online, PDF",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Arabic and English. Based on ISCO-08. Published by General Authority for Statistics. Also references Arab Standard Occupational Classification (ASOC)."
+    },
+    {
+      "name": "Israeli CBS Occupation Classification",
+      "country": "Israel",
+      "languages": ["he", "en"],
+      "url": "https://www.cbs.gov.il/",
+      "format": "Online, PDF",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Hebrew and English. Adjusted to ISCO-08 since 2011. Published by Central Bureau of Statistics."
+    },
+    {
+      "name": "NCO 2015 (National Classification of Occupations)",
+      "country": "India",
+      "languages": ["en", "hi"],
+      "url": "https://dge.gov.in/dge/nat",
+      "url_vol1": "https://www.ncs.gov.in/Documents/National%20Classification%20of%20Occupations%20_Vol%20I-%202015.pdf",
+      "url_vol2a": "https://www.ncs.gov.in/Documents/National%20Classification%20of%20Occupations%20_Vol%20II-A-%202015.pdf",
+      "format": "PDF (3 volumes)",
+      "free": true,
+      "occupations_count": 3600,
+      "notes": "3600 civilian occupations across 53 sectors. Aligned with ISCO-08. Published by DGE, Ministry of Labour. 3 volumes. Primarily English but published by India."
+    },
+    {
+      "name": "GB/T 6565-2015 (Classification and codes of occupations)",
+      "country": "China",
+      "languages": ["zh"],
+      "url": "https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=26D453E518AFC7A826331A251E7EB1F9",
+      "format": "PDF (Chinese text)",
+      "free": false,
+      "occupations_count": 1481,
+      "notes": "8 major categories, 75 medium, 434 sub, 1481 occupations. Chinese only. English translation available for purchase (gbstandards.org). Published by SAMR/NBS."
+    },
+    {
+      "name": "JSOC Rev.5 (Japan Standard Occupational Classification)",
+      "country": "Japan",
+      "languages": ["ja", "en"],
+      "url": "https://www.soumu.go.jp/english/dgpp_ss/seido/shokgyou/index-co.htm",
+      "url_jp": "https://www.soumu.go.jp/english/dgpp_ss/seido/shokgyou/index09.htm",
+      "format": "Online, PDF",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Japanese and English versions. 5th revision, December 2009. Published by Ministry of Internal Affairs and Communications."
+    },
+    {
+      "name": "KSCO 7th (Korean Standard Classification of Occupations)",
+      "country": "South Korea",
+      "languages": ["ko", "en"],
+      "url": "https://kssc.kostat.go.kr/",
+      "url_en": "http://kssc.kostat.go.kr/ksscNew_web/ekssc/common/selectIntroduce.do?part=2&top_menu=101&bbsId=isco_s&categoryNameCode=801&categoryMenu=001",
+      "format": "Online portal, search tool",
+      "free": true,
+      "occupations_count": 1231,
+      "notes": "1231 detailed occupations. 5-level hierarchy. Korean and English. 7th revision (2017). Published by Statistics Korea."
+    },
+    {
+      "name": "KBJI 2014 (Klasifikasi Baku Jabatan Indonesia)",
+      "country": "Indonesia",
+      "languages": ["id"],
+      "url": "https://sibaku.bps.go.id/sibaku/",
+      "url_pub": "https://satudata.kemnaker.go.id/publikasi/48",
+      "url_unofficial": "https://afiiif.github.io/spk/kbji-2014",
+      "format": "PDF, mobile app (SIBAKU), online search",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Indonesian only. Based on ISCO-08. Published by BPS (Central Bureau of Statistics). SIBAKU system provides search. Mobile app available."
+    },
+    {
+      "name": "MASCO 2020 (Malaysia Standard Classification of Occupations)",
+      "country": "Malaysia",
+      "languages": ["ms", "en"],
+      "url": "https://emasco.mohr.gov.my/",
+      "url_ilmia": "https://www.ilmia.gov.my/bda-myjobprofile/category",
+      "format": "Online portal (e-MASCO), PDF",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Malay and English. 4-digit classification. e-MASCO online portal. Published by Ministry of Human Resources (MOHR)."
+    },
+    {
+      "name": "PSOC 2012 (Philippine Standard Occupational Classification)",
+      "country": "Philippines",
+      "languages": ["en", "fil"],
+      "url": "https://psa.gov.ph/classification/psoc",
+      "url_alt": "https://psada.psa.gov.ph/psoc",
+      "format": "PDF, online",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Primarily English (official language). Based on ISCO-08 with local modifications. 2022 updates available. Published by PSA."
+    },
+    {
+      "name": "TSCO 2001 (Thailand Standard Classification of Occupations)",
+      "country": "Thailand",
+      "languages": ["th"],
+      "url": "https://www.nstda.or.th/home/knowledge_post/tsco/",
+      "url_doe": "https://www.doe.go.th/prd/vgnew/general/param/site/132/cat/30/sub/0/pull/singleview/view/detail/object_id/436",
+      "format": "PDF, ebook",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Thai only. Based on ISCO-88. Published by Department of Employment. May be outdated (2001)."
+    },
+    {
+      "name": "VSCO (Vietnam Standard Classification of Occupations)",
+      "country": "Vietnam",
+      "languages": ["vi"],
+      "url": "https://www.gso.gov.vn/",
+      "format": "Unknown",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Vietnamese only. Based on ISCO. Published by General Statistics Office (GSO). Limited online availability. Used in Labor Force Survey at 4-digit level."
+    },
+    {
+      "name": "OFO (Organising Framework for Occupations)",
+      "country": "South Africa",
+      "languages": ["en"],
+      "url": "https://webapps.dhet.gov.za/OFORegister/Home/About",
+      "url_guide": "https://www.dhet.gov.za/Publications/OFO%20Guideline%20-%202013.pdf",
+      "format": "PDF, online register, data tables",
+      "free": true,
+      "occupations_count": null,
+      "notes": "English only (South Africa has 11 official languages but OFO is in English). Based on ANZSCO structure. Replaced SASCO. Published by DHET."
+    },
+    {
+      "name": "Iran Statistical Center Classifications",
+      "country": "Iran",
+      "languages": ["fa"],
+      "url": "https://www.amar.org.ir/english/Metadata/Classifications",
+      "format": "Online",
+      "free": true,
+      "occupations_count": null,
+      "notes": "Farsi. Statistical Center of Iran maintains classifications. Limited online availability in English."
+    }
+  ],
+  "open_data_sources": [
+    {
+      "name": "Wikidata Occupation Items (P106 values)",
+      "org": "Wikimedia Foundation",
+      "languages": "300+ (all Wikidata label languages)",
+      "url": "https://www.wikidata.org/wiki/Property:P106",
+      "url_query": "https://query.wikidata.org/",
+      "format": "SPARQL, JSON, RDF",
+      "free": true,
+      "notes": "SPARQL query can extract all occupation items with labels in any language. Existing labels are crowdsourced and may have gaps. Query: SELECT ?occ ?label WHERE { ?occ wdt:P31 wd:Q28640 . ?occ rdfs:label ?label . } This IS the target database but also a verification source."
+    },
+    {
+      "name": "Wiktionary Multilingual",
+      "org": "Wikimedia Foundation",
+      "languages": "300+",
+      "url": "https://en.wiktionary.org/wiki/Category:Occupations_by_language",
+      "format": "Wiki, API",
+      "free": true,
+      "notes": "Category pages per language listing occupation words. Quality varies by language. API access for bulk extraction."
+    },
+    {
+      "name": "ILO ILOSTAT Occupation Data",
+      "org": "International Labour Organization",
+      "languages": ["en"],
+      "url": "https://ilostat.ilo.org/methods/concepts-and-definitions/classification-occupation/",
+      "format": "Online, API",
+      "free": true,
+      "notes": "Employment statistics by occupation using ISCO codes. Useful for verifying which occupations exist in which countries."
+    },
+    {
+      "name": "datasets-br/cbo (GitHub)",
+      "org": "Community",
+      "languages": ["pt-BR"],
+      "url": "https://github.com/datasets-br/cbo",
+      "format": "CSV",
+      "free": true,
+      "notes": "Brazilian CBO in machine-readable CSV format. Community-maintained mirror of official data."
+    }
+  ],
+  "coverage_gaps": {
+    "no_known_national_classification_in_local_language": [
+      "Swahili (sw) - Kenya/Tanzania use ISCO directly, no local-language adaptation found",
+      "Hausa (ha) - Nigeria NBS uses English",
+      "Yoruba (yo) - Nigeria NBS uses English",
+      "Igbo (ig) - Nigeria NBS uses English",
+      "Bengali (bn) - Bangladesh likely uses ISCO in English",
+      "Urdu (ur) - Pakistan likely uses ISCO in English",
+      "Sinhala (si) - Sri Lanka uses ISCO-08 in English",
+      "Tamil (ta) - No Tamil-language occupation classification found",
+      "Cebuano (ceb) - Covered by Philippines PSOC (English)",
+      "Javanese (jv) - Covered by Indonesia KBJI (Indonesian)",
+      "Minangkabau (min) - Covered by Indonesia KBJI (Indonesian)",
+      "Amharic (am) - Ethiopia: no local classification found",
+      "Burmese (my) - Myanmar: no local classification found",
+      "Khmer (km) - Cambodia: no local classification found",
+      "Lao (lo) - Laos: no local classification found",
+      "Mongolian (mn) - Mongolia: no local classification found",
+      "Nepali (ne) - Nepal: no local classification found",
+      "Pashto (ps) - Afghanistan: no local classification found",
+      "Georgian (ka) - Georgia: likely uses ISCO adaptation",
+      "Armenian (hy) - Armenia: likely uses ISCO adaptation",
+      "Azerbaijani (az) - Azerbaijan: likely uses ISCO adaptation",
+      "Kazakh (kk) - Kazakhstan: likely uses Russian OKZ",
+      "Uzbek (uz) - Uzbekistan: likely uses ISCO/OKZ adaptation",
+      "Tagalog (tl) - Covered by Philippines PSOC (English)"
+    ],
+    "recommendation": "For languages without national classifications, use: 1) ESCO (28 languages), 2) Wikidata existing labels, 3) Wiktionary, 4) Manual translation from ISCO-08 English labels verified by native speakers."
+  }
+}
